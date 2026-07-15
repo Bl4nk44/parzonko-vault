@@ -9,6 +9,22 @@ tags:
 
 Ten dokument jest jedynym źródłem prawdy dla struktury folderów, schematu YAML, zasad identyfikatorów, tagowania, nazewnictwa plików i cytowania stron w tym vault. Wszystkie notatki generowane w kolejnych etapach muszą być z nim spójne.
 
+**Spis treści:**
+- [Struktura folderów](#struktura-folderów)
+- [Zasada nadrzędna: źródło ponad narracją](#zasada-nadrzędna-źródło-ponad-narracją)
+- [Notatka źródłowa (20-Sources/)](#notatka-źródłowa-20-sources)
+- [Notatka osoby (40-People/)](#notatka-osoby-40-people)
+- [Notatka miejsca (50-Places/)](#notatka-miejsca-50-places)
+- [Notatka wydarzenia (30-Events/)](#notatka-wydarzenia-30-events)
+- [Biografia (10-Biography/)](#biografia-10-biography)
+- [Zasady stabilnych identyfikatorów dla MCP i AI](#zasady-stabilnych-identyfikatorów-dla-mcp-i-ai)
+- [Zasady tagowania](#zasady-tagowania)
+- [Obsługa konfliktów źródłowych](#obsługa-konfliktów-źródłowych)
+- [Cytaty w innych językach](#cytaty-w-innych-językach)
+- [Dopuszczalne wartości pól wspólnych](#dopuszczalne-wartości-pól-wspólnych)
+- [Zasady nazewnictwa plików (podsumowanie)](#zasady-nazewnictwa-plików-podsumowanie)
+- [Zasady cytowania stron](#zasady-cytowania-stron)
+
 ## Struktura folderów
 
 ```text
@@ -257,6 +273,8 @@ Sekcje:
 
 ## Biografia (10-Biography/)
 
+**Nazwa pliku:** `Biografia-[Imię-Nazwisko].md`
+
 ### YAML
 
 ```yaml
@@ -272,15 +290,34 @@ tags:
 ---
 ```
 
+### Treść notatki biograficznej
+
+Sekcje:
+- `## Kim był`
+- `## Najważniejsze fakty`
+- `## Chronologia życia`
+- `## Dzieciństwo i rodzina`
+- `## Edukacja i praca`
+- `## Okres wojny i okupacji`
+- `## Aresztowanie, śledztwo lub represje`
+- `## Życie po wojnie`
+- `## Śmierć i pamięć`
+- `## Niewyjaśnione kwestie`
+- `## Kluczowe źródła`
+
 ---
 
 ## Zasady stabilnych identyfikatorów dla MCP i AI
 
 Formaty: `SRC-...`, `PERSON-...`, `PLACE-...`, `EVENT-...`, `TOPIC-...`, `BIO-...`.
 
-Przykłady: `SRC-IPN-GK-123-45`, `PERSON-001`, `PLACE-WARSZAWA`, `EVENT-1944-ARREST-001`, `BIO-PERSON-001`.
+Przykłady z oryginalnej specyfikacji (poglądowe): `SRC-IPN-GK-123-45`, `PERSON-001`, `PLACE-WARSZAWA`, `EVENT-1944-ARREST-001`, `BIO-PERSON-001`.
+
+> **WAŻNE — jedna, jednoznaczna zasada generowania `uid`:**
+> Powyższe przykłady semantyczne (`PLACE-WARSZAWA`, `EVENT-1944-ARREST-001`, `SRC-IPN-GK-123-45`) pochodzą z oryginalnej specyfikacji i są **wyłącznie poglądowe** — pokazują format prefiksu, NIE sposób generowania. **Nigdy nie twórz ręcznie identyfikatora o wyglądzie semantycznym.** Jedyny poprawny sposób nadawania `uid` to zawsze wywołanie `uid_registry.py`'s `allocate()` (lub — po utworzeniu — rejestru JSON w `00-Meta/uid-registry.json`), które zwraca kolejny sekwencyjny identyfikator w formacie rejestru: `PERSON-001`, `PLACE-002`, `EVENT-1944-003`, `SRC-004`, itd. Subagent, który napotka przykład typu `PLACE-WARSZAWA`, ma go traktować jako historyczną ilustrację formatu, a nie wzorzec do naśladowania — zawsze pyta rejestr o kolejny wolny numer.
 
 Zasady:
+- zawsze alokuj `uid` przez `uid_registry.py` / `00-Meta/uid-registry.json` — nigdy ręcznie;
 - nigdy nie zmieniaj istniejącego `uid`;
 - nie generuj nowych identyfikatorów dla tej samej encji;
 - używaj `uid` i dodatkowych pól YAML jako warstwy dla zapytań MCP/AI;
@@ -300,6 +337,31 @@ Tagi tematów (przykładowo):
 
 Zasada: nie twórz wielu niemal identycznych tagów (np. `#aresztowanie #aresztowania #arrest #aresztowany` — wybierz jeden standard, np. `#topic/arrest`, i stosuj wszędzie).
 
+## Obsługa konfliktów źródłowych
+
+Gdy źródła podają sprzeczne wersje tego samego faktu, postępuj wg tej procedury:
+
+1. Opisz wszystkie wersje.
+2. Wskaż źródła i strony dla każdej wersji.
+3. Ustaw `certainty` odpowiednio niżej (`medium`/`low`).
+4. Dodaj tag `#status/conflict`.
+5. Wpisz konflikt do `Index-Conflicts.md` (w `70-Indexes/`), jeśli jest on istotny dla biografii.
+
+Do opisu hipotezy roboczej w treści notatki (np. w sekcji `## Sprzeczne relacje` lub `## Niepewności i sprzeczności`) używaj dokładnie tego szablonu:
+
+```markdown
+> Hipoteza robocza:
+> [opis]
+>
+> Podstawa:
+> [[Źródło-1]] — str. X
+> [[Źródło-2]] — str. Y
+```
+
+## Cytaty w innych językach
+
+Cytaty w innym języku niż polski zachowuj w oryginale; pod cytatem dodaj krótkie tłumaczenie oznaczone jako `Tłumaczenie robocze AI:`; nigdy nie przedstawiaj tłumaczenia jako oryginalnego tekstu źródłowego.
+
 ## Dopuszczalne wartości pól wspólnych
 
 - `date_accuracy` / `birth_date_accuracy` / `death_date_accuracy`: `day`, `month`, `year`, `unknown` (dokładność, z jaką znana jest data).
@@ -315,7 +377,7 @@ Zasada: nie twórz wielu niemal identycznych tagów (np. `#aresztowanie #areszto
 | Osoba | `Person-[Nazwisko]-[Imię]-[rok-urodzenia].md` | `Person-Kowalski-Jan-1912.md` |
 | Miejsce | `Place-[Nazwa-Miejsca].md` | `Place-Warszawa.md` |
 | Wydarzenie | `Event-[data]-[krótki-opis].md` | `Event-1944-08-01-Aresztowanie.md` |
-| Biografia | umieszczona w `10-Biography/`, tytuł opisowy | `Biografia-Jana-Kowalskiego.md` |
+| Biografia | `Biografia-[Imię-Nazwisko].md` | `Biografia-Jana-Kowalskiego.md` |
 
 ## Zasady cytowania stron
 
