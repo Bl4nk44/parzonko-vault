@@ -315,6 +315,8 @@ Przykłady z oryginalnej specyfikacji (poglądowe): `SRC-IPN-GK-123-45`, `PERSON
 
 > **WAŻNE — jedna, jednoznaczna zasada generowania `uid`:**
 > Powyższe przykłady semantyczne (`PLACE-WARSZAWA`, `EVENT-1944-ARREST-001`, `SRC-IPN-GK-123-45`) pochodzą z oryginalnej specyfikacji i są **wyłącznie poglądowe** — pokazują format prefiksu, NIE sposób generowania. **Nigdy nie twórz ręcznie identyfikatora o wyglądzie semantycznym.** Jedyny poprawny sposób nadawania `uid` to zawsze wywołanie `uid_registry.py`'s `allocate()` (lub — po utworzeniu — rejestru JSON w `00-Meta/uid-registry.json`), które zwraca kolejny sekwencyjny identyfikator w formacie rejestru: `PERSON-001`, `PLACE-002`, `EVENT-1944-003`, `SRC-004`, itd. Subagent, który napotka przykład typu `PLACE-WARSZAWA`, ma go traktować jako historyczną ilustrację formatu, a nie wzorzec do naśladowania — zawsze pyta rejestr o kolejny wolny numer.
+>
+> **Kolejność w planie:** `uid_registry.py` i `00-Meta/uid-registry.json` powstają w Tasku 3 tego planu, przed jakimkolwiek generowaniem realnych notatek merytorycznych (Task 8/9). Ta zasada zaczyna obowiązywać w praktyce dopiero gdy rejestr istnieje — nie ma potrzeby ręcznego trybu tymczasowego, bo żaden dokument nie jest przetwarzany zanim Task 3 się zakończy.
 
 Zasady:
 - zawsze alokuj `uid` przez `uid_registry.py` / `00-Meta/uid-registry.json` — nigdy ręcznie;
