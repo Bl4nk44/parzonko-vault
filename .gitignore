@@ -1,3 +1,4 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+# zawiera zywy API key + klucz prywatny TLS — patrz README-SECRETS.md w tym folderze
 .obsidian/plugins/obsidian-local-rest-api/data.json
