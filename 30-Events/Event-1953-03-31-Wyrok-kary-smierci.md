@@ -18,7 +18,7 @@ tags:
   - type/event
   - event/sentencing
   - topic/resistance
-  - status/verified
+  - status/unreviewed
 ---
 
 # Wyrok kary śmierci na Parzonkę, Radziszewskiego, Kostrę i Mościckiego

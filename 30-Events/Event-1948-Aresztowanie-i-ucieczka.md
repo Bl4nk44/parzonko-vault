@@ -17,7 +17,7 @@ tags:
   - type/event
   - event/arrest
   - topic/resistance
-  - status/verified
+  - status/unreviewed
 ---
 
 # Aresztowanie Kazimierza Parzonki i ucieczka z aresztu MO w Ciechanowcu

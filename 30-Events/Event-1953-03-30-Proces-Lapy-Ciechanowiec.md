@@ -22,7 +22,7 @@ tags:
   - type/event
   - event/trial
   - topic/resistance
-  - status/verified
+  - status/unreviewed
 ---
 
 # Proces sądowy przeciwko grupom "Zygmunta" i "Huzara" w Łapach i Ciechanowcu

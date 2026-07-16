@@ -36,9 +36,25 @@ Ten dokument jest jedynym źródłem prawdy dla struktury folderów, schematu YA
 50-Places/     — miejscowości, adresy, więzienia, obozy, urzędy i inne lokalizacje.
 60-Topics/     — notatki tematyczne, np. działalność konspiracyjna, pobyt w więzieniu, służba wojskowa.
 70-Indexes/    — indeksy, chronologie, mapy treści i punkty wejścia.
-80-Media/      — kopie lub linki do plików binarnych, zdjęć, skanów i załączników, jeśli są potrzebne.
+80-Media/      — pełny tekst OCR, skany, załączniki (patrz podfoldery niżej).
 99-Archive/    — duplikaty, wersje zastąpione lub materiały wymagające ręcznej decyzji. Niczego nie usuwaj bez wyraźnego polecenia użytkownika.
 ```
+
+### Podfoldery `80-Media/` (od Task 9, poprawka po przetworzeniu pierwszych 8 dokumentów)
+
+```text
+80-Media/
+  ocr/           — pełny tekst OCR strona po stronie, jeden plik .md na dokument źródłowy,
+                   ta sama nazwa pliku co odpowiadająca notatka w 20-Sources/ (bez folderu).
+                   NIE wklejaj pełnego OCR do notatki źródłowej — patrz sekcja "Tekst źródłowy" niżej.
+  originals/     — (opcjonalnie, jeśli kiedyś potrzebne) kopie plików oryginalnych; domyślnie
+                   oryginały PDF/DOC zostają tylko na dysku poza vaultem (gitignored, patrz repo
+                   pipeline), ten podfolder istnieje jako miejsce docelowe gdyby trzeba było
+                   skopiować pojedynczy plik do wglądu.
+  derivatives/   — renderowane obrazy stron (np. do wglądu przy niepewnym OCR), jeśli potrzebne.
+```
+
+**Powód tej zmiany:** projekt docelowo ma wielu współpracowników. Pełny OCR wklejony do każdej notatki źródłowej (jak robiono w pierwszych 8 dokumentach) nadmiernie powiększa notatki, utrudnia review w Git i miesza "materiał roboczy" (surowy OCR) z "syntezą" (streszczenie, cytaty, linki) w jednym pliku. Notatka źródłowa ma być czytelna dla człowieka w 1-2 ekrany; pełny tekst źródłowy zawsze dostępny pod linkiem.
 
 ## Zasada nadrzędna: źródło ponad narracją
 
@@ -80,6 +96,7 @@ language:
 pages: 12
 original_filename: "oryginalna-nazwa-pliku.pdf"
 original_path: "/pełna/ścieżka/do/pliku.pdf"
+ocr_file: "[[80-Media/ocr/IPN-GK-123-45-Protokol-przesluchania-1946]]"
 reliability: "primary"
 ocr_quality: "good"
 main_person: "PERSON-001"
@@ -122,10 +139,12 @@ Krótki opis po polsku: czym jest dokument, kiedy powstał, kto go stworzył, cz
 - [[Event-1944-Aresztowanie]]
 
 ## Tekst źródłowy
-### Strona 1
-[Tekst wyodrębniony lub OCR.]
-### Strona 2
-[Tekst wyodrębniony lub OCR.]
+Pełny tekst OCR strona po stronie przeniesiony do osobnego pliku: [[80-Media/ocr/NAZWA-TEJ-NOTATKI]].
+Najważniejsze cytaty pozostają poniżej, w sekcji "Cytaty istotne".
+
+(Plik `80-Media/ocr/NAZWA-TEJ-NOTATKI.md` ma tę samą nazwę co ta notatka źródłowa, zawiera
+pełny tekst strona po stronie w formacie `### Strona N` / treść, dokładnie jak dawny wzorzec
+tej sekcji poniżej — po prostu w osobnym pliku, nie w notatce syntetycznej.)
 
 ## Cytaty istotne
 > Cytat z dokumentu.
@@ -174,7 +193,7 @@ key_sources: []
 certainty: "high"
 tags:
   - type/person
-  - status/verified
+  - status/unreviewed
 ---
 ```
 
@@ -254,7 +273,7 @@ tags:
   - type/event
   - event/arrest
   - topic/WWII
-  - status/verified
+  - status/unreviewed
 ---
 ```
 
@@ -338,6 +357,8 @@ Tagi tematów (przykładowo):
 `#topic/WWII #topic/occupation #topic/resistance #topic/arrest #topic/interrogation #topic/prison #topic/camp #topic/military #topic/family #topic/postwar`
 
 Zasada: nie twórz wielu niemal identycznych tagów (np. `#aresztowanie #aresztowania #arrest #aresztowany` — wybierz jeden standard, np. `#topic/arrest`, i stosuj wszędzie).
+
+**WAŻNE — `#status/verified` jest zarezerwowany dla człowieka.** Agent AI (w tym Claude Code) NIGDY nie nadaje samodzielnie tagu `#status/verified` — to oznacza "człowiek zweryfikował to ustalenie i potwierdza je". AI-owa ocena pewności wyraża się przez pole YAML `certainty: high/medium/low`, ale notatka mimo wysokiego `certainty` startuje z tagiem `#status/unreviewed`. Zmiana na `#status/verified` następuje wyłącznie przez świadomą akcję człowieka (np. w ramach code review / PR), nigdy automatycznie przy tworzeniu notatki. (Wprowadzone po Task 8/9 — pierwsze 3 notatki wydarzeń błędnie dostały `status/verified` nadany przez AI, poprawione na `status/unreviewed`.)
 
 ## Obsługa konfliktów źródłowych
 
