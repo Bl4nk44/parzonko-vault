@@ -1,10 +1,10 @@
 {
   "counters": {
-    "SRC": 10,
-    "PERSON": 6,
-    "PLACE": 7,
+    "SRC": 11,
+    "PERSON": 7,
+    "PLACE": 8,
     "EVENT:1953": 3,
-    "EVENT:1948": 1
+    "EVENT:1948": 2
   },
   "aliases": {
     "Parzonko Kazimierz": "PERSON-001",
@@ -22,6 +22,9 @@
     "Kwiat": "PERSON-005",
     "Lesnik": "PLACE-003",
     "Otap Kazimierz": "PERSON-006",
-    "Kanonier": "PERSON-006"
+    "Kanonier": "PERSON-006",
+    "PERSON-005": "Zagloba",
+    "PERSON-007": "Rozwalski Alojzy",
+    "PLACE-008": "Radziszewo-Krole"
   }
 }

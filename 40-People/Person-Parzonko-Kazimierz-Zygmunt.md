@@ -33,6 +33,7 @@ related_persons:
   - "PERSON-003"
   - "PERSON-004"
   - "PERSON-005"
+  - "PERSON-007"
 key_sources:
   - "SRC-001"
   - "SRC-004"
@@ -42,6 +43,7 @@ key_sources:
   - "SRC-008"
   - "SRC-009"
   - "SRC-010"
+  - "SRC-011"
 certainty: "high"
 tags:
   - type/person
@@ -77,6 +79,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 ## Chronologia życia
 
 - 1946-1948 — członek bandy "Młota" pod pseudonimem "Wichura"/"Wichora"
+- 1948-10-18 — [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]] (podejrzany, wraz z Radziszewskim Mieczysławem)
 - 1948 — [[Event-1948-Aresztowanie-i-ucieczka]]
 - 1948 – sierpień 1951 — szeregowy członek bandy Kazimierza Kamińskiego ps. "Huzar" (potwierdzone wprost w sprawozdaniu z sierpnia 1951 r. — patrz [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]])
 - sierpień 1951 – marzec 1953 — okno czasowe przejścia na samodzielne dowództwo własnej grupy ps. "Zygmunt" (dokładna data awansu nieustalona — w sierpniu 1951 wciąż szeregowy członek, w marcu 1953 już samodzielny dowódca)
@@ -94,6 +97,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]] — str. 36 (**status w sierpniu 1951: szeregowy członek "Huzara", konflikt rodzinny**)
 - [[IPN-BU-1069-60-t1-fragment-str114-122-wyrok-ulaskawienie]] — str. 116 (**odmowa prawa łaski, nakaz wykonania wyroku**)
 - [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] — str. 3 (**pseudonim "Czarny" rozstrzygnięty, opis fizyczny**)
+- [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] — str. 11 (podejrzenie o zabójstwo żołnierza KBW, 1948, wraz z Radziszewskim Mieczysławem)
 
 ## Niepewności i sprzeczności
 
@@ -115,4 +119,5 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - **Miejsce melinowania (1952)**: wg teczki werbunkowej informatora "Kanonier" ([[IPN-Bi-0088-531-J-Teczka-informator-Kanonier-Otap-Kazimierz]]), banda Parzonki w 1952 r. korzystała z melina w domu rodziny Otapów we wsi [[Place-Czaje-Bagno]]. Ta sama rodzina wcześniej (1947-52) udzielała schronienia kolejno bandom "Łunaszki", "Młota" i "Huzara".
 > **Aktualizacja:** nazwa "Łunaszki"/"Łupaszki" pojawia się też w [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]] (str. 29, zapis "Łupaszki") w kontekście informatora "Walczuk", byłego meliniarza tej formacji. Prawdopodobnie odnosi się to do historycznej 5. Brygady Wileńskiej AK pod dowództwem Zygmunta Szendzielarza ps. "Łupaszko" (rozbieżny zapis "Łunaszki"/"Łupaszki" w różnych dokumentach to najpewniej warianty OCR tego samego słowa) — nie jest to zatem nieznana lokalna banda, lecz nawiązanie do znanej, udokumentowanej w historiografii jednostki. Nie ustalono, czy Parzonko osobiście miał z nią bezpośredni związek, czy to jedynie wcześniejszy epizod tej samej rodziny/regionu udzielającego schronienia kolejnym, następującym po sobie formacjom.
 - **Status w sierpniu 1951**: sprawozdanie operacyjne PUBP Wysokie Mazowieckie ([[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]], str. 36) opisuje Parzonkę jako **szeregowego członka** bandy "Huzara" — brak jakiejkolwiek wzmianki o samodzielnym dowodzeniu. To zawęża okno czasowe przejścia na dowództwo własnej grupy "Zygmunt" do okresu sierpień 1951 – marzec 1953.
+- **Wcześniejszy epizod z 1948 r. — możliwy udział w zabójstwie żołnierza KBW.** [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] (str. 11) wskazuje Parzonkę (jako "Parzonko Kazimierz, ps. 'Wicher'" — wariant zapisu "Wichura"/"Wichora", uznany za tę samą osobę) obok Mieczysława Radziszewskiego ps. "Zagłoba" jako podejrzanych o zabójstwo żołnierza KBW Alojzego Rozwalskiego (18.10.1948, wieś Radziszewo-Króle) — patrz [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]]. Tożsamość sprawców oparta wyłącznie na "poufnych wywiadach" MO, nie na dowodzie bezpośrednim — certainty tego wydarzenia: medium. Istotne jako poszlaka wcześniejszej (przed grudniem 1948) współpracy Parzonki z Radziszewskim Mieczysławem, wzmacniająca hipotezę roboczą w [[Person-Radziszewski-Mieczyslaw-Kwiat]].
 - **Konflikt rodzinny**: to samo sprawozdanie (informator ps. "Kon") podaje, że rodzina Parzonki w Leśnikach była do niego **negatywnie nastawiona** — od młodości unikał rodziny, prowadząc "tryb życia łobuzerski" i zajmując się kradzieżą, bez utrzymywania kontaktu z rodziną. To nieco komplikuje/uzupełnia wcześniejszy obraz "rolnika" (SRC-006) — możliwe, że to legalny zawód zapisany w dokumentach urzędowych przy jednoczesnym faktycznym zerwaniu z gospodarstwem rodzinnym na rzecz działalności konspiracyjnej/przestępczej; może też odzwierciedlać tendencyjną charakterystykę UB. Nie rozstrzygnięto.

@@ -8,6 +8,7 @@ given_names:
 surname: "Radziszewski"
 aliases:
   - "Kwiat"
+  - "Zagłoba"
 gender: "M"
 birth_date: null
 birth_date_accuracy: "unknown"
@@ -26,6 +27,7 @@ related_persons:
 key_sources:
   - "SRC-005"
   - "SRC-010"
+  - "SRC-011"
 certainty: "medium"
 tags:
   - type/person
@@ -59,6 +61,7 @@ Brak potwierdzonych relacji rodzinnych w tym źródle poza imionami rodziców (A
 - 1946-05-30 — udział w zabójstwie żołnierza M.O. w Ciechanowcu (dokonanym przez towarzysza, Moczulskiego ps. "Buran")
 - 1947-04 — ujawnienie się w Sokołowie Podlaskim
 - 1947-10 — ponowne wejście do konspiracji, kontakt z "Parzonko Kazimierz ps. Wichura"
+- 1948-10-18 — [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]] (podejrzany, pod ps. "Zagłoba", wraz z Parzonko Kazimierzem)
 - 1948-12-25 — aresztowanie (możliwe uszczegółowienie okoliczności: schwytany w Warszawie u szwagra, po pijanemu grożąc mu pistoletem — patrz hipoteza robocza niżej)
 - do maja 1950 — nadal w więzieniu w Białymstoku (wg [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]])
 
@@ -68,6 +71,7 @@ Brak potwierdzonych relacji rodzinnych w tym źródle poza imionami rodziców (A
 
 - [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — str. 4-5 (całość zeznania)
 - [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] — str. 3 (możliwe dalsze losy — dowodzenie bandą przed schwytaniem)
+- [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] — str. 11 (podejrzenie o zabójstwo żołnierza KBW pod ps. "Zagłoba", wraz z Parzonko Kazimierzem, 2 miesiące przed aresztowaniem)
 
 ## Niepewności i sprzeczności
 
@@ -80,3 +84,5 @@ Brak potwierdzonych relacji rodzinnych w tym źródle poza imionami rodziców (A
 >
 > Podstawa:
 > [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] — str. 3: "Bandyci w/w są związani z bandytą Radziszewskim Mieczysławem ze wsi Radziszewo-Króle gm. Ciechanowiec, który został ujęty przez władze bezpieczeństwa w Warszawie u swego szwagra [...] Przed schwytaniem dowodził tą bandą." Przesłanki za identycznością z osobą z [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]]: ta sama wieś (Radziszewo-Króle), spójna chronologia (aresztowany 25.12.1948, nadal w więzieniu w Białymstoku w maju 1950 wg tego doniesienia). Nie potwierdzone wprost — ten dokument nie podaje pseudonimu "Kwiat" ani nie odsyła do sprawy "Jaskółka".
+>
+> **Dodatkowe wzmocnienie (SRC-011):** [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] (str. 11) — meldunek dochodzeniowy z 1949 r. w sprawie zabójstwa żołnierza KBW z 18.10.1948 r. — wskazuje jako podejrzanych obok siebie "Parzonko Kazimierz ps. 'Wicher'" (=Parzonko Kazimierz, wariant zapisu "Wichura") oraz "Radziszewski Mieczysław ps. 'Zagłoba', zam. wieś Radziszewo-Króle". To stawia Radziszewskiego Mieczysława w bezpośredniej, udokumentowanej współpracy z Parzonko Kazimierzem na 2 miesiące przed aresztowaniem 25.12.1948 opisanym w [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — ta sama wieś, spójna chronologia, i teraz także spójny krąg towarzyski (obaj działający wspólnie). Nie rozstrzyga ostatecznie tożsamości (dokument ten nie podaje pseudonimu "Kwiat"), ale znacząco podnosi prawdopodobieństwo hipotezy — trzeci, niezależny pseudonim ("Zagłoba") tej samej prawdopodobnie osoby, obok "Kwiat" i roli "wcześniejszego dowódcy bandy" z SRC-010.
