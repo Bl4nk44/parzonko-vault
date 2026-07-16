@@ -11,7 +11,7 @@ aliases:
 gender: "M"
 birth_date: null
 birth_date_accuracy: "unknown"
-birth_place: null
+birth_place: "PLACE-009"
 death_date: null
 death_date_accuracy: "unknown"
 death_place: null
@@ -28,6 +28,7 @@ key_sources:
   - "SRC-001"
   - "SRC-003"
   - "SRC-008"
+  - "SRC-012"
 certainty: "high"
 tags:
   - type/person
@@ -44,7 +45,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 ## Dane podstawowe
 
 - Data urodzenia: nieustalona
-- Miejsce urodzenia: nieustalone
+- Miejsce urodzenia: [[Place-Czarkowo-Wolka]], gm. Piekuty, pow. Wysokie Mazowieckie
 - Data śmierci: nieustalona
 - Role: dowódca grupy zbrojnej ps. "Huzar" (powstałej z połączenia resztek band "Młota" i "Hanki"), okres dowodzenia 1947 – październik 1952
 - Pseudonimy: "Huzar"
@@ -69,6 +70,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 1, 6, 9, 11, 12, 13, 14
 - [[IPN-BU-0189-38-t1-Kwestionariusze-osobowe-Wlostowski-Konorodzka]] — str. 1 (okres działalności grupy)
 - [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]] — str. 21, 27-29 (**historia powstania bandy, struktura, zbrodnie**)
+- [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 3 (miejsce urodzenia, pełny skład osobowy bandy)
 
 ## Niepewności i sprzeczności
 

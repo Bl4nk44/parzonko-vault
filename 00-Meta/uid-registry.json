@@ -1,10 +1,11 @@
 {
   "counters": {
-    "SRC": 11,
-    "PERSON": 7,
-    "PLACE": 8,
+    "SRC": 12,
+    "PERSON": 11,
+    "PLACE": 10,
     "EVENT:1953": 3,
-    "EVENT:1948": 2
+    "EVENT:1948": 2,
+    "EVENT:1951": 2
   },
   "aliases": {
     "Parzonko Kazimierz": "PERSON-001",
@@ -25,6 +26,12 @@
     "Kanonier": "PERSON-006",
     "PERSON-005": "Zagloba",
     "PERSON-007": "Rozwalski Alojzy",
-    "PLACE-008": "Radziszewo-Krole"
+    "PLACE-008": "Radziszewo-Krole",
+    "PERSON-008": "Burzynski Aleksander",
+    "PERSON-009": "Lejzerowicz Michal",
+    "PERSON-010": "Jasinski",
+    "PERSON-011": "Kropki",
+    "PLACE-009": "Kaminski Kazimierz village",
+    "PLACE-010": "Zajeczniki"
   }
 }
