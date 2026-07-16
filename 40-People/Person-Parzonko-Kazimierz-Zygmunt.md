@@ -46,6 +46,7 @@ key_sources:
   - "SRC-010"
   - "SRC-011"
   - "SRC-012"
+  - "SRC-013"
 certainty: "high"
 tags:
   - type/person
@@ -70,7 +71,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - Data śmierci: 1953 — skazany na karę śmierci 31.03.1953, **Rada Państwa odmówiła prawa łaski 15.09.1953** (nakaz niezwłocznego wykonania wyroku — patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]). **Dokładna data faktycznego wykonania wyroku nadal nieustalona** — dostępne poszlaki pochodzą z odczytu obarczonego potwierdzonym ryzykiem halucynacji, wymaga dalszej weryfikacji.
 - Role: kolejno — członek bandy "Młota" → członek bandy "Huzara" (po ucieczce z aresztu 1948) → dowódca własnej grupy "Zygmunt"
 - Pseudonimy: "Wichura"/"Wichora" (do 1948), "Czarny" (jako członek bandy "Huzara", potwierdzone 1950), "Zygmunt" (od momentu dowodzenia własną grupą, potwierdzony w 1953)
-- **Opis fizyczny** (wg doniesienia agenturalnego z maja 1950 r.): wzrost średni, budowa krępa, włosy czarne kręcone, jeden złoty ząb w górnej szczęce z przodu. Nosił mundur wojskowy (stopień starszego sierżanta, mundur zielony z amarantowym kołnierzem), jako dowódca — jedna gwiazdka.
+- **Opis fizyczny** (wg doniesienia agenturalnego z maja 1950 r.): wzrost średni, budowa krępa, włosy czarne kręcone, jeden złoty ząb w górnej szczęce z przodu. Nosił mundur wojskowy (stopień starszego sierżanta, mundur zielony z amarantowym kołnierzem), jako dowódca — jedna gwiazdka. **Niezależny rysopis z 1950 r.** ([[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]], str. 18, 20): wzrost 175 cm, włosy czarne, falujące, twarz okrągła, blizna/rozcięcie na jednym z policzków, **dwa złote zęby**, wiek ok. 26-27 lat — spójny w większości cech, drobna rozbieżność liczby złotych zębów (jeden vs dwa), patrz niepewności.
 
 ## Relacje
 
@@ -103,6 +104,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] — str. 3 (**pseudonim "Czarny" rozstrzygnięty, opis fizyczny**)
 - [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] — str. 11 (podejrzenie o zabójstwo żołnierza KBW, 1948, wraz z Radziszewskim Mieczysławem)
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 3, 13 (**alias "Kazik", trzy udokumentowane zabójstwa bandy "Zygmunta" w 1951 r.**)
+- [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 18, 20 (rysopis, alias "Kazio", pełny skład i uzbrojenie bandy "Huzara" w 1948 r.)
 
 ## Niepewności i sprzeczności
 
@@ -128,4 +130,5 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 
 - **Status w sierpniu 1951**: sprawozdanie operacyjne PUBP Wysokie Mazowieckie ([[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]], str. 36) opisuje Parzonkę jako **szeregowego członka** bandy "Huzara" — brak jakiejkolwiek wzmianki o samodzielnym dowodzeniu. To zawęża okno czasowe przejścia na dowództwo własnej grupy "Zygmunt" do okresu sierpień 1951 – marzec 1953.
 - **Wcześniejszy epizod z 1948 r. — możliwy udział w zabójstwie żołnierza KBW.** [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] (str. 11) wskazuje Parzonkę (jako "Parzonko Kazimierz, ps. 'Wicher'" — wariant zapisu "Wichura"/"Wichora", uznany za tę samą osobę) obok Mieczysława Radziszewskiego ps. "Zagłoba" jako podejrzanych o zabójstwo żołnierza KBW Alojzego Rozwalskiego (18.10.1948, wieś Radziszewo-Króle) — patrz [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]]. Tożsamość sprawców oparta wyłącznie na "poufnych wywiadach" MO, nie na dowodzie bezpośrednim — certainty tego wydarzenia: medium. Istotne jako poszlaka wcześniejszej (przed grudniem 1948) współpracy Parzonki z Radziszewskim Mieczysławem, wzmacniająca hipotezę roboczą w [[Person-Radziszewski-Mieczyslaw-Kwiat]].
+- **Drobna rozbieżność rysopisu**: liczba złotych zębów — jeden (wg SRC-010, maj 1950) vs dwa (wg [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]], zeznanie z grudnia 1950 r. odnoszące się do stanu z 1948 r.). Możliwe wyjaśnienia: (a) błąd pamięci zeznającego (Danieluk opisywał osobę sprzed ok. 2-3 lat), (b) rzeczywista zmiana (kolejny złoty ząb wstawiony między 1948 a 1950 r.), (c) błąd w jednym z dokumentów. Nie rozstrzygnięte, nieistotne dla tożsamości (pozostałe cechy rysopisu spójne).
 - **Konflikt rodzinny**: to samo sprawozdanie (informator ps. "Kon") podaje, że rodzina Parzonki w Leśnikach była do niego **negatywnie nastawiona** — od młodości unikał rodziny, prowadząc "tryb życia łobuzerski" i zajmując się kradzieżą, bez utrzymywania kontaktu z rodziną. To nieco komplikuje/uzupełnia wcześniejszy obraz "rolnika" (SRC-006) — możliwe, że to legalny zawód zapisany w dokumentach urzędowych przy jednoczesnym faktycznym zerwaniu z gospodarstwem rodzinnym na rzecz działalności konspiracyjnej/przestępczej; może też odzwierciedlać tendencyjną charakterystykę UB. Nie rozstrzygnięto.

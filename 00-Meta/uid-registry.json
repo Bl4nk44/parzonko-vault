@@ -1,10 +1,10 @@
 {
   "counters": {
-    "SRC": 12,
-    "PERSON": 11,
+    "SRC": 13,
+    "PERSON": 15,
     "PLACE": 10,
     "EVENT:1953": 3,
-    "EVENT:1948": 2,
+    "EVENT:1948": 4,
     "EVENT:1951": 2
   },
   "aliases": {
@@ -32,6 +32,10 @@
     "PERSON-010": "Jasinski",
     "PERSON-011": "Kropki",
     "PLACE-009": "Kaminski Kazimierz village",
-    "PLACE-010": "Zajeczniki"
+    "PLACE-010": "Zajeczniki",
+    "PERSON-012": "Gryf",
+    "PERSON-013": "Dymitrow",
+    "PERSON-014": "Jankowski Stanislaw informator",
+    "PERSON-015": "Gontarczuk Antoni"
   }
 }
