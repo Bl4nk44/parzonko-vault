@@ -9,7 +9,8 @@ surname: "Parzonko"
 aliases:
   - "Zygmunt"
   - "Parzenko Kazimierz"
-  - "Wichura (hipoteza robocza, patrz niepewności)"
+  - "Wichura"
+  - "Wichora"
 gender: "M"
 birth_date: null
 birth_date_accuracy: "unknown"
@@ -19,9 +20,12 @@ death_date_accuracy: "year"
 death_place: null
 nationality: "polska"
 occupation:
+  - "rolnik"
   - "dowódca oddziału zbrojnego podziemia niepodległościowego"
 roles:
-  - "dowódca grupy zbrojnej ps. \"Zygmunt\""
+  - "członek bandy \"Młota\" (do 1948)"
+  - "członek bandy \"Huzara\" (po 1948)"
+  - "dowódca własnej grupy zbrojnej ps. \"Zygmunt\" (do 1953)"
 related_to_main_person: "self"
 related_persons:
   - "PERSON-002"
@@ -32,6 +36,7 @@ key_sources:
   - "SRC-001"
   - "SRC-004"
   - "SRC-005"
+  - "SRC-006"
 certainty: "high"
 tags:
   - type/person
@@ -43,17 +48,19 @@ tags:
 
 ## Podsumowanie
 
-Kazimierz Parzonko, działający pod pseudonimem "Zygmunt", dowodził grupą zbrojnego podziemia niepodległościowego operującą w rejonie Ciechanowca na przełomie lat 40. i 50. XX wieku. Jego grupa działała równolegle i we współpracy z grupą Kazimierza Kamińskiego ps. "Huzar" z rejonu Łap. W marcu 1953 r. obaj dowódcy oraz członkowie ich grup zostali osądzeni w procesie sądowym w Łapach i Ciechanowcu; Parzonko został skazany na karę śmierci.
+Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaangażował się w zbrojne podziemie niepodległościowe — kolejno jako członek bandy "Młota" (pod pseudonimem "Wichura"), następnie, po aresztowaniu i ucieczce w 1948 r., jako członek bandy Kazimierza Kamińskiego ps. "Huzar", by ostatecznie dowodzić własną grupą pod pseudonimem "Zygmunt" operującą w rejonie Ciechanowca. W marcu 1953 r. wraz z Kamińskim i członkami obu grup został osądzony w procesie sądowym w Łapach i Ciechanowcu; skazany na karę śmierci.
 
 **Uwaga metodologiczna:** dokumenty źródłowe niekonsekwentnie zapisują nazwisko jako "Parzonko" i "Parzenko" — przyjęto formę "Parzonko" jako kanoniczną (zgodnie z nazwą projektu badawczego), traktując wariant "Parzenko" jako artefakt OCR/pisowni, nie odrębną tożsamość.
 
 ## Dane podstawowe
 
-- Data urodzenia: nieustalona
-- Miejsce urodzenia: nieustalone
+- Data urodzenia: nieustalona ostatecznie — dwa niezależne źródła podają rozbieżne lata (1921 wg SRC-006, 28.02.1922 wg SRC-004), patrz sprzeczność niżej
+- Miejsce urodzenia: nieustalone wprost (miejsce zamieszkania: wieś Leśniki/Leśnik, gm. Ciechanowiec — patrz [[Place-Lesnik]])
+- Stan cywilny (wg stanu na 1952 r.): kawaler
+- Majątek rodzinny: ojciec posiadał 7 ha ziemi we wsi Leśniki
 - Data śmierci: 1953 (rok skazania na karę śmierci — **nie potwierdzono w tym źródle, czy i kiedy wyrok wykonano; wymaga dalszej weryfikacji w kolejnych dokumentach korpusu**)
-- Role: dowódca własnej grupy zbrojnej ps. "Zygmunt"
-- Pseudonimy: "Zygmunt"
+- Role: kolejno — członek bandy "Młota" → członek bandy "Huzara" (po ucieczce z aresztu 1948) → dowódca własnej grupy "Zygmunt"
+- Pseudonimy: "Wichura"/"Wichora" (do 1948), "Zygmunt" (od momentu dowodzenia własną grupą, potwierdzony w 1953)
 
 ## Relacje
 
@@ -63,6 +70,9 @@ Kazimierz Parzonko, działający pod pseudonimem "Zygmunt", dowodził grupą zbr
 
 ## Chronologia życia
 
+- 1946-1948 — członek bandy "Młota" pod pseudonimem "Wichura"/"Wichora"
+- 1948 — [[Event-1948-Aresztowanie-i-ucieczka]]
+- 1948-1953 — członek, następnie dowódca grupy związanej z Kazimierzem Kamińskim ps. "Huzar", ostatecznie dowódca własnej grupy ps. "Zygmunt"
 - 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
 
@@ -70,22 +80,22 @@ Kazimierz Parzonko, działający pod pseudonimem "Zygmunt", dowodził grupą zbr
 
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 1, 5, 7, 8, 11, 12, 14
 - [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] — str. 5 (możliwa data urodzenia i imię ojca)
-- [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — str. 5 (możliwy wcześniejszy pseudonim "Wichura")
+- [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — str. 5 (pierwszy trop pseudonimu "Wichura")
+- [[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]] — str. 11 (**potwierdzenie tożsamości "Wichura"/"Zygmunt", nowe fakty biograficzne**)
 
 ## Niepewności i sprzeczności
 
-> Hipoteza robocza:
-> Data urodzenia: 28.02.1922, ojciec: Stanisław.
+- **Tożsamość "Wichura" = "Zygmunt" — POTWIERDZONE.** Wcześniejsza hipoteza robocza (oparta wyłącznie na zeznaniu Radziszewskiego, [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]]) została niezależnie potwierdzona przez raport identyfikacyjny PUBP Bielsk Podlaski z 1952 r. ([[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]], str. 11), który wprost łączy dane osobowe Kazimierza Parzonki (ojciec Stanisław, wieś Leśniki, gm. Ciechanowiec) z pseudonimem "Wichora" oraz opisuje przejście z bandy "Młota" do bandy "Huzara" po ucieczce z aresztu w 1948 r.
+
+> Hipoteza robocza — NIEROZSTRZYGNIĘTA sprzeczność dat urodzenia:
+> Rok urodzenia: 1921 (wg SRC-006, raport 1952) **lub** 28.02.1922 (wg SRC-004, rejestr akt 1973).
 >
 > Podstawa:
-> [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] — str. 5, wpis rejestru akt: "Parzonko Kazimierz s. Stanisława ur. 28.02.1922". Dokument to ogólny rejestr administracyjny (protokół brakowania akt, 1973), nie materiał biograficzny — powiązanie z pseudonimem "Zygmunt" opiera się wyłącznie na zgodności imienia/nazwiska/kontekstu regionalnego, nie na bezpośrednim potwierdzeniu w tym źródle. Wysokie prawdopodobieństwo, nie pewny fakt — pola `birth_date`/`birth_place` w YAML pozostają puste do czasu potwierdzenia w innym, niezależnym źródle.
+> [[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]] — str. 11: "ur. 1921 r."
+> [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] — str. 5: "ur. 28.02.1922"
+> Możliwe wyjaśnienia: (a) błąd urzędnika w jednym z dokumentów, (b) zaokrąglenie/przybliżenie roku w raporcie z 1952 r. dla osoby urodzonej pod koniec lutego 1922, (c) inny system odniesienia dat. Obie daty pochodzą z dokumentów administracyjnych (nie z aktu urodzenia), więc żadna nie ma automatycznego pierwszeństwa. Pola `birth_date`/`birth_place` w YAML pozostają puste do czasu potwierdzenia w akcie stanu cywilnego lub innym rozstrzygającym źródle.
 
-> Hipoteza robocza:
-> Przed przyjęciem pseudonimu "Zygmunt", Kazimierz Parzonko mógł działać pod pseudonimem "Wichura" w okresie 1947-1948, zamieszkały we wsi [[Place-Lesnik]], w kontakcie z [[Person-Radziszewski-Mieczyslaw-Kwiat]].
->
-> Podstawa:
-> [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — str. 5, zeznanie Radziszewskiego Mieczysława: "był ścigany Parzonko Kazimierz ps. 'Wichura', zam. we wsi Leśnik". Przesłanki za identycznością: zgodne imię/nazwisko, ten sam region operacyjny (Ciechanowiec), spójna chronologia (działalność konspiracyjna 1947-48, przed procesem 1953 r.). Nie ma jednak żadnego źródła stwierdzającego wprost "Wichura = Zygmunt" — zmiana pseudonimu między okresami/jednostkami była w tej epoce powszechna, ale nie jest tu potwierdzona. Możliwy związek z otwartym pytaniem o "wcześniejsze czyny 1946-47" (patrz niżej) — to samo zeznanie opisuje zabójstwo żołnierza M.O. w Ciechanowcu w maju 1946 r. (dokonane przez towarzysza Radziszewskiego, Moczulskiego ps. "Buran", nie bezpośrednio przez "Wichurę"/Parzonkę) — możliwe, że to jest źródło plotki sądowej z SRC-001, ale sprawcą wg tego zeznania był Moczulski, nie Parzonko. Wymaga dalszej weryfikacji.
-
+- **Niejasny pseudonim "Czarny"**: raport z 1952 r. (SRC-006, str. 11) zawiera zdanie "obecnie jest członkiem bandy 'Huzara', który to występuje pod ps. 'Czarny'" — gramatycznie niejasne, czy "Czarny" to dodatkowy pseudonim Kamińskiego ("Huzara") czy samego Parzonki w nowej roli w tej grupie. Nie przypisano tego pseudonimu żadnej z dwóch osób do czasu wyjaśnienia.
 - **Wykonanie wyroku**: źródło rejestruje skazanie na karę śmierci (31.03.1953) oraz spekulacje ludności, że wyrok może nie zostać wykonany z powodu śmierci Stalina (możliwa amnestia) — nie ma w tym dokumencie potwierdzenia faktycznego wykonania lub złagodzenia wyroku. Wymaga weryfikacji w dalszych dokumentach korpusu.
 - **Wcześniejsze czyny (1946-47)**: doniesienie agenturalne (źródło "Kalinowski", str. 8 dokumentu SRC-001) sugeruje, że akt oskarżenia z 1953 r. nie obejmował wcześniejszych morderstw z lat 1946-47 przypisywanych Parzonce, w tym zabójstwa oficera Wojska Polskiego w Ciechanowcu. To niepotwierdzona wzmianka z drugiej ręki (plotka sądowa zanotowana przez agenta), nie ustalony fakt — oznaczono jako otwarte pytanie badawcze.
 - **Spór o odpowiedzialność z "Huzarem"**: podczas rozprawy Parzonko zeznał, że napadów i morderstw dokonywał z polecenia "Huzara", "zadając kłam" zeznaniom Kamińskiego — obaj dowódcy najwyraźniej przerzucali na siebie odpowiedzialność w trakcie procesu. Rzeczywisty podział dowodzenia/odpowiedzialności między obiema grupami pozostaje niejasny na podstawie tego jednego źródła.
