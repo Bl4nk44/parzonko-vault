@@ -66,6 +66,12 @@ Niepewne/sprzeczne/przypuszczalne informacje:
 - podaj wszystkie konkurencyjne wersje,
 - nie wybieraj jednej wersji bez wyjaśnienia.
 
+### Vision OCR (`scripts/vision_ocr.py`) — obowiązkowa weryfikacja krzyżowa
+
+Dla stron nieczytelnych przez tesseract (pismo odręczne, zniszczony maszynopis) dostępne jest narzędzie awaryjne wywołujące model wizyjny (Mistral Large przez OpenRouter). **Potwierdzone ryzyko halucynacji** (2026-07-16): na realnej stronie z korpusu model podstawił płynny, wewnętrznie spójnie brzmiący tekst prawdziwego, ale kompletnie niepowiązanego, dobrze udokumentowanego protokołu egzekucji (inna, znana z historii sprawa) zamiast faktycznie odczytać zniszczoną treść. Wykryto tylko dzięki wewnętrznej sprzeczności dat w zwróconym tekście i porównaniu numeru sprawy z sąsiednimi stronami.
+
+**Zasada:** wynik `vision_ocr.py` nigdy nie jest samodzielną podstawą faktu w polach YAML notatki. Przed wpisaniem do vaulta wymagana weryfikacja: (1) spójność wewnętrzna zwróconego tekstu, (2) zgodność numerów spraw/dat/sygnatur z sąsiednimi stronami tego samego dokumentu, (3) czy wymienione osoby/wydarzenia pasują do kontekstu sprawy, czy przypominają inną, znaną sprawę (czerwona flaga halucynacji: model "rozpoznał typ dokumentu" i podstawił zapamiętany tekst). Wynik niepotwierdzony → sekcja "Niepewności" z blockquote "Hipoteza robocza", nigdy pole YAML wprost.
+
 ---
 
 ## Notatka źródłowa (20-Sources/)
