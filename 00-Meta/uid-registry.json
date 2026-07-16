@@ -1,8 +1,8 @@
 {
   "counters": {
-    "SRC": 6,
-    "PERSON": 5,
-    "PLACE": 3,
+    "SRC": 7,
+    "PERSON": 6,
+    "PLACE": 4,
     "EVENT:1953": 2,
     "EVENT:1948": 1
   },
@@ -20,6 +20,8 @@
     "Łapy": "PLACE-002",
     "Radziszewski Mieczyslaw": "PERSON-005",
     "Kwiat": "PERSON-005",
-    "Lesnik": "PLACE-003"
+    "Lesnik": "PLACE-003",
+    "Otap Kazimierz": "PERSON-006",
+    "Kanonier": "PERSON-006"
   }
 }

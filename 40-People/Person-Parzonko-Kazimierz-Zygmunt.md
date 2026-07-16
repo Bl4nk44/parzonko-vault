@@ -37,6 +37,7 @@ key_sources:
   - "SRC-004"
   - "SRC-005"
   - "SRC-006"
+  - "SRC-007"
 certainty: "high"
 tags:
   - type/person
@@ -82,6 +83,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] — str. 5 (możliwa data urodzenia i imię ojca)
 - [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — str. 5 (pierwszy trop pseudonimu "Wichura")
 - [[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]] — str. 11 (**potwierdzenie tożsamości "Wichura"/"Zygmunt", nowe fakty biograficzne**)
+- [[IPN-Bi-0088-531-J-Teczka-informator-Kanonier-Otap-Kazimierz]] — str. 6 (miejsce melinowania bandy — [[Place-Czaje-Bagno]])
 
 ## Niepewności i sprzeczności
 
@@ -99,3 +101,4 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - **Wykonanie wyroku**: źródło rejestruje skazanie na karę śmierci (31.03.1953) oraz spekulacje ludności, że wyrok może nie zostać wykonany z powodu śmierci Stalina (możliwa amnestia) — nie ma w tym dokumencie potwierdzenia faktycznego wykonania lub złagodzenia wyroku. Wymaga weryfikacji w dalszych dokumentach korpusu.
 - **Wcześniejsze czyny (1946-47)**: doniesienie agenturalne (źródło "Kalinowski", str. 8 dokumentu SRC-001) sugeruje, że akt oskarżenia z 1953 r. nie obejmował wcześniejszych morderstw z lat 1946-47 przypisywanych Parzonce, w tym zabójstwa oficera Wojska Polskiego w Ciechanowcu. To niepotwierdzona wzmianka z drugiej ręki (plotka sądowa zanotowana przez agenta), nie ustalony fakt — oznaczono jako otwarte pytanie badawcze.
 - **Spór o odpowiedzialność z "Huzarem"**: podczas rozprawy Parzonko zeznał, że napadów i morderstw dokonywał z polecenia "Huzara", "zadając kłam" zeznaniom Kamińskiego — obaj dowódcy najwyraźniej przerzucali na siebie odpowiedzialność w trakcie procesu. Rzeczywisty podział dowodzenia/odpowiedzialności między obiema grupami pozostaje niejasny na podstawie tego jednego źródła.
+- **Miejsce melinowania (1952)**: wg teczki werbunkowej informatora "Kanonier" ([[IPN-Bi-0088-531-J-Teczka-informator-Kanonier-Otap-Kazimierz]]), banda Parzonki w 1952 r. korzystała z melina w domu rodziny Otapów we wsi [[Place-Czaje-Bagno]]. Ta sama rodzina wcześniej (1947-52) udzielała schronienia kolejno bandom "Łunaszki", "Młota" i "Huzara" — nazwa "Łunaszki" nie występuje w żadnym innym dotąd przetworzonym dokumencie korpusu; nie ustalono, czy Parzonko miał z tą wcześniejszą bandą jakikolwiek bezpośredni związek, czy to niezależna wcześniejsza historia tej samej rodziny udzielającej schronienia różnym, następującym po sobie grupom w tym samym rejonie.
