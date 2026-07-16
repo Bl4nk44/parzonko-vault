@@ -47,6 +47,7 @@ key_sources:
   - "SRC-011"
   - "SRC-012"
   - "SRC-013"
+  - "SRC-014"
 certainty: "high"
 tags:
   - type/person
@@ -105,6 +106,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] — str. 11 (podejrzenie o zabójstwo żołnierza KBW, 1948, wraz z Radziszewskim Mieczysławem)
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 3, 13 (**alias "Kazik", trzy udokumentowane zabójstwa bandy "Zygmunta" w 1951 r.**)
 - [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 18, 20 (rysopis, alias "Kazio", pełny skład i uzbrojenie bandy "Huzara" w 1948 r.)
+- [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]] — str. 16 (melina we wsi Granne, pow. Siemiatycze — najbardziej wysunięta na południe potwierdzona lokalizacja)
 
 ## Niepewności i sprzeczności
 

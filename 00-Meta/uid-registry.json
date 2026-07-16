@@ -1,8 +1,8 @@
 {
   "counters": {
-    "SRC": 13,
-    "PERSON": 15,
-    "PLACE": 10,
+    "SRC": 14,
+    "PERSON": 16,
+    "PLACE": 11,
     "EVENT:1953": 3,
     "EVENT:1948": 4,
     "EVENT:1951": 2
@@ -36,6 +36,8 @@
     "PERSON-012": "Gryf",
     "PERSON-013": "Dymitrow",
     "PERSON-014": "Jankowski Stanislaw informator",
-    "PERSON-015": "Gontarczuk Antoni"
+    "PERSON-015": "Gontarczuk Antoni",
+    "PERSON-016": "Jozwiak Stanislaw",
+    "PLACE-011": "Granne"
   }
 }
