@@ -52,6 +52,7 @@ key_sources:
   - "SRC-014"
   - "SRC-015"
   - "SRC-016"
+  - "SRC-017"
 certainty: "high"
 tags:
   - type/person
@@ -113,6 +114,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 18, 20 (rysopis, alias "Kazio", pełny skład i uzbrojenie bandy "Huzara" w 1948 r.)
 - [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]] — str. 16 (melina we wsi Granne, pow. Siemiatycze — najbardziej wysunięta na południe potwierdzona lokalizacja)
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 141-145, 157 (**pełny wyrok sądowy — data i miejsce urodzenia, imiona rodziców, szczegółowe sprawstwo morderstw, przebieg procesu**)
+- [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]] — str. 6-8 (**lokalizacja bunkra bandy k. Pełcha, zabójstwo "Sokoła"**)
 
 ## Niepewności i sprzeczności
 
@@ -143,4 +145,6 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - **Status w sierpniu 1951**: sprawozdanie operacyjne PUBP Wysokie Mazowieckie ([[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]], str. 36) opisuje Parzonkę jako **szeregowego członka** bandy "Huzara" — brak jakiejkolwiek wzmianki o samodzielnym dowodzeniu. To zawęża okno czasowe przejścia na dowództwo własnej grupy "Zygmunt" do okresu sierpień 1951 – marzec 1953.
 - **Wcześniejszy epizod z 1948 r. — możliwy udział w zabójstwie żołnierza KBW.** [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] (str. 11) wskazuje Parzonkę (jako "Parzonko Kazimierz, ps. 'Wicher'" — wariant zapisu "Wichura"/"Wichora", uznany za tę samą osobę) obok Mieczysława Radziszewskiego ps. "Zagłoba" jako podejrzanych o zabójstwo żołnierza KBW Alojzego Rozwalskiego (18.10.1948, wieś Radziszewo-Króle) — patrz [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]]. Tożsamość sprawców oparta wyłącznie na "poufnych wywiadach" MO, nie na dowodzie bezpośrednim — certainty tego wydarzenia: medium. Istotne jako poszlaka wcześniejszej (przed grudniem 1948) współpracy Parzonki z Radziszewskim Mieczysławem, wzmacniająca hipotezę roboczą w [[Person-Radziszewski-Mieczyslaw-Kwiat]].
 - **Drobna rozbieżność rysopisu**: liczba złotych zębów — jeden (wg SRC-010, maj 1950) vs dwa (wg [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]], zeznanie z grudnia 1950 r. odnoszące się do stanu z 1948 r.). Możliwe wyjaśnienia: (a) błąd pamięci zeznającego (Danieluk opisywał osobę sprzed ok. 2-3 lat), (b) rzeczywista zmiana (kolejny złoty ząb wstawiony między 1948 a 1950 r.), (c) błąd w jednym z dokumentów. Nie rozstrzygnięte, nieistotne dla tożsamości (pozostałe cechy rysopisu spójne).
+- **Bunkier bandy (1952)**: wg [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]], banda "Zygmunta" zbudowała w sierpniu 1952 r. bunkier w lesie nad rzeką Pełchówka, koło wsi Pełch (gm. Kosiorki, pow. Siemiatycze) — patrz [[Place-Pelch]]. Parzonko i Mościcki Józef ps. "Pantera" niemal stale w nim przebywali, wychodząc tylko nocą, żywiąc się głównie grzybami.
+- **Zabójstwo "Sokoła" — rozbieżność sprawcy**: [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]] (str. 7, doniesienie agenturalne) podaje, że Parzonko osobiście zabił członka bandy ps. "Sokół" (podejrzewanego o współpracę z UB), podczas gdy [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] (str. 146) przypisuje wykonanie tego zabójstwa Radziszewskiemu Kazimierzowi, działającemu na rozkaz Parzonki. Nierozstrzygnięte — możliwe, że obaj źródła upraszczają rzeczywisty przebieg (np. Parzonko wydał rozkaz i był obecny, ale strzał oddał Radziszewski), lub jedno ze źródeł (oba oparte na zeznaniach/doniesieniach osób trzecich, nie na przyznaniu się sprawcy) zawiera nieścisłość.
 - **Konflikt rodzinny**: to samo sprawozdanie (informator ps. "Kon") podaje, że rodzina Parzonki w Leśnikach była do niego **negatywnie nastawiona** — od młodości unikał rodziny, prowadząc "tryb życia łobuzerski" i zajmując się kradzieżą, bez utrzymywania kontaktu z rodziną. To nieco komplikuje/uzupełnia wcześniejszy obraz "rolnika" (SRC-006) — możliwe, że to legalny zawód zapisany w dokumentach urzędowych przy jednoczesnym faktycznym zerwaniu z gospodarstwem rodzinnym na rzecz działalności konspiracyjnej/przestępczej; może też odzwierciedlać tendencyjną charakterystykę UB. Nie rozstrzygnięto.

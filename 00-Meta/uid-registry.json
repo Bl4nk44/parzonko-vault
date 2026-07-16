@@ -1,8 +1,8 @@
 {
   "counters": {
-    "SRC": 16,
-    "PERSON": 19,
-    "PLACE": 13,
+    "SRC": 17,
+    "PERSON": 20,
+    "PLACE": 14,
     "EVENT:1953": 3,
     "EVENT:1948": 4,
     "EVENT:1951": 2,
@@ -44,6 +44,8 @@
     "PERSON-018": "Koc Stefania",
     "PERSON-019": "Pantera",
     "PLACE-012": "Piatki-Zebry",
-    "PLACE-013": "Przybyszyn"
+    "PLACE-013": "Przybyszyn",
+    "PERSON-020": "Parzonko Henryk",
+    "PLACE-014": "Pelch"
   }
 }
