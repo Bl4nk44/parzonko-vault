@@ -27,6 +27,7 @@ related_persons:
 key_sources:
   - "SRC-001"
   - "SRC-003"
+  - "SRC-008"
 certainty: "high"
 tags:
   - type/person
@@ -38,29 +39,36 @@ tags:
 
 ## Podsumowanie
 
-Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodległościowego operującą w rejonie Łap w okresie 1947 – październik 1952. Jego grupa działała we współpracy (i w pewnym sporze o odpowiedzialność) z grupą Kazimierza Parzonki ps. "Zygmunt" z Ciechanowca. Sądzony razem z grupą "Zygmunta" w procesie z marca 1953 r.
+Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodległościowego operującą w rejonie Łap w okresie 1947 – październik 1952. Wg sprawozdania operacyjnego z 1951 r. jego banda powstała po amnestii 1947 r. z połączenia z resztkami bandy "Młota" (po jej likwidacji przez braci Dybowskich, Huzar przejął dowództwo), a następnie podporządkował sobie też bandę "Hanki" (Brzozowski Józef). Grupa była zorganizowana w kilka patroli: patrol "Huzara", patrol "Lamparta" oraz zlikwidowany w 1951 r. patrol "Rysia". Odpowiedzialna za udokumentowane zabójstwa funkcjonariuszy MO/ORMO w latach 1949-1951. Grupa działała we współpracy (i w pewnym sporze o odpowiedzialność) z grupą Kazimierza Parzonki ps. "Zygmunt" z Ciechanowca — Parzonko był zwykłym członkiem bandy "Huzara" co najmniej do sierpnia 1951 r., zanim przejął dowództwo własnej grupy. Sądzony razem z grupą "Zygmunta" w procesie z marca 1953 r.
 
 ## Dane podstawowe
 
 - Data urodzenia: nieustalona
 - Miejsce urodzenia: nieustalone
 - Data śmierci: nieustalona
-- Role: dowódca własnej grupy zbrojnej ps. "Huzar", okres dowodzenia 1947 – październik 1952
+- Role: dowódca grupy zbrojnej ps. "Huzar" (powstałej z połączenia resztek band "Młota" i "Hanki"), okres dowodzenia 1947 – październik 1952
 - Pseudonimy: "Huzar"
+- Struktura organizacyjna: patrole "Huzara", "Lamparta", "Rysia" (zlikwidowany 1951)
 
 ## Relacje
 
-- Współoskarżony / związany operacyjnie: [[Person-Parzonko-Kazimierz-Zygmunt]]
+- Współoskarżony / związany operacyjnie: [[Person-Parzonko-Kazimierz-Zygmunt]] — jego szeregowy członek co najmniej do sierpnia 1951 r.
 - Podwładny/powiązany: [[Person-Radziszewski-Kazimierz-Marynarz]] (niepewne, czy podlegał "Huzarowi" czy "Zygmuntowi" — patrz niepewności)
+- Podwładni (wg sprawozdania 1951, bez utworzonych osobnych notatek): Danieluk Franciszek ps. "Gryf", Grodzki Mieczysław ps. "Kazimierz" (nie mylić z głównym bohaterem vaulta), Żukowski Antoni ps. "Waspiuk" (zlikwidowany 29.05.1951), Kryński Tadeusz ps. "Dzięcioł", bracia Czesław i Ryszard Dybowscy, Buczak Witold ps. "Ponury" (zastępca dowódcy), Brzozowski Józef ps. "Hanka" (dowódca podporządkowanej bandy)
 
 ## Chronologia życia
 
+- ~1947 — połączenie z resztkami bandy "Młota" po amnestii, przejęcie dowództwa po jej likwidacji
+- 1949-1951 — udokumentowane zabójstwa funkcjonariuszy MO/ORMO
+- 1951 (przed sierpniem) — podporządkowanie sobie bandy "Hanki"
+- 1951-05-29 — akcja K.B.W., likwidacja 4 członków bandy (w tym Żukowski ps. "Waspiuk", Porowski ps. "Bobrek")
 - 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
 
 ## Najważniejsze źródła
 
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 1, 6, 9, 11, 12, 13, 14
 - [[IPN-BU-0189-38-t1-Kwestionariusze-osobowe-Wlostowski-Konorodzka]] — str. 1 (okres działalności grupy)
+- [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]] — str. 21, 27-29 (**historia powstania bandy, struktura, zbrodnie**)
 
 ## Niepewności i sprzeczności
 
