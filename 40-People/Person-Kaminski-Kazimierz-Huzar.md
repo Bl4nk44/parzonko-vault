@@ -26,6 +26,7 @@ related_persons:
   - "PERSON-003"
 key_sources:
   - "SRC-001"
+  - "SRC-003"
 certainty: "high"
 tags:
   - type/person
@@ -37,14 +38,14 @@ tags:
 
 ## Podsumowanie
 
-Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodległościowego operującą w rejonie Łap. Jego grupa działała we współpracy (i w pewnym sporze o odpowiedzialność) z grupą Kazimierza Parzonki ps. "Zygmunt" z Ciechanowca. Sądzony razem z grupą "Zygmunta" w procesie z marca 1953 r.
+Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodległościowego operującą w rejonie Łap w okresie 1947 – październik 1952. Jego grupa działała we współpracy (i w pewnym sporze o odpowiedzialność) z grupą Kazimierza Parzonki ps. "Zygmunt" z Ciechanowca. Sądzony razem z grupą "Zygmunta" w procesie z marca 1953 r.
 
 ## Dane podstawowe
 
 - Data urodzenia: nieustalona
 - Miejsce urodzenia: nieustalone
 - Data śmierci: nieustalona
-- Role: dowódca własnej grupy zbrojnej ps. "Huzar"
+- Role: dowódca własnej grupy zbrojnej ps. "Huzar", okres dowodzenia 1947 – październik 1952
 - Pseudonimy: "Huzar"
 
 ## Relacje
@@ -59,6 +60,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 ## Najważniejsze źródła
 
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 1, 6, 9, 11, 12, 13, 14
+- [[IPN-BU-0189-38-t1-Kwestionariusze-osobowe-Wlostowski-Konorodzka]] — str. 1 (okres działalności grupy)
 
 ## Niepewności i sprzeczności
 
