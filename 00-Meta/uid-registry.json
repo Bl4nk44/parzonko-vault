@@ -1,0 +1,21 @@
+{
+  "counters": {
+    "SRC": 2,
+    "PERSON": 4,
+    "PLACE": 2,
+    "EVENT:1953": 2
+  },
+  "aliases": {
+    "Parzonko Kazimierz": "PERSON-001",
+    "Parzenko Kazimierz": "PERSON-001",
+    "Zygmunt": "PERSON-001",
+    "Kaminski Kazimierz": "PERSON-002",
+    "Huzar": "PERSON-002",
+    "Radziszewski Kazimierz": "PERSON-003",
+    "Marynarz": "PERSON-003",
+    "Michal Parzonko": "PERSON-004",
+    "Ciechanowiec": "PLACE-001",
+    "Lapy": "PLACE-002",
+    "Łapy": "PLACE-002"
+  }
+}
