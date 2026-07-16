@@ -1,9 +1,9 @@
 {
   "counters": {
-    "SRC": 8,
+    "SRC": 9,
     "PERSON": 6,
     "PLACE": 4,
-    "EVENT:1953": 2,
+    "EVENT:1953": 3,
     "EVENT:1948": 1
   },
   "aliases": {

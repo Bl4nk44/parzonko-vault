@@ -52,8 +52,8 @@ Ludność komentowała wyrok jako sprawiedliwy wobec bezpośrednich sprawców, l
 
 ## Sprzeczne relacje
 
-- Doniesienie agenturalne (ps. "Wiarogodny", ta sama strona źródła) spekuluje, że wyrok śmierci może nie zostać wykonany z powodu śmierci Stalina (możliwa amnestia) — **to plotka/spekulacja ludności zanotowana przez agenta, nie potwierdzony fakt prawny**. Czy i kiedy wyrok został faktycznie wykonany (lub złagodzony) nie jest ustalone na podstawie tego jednego źródła — wymaga weryfikacji w dalszych dokumentach korpusu (Task 9).
+- Doniesienie agenturalne (ps. "Wiarogodny", ta sama strona źródła) spekulowało, że wyrok śmierci może nie zostać wykonany z powodu śmierci Stalina (możliwa amnestia). **Rozstrzygnięte** — patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]: Rada Państwa 15.09.1953 odmówiła prawa łaski wobec Parzonki i Radziszewskiego (ułaskawiając jedynie Kostrę). Spekulacja ludności o amnestii się nie potwierdziła. Faktyczne wykonanie wyroku pozostaje nieustalone — patrz ten link.
 
 ## Stopień pewności
 
-Wysoki co do samego faktu i treści wyroku (jedno, jednoznaczne źródło urzędowe — sprawozdanie WUBP). Niski co do dalszych losów skazanych (wykonanie/złagodzenie wyroku) — brak potwierdzenia w tym dokumencie.
+Wysoki co do samego faktu i treści wyroku (jedno, jednoznaczne źródło urzędowe — sprawozdanie WUBP). Losy skazanych po wyroku — patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]] (decyzja o (nie)łasce ustalona, faktyczne wykonanie nadal nie).

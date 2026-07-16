@@ -39,6 +39,7 @@ key_sources:
   - "SRC-006"
   - "SRC-007"
   - "SRC-008"
+  - "SRC-009"
 certainty: "high"
 tags:
   - type/person
@@ -60,7 +61,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - Miejsce urodzenia: nieustalone wprost (miejsce zamieszkania: wieś Leśniki/Leśnik, gm. Ciechanowiec — patrz [[Place-Lesnik]])
 - Stan cywilny (wg stanu na 1952 r.): kawaler
 - Majątek rodzinny: ojciec posiadał 7 ha ziemi we wsi Leśniki
-- Data śmierci: 1953 (rok skazania na karę śmierci — **nie potwierdzono w tym źródle, czy i kiedy wyrok wykonano; wymaga dalszej weryfikacji w kolejnych dokumentach korpusu**)
+- Data śmierci: 1953 — skazany na karę śmierci 31.03.1953, **Rada Państwa odmówiła prawa łaski 15.09.1953** (nakaz niezwłocznego wykonania wyroku — patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]). **Dokładna data faktycznego wykonania wyroku nadal nieustalona** — dostępne poszlaki pochodzą z odczytu obarczonego potwierdzonym ryzykiem halucynacji, wymaga dalszej weryfikacji.
 - Role: kolejno — członek bandy "Młota" → członek bandy "Huzara" (po ucieczce z aresztu 1948) → dowódca własnej grupy "Zygmunt"
 - Pseudonimy: "Wichura"/"Wichora" (do 1948), "Zygmunt" (od momentu dowodzenia własną grupą, potwierdzony w 1953)
 
@@ -78,6 +79,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - sierpień 1951 – marzec 1953 — okno czasowe przejścia na samodzielne dowództwo własnej grupy ps. "Zygmunt" (dokładna data awansu nieustalona — w sierpniu 1951 wciąż szeregowy członek, w marcu 1953 już samodzielny dowódca)
 - 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
+- 1953-09-15 — [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]
 
 ## Najważniejsze źródła
 
@@ -87,6 +89,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]] — str. 11 (**potwierdzenie tożsamości "Wichura"/"Zygmunt", nowe fakty biograficzne**)
 - [[IPN-Bi-0088-531-J-Teczka-informator-Kanonier-Otap-Kazimierz]] — str. 6 (miejsce melinowania bandy — [[Place-Czaje-Bagno]])
 - [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]] — str. 36 (**status w sierpniu 1951: szeregowy członek "Huzara", konflikt rodzinny**)
+- [[IPN-BU-1069-60-t1-fragment-str114-122-wyrok-ulaskawienie]] — str. 116 (**odmowa prawa łaski, nakaz wykonania wyroku**)
 
 ## Niepewności i sprzeczności
 
@@ -101,7 +104,8 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 > Możliwe wyjaśnienia: (a) błąd urzędnika w jednym z dokumentów, (b) zaokrąglenie/przybliżenie roku w raporcie z 1952 r. dla osoby urodzonej pod koniec lutego 1922, (c) inny system odniesienia dat. Obie daty pochodzą z dokumentów administracyjnych (nie z aktu urodzenia), więc żadna nie ma automatycznego pierwszeństwa. Pola `birth_date`/`birth_place` w YAML pozostają puste do czasu potwierdzenia w akcie stanu cywilnego lub innym rozstrzygającym źródle.
 
 - **Niejasny pseudonim "Czarny"**: raport z 1952 r. (SRC-006, str. 11) zawiera zdanie "obecnie jest członkiem bandy 'Huzara', który to występuje pod ps. 'Czarny'" — gramatycznie niejasne, czy "Czarny" to dodatkowy pseudonim Kamińskiego ("Huzara") czy samego Parzonki w nowej roli w tej grupie. Nie przypisano tego pseudonimu żadnej z dwóch osób do czasu wyjaśnienia.
-- **Wykonanie wyroku**: źródło rejestruje skazanie na karę śmierci (31.03.1953) oraz spekulacje ludności, że wyrok może nie zostać wykonany z powodu śmierci Stalina (możliwa amnestia) — nie ma w tym dokumencie potwierdzenia faktycznego wykonania lub złagodzenia wyroku. Wymaga weryfikacji w dalszych dokumentach korpusu.
+- **Amnestia/łaska — ROZSTRZYGNIĘTE (odmówiona).** Spekulacje ludności z marca 1953 (że śmierć Stalina może doprowadzić do amnestii — patrz SRC-001) nie potwierdziły się: Rada Państwa 15.09.1953 odmówiła prawa łaski wobec Parzonki (w przeciwieństwie do współskazanego Kostry, któremu karę złagodzono). Patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]].
+- **Faktyczne wykonanie wyroku — NADAL NIEUSTALONE.** Nakaz "niezwłocznego wykonania" wydano 15.09.1953, ale dokładna data/miejsce/potwierdzenie faktycznego wykonania kary śmierci nie zostały wiarygodnie ustalone. Dostępne poszlaki (możliwe przekazanie sprawy do Białegostoku 21.09.1953) pochodzą z odczytu narzędziem wizyjnym, które **na sąsiedniej stronie tego samego dokumentu dało potwierdzoną halucynację** (podstawiło tekst niepowiązanego protokołu egzekucji gen. Fieldorfa) — dlatego te poszlaki NIE są traktowane jako fakt. Wymaga: ręcznego obejrzenia oryginalnych skanów stron 117-120 dokumentu [[IPN-BU-1069-60-t1-fragment-str114-122-wyrok-ulaskawienie]], lub dalszego przetwarzania pozostałych ~148 nieprzeczytanych jeszcze stron tego samego 157-stronicowego dokumentu, gdzie protokół wykonania może się powtórzyć w czytelniejszej formie.
 - **Wcześniejsze czyny (1946-47)**: doniesienie agenturalne (źródło "Kalinowski", str. 8 dokumentu SRC-001) sugeruje, że akt oskarżenia z 1953 r. nie obejmował wcześniejszych morderstw z lat 1946-47 przypisywanych Parzonce, w tym zabójstwa oficera Wojska Polskiego w Ciechanowcu. To niepotwierdzona wzmianka z drugiej ręki (plotka sądowa zanotowana przez agenta), nie ustalony fakt — oznaczono jako otwarte pytanie badawcze.
 - **Spór o odpowiedzialność z "Huzarem"**: podczas rozprawy Parzonko zeznał, że napadów i morderstw dokonywał z polecenia "Huzara", "zadając kłam" zeznaniom Kamińskiego — obaj dowódcy najwyraźniej przerzucali na siebie odpowiedzialność w trakcie procesu. Rzeczywisty podział dowodzenia/odpowiedzialności między obiema grupami pozostaje niejasny na podstawie tego jednego źródła.
 - **Miejsce melinowania (1952)**: wg teczki werbunkowej informatora "Kanonier" ([[IPN-Bi-0088-531-J-Teczka-informator-Kanonier-Otap-Kazimierz]]), banda Parzonki w 1952 r. korzystała z melina w domu rodziny Otapów we wsi [[Place-Czaje-Bagno]]. Ta sama rodzina wcześniej (1947-52) udzielała schronienia kolejno bandom "Łunaszki", "Młota" i "Huzara".
