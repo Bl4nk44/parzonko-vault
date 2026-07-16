@@ -9,6 +9,7 @@ surname: "Parzonko"
 aliases:
   - "Zygmunt"
   - "Parzenko Kazimierz"
+  - "Wichura (hipoteza robocza, patrz niepewności)"
 gender: "M"
 birth_date: null
 birth_date_accuracy: "unknown"
@@ -26,9 +27,11 @@ related_persons:
   - "PERSON-002"
   - "PERSON-003"
   - "PERSON-004"
+  - "PERSON-005"
 key_sources:
   - "SRC-001"
   - "SRC-004"
+  - "SRC-005"
 certainty: "high"
 tags:
   - type/person
@@ -67,6 +70,7 @@ Kazimierz Parzonko, działający pod pseudonimem "Zygmunt", dowodził grupą zbr
 
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 1, 5, 7, 8, 11, 12, 14
 - [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] — str. 5 (możliwa data urodzenia i imię ojca)
+- [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — str. 5 (możliwy wcześniejszy pseudonim "Wichura")
 
 ## Niepewności i sprzeczności
 
@@ -75,6 +79,12 @@ Kazimierz Parzonko, działający pod pseudonimem "Zygmunt", dowodził grupą zbr
 >
 > Podstawa:
 > [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] — str. 5, wpis rejestru akt: "Parzonko Kazimierz s. Stanisława ur. 28.02.1922". Dokument to ogólny rejestr administracyjny (protokół brakowania akt, 1973), nie materiał biograficzny — powiązanie z pseudonimem "Zygmunt" opiera się wyłącznie na zgodności imienia/nazwiska/kontekstu regionalnego, nie na bezpośrednim potwierdzeniu w tym źródle. Wysokie prawdopodobieństwo, nie pewny fakt — pola `birth_date`/`birth_place` w YAML pozostają puste do czasu potwierdzenia w innym, niezależnym źródle.
+
+> Hipoteza robocza:
+> Przed przyjęciem pseudonimu "Zygmunt", Kazimierz Parzonko mógł działać pod pseudonimem "Wichura" w okresie 1947-1948, zamieszkały we wsi [[Place-Lesnik]], w kontakcie z [[Person-Radziszewski-Mieczyslaw-Kwiat]].
+>
+> Podstawa:
+> [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — str. 5, zeznanie Radziszewskiego Mieczysława: "był ścigany Parzonko Kazimierz ps. 'Wichura', zam. we wsi Leśnik". Przesłanki za identycznością: zgodne imię/nazwisko, ten sam region operacyjny (Ciechanowiec), spójna chronologia (działalność konspiracyjna 1947-48, przed procesem 1953 r.). Nie ma jednak żadnego źródła stwierdzającego wprost "Wichura = Zygmunt" — zmiana pseudonimu między okresami/jednostkami była w tej epoce powszechna, ale nie jest tu potwierdzona. Możliwy związek z otwartym pytaniem o "wcześniejsze czyny 1946-47" (patrz niżej) — to samo zeznanie opisuje zabójstwo żołnierza M.O. w Ciechanowcu w maju 1946 r. (dokonane przez towarzysza Radziszewskiego, Moczulskiego ps. "Buran", nie bezpośrednio przez "Wichurę"/Parzonkę) — możliwe, że to jest źródło plotki sądowej z SRC-001, ale sprawcą wg tego zeznania był Moczulski, nie Parzonko. Wymaga dalszej weryfikacji.
 
 - **Wykonanie wyroku**: źródło rejestruje skazanie na karę śmierci (31.03.1953) oraz spekulacje ludności, że wyrok może nie zostać wykonany z powodu śmierci Stalina (możliwa amnestia) — nie ma w tym dokumencie potwierdzenia faktycznego wykonania lub złagodzenia wyroku. Wymaga weryfikacji w dalszych dokumentach korpusu.
 - **Wcześniejsze czyny (1946-47)**: doniesienie agenturalne (źródło "Kalinowski", str. 8 dokumentu SRC-001) sugeruje, że akt oskarżenia z 1953 r. nie obejmował wcześniejszych morderstw z lat 1946-47 przypisywanych Parzonce, w tym zabójstwa oficera Wojska Polskiego w Ciechanowcu. To niepotwierdzona wzmianka z drugiej ręki (plotka sądowa zanotowana przez agenta), nie ustalony fakt — oznaczono jako otwarte pytanie badawcze.

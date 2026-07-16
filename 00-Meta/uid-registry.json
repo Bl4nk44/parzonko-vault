@@ -1,8 +1,8 @@
 {
   "counters": {
-    "SRC": 4,
-    "PERSON": 4,
-    "PLACE": 2,
+    "SRC": 5,
+    "PERSON": 5,
+    "PLACE": 3,
     "EVENT:1953": 2
   },
   "aliases": {
@@ -16,6 +16,9 @@
     "Michal Parzonko": "PERSON-004",
     "Ciechanowiec": "PLACE-001",
     "Lapy": "PLACE-002",
-    "Łapy": "PLACE-002"
+    "Łapy": "PLACE-002",
+    "Radziszewski Mieczyslaw": "PERSON-005",
+    "Kwiat": "PERSON-005",
+    "Lesnik": "PLACE-003"
   }
 }
