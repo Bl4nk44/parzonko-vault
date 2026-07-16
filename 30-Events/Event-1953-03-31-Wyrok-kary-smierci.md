@@ -13,6 +13,7 @@ people_involved:
 category: "sentencing"
 sources:
   - "SRC-001#p11"
+  - "SRC-015"
 certainty: "high"
 tags:
   - type/event
@@ -39,8 +40,8 @@ Ludność komentowała wyrok jako sprawiedliwy wobec bezpośrednich sprawców, l
 
 - [[Person-Parzonko-Kazimierz-Zygmunt]]
 - [[Person-Radziszewski-Kazimierz-Marynarz]]
-- Kostro Józef ps. "Paweł" — **notatka osoby nie utworzona w tej kalibracji** (poza zakresem 2-3 dokumentów kalibracyjnych; do utworzenia w pełnym przebiegu, Task 9)
-- Mościcki Józef ps. "Pantera" — **notatka osoby nie utworzona w tej kalibracji**, jw.
+- [[Person-Kostro-Jozef-Kropki]] ps. "Paweł"
+- [[Person-Moscicki-Jozef-Pantera]] ps. "Pantera"
 
 ## Miejsce
 
@@ -49,6 +50,7 @@ Ludność komentowała wyrok jako sprawiedliwy wobec bezpośrednich sprawców, l
 ## Źródła
 
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 11
+- [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 141-157 (**pełny tekst wyroku, sprawa Sr.251/53 — źródło pierwotne, nadrzędne wobec streszczenia agenturalnego SRC-001**)
 
 ## Sprzeczne relacje
 

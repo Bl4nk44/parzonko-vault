@@ -1,11 +1,12 @@
 {
   "counters": {
-    "SRC": 14,
-    "PERSON": 16,
-    "PLACE": 11,
+    "SRC": 15,
+    "PERSON": 19,
+    "PLACE": 13,
     "EVENT:1953": 3,
     "EVENT:1948": 4,
-    "EVENT:1951": 2
+    "EVENT:1951": 2,
+    "EVENT:1950": 1
   },
   "aliases": {
     "Parzonko Kazimierz": "PERSON-001",
@@ -38,6 +39,11 @@
     "PERSON-014": "Jankowski Stanislaw informator",
     "PERSON-015": "Gontarczuk Antoni",
     "PERSON-016": "Jozwiak Stanislaw",
-    "PLACE-011": "Granne"
+    "PLACE-011": "Granne",
+    "PERSON-017": "Koc Bartlomiej",
+    "PERSON-018": "Koc Stefania",
+    "PERSON-019": "Pantera",
+    "PLACE-012": "Piatki-Zebry",
+    "PLACE-013": "Przybyszyn"
   }
 }

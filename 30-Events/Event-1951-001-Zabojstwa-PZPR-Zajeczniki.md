@@ -9,11 +9,13 @@ place: "PLACE-010"
 main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"
+  - "PERSON-003"
   - "PERSON-008"
   - "PERSON-009"
 category: "homicide"
 sources:
   - "SRC-012#p13"
+  - "SRC-015#p144"
 certainty: "high"
 tags:
   - type/event
@@ -31,6 +33,10 @@ tags:
 ## Przebieg
 
 Sprawozdanie Sekcji III PUBP (tabela "Bliższe dane odnośnie napadu") podaje ten czyn jako jeden z trzech udokumentowanych morderstw przypisanych bandzie "Zygmunta" w 1951 r., bez dalszych szczegółów okoliczności (motyw, przebieg, świadkowie) poza faktem, datą, ofiarami i przynależnością partyjną ofiar (PZPR).
+
+**Uzupełnienie z wyroku sądowego (SRC-015, str. 144)**: Kazimierz Parzonko, odszukawszy Burzyńskiego na uroczysku u jednego z gospodarzy, własnoręcznie pozbawił go życia. Michała Lejzerowicza zabił Kazimierz Radziszewski ps. "Marynarz" — patrz [[Person-Radziszewski-Kazimierz-Marynarz]].
+
+**Rozbieżność daty**: SRC-012 podaje 29.04.1951, SRC-015 podaje 30.04.1951 — nierozstrzygnięte, prawdopodobnie błąd o jeden dzień w jednym z dwóch dokumentów administracyjnych.
 
 ## Osoby
 

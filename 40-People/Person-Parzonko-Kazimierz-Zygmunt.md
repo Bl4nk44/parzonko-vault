@@ -14,9 +14,9 @@ aliases:
   - "Wichora"
   - "Kazik"
 gender: "M"
-birth_date: null
-birth_date_accuracy: "unknown"
-birth_place: null
+birth_date: "1922-02-28"
+birth_date_accuracy: "day"
+birth_place: "PLACE-003"
 death_date: "1953"
 death_date_accuracy: "year"
 death_place: null
@@ -35,6 +35,8 @@ related_persons:
   - "PERSON-004"
   - "PERSON-005"
   - "PERSON-007"
+  - "PERSON-011"
+  - "PERSON-019"
 key_sources:
   - "SRC-001"
   - "SRC-004"
@@ -48,6 +50,7 @@ key_sources:
   - "SRC-012"
   - "SRC-013"
   - "SRC-014"
+  - "SRC-015"
 certainty: "high"
 tags:
   - type/person
@@ -65,8 +68,8 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 
 ## Dane podstawowe
 
-- Data urodzenia: nieustalona ostatecznie — dwa niezależne źródła podają rozbieżne lata (1921 wg SRC-006, 28.02.1922 wg SRC-004), patrz sprzeczność niżej
-- Miejsce urodzenia: nieustalone wprost (miejsce zamieszkania: wieś Leśniki/Leśnik, gm. Ciechanowiec — patrz [[Place-Lesnik]])
+- Data urodzenia: **28.02.1922 r.** (Leśniki, gm. Ciechanowiec, pow. Bielsk Podlaski) — potwierdzone niezależnie w PEŁNYM WYROKU SĄDOWYM z 1953 r. (SRC-015, str. 141) oraz w rejestrze akt z 1973 r. (SRC-004); jedno rozbieżne źródło (SRC-006, raport identyfikacyjny 1952 r.) podaje "1921" — patrz zaktualizowana sprzeczność niżej. Rodzice: Stanisław Parzonko i Marianna (nazwisko panieńskie nieczytelne w OCR).
+- Miejsce urodzenia: Leśniki, gm. Ciechanowiec, pow. Bielsk Podlaski (SRC-015) — patrz [[Place-Lesnik]]
 - Stan cywilny (wg stanu na 1952 r.): kawaler
 - Majątek rodzinny: ojciec posiadał 7 ha ziemi we wsi Leśniki
 - Data śmierci: 1953 — skazany na karę śmierci 31.03.1953, **Rada Państwa odmówiła prawa łaski 15.09.1953** (nakaz niezwłocznego wykonania wyroku — patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]). **Dokładna data faktycznego wykonania wyroku nadal nieustalona** — dostępne poszlaki pochodzą z odczytu obarczonego potwierdzonym ryzykiem halucynacji, wymaga dalszej weryfikacji.
@@ -86,8 +89,9 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - 1948-10-18 — [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]] (podejrzany, wraz z Radziszewskim Mieczysławem)
 - 1948 — [[Event-1948-Aresztowanie-i-ucieczka]]
 - 1948 – sierpień 1951 — szeregowy członek bandy Kazimierza Kamińskiego ps. "Huzar" (potwierdzone wprost w sprawozdaniu z sierpnia 1951 r. — patrz [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]])
-- 1951-04-29 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] (zabójstwo Burzyńskiego i Lejzerowicza przez bandę "Zygmunta")
-- 1951-07-30 — [[Event-1951-002-Zabojstwo-Jasinskiego]] (zabójstwo Jasińskiego przez bandę "Zygmunta")
+- 1950-10-04 — [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (osobiście zastrzelił sołtysa Koca, na rozkaz "Huzara")
+- 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] (osobiście zabił Burzyńskiego)
+- 1951-07 (20 lub 30) — [[Event-1951-002-Zabojstwo-Jasinskiego]] (dobił ofiarę serią z broni automatycznej, po nieudanych strzałach Radziszewskiego)
 - sierpień 1951 – marzec 1953 — okno czasowe przejścia na samodzielne dowództwo własnej grupy ps. "Zygmunt" (dokładna data awansu nieustalona — w sierpniu 1951 wciąż szeregowy członek, w marcu 1953 już samodzielny dowódca)
 - 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
@@ -107,18 +111,21 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 3, 13 (**alias "Kazik", trzy udokumentowane zabójstwa bandy "Zygmunta" w 1951 r.**)
 - [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 18, 20 (rysopis, alias "Kazio", pełny skład i uzbrojenie bandy "Huzara" w 1948 r.)
 - [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]] — str. 16 (melina we wsi Granne, pow. Siemiatycze — najbardziej wysunięta na południe potwierdzona lokalizacja)
+- [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 141-145, 157 (**pełny wyrok sądowy — data i miejsce urodzenia, imiona rodziców, szczegółowe sprawstwo morderstw, przebieg procesu**)
 
 ## Niepewności i sprzeczności
 
 - **Tożsamość "Wichura" = "Zygmunt" — POTWIERDZONE.** Wcześniejsza hipoteza robocza (oparta wyłącznie na zeznaniu Radziszewskiego, [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]]) została niezależnie potwierdzona przez raport identyfikacyjny PUBP Bielsk Podlaski z 1952 r. ([[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]], str. 11), który wprost łączy dane osobowe Kazimierza Parzonki (ojciec Stanisław, wieś Leśniki, gm. Ciechanowiec) z pseudonimem "Wichora" oraz opisuje przejście z bandy "Młota" do bandy "Huzara" po ucieczce z aresztu w 1948 r.
 
-> Hipoteza robocza — NIEROZSTRZYGNIĘTA sprzeczność dat urodzenia:
-> Rok urodzenia: 1921 (wg SRC-006, raport 1952) **lub** 28.02.1922 (wg SRC-004, rejestr akt 1973).
+> Sprzeczność daty urodzenia — W WIĘKSZOŚCI ROZSTRZYGNIĘTA na korzyść 28.02.1922:
+> Trzy niezależne dokumenty administracyjne wspominają rok urodzenia — dwa z nich (rejestr akt MSW z 1973 r., SRC-004, oraz PEŁNY WYROK SĄDOWY WSR Warszawa z 1953 r., SRC-015 — dokument o najwyższej wiarygodności formalnej w tej sprawie) zgodnie podają **28.02.1922 r.**. Jeden, wcześniejszy dokument — raport identyfikacyjny PUBP Bielsk Podlaski z 1952 r. (SRC-006) — podaje **"1921"**.
 >
 > Podstawa:
+> [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 141: "ur. 28.11.1922" [sic — zapis niespójny wewnętrznie: nagłówek strony podaje "28.11.1922", ale wcześniej ustalona data z SRC-004 to "28.02.1922"; możliwy błąd maszynistki w jednym z dwóch dokumentów co do miesiąca (02 vs 11) — dzień "28" i rok "1922" zgodne w obu].
+> [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] — str. 5: "ur. 28.02.1922".
 > [[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]] — str. 11: "ur. 1921 r."
-> [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] — str. 5: "ur. 28.02.1922"
-> Możliwe wyjaśnienia: (a) błąd urzędnika w jednym z dokumentów, (b) zaokrąglenie/przybliżenie roku w raporcie z 1952 r. dla osoby urodzonej pod koniec lutego 1922, (c) inny system odniesienia dat. Obie daty pochodzą z dokumentów administracyjnych (nie z aktu urodzenia), więc żadna nie ma automatycznego pierwszeństwa. Pola `birth_date`/`birth_place` w YAML pozostają puste do czasu potwierdzenia w akcie stanu cywilnego lub innym rozstrzygającym źródle.
+>
+> Przyjęto rok **1922, dzień 28** jako ustalone (dwa niezależne, zgodne źródła administracyjne, w tym dokument sądowy o wysokiej wiarygodności formalnej), z **miesiącem przyjętym jako luty (02)** za rejestrem MSW z 1973 r. — nowo odnaleziony zapis "28.11" w wyroku sądowym (SRC-015) pozostaje nierozstrzygniętą drugorzędną niepewnością co do samego miesiąca, nie roku. Pole `birth_date` ustawiono na `1922-02-28`, ale **miesiąc wymaga dalszej weryfikacji** — nie traktować jako w 100% pewny.
 
 - **Pseudonim "Czarny" — ROZSTRZYGNIĘTE.** Wcześniejsza niejasność gramatyczna z raportu 1952 r. (SRC-006, str. 11: "jest członkiem bandy 'Huzara', który to występuje pod ps. 'Czarny'") rozstrzygnięta przez [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] (str. 3, doniesienie z maja 1950 — chronologicznie wcześniejsze źródło), które wprost stwierdza: "Parzonko Kazimierz pseudonim 'Czarny'". To trzeci potwierdzony pseudonim głównego bohatera.
 - **Amnestia/łaska — ROZSTRZYGNIĘTE (odmówiona).** Spekulacje ludności z marca 1953 (że śmierć Stalina może doprowadzić do amnestii — patrz SRC-001) nie potwierdziły się: Rada Państwa 15.09.1953 odmówiła prawa łaski wobec Parzonki (w przeciwieństwie do współskazanego Kostry, któremu karę złagodzono). Patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]].

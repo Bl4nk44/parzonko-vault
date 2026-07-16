@@ -30,6 +30,7 @@ key_sources:
   - "SRC-008"
   - "SRC-012"
   - "SRC-013"
+  - "SRC-015"
 certainty: "high"
 tags:
   - type/person
@@ -64,6 +65,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - 1949-1951 — udokumentowane zabójstwa funkcjonariuszy MO/ORMO
 - 1948-02 — [[Event-1948-004-Zabojstwo-Jankowskiego-informatora]] (zlecił zabójstwo)
 - 1948-03 — [[Event-1948-003-Zabojstwo-Dymitrowa]] (osobiście dokonał egzekucji)
+- 1950-10-04 — [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (wydał rozkaz zabójstwa)
 - 1951 (przed sierpniem) — podporządkowanie sobie bandy "Hanki"
 - 1951-05-29 — akcja K.B.W., likwidacja 4 członków bandy (w tym Żukowski ps. "Waspiuk", Porowski ps. "Bobrek")
 - 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
@@ -75,6 +77,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]] — str. 21, 27-29 (**historia powstania bandy, struktura, zbrodnie**)
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 3 (miejsce urodzenia, pełny skład osobowy bandy)
 - [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 17, 21 (**osobiste dokonanie zabójstwa Dymitrowa, zlecenie zabójstwa Jankowskiego**)
+- [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 143 (zlecenie zabójstwa sołtysa Koca)
 
 ## Niepewności i sprzeczności
 
