@@ -25,6 +25,7 @@ related_persons:
   - "PERSON-019"
 key_sources:
   - "SRC-017"
+  - "SRC-035"
 certainty: "high"
 tags:
   - type/person
@@ -67,8 +68,12 @@ Henryk Parzonko, s. Michała i Marii z d. Fiedoruk (w innym miejscu źródła: S
 ## Najważniejsze źródła
 
 - [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]] — całość akt (doniesienia agenturalne, przesłuchania, wyrok)
+- [[IPN-Bi-212-5128-Akt-oskarzenia-Parzonko-Henryk]] — str. 71, 73 (akt oskarżenia, pełny tekst zarzutów i wykaz świadków)
 
 ## Niepewności i sprzeczności
 
 - **Rozbieżność nazwiska panieńskiego matki**: "Fiedoruk" (str. 22) vs "Siderczuk" (str. 13) — nierozstrzygnięte, możliwy błąd maszynistki w jednym z dokumentów.
 - **Możliwe pokrewieństwo z głównym bohaterem** — patrz uwaga w Podsumowaniu, hipoteza robocza nierozstrzygnięta.
+- **Kolejna rozbieżność daty urodzenia**: SRC-035 (karta informacyjna) podaje 19.12.1927, odmiennie od 20.02.1927 (SRC-017) — nierozstrzygnięte, prawdopodobny błąd maszynistki w jednym z dwóch niezależnie prowadzonych zbiorów akt tej samej sprawy.
+- **Doprecyzowanie mechanizmu zdobycia amunicji** (SRC-035): znaleziona amunicja (400 szt. do RKM, w pniu w lesie Obryczyzna) została przez Henryka **sprzedana** bandzie za 500 zł, nie tylko "dostarczona" — formalny akt oskarżenia jest tu bardziej precyzyjny niż wcześniej wykorzystane źródło.
+- **Formalne powiązanie z głównym procesem Sr.251/53** potwierdzone: wykaz świadków w akcie oskarżenia (SRC-035, str. 73) obejmuje wszystkich czterech głównych oskarżonych tamtej sprawy (Mościcki, Radziszewski, Parzonko Kazimierz, Kostro), przetrzymywanych w więzieniu Warszawa I w chwili sporządzania aktu.
