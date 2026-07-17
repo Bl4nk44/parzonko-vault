@@ -9,80 +9,86 @@ surname: "Radziszewski"
 aliases:
   - "Kwiat"
   - "Zagłoba"
+  - "Koc Władysław"
 gender: "M"
-birth_date: null
-birth_date_accuracy: "unknown"
-birth_place: null
+birth_date: "1926-01-01"
+birth_date_accuracy: "day"
+birth_place: "PLACE-008"
 death_date: null
 death_date_accuracy: "unknown"
 death_place: null
 nationality: "polska"
 occupation:
-  - "bez pracy (w okresie działalności konspiracyjnej)"
+  - "cieśla/murarz"
 roles:
-  - "łącznik organizacji \"WiN\", ps. \"Kwiat\""
+  - "łącznik i zastępca dowódcy patrolu organizacji \"WiN\"/bandy \"Młota\", ps. \"Kwiat\"/\"Zagłoba\""
 related_to_main_person: "witness"
 related_persons:
   - "PERSON-001"
+  - "PERSON-028"
+  - "PERSON-029"
 key_sources:
   - "SRC-005"
   - "SRC-010"
   - "SRC-011"
-certainty: "medium"
+  - "SRC-023"
+certainty: "high"
 tags:
   - type/person
-  - status/requires-review
+  - status/unreviewed
   - topic/resistance
 ---
 
-# Mieczysław Radziszewski ("Kwiat")
+# Mieczysław Radziszewski ("Kwiat" / "Zagłoba")
 
 ## Podsumowanie
 
-Mieczysław Radziszewski, ps. "Kwiat", syn Aleksandra i Stanisławy z Kozłowskich, zamieszkały w Warszawie-Pradze. W maju 1946 r. wstąpił do organizacji "WiN", pełniąc funkcję łącznika. Uczestniczył w zabójstwie żołnierza Milicji Obywatelskiej w Ciechanowcu (30.05.1946), po czym ukrywał się. Od października 1947 r. ukrywał się razem z osobą określaną jako "Parzonko Kazimierz ps. 'Wichura'" — możliwym wcześniejszym wcieleniem głównego bohatera vaulta, [[Person-Parzonko-Kazimierz-Zygmunt]] (patrz hipoteza robocza w tamtej notatce). Aresztowany 25 grudnia 1948 r.
+Mieczysław Radziszewski, s. Aleksandra i Stanisławy z d. Kozłowskiej, ur. 1.01.1926 r. we wsi Radziszewo-Króle, gm. Ciechanowiec, pow. Bielsk Podlaski. **Tożsamość w pełni ROZSTRZYGNIĘTA** przez [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]] — kompletne akta kontrolno-śledcze (1948-1949) potwierdzają dane osobowe identyczne z wcześniej znanymi z [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] i jednoznacznie łączą **oba dotąd odrębnie udokumentowane pseudonimy — "Kwiat" i "Zagłoba" — jako należące do tej samej osoby**, a dodatkowo ujawniają trzecią, fałszywą tożsamość: **"Koc Władysław"**, używaną od listopada 1948 r. w Warszawie.
 
-**Uwaga o rozróżnieniu tożsamości:** ta osoba (Mieczysław) jest **odrębna** od [[Person-Radziszewski-Kazimierz-Marynarz]] (Kazimierz, ps. "Marynarz", współoskarżony w procesie "Zygmunta"/"Huzara" z 1953 r.) — inne imię, inna sprawa, inny dowódca ("Jaskółka"/Pilecki vs "Zygmunt"/Parzonko). Nie scalono mimo zbieżności nazwiska.
+W maju 1946 r. wstąpił do organizacji "WiN" (zaprzysiężony przez Porzezińskiego Adama ps. "Wilk"), otrzymując pseudonim "Zagłoba"/"Kwiat". 8 czerwca 1946 r. uczestniczył w zabójstwie funkcjonariusza PUBP Sidorczuka w Ciechanowcu — patrz [[Event-1946-001-Zabojstwo-Sidorczuka-Ciechanowiec]]. Od jesieni 1946 r. pełnił funkcję zastępcy dowódcy patrolu, którym dowodził **Kazimierz Parzonko ps. "Wichura"** — patrol ten podlegał kolejno "Wilkowi", "Lufie" i "Młotowi". Radziszewski osobiście brał udział (najczęściej jako wartownik/obserwator) w co najmniej kilkunastu udokumentowanych napadach rabunkowych na gospodarzy w regionie Ciechanowca w latach 1946-1948 (wsie: Radziszewo-Stare, Trzaski, Winna, Leśniki, Głęboczek, Kołaki, Mocydły, Czarkówka-Mała i inne), dowodzonych przez Parzonkę.
+
+Ujawnił się w kwietniu 1947 r. w Sokołowie Podlaskim (zatajając rzeczywistą działalność), ale już w październiku 1947 r. wznowił kontakt z Parzonką i ukrywał się z nim wspólnie w schronie w lesie koło wsi Skorzec. We wrześniu 1948 r. wyjechał do Warszawy, gdzie za pośrednictwem Pskieta Eugeniusza uzyskał sfałszowane dokumenty na nazwisko **Koc Władysław** (koszt: 8000 zł) i zamieszkał u swojej siostry Jarzębskiej Leonardy przy ul. Serockiej. Zatrzymany 24.12.1948 r.
 
 ## Dane podstawowe
 
-- Data urodzenia: nieustalona
-- Miejsce urodzenia: nieustalone
-- Data śmierci: nieustalona
-- Role: łącznik organizacji "WiN" pomiędzy Porzezińskim Adamem ps. "Wilk" a Gorzkowskim [imię nieznane]
-- Pseudonimy: "Kwiat" (odczyt OCR niepewny — patrz uwaga w źródle)
+- Data urodzenia: 1926-01-01
+- Miejsce urodzenia: [[Place-Radziszewo-Krole]] (Radziszewo-Króle), gm. Ciechanowiec, pow. Bielsk Podlaski
+- Rodzice: Aleksander Radziszewski i Stanisława z d. Kozłowska
+- Wykształcenie: 6 oddziałów szkoły powszechnej
+- Zawód: cieśla/murarz
+- Role: łącznik, następnie zastępca dowódcy patrolu (Parzonki) w organizacji "WiN"/bandzie "Młota"
+- Pseudonimy: "Kwiat", "Zagłoba" (potwierdzone jako ten sam pseudonim/osoba), fałszywa tożsamość "Koc Władysław" (od XI.1948)
 
 ## Relacje
 
-Brak potwierdzonych relacji rodzinnych w tym źródle poza imionami rodziców (Aleksander Radziszewski i Stanisława z domu Kozłowska — rodzice nie mają osobnych notatek, brak dalszych danych o nich).
+Brak potwierdzonych relacji rodzinnych poza rodzicami. Siostra: Jarzębska Leonora/Eleonora, zamieszkała w Warszawie przy ul. Serockiej — u niej ukrywał się pod fałszywym nazwiskiem.
 
 ## Chronologia życia
 
+- 1926-01-01 — urodzony w Radziszewie-Królach
 - 1946-05 — wstąpienie do organizacji "WiN", zaprzysiężenie przez Porzezińskiego Adama ps. "Wilk"
-- 1946-05-30 — udział w zabójstwie żołnierza M.O. w Ciechanowcu (dokonanym przez towarzysza, Moczulskiego ps. "Buran")
-- 1947-04 — ujawnienie się w Sokołowie Podlaskim
-- 1947-10 — ponowne wejście do konspiracji, kontakt z "Parzonko Kazimierz ps. Wichura"
+- 1946-06-08 — [[Event-1946-001-Zabojstwo-Sidorczuka-Ciechanowiec]]
+- 1946-09 (od) — zastępca dowódcy patrolu Kazimierza Parzonki ps. "Wichura" (podlegającego "Wilkowi"/"Lufie"/"Młotowi"); udział w kilkunastu napadach rabunkowych 1946-1948
+- 1947-04 — ujawnienie się w Sokołowie Podlaskim (zatajając rzeczywistą działalność)
+- 1947-10 — ponowne wejście do konspiracji, wspólne ukrywanie się z Parzonką w schronie koło wsi Skorzec
+- 1948-06-24 — ranny podczas ucieczki po nieudanym spotkaniu koło wsi Skorzec (strzelanina z zasadzki)
+- 1948-09 — wyjazd do Warszawy, uzyskanie fałszywych dokumentów na nazwisko "Koc Władysław"
 - 1948-10-18 — [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]] (podejrzany, pod ps. "Zagłoba", wraz z Parzonko Kazimierzem)
-- 1948-12-25 — aresztowanie (możliwe uszczegółowienie okoliczności: schwytany w Warszawie u szwagra, po pijanemu grożąc mu pistoletem — patrz hipoteza robocza niżej)
+- 1948-12-24/25 — aresztowanie w Warszawie
 - do maja 1950 — nadal w więzieniu w Białymstoku (wg [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]])
-
-(Nie utworzono osobnych notatek `30-Events/` dla powyższych epizodów w tej partii przetwarzania — do rozważenia przy pełnym przebiegu Task 9, jeśli uznane za wystarczająco istotne dla struktury wydarzeń całego vaulta.)
 
 ## Najważniejsze źródła
 
 - [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — str. 4-5 (całość zeznania)
-- [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] — str. 3 (możliwe dalsze losy — dowodzenie bandą przed schwytaniem)
-- [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] — str. 11 (podejrzenie o zabójstwo żołnierza KBW pod ps. "Zagłoba", wraz z Parzonko Kazimierzem, 2 miesiące przed aresztowaniem)
+- [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] — str. 3
+- [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] — str. 11
+- [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]] — całość akt (**pełne dane osobowe, rozstrzygnięcie tożsamości "Kwiat"="Zagłoba"="Koc Władysław", pełna wczesna chronologia 1946-1948**)
 
 ## Niepewności i sprzeczności
 
-- Pseudonim odczytany niepewnie z OCR ("Kwiat" — rekonstrukcja, oryginalny odczyt "Z6głŁORE"="KWIGU" nieczytelny wprost) — wymaga weryfikacji na skanie.
-- Data i miejsce urodzenia nieczytelne w źródle.
-- Patrz też niepewność w [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] dot. tożsamości "Parzonko Kazimierz ps. Wichura" wymienionego w tym zeznaniu.
+- **Tożsamość "Kwiat"="Zagłoba" — ROZSTRZYGNIĘTA.** [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]] wprost podaje oba pseudonimy razem ("ps. 'Kwiat', 'Zagłoba'") dla tej samej osoby o danych osobowych identycznych z już znanymi (Aleksander i Stanisława z Kozłowskich, Radziszewo-Króle, ur. 1926). Wcześniejsza hipoteza dotycząca ewentualnej identyczności z Radziszewskim Mieczysławem, "wcześniejszym dowódcą bandy" z [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]], pozostaje jednak **odrębną, wciąż nie w pełni potwierdzoną kwestią** (patrz niżej) — to inne pytanie niż tożsamość "Kwiat"/"Zagłoba" między sobą.
+- Sprzeczność bezpośredniego sprawcy zabójstwa Sidorczuka (Radziszewski vs Moczulski) — patrz [[Event-1946-001-Zabojstwo-Sidorczuka-Ciechanowiec]].
+- Data i dokładne okoliczności zranienia 24.06.1948 r. (zasadzka koło wsi Skorzec) — częściowo niespójne między różnymi fragmentami zeznań co do dokładnego przebiegu.
 
-> Hipoteza robocza:
-> Ten sam Radziszewski Mieczysław mógł, przed schwytaniem w Warszawie u szwagra (po pijanemu grożąc mu pistoletem), przez pewien czas dowodzić bandą powiązaną z "Huzarem" — banda ta następnie rozpadła się na dwie podgrupy, jedną z nich prowadził Parzonko Kazimierz ps. "Czarny".
->
-> Podstawa:
-> [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] — str. 3: "Bandyci w/w są związani z bandytą Radziszewskim Mieczysławem ze wsi Radziszewo-Króle gm. Ciechanowiec, który został ujęty przez władze bezpieczeństwa w Warszawie u swego szwagra [...] Przed schwytaniem dowodził tą bandą." Przesłanki za identycznością z osobą z [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]]: ta sama wieś (Radziszewo-Króle), spójna chronologia (aresztowany 25.12.1948, nadal w więzieniu w Białymstoku w maju 1950 wg tego doniesienia). Nie potwierdzone wprost — ten dokument nie podaje pseudonimu "Kwiat" ani nie odsyła do sprawy "Jaskółka".
->
-> **Dodatkowe wzmocnienie (SRC-011):** [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] (str. 11) — meldunek dochodzeniowy z 1949 r. w sprawie zabójstwa żołnierza KBW z 18.10.1948 r. — wskazuje jako podejrzanych obok siebie "Parzonko Kazimierz ps. 'Wicher'" (=Parzonko Kazimierz, wariant zapisu "Wichura") oraz "Radziszewski Mieczysław ps. 'Zagłoba', zam. wieś Radziszewo-Króle". To stawia Radziszewskiego Mieczysława w bezpośredniej, udokumentowanej współpracy z Parzonko Kazimierzem na 2 miesiące przed aresztowaniem 25.12.1948 opisanym w [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] — ta sama wieś, spójna chronologia, i teraz także spójny krąg towarzyski (obaj działający wspólnie). Nie rozstrzyga ostatecznie tożsamości (dokument ten nie podaje pseudonimu "Kwiat"), ale znacząco podnosi prawdopodobieństwo hipotezy — trzeci, niezależny pseudonim ("Zagłoba") tej samej prawdopodobnie osoby, obok "Kwiat" i roli "wcześniejszego dowódcy bandy" z SRC-010.
+> Hipoteza robocza (dotąd nierozstrzygnięta — odrębna od kwestii "Kwiat"="Zagłoba"):
+> Czy ten sam Radziszewski Mieczysław przed schwytaniem w Warszawie u szwagra dowodził bandą powiązaną z "Huzarem", jak sugeruje [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] (str. 3)? Nowo odnaleziony SRC-023 nie porusza tego wątku (kończy się na aresztowaniu w grudniu 1948 r. w Warszawie, nie precyzując działalności "dowódczej" bezpośrednio przed zatrzymaniem) — hipoteza pozostaje w tym samym stanie co poprzednio, ani potwierdzona, ani obalona.

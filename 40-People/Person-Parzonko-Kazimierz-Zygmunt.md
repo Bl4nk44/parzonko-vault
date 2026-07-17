@@ -56,6 +56,7 @@ key_sources:
   - "SRC-020"
   - "SRC-021"
   - "SRC-022"
+  - "SRC-023"
 certainty: "high"
 tags:
   - type/person
@@ -90,7 +91,8 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 
 ## Chronologia życia
 
-- 1946-1948 — członek bandy "Młota" pod pseudonimem "Wichura"/"Wichora"
+- 1946-09 (od) — **dowódca patrolu** (podlegającego kolejno "Wilkowi", "Lufie" i "Młotowi") pod pseudonimem "Wichura" — data i rola potwierdzone niezależnie przez zeznania podwładnego, Radziszewskiego Mieczysława ps. "Kwiat"/"Zagłoba" ([[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]]) — **wcześniejsze potwierdzenie roli dowódczej niż dotąd sądzono** (poprzednio najwcześniejsze pewne dowództwo datowano na okres po sierpniu 1951 r., choć samo członkostwo w "Młocie" znane było od 1946 r.)
+- 1946-1948 — dowodzenie patrolem, udział w kilkunastu udokumentowanych napadach rabunkowych na gospodarzy w rejonie Ciechanowca (wsie: Radziszewo-Stare, Trzaski, Winna, Leśniki, Głęboczek, Kołaki, Mocydły, Czarkówka-Mała i inne) — szczegóły w [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]]
 - 1948-10-18 — [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]] (podejrzany, wraz z Radziszewskim Mieczysławem)
 - 1948 — [[Event-1948-Aresztowanie-i-ucieczka]]
 - 1948 – sierpień 1951 — szeregowy członek bandy Kazimierza Kamińskiego ps. "Huzar" (potwierdzone wprost w sprawozdaniu z sierpnia 1951 r. — patrz [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]])
@@ -147,6 +149,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 > Hipoteza robocza — NIEROZSTRZYGNIĘTA sprzeczność chronologii przejścia na samodzielne dowództwo:
 > [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] (str. 13) przypisuje bandzie "Zygmunta" trzy zabójstwa datowane 29.04.1951 i 30.07.1951 — czyli PRZED sierpniem 1951, kiedy to (wg [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]], str. 36) Parzonko wciąż figuruje jako szeregowy członek bandy "Huzara", bez własnego dowództwa. Możliwe wyjaśnienia: (a) nazwa "Zygmunt" mogła oznaczać pseudonim operacyjny/kryptonim przypisywany już wcześniej konkretnym akcjom bandy "Huzara" prowadzonym przez podgrupę czy patrol Parzonki, zanim formalnie przejął pełne, samodzielne dowództwo całej grupy; (b) błąd datowania w jednym z dwóch sprawozdań; (c) dwa różne dokumenty odzwierciedlają dwa różne aspekty tej samej płynnej struktury dowodzenia (Parzonko mógł dowodzić własnym patrolem w ramach szerszej bandy "Huzara" już w 1951 r., będąc jednocześnie z formalnego punktu widzenia jej "szeregowym członkiem"). Wymaga dalszych źródeł do rozstrzygnięcia.
 
+- **Nieoczywisty przebieg kariery dowódczej — "wzlot-upadek-wzlot"**: [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]] dokumentuje, że Parzonko dowodził własnym patrolem już od 1946 r. (w ramach bandy "Młota"). Po ucieczce z aresztu w 1948 r. i dołączeniu do bandy "Huzara" spadł jednak do roli szeregowego członka (potwierdzone dla sierpnia 1951 r.), by dopiero między sierpniem 1951 a marcem 1953 r. ponownie objąć samodzielne dowództwo (tym razem grupy "Zygmunt"). Niecodzienny, ale wewnętrznie spójny wzorzec: doświadczony dowódca patrolu z okresu "Młota" najwyraźniej zaczynał na nowo w hierarchii nowej bandy po dołączeniu do niej w 1948 r.
 - **Status w sierpniu 1951**: sprawozdanie operacyjne PUBP Wysokie Mazowieckie ([[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]], str. 36) opisuje Parzonkę jako **szeregowego członka** bandy "Huzara" — brak jakiejkolwiek wzmianki o samodzielnym dowodzeniu. To zawęża okno czasowe przejścia na dowództwo własnej grupy "Zygmunt" do okresu sierpień 1951 – marzec 1953.
 - **Wcześniejszy epizod z 1948 r. — możliwy udział w zabójstwie żołnierza KBW.** [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] (str. 11) wskazuje Parzonkę (jako "Parzonko Kazimierz, ps. 'Wicher'" — wariant zapisu "Wichura"/"Wichora", uznany za tę samą osobę) obok Mieczysława Radziszewskiego ps. "Zagłoba" jako podejrzanych o zabójstwo żołnierza KBW Alojzego Rozwalskiego (18.10.1948, wieś Radziszewo-Króle) — patrz [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]]. Tożsamość sprawców oparta wyłącznie na "poufnych wywiadach" MO, nie na dowodzie bezpośrednim — certainty tego wydarzenia: medium. Istotne jako poszlaka wcześniejszej (przed grudniem 1948) współpracy Parzonki z Radziszewskim Mieczysławem, wzmacniająca hipotezę roboczą w [[Person-Radziszewski-Mieczyslaw-Kwiat]].
 - **Drobna rozbieżność rysopisu**: liczba złotych zębów — jeden (wg SRC-010, maj 1950) vs dwa (wg [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]], zeznanie z grudnia 1950 r. odnoszące się do stanu z 1948 r.). Możliwe wyjaśnienia: (a) błąd pamięci zeznającego (Danieluk opisywał osobę sprzed ok. 2-3 lat), (b) rzeczywista zmiana (kolejny złoty ząb wstawiony między 1948 a 1950 r.), (c) błąd w jednym z dokumentów. Nie rozstrzygnięte, nieistotne dla tożsamości (pozostałe cechy rysopisu spójne).
