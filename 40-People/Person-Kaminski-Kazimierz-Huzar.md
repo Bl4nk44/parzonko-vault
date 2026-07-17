@@ -31,6 +31,7 @@ key_sources:
   - "SRC-012"
   - "SRC-013"
   - "SRC-015"
+  - "SRC-020"
 certainty: "high"
 tags:
   - type/person
@@ -62,6 +63,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 ## Chronologia życia
 
 - ~1947 — połączenie z resztkami bandy "Młota" po amnestii, przejęcie dowództwa po jej likwidacji
+- 1948-07 — [[Event-1948-005-Potyczka-Ciechanowiec-Dybowscy]] (śmierć dwóch podwładnych w potyczce z wojskiem)
 - 1949-1951 — udokumentowane zabójstwa funkcjonariuszy MO/ORMO
 - 1948-02 — [[Event-1948-004-Zabojstwo-Jankowskiego-informatora]] (zlecił zabójstwo)
 - 1948-03 — [[Event-1948-003-Zabojstwo-Dymitrowa]] (osobiście dokonał egzekucji)

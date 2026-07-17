@@ -1,10 +1,10 @@
 {
   "counters": {
-    "SRC": 19,
-    "PERSON": 20,
+    "SRC": 20,
+    "PERSON": 22,
     "PLACE": 14,
     "EVENT:1953": 3,
-    "EVENT:1948": 4,
+    "EVENT:1948": 5,
     "EVENT:1951": 2,
     "EVENT:1950": 1
   },
@@ -46,6 +46,8 @@
     "PLACE-012": "Piatki-Zebry",
     "PLACE-013": "Przybyszyn",
     "PERSON-020": "Parzonko Henryk",
-    "PLACE-014": "Pelch"
+    "PLACE-014": "Pelch",
+    "PERSON-021": "Dybowski Ryszard",
+    "PERSON-022": "Dybowski Czeslaw"
   }
 }

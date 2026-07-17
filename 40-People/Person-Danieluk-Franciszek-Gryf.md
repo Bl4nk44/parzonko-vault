@@ -26,6 +26,7 @@ related_persons:
   - "PERSON-002"
 key_sources:
   - "SRC-013"
+  - "SRC-020"
 certainty: "high"
 tags:
   - type/person
@@ -37,11 +38,13 @@ tags:
 
 ## Podsumowanie
 
-Franciszek Danieluk, ps. "Gryf", ur. w 1926 r. w gm. Brańsk, pow. Bielsk Podlaski, rolnik (ojciec posiadał 5,5 ha ziemi), członek bandy "Huzara" — jeden ze wskazanych już w [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] jako "Danieluk Franciszek ps. 'Gryf'". Złożył obszerne, szczegółowe zeznania (przesłuchanie podejrzanego, 18.XII.1950 r., Białystok) opisujące skład osobowy, uzbrojenie, rysopisy członków, sieć melin oraz kilka udokumentowanych morderstw bandy "Huzara" z lat 1948-1950 — patrz [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]].
+Franciszek Danieluk, ps. "Gryf", s. Stanisława, rolnik (ojciec posiadał 5,5 ha ziemi), członek bandy "Huzara" — jeden ze wskazanych już w [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] jako "Danieluk Franciszek ps. 'Gryf'". Złożył co najmniej dwa obszerne zeznania: 28.11.1950 r. ([[IPN-Bi-07-443-Zeznania-Daniluk-Franciszek-Gryf-28-11-1950]]) i 18.XII.1950 r. ([[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]]), obie w Białymstoku, opisujące skład osobowy, uzbrojenie, rysopisy członków, sieć melin, harmonogram kontaktów oraz kilka udokumentowanych morderstw i potyczek bandy "Huzara" z lat 1948-1950.
+
+**Rozbieżność daty urodzenia**: karta informacyjna teczki [[IPN-Bi-07-443-Zeznania-Daniluk-Franciszek-Gryf-28-11-1950]] podaje "ur. 04-05-1920 r.", podczas gdy formularz przesłuchania w [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] podaje "1926 r." — nierozstrzygnięte, możliwy błąd urzędnika w jednym z dokumentów (6-letnia różnica jest zbyt duża na zwykłą pomyłkę o rok).
 
 ## Dane podstawowe
 
-- Data urodzenia: 1926 (rok)
+- Data urodzenia: 1926 (wg SRC-013) lub 04.05.1920 (wg SRC-020) — patrz niepewności
 - Miejsce urodzenia: gm. Brańsk, pow. Bielsk Podlaski (dokładna wieś nieczytelna w OCR)
 - Role: rolnik; członek bandy "Huzara"
 - Pseudonimy: "Gryf"
@@ -53,12 +56,16 @@ Brak danych o rodzinie w dostępnym źródle poza wzmianką o rodzicach (ojciec 
 
 ## Chronologia życia
 
-- 1950-12-18 — przesłuchanie w charakterze podejrzanego w Białymstoku (źródło niniejszych, obszernych zeznań)
+- 1948-07 — [[Event-1948-005-Potyczka-Ciechanowiec-Dybowscy]] (uczestnik/świadek)
+- 1950-11-28 — przesłuchanie w charakterze podejrzanego (źródło SRC-020)
+- 1950-12-18 — przesłuchanie w charakterze podejrzanego w Białymstoku (źródło SRC-013)
 
 ## Najważniejsze źródła
 
 - [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 16-26 (całość obszernego zeznania: skład bandy, rysopisy, meliny, morderstwa)
+- [[IPN-Bi-07-443-Zeznania-Daniluk-Franciszek-Gryf-28-11-1950]] — str. 42-45 (wcześniejsze zeznanie: potyczka pod Ciechanowcem, harmonogram kontaktów z bandą)
 
 ## Niepewności i sprzeczności
 
-Brak istotnych sprzeczności w tym źródle — zeznanie wewnętrznie spójne, choć fragmentami nieczytelne w OCR (liczne przerwy w tekście oznaczone jako "[nieczytelne]").
+- **Rozbieżność daty urodzenia** — patrz Podsumowanie (1920 vs 1926).
+- Poza tym brak istotnych sprzeczności — zeznania wewnętrznie spójne, choć fragmentami nieczytelne w OCR (liczne przerwy w tekście oznaczone jako "[nieczytelne]").

@@ -53,6 +53,7 @@ key_sources:
   - "SRC-015"
   - "SRC-016"
   - "SRC-017"
+  - "SRC-020"
 certainty: "high"
 tags:
   - type/person
@@ -115,6 +116,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]] — str. 16 (melina we wsi Granne, pow. Siemiatycze — najbardziej wysunięta na południe potwierdzona lokalizacja)
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 141-145, 157 (**pełny wyrok sądowy — data i miejsce urodzenia, imiona rodziców, szczegółowe sprawstwo morderstw, przebieg procesu**)
 - [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]] — str. 6-8 (**lokalizacja bunkra bandy k. Pełcha, zabójstwo "Sokoła"**)
+- [[IPN-Bi-07-443-Zeznania-Daniluk-Franciszek-Gryf-28-11-1950]] — str. 45 (**wczesne poświadczenie aliasu "Zygmunt", 1.11.1950 — wcześniej niż dotąd sądzono**)
 
 ## Niepewności i sprzeczności
 
