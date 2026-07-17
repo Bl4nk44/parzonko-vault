@@ -24,6 +24,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-013"
+  - "SRC-028"
 certainty: "high"
 tags:
   - type/person
@@ -55,8 +56,10 @@ Antoni Gontarczuk, ur. 22.07.1921 r. w Bojance (gm. Ciechanowiec, pow. Bielsk Po
 ## Najważniejsze źródła
 
 - [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 13-15
+- [[IPN-Bi-019-24-t3-Czyny-przestepcze-VI-Brygada-Wilenska]] — str. 20 (nazwisko "Gontarczuk" pojawia się na karcie czynu przestępnego razem z Parzonką, ale sam opis czynu nieczytelny w OCR — patrz niepewności)
 
 ## Niepewności i sprzeczności
 
 - Nazwisko brata Gontarczuka (członka bandy "Młota") nie jest podane w tym fragmencie — brak dostatecznych danych do utworzenia dla niego osobnej notatki.
 - Znaczna część zeznania (str. 8-12 tej samej teczki) jest nieczytelna w OCR — możliwe, że zawiera dalsze, powiązane szczegóły; wymaga ponownego odczytu na oryginalnym skanie lub metodą wizyjną z obowiązkową weryfikacją krzyżową.
+- SRC-028 (str. 20) wymienia "Gontarczuk" na karcie czynu przestępnego razem z "Farzonko"/Parzonką — niejasne, czy dotyczy tej samej osoby (świadka) czy jego nieznanego z imienia brata (członka bandy "Młota"); opis czynu nieczytelny, więc nie da się rozstrzygnąć. Wymaga vision-OCR.
