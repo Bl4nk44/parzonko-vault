@@ -25,6 +25,7 @@ related_persons:
   - "PERSON-022"
 key_sources:
   - "SRC-020"
+  - "SRC-032"
 certainty: "medium"
 tags:
   - type/person
@@ -61,3 +62,5 @@ Ryszard Dybowski, ps. "Warkocz", zamieszkały Ciechanowiec, członek bandy "Huza
 ## Niepewności i sprzeczności
 
 Brak istotnych sprzeczności — spójne między dwoma niezależnymi zeznaniami tego samego świadka (Danieluk Franciszek), złożonymi w odstępie miesiąca.
+
+- **Możliwa poważna sprzeczność**: fragment innej sprawy w tej samej teczce co [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] (SRC-032, str. 35, silnie zniekształcony) opisuje "Dybowskiego Ryszarda" składającego zeznania o wydarzeniach z 1952 r. (pogrzeb "Młota" z udziałem księdza Borysiewicza) — co kłóciłoby się ze śmiercią w lipcu 1948 r. ustaloną tutaj. Tekst źródłowy zbyt skorumpowany, by rozstrzygnąć, czy to inna osoba o tym samym imieniu/nazwisku, błąd odczytu OCR, czy podważenie wcześniejszego ustalenia. Wymaga ponownego, dokładniejszego odczytu (ewentualnie vision-OCR) przed jakąkolwiek zmianą pola `death_date`.

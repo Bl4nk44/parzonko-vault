@@ -25,6 +25,7 @@ related_persons:
   - "PERSON-021"
 key_sources:
   - "SRC-020"
+  - "SRC-032"
 certainty: "medium"
 tags:
   - type/person
@@ -61,4 +62,6 @@ Czesław Dybowski, ps. "Rejtan", zamieszkały Ciechanowiec, członek bandy "Huza
 
 ## Niepewności i sprzeczności
 
-Brak istotnych sprzeczności.
+Brak istotnych sprzeczności ze śmiercią w 1948 r.
+
+- Patrz [[Person-Dybowski-Ryszard-Warkocz]], sekcja niepewności — fragment SRC-032 (str. 35) wzmiankuje "Dybowskiego Czesława" w kontekście wydarzeń z 1952 r., co może dotyczyć innej osoby o tym samym imieniu/nazwisku (możliwe, że rodzina Dybowskich z Ciechanowca była liczna) lub błędu odczytu. Nie rozstrzygnięto.

@@ -27,6 +27,7 @@ related_persons:
   - "PERSON-023"
 key_sources:
   - "SRC-021"
+  - "SRC-032"
 certainty: "high"
 tags:
   - type/person
@@ -62,3 +63,4 @@ Kazimierz Krasowski, ps. "Głuszec", dowódca odrębnej grupy zbrojnego podziemi
 ## Niepewności i sprzeczności
 
 - Dokładne granice czasowe dowodzenia bandą, jej pełny skład i losy Krasowskiego po grudniu 1952 r. — nieustalone w tym źródle (dokument koncentruje się na Sabinie Janie, nie na samym Krasowskim).
+- **Niespójność imienia**: [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] (SRC-032, str. 23) wymienia w kontekście roku 1947 "Krasowskiego **Stanisława** ps. 'Głuszec'" — inne imię niż tu ustalone "Kazimierz". Nierozstrzygnięte: błąd maszynistki, dwie różne osoby o tym samym nazwisku/pseudonimie w różnych okresach (1947 vs 1950-52), czy ten sam Krasowski Kazimierz działał pod tym pseudonimem już w 1947 r. Zgodnie z zasadą projektu nie scalono automatycznie obu wzmianek.
