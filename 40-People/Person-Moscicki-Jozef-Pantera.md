@@ -28,6 +28,7 @@ key_sources:
   - "SRC-015"
   - "SRC-017"
   - "SRC-021"
+  - "SRC-047"
   - "SRC-022"
   - "SRC-024"
 certainty: "high"
@@ -65,4 +66,5 @@ Brak danych o rodzinie poza imionami rodziców (Kazimierz Mościcki i Anna z d. 
 
 ## Niepewności i sprzeczności
 
+- **Sprzeczność co do zabójcy Lejzerowicza**: SRC-047 (odpis wyroku Sr.251/53 w aktach Mościckiego) przypisuje mu zabójstwo Michała/Mikołaja Lejzerowicza w Zajęcznikach (30.04.1951), sprzecznie z SRC-015 (przypisuje je Radziszewskiemu). Patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] — nierozstrzygnięte.
 - **Tożsamość bandy "Głuszcza" — ROZSTRZYGNIĘTA.** Wcześniejsza hipoteza robocza (czy to ta sama banda, co Krasowskiego Kazimierza ps. "Głuszec" z [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]]) potwierdzona przez [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — pełne akta śledcze podwładnego Krasowskiego, Jana Sabina ps. "Wiewiórka", dokumentują bandę "Głuszec" w tym samym regionie (Siemiatycze/Sokołów Podlaski) i okresie (ok. 1950-1952). To samo źródło ujawnia zresztą bezpośrednią współpracę operacyjną między bandą "Głuszca" a bandą "Zygmunta" (Parzonki) — patrz [[Person-Krasowski-Kazimierz-Gluszec]] i [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]].

@@ -21,6 +21,8 @@ sources:
   - "SRC-039#p170"
   - "SRC-042#p14"
   - "SRC-044#p98"
+  - "SRC-046#p23-24"
+  - "SRC-047#p27"
 certainty: "high"
 tags:
   - type/event
@@ -40,6 +42,8 @@ tags:
 Sprawozdanie Sekcji III PUBP (tabela "Bliższe dane odnośnie napadu") podaje ten czyn jako jeden z trzech udokumentowanych morderstw przypisanych bandzie "Zygmunta" w 1951 r., bez dalszych szczegółów okoliczności (motyw, przebieg, świadkowie) poza faktem, datą, ofiarami i przynależnością partyjną ofiar (PZPR).
 
 **Uzupełnienie z wyroku sądowego (SRC-015, str. 144)**: Kazimierz Parzonko, odszukawszy Burzyńskiego na uroczysku u jednego z gospodarzy, własnoręcznie pozbawił go życia. Michała Lejzerowicza zabił Kazimierz Radziszewski ps. "Marynarz" — patrz [[Person-Radziszewski-Kazimierz-Marynarz]].
+
+**Sprzeczność co do zabójcy Lejzerowicza między kopiami tego samego wyroku**: [[IPN-Bi-3-78-Akta-Moscicki-Jozef-Pantera]] (SRC-047, str. 27) — inny odpis tego samego wyroku Sr.251/53, sporządzony do akt Mościckiego — przypisuje zabójstwo Lejzerowicza **Mościckiemu ps. "Pantera"**, nie Radziszewskiemu. [[IPN-Bi-3-77-Akta-Grodzki-Mieczyslaw-Zubryd]] (SRC-046) opisuje to zbiorowo, bez wskazania sprawcy. **Trzy niezależne odpisy tego samego wyroku różnią się w tym szczególe** — możliwe, że różni urzędnicy sporządzający odpisy do poszczególnych akt osobowych popełnili błędy kopiowania, lub oryginalny wyrok był w tym miejscu niejednoznaczny. Nierozstrzygnięte, kto rzeczywiście zabił Lejzerowicza.
 
 **Rozbieżność daty — ROZSTRZYGNIĘTA na korzyść 30.04.1951**: SRC-012 podawało 29.04.1951, SRC-015 podawało 30.04.1951. Trzecie, niezależne źródło — postanowienie o pociągnięciu do odpowiedzialności karnej w sprawie Sabina Jana ([[IPN-Bi-212-5331-t2-Postanowienie-Sabin-Jan-Wiewiorka]], SRC-042, punkt XIV) — jednoznacznie i precyzyjnie podaje **30 kwietnia 1951 r.**, przeważając nad odosobnionym zapisem SRC-012.
 

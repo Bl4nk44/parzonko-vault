@@ -27,6 +27,7 @@ key_sources:
   - "SRC-042"
   - "SRC-044"
   - "SRC-046"
+  - "SRC-047"
 certainty: "high"
 tags:
   - type/person
@@ -64,4 +65,5 @@ Brak danych o rodzinie w dostępnym źródle.
 ## Niepewności i sprzeczności
 
 - **Data śmierci ROZSTRZYGNIĘTA** na 30.04.1951 (patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]]) — wcześniej podawano 29.04.1951 na podstawie jednego, mniej precyzyjnego źródła.
-- **Wariant imienia**: [[IPN-Bi-3-77-Akta-Grodzki-Mieczyslaw-Zubryd]] (SRC-046) dwukrotnie podaje imię ofiary jako "**Mikołaj**", nie "Michał" jak konsekwentnie w pozostałych źródłach korpusu. Nierozstrzygnięte — możliwy błąd redakcyjny w odpisie wyroku cytowanym w aktach Grodzkiego, nie podważa jednak tożsamości ofiary (te same okoliczności, miejsce, data, funkcja ORMO).
+- **Wariant imienia**: SRC-046 i SRC-047 (dwie odrębne kopie wyroku Sr.251/53, sporządzone do akt Grodzkiego i Mościckiego) konsekwentnie podają imię ofiary jako "**Mikołaj**", nie "Michał" jak w SRC-012 (jedyne źródło z imieniem "Michał"). Nie podważa to tożsamości ofiary (te same okoliczności, miejsce, data, funkcja ORMO), ale przewaga liczebna kopii wyroku wskazujących "Mikołaj" sugeruje, że to może być poprawna forma imienia — nierozstrzygnięte ostatecznie, zachowano "Michał" jako pierwotnie ustalone do czasu dalszej weryfikacji.
+- **Sprzeczność co do zabójcy**: SRC-047 (odpis wyroku w aktach Mościckiego) przypisuje zabójstwo Lejzerowicza Mościckiemu, podczas gdy SRC-015 (odpis w aktach głównych) przypisuje je Radziszewskiemu. Patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] — nierozstrzygnięte.
