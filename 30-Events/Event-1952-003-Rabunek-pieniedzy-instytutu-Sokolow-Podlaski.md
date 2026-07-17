@@ -14,6 +14,7 @@ people_involved:
 category: "robbery"
 sources:
   - "SRC-042#p14"
+  - "SRC-044#p98"
 certainty: "high"
 tags:
   - type/event

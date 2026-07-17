@@ -27,6 +27,7 @@ key_sources:
   - "SRC-021"
   - "SRC-041"
   - "SRC-042"
+  - "SRC-044"
 certainty: "high"
 tags:
   - type/person
@@ -61,12 +62,19 @@ Jan Sabin, s. Kazimierza, ur. 12.07.1926 r., ps. "Wiewiórka". Zdezerterował z 
 - 1950 (lato) — przejście do bandy "Głuszec" (Krasowski Kazimierz)
 - 1950 (jesień) — dostarczenie Parzonce spisu członków PZPR wykorzystanego w [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]]
 - 1952-12-30 — zatrzymany we wsi Chechłowo, pow. Siemiatycze (ranił zastępcę szefa PUBP Siemiatycze podczas zatrzymania)
+- 1954-01-11 — wyrok WSR Białystok: kara śmierci, utrata praw na zawsze, przepadek mienia (sprawa Sr.447/53)
+- 1954-05-08 — Rada Państwa łaskawie zamienia karę śmierci na dożywotnie więzienie
+- 1956 (po amnestii z 27.04.1956) — kara zmniejszona do łącznie 15 lat więzienia, którą odbył
+- przed 1993-05-07 — zmarł (data dokładna nieznana)
+- 1993-05-07 — żona Janina Sabin składa wniosek o unieważnienie wyroku
+- 1995-09-14 — Sąd Warszawskiego Okręgu Wojskowego unieważnia wyrok z 1954 r. (rehabilitacja pośmiertna)
 
 ## Najważniejsze źródła
 
 - [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 34-36 (pełny opis działalności, plan śledztwa)
 - [[IPN-Bi-212-5331-t1-Konfrontacje-Sabin-Jan-Wiewiorka]] — str. 41-44 (protokoły konfrontacji Parzonki i Białowąsa jako świadków w tej sprawie)
 - [[IPN-Bi-212-5331-t2-Postanowienie-Sabin-Jan-Wiewiorka]] — str. 5-15 (zeznanie Krasowskiego, własne wyjaśnienia, pełny wykaz 24 zarzutów 1944-1952)
+- [[IPN-Bi-212-5331-t3-Rehabilitacja-Sabin-Jan-Wiewiorka]] — str. 97-101 (pełny wyrok WSR z 11.01.1954 — kara śmierci; rehabilitacja pośmiertna SWOW Warszawa 1995 — unieważnienie wyroku)
 
 ## Niepewności i sprzeczności
 
@@ -74,3 +82,5 @@ Jan Sabin, s. Kazimierza, ur. 12.07.1926 r., ps. "Wiewiórka". Zdezerterował z 
 - **Nowa wzmianka (SRC-041, str. 42)**: możliwy udział Sabina ("Wiewiórki") wraz z ps. "Orlikiem" w zabójstwie/próbie zabójstwa jakiejś osoby (sierpień/wrzesień 1950) — fragment silnie zniekształcony, nie ustalono wiarygodnie ofiary ani okoliczności. Wymaga dalszego, ostrożnego odczytu.
 - **SRC-042 — pełny wykaz zarzutów** ujawnia obszerną, wieloletnią karierę przestępczą Sabina (1944-1952) obejmującą kolejno bandy: NZW/"Gwiazda", "Drzymała", "Kruk", "Bitny", "Huragan", "Brzask", "Lampart", "Głuszec" — z licznymi potyczkami z MO/WP, morderstwami i rabunkami. Kluczowe dla projektu: formalnie potwierdzone podżeganie Parzonki do zabójstwa Lejzerowicza i Burzyńskiego (30.04.1951, dokładna data ROZSTRZYGNIĘTA — patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]]) oraz dostarczenie broni użytej w rabunku 7.07.1952 — patrz [[Event-1952-003-Rabunek-pieniedzy-instytutu-Sokolow-Podlaski]].
 - Punkt XX postanowienia (SRC-042) opisuje próbę zabójstwa niejakiego "Sejbuk Jana" jako **odrębnej ofiary** napadu w Gródku (sierpień 1951) — nie mylić z samym Sabinem/"Sejbukiem" jako oskarżonym (por. tytuł oryginalnego pliku w korpusie, który błędnie sugeruje tożsamość nazwisk).
+- **Rehabilitacja pośmiertna (SRC-044)**: w 1995 r. Sąd Warszawskiego Okręgu Wojskowego, na wniosek wdowy Janiny Sabin (mieszkającej wówczas w Brzegu), unieważnił w całości wyrok z 1954 r. na podstawie ustawy z 23.02.1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego — uznając, że działania Sabina (w tym udział w likwidacji "konfidentów") służyły celowi niepodległościowemu i nie stanowiły "poświęcenia dobra" w rozumieniu tej ustawy. Dokładna data śmierci Sabina nieznana — ustalono jedynie, że zmarł przed 7.05.1993 r.
+- SRC-044 potwierdza niezależnie (punkt 8 i 11 wyroku z 1954 r.) zarówno datę zabójstwa w Zajęcznikach (30 kwietnia 1951) jak i rabunek pieniędzy Woroniewskiego (7 lipca 1952, 27 000 zł) — spójne z ustaleniami SRC-042.
