@@ -54,6 +54,7 @@ key_sources:
   - "SRC-016"
   - "SRC-017"
   - "SRC-020"
+  - "SRC-021"
 certainty: "high"
 tags:
   - type/person
@@ -117,6 +118,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 141-145, 157 (**pełny wyrok sądowy — data i miejsce urodzenia, imiona rodziców, szczegółowe sprawstwo morderstw, przebieg procesu**)
 - [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]] — str. 6-8 (**lokalizacja bunkra bandy k. Pełcha, zabójstwo "Sokoła"**)
 - [[IPN-Bi-07-443-Zeznania-Daniluk-Franciszek-Gryf-28-11-1950]] — str. 45 (**wczesne poświadczenie aliasu "Zygmunt", 1.11.1950 — wcześniej niż dotąd sądzono**)
+- [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 35 (**potwierdzona współpraca operacyjna z bandą "Głuszca" — źródło spisu ofiar zamachu w Zajęcznikach**)
 
 ## Niepewności i sprzeczności
 

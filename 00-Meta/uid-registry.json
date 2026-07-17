@@ -1,7 +1,7 @@
 {
   "counters": {
-    "SRC": 20,
-    "PERSON": 22,
+    "SRC": 21,
+    "PERSON": 24,
     "PLACE": 14,
     "EVENT:1953": 3,
     "EVENT:1948": 5,
@@ -48,6 +48,8 @@
     "PERSON-020": "Parzonko Henryk",
     "PLACE-014": "Pelch",
     "PERSON-021": "Dybowski Ryszard",
-    "PERSON-022": "Dybowski Czeslaw"
+    "PERSON-022": "Dybowski Czeslaw",
+    "PERSON-023": "Wiewiorka",
+    "PERSON-024": "Gluszec"
   }
 }

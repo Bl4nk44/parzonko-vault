@@ -27,6 +27,7 @@ related_persons:
 key_sources:
   - "SRC-015"
   - "SRC-017"
+  - "SRC-021"
 certainty: "high"
 tags:
   - type/person
@@ -62,5 +63,4 @@ Brak danych o rodzinie poza imionami rodziców (Kazimierz Mościcki i Anna z d. 
 
 ## Niepewności i sprzeczności
 
-> Hipoteza robocza:
-> Banda "Głuszcza", z którą Mościcki miał kontakt w 1948 r., jest prawdopodobnie tą samą bandą, której dowódcą był Krasowski Kazimierz ps. "Głuszec", wzmiankowaną w [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]] (dokument dot. Stanisława Jóźwiaka, uniewinnionego od zarzutu związanego z tą bandą). Zbieżność nazwy pseudonimu ("Głuszec"/"Głuszcz") oraz regionu i okresu działania (pow. Bielsk-Podlaski/Siemiatycze, przełom lat 40./50.) czyni to prawdopodobnym, ale żadne z obu źródeł nie odsyła wprost do drugiego.
+- **Tożsamość bandy "Głuszcza" — ROZSTRZYGNIĘTA.** Wcześniejsza hipoteza robocza (czy to ta sama banda, co Krasowskiego Kazimierza ps. "Głuszec" z [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]]) potwierdzona przez [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — pełne akta śledcze podwładnego Krasowskiego, Jana Sabina ps. "Wiewiórka", dokumentują bandę "Głuszec" w tym samym regionie (Siemiatycze/Sokołów Podlaski) i okresie (ok. 1950-1952). To samo źródło ujawnia zresztą bezpośrednią współpracę operacyjną między bandą "Głuszca" a bandą "Zygmunta" (Parzonki) — patrz [[Person-Krasowski-Kazimierz-Gluszec]] i [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]].

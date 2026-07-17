@@ -12,10 +12,12 @@ people_involved:
   - "PERSON-003"
   - "PERSON-008"
   - "PERSON-009"
+  - "PERSON-023"
 category: "homicide"
 sources:
   - "SRC-012#p13"
   - "SRC-015#p144"
+  - "SRC-021#p35"
 certainty: "high"
 tags:
   - type/event
@@ -37,6 +39,8 @@ Sprawozdanie Sekcji III PUBP (tabela "Bliższe dane odnośnie napadu") podaje te
 **Uzupełnienie z wyroku sądowego (SRC-015, str. 144)**: Kazimierz Parzonko, odszukawszy Burzyńskiego na uroczysku u jednego z gospodarzy, własnoręcznie pozbawił go życia. Michała Lejzerowicza zabił Kazimierz Radziszewski ps. "Marynarz" — patrz [[Person-Radziszewski-Kazimierz-Marynarz]].
 
 **Rozbieżność daty**: SRC-012 podaje 29.04.1951, SRC-015 podaje 30.04.1951 — nierozstrzygnięte, prawdopodobnie błąd o jeden dzień w jednym z dwóch dokumentów administracyjnych.
+
+**Źródło informacji o ofiarach (SRC-021, str. 35)**: jesienią 1950 r. Jan Sabin ps. "Wiewiórka", członek odrębnej bandy Kazimierza Krasowskiego ps. "Głuszec", dostarczył Parzonce spis członków PZPR, z którego pochodziły dane Lejzerowicza i Burzyńskiego — pierwszy udokumentowany dowód operacyjnej współpracy między bandą "Zygmunta" a bandą "Głuszca". Patrz [[Person-Sabin-Jan-Wiewiorka]], [[Person-Krasowski-Kazimierz-Gluszec]].
 
 ## Osoby
 
