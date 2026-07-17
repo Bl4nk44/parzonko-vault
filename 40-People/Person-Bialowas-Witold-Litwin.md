@@ -8,9 +8,10 @@ given_names:
 surname: "Białowąs"
 aliases:
   - "Litwin"
+  - "Antoś"
 gender: "M"
-birth_date: null
-birth_date_accuracy: "unknown"
+birth_date: "1928-09-20"
+birth_date_accuracy: "day"
 birth_place: null
 death_date: null
 death_date_accuracy: "unknown"
@@ -24,7 +25,8 @@ related_persons:
   - "PERSON-030"
 key_sources:
   - "SRC-038"
-certainty: "medium"
+  - "SRC-039"
+certainty: "high"
 tags:
   - type/person
   - status/unreviewed
@@ -32,6 +34,10 @@ tags:
 ---
 
 # Witold Białowąs ("Litwin")
+
+## Dane potwierdzone (SRC-039)
+
+Pełna tożsamość potwierdzona własną teczką sądową: Witold Białowąs, s. Karola, ur. 20.09.1928 r., ps. "Litwin" i "Antoś", oskarżony w sprawie WSR Białystok Sr. 248/53 (1953). Dowodził odrębną bandą rabunkową (napady na spółdzielnie w Tchórznicy i innych miejscowościach, 1949-1950). Jego akta zawierają też zeznanie świadka Zofii Lejzerowicz opisujące zabójstwo Burzyńskiego i pobicie jej męża w Zajęcznikach (30.04.1951 — patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]]), na które Białowąs w swej obronie zareagował stwierdzeniem, że to Mościcki Józef ps. "Pantera" i Kazimierz Parzonko ps. "Zygmunt" zaprowadzili sprawców do Burzyńskiego. **Niejasne, czy oznacza to udział Białowąsa lub jego ludzi w tym konkretnym zabójstwie, czy że fragment ten pochodzi ze zeznania odnoszącego się do odrębnego wątku śledztwa, dołączonego do jego akt** — nie należy zakładać, że banda Białowąsa dokonała zabójstwa w Zajęcznikach (przypisanego dotąd jednoznacznie bandzie Parzonki), dopóki nie zostanie to jaśniej ustalone z pełniejszego odczytu dokumentu.
 
 ## Podsumowanie
 

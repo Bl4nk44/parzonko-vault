@@ -18,6 +18,7 @@ sources:
   - "SRC-012#p13"
   - "SRC-015#p144"
   - "SRC-021#p35"
+  - "SRC-039#p170"
 certainty: "high"
 tags:
   - type/event
@@ -41,6 +42,8 @@ Sprawozdanie Sekcji III PUBP (tabela "Bliższe dane odnośnie napadu") podaje te
 **Rozbieżność daty**: SRC-012 podaje 29.04.1951, SRC-015 podaje 30.04.1951 — nierozstrzygnięte, prawdopodobnie błąd o jeden dzień w jednym z dwóch dokumentów administracyjnych.
 
 **Źródło informacji o ofiarach (SRC-021, str. 35)**: jesienią 1950 r. Jan Sabin ps. "Wiewiórka", członek odrębnej bandy Kazimierza Krasowskiego ps. "Głuszec", dostarczył Parzonce spis członków PZPR, z którego pochodziły dane Lejzerowicza i Burzyńskiego — pierwszy udokumentowany dowód operacyjnej współpracy między bandą "Zygmunta" a bandą "Głuszca". Patrz [[Person-Sabin-Jan-Wiewiorka]], [[Person-Krasowski-Kazimierz-Gluszec]].
+
+**Naoczne świadectwo przebiegu zabójstwa Burzyńskiego (SRC-039)**: w aktach odrębnej sprawy Witolda Białowąsa ps. "Litwin" (IPN Bi 212/5210) odnaleziono zeznanie Zofii Lejzerowicz (żony Michała), opisujące szczegółowo napad — trzech uzbrojonych mężczyzn, pobicie jej i męża, żądanie wydania broni, sprowadzenie sołtysa i niejakiego Grzymały jako świadków, przesłuchanie Lejzerowicza co do przynależności partyjnej i funkcji w O.R.M.O., odczytanie mu kartki, a następnie zastrzelenie serią z automatu ze słowami "patrzcie jak skurwysyn komunista ginie" skierowanymi do sołtysa i Grzymały. Białowąs w swej obronie odniósł się do tego zeznania, twierdząc, że to Mościcki Józef ps. "Pantera" i Parzonko ps. "Zygmunt" zaprowadzili sprawców do ofiary — zgodne z już ustalonym przypisaniem czynu bandzie Parzonki, ale **niejasne, dlaczego fragment ten znajduje się w aktach Białowąsa** (możliwe, że to materiał dowodowy współdzielony między kilkoma powiązanymi sprawami sądowymi). Patrz [[Person-Bialowas-Witold-Litwin]].
 
 ## Osoby
 
