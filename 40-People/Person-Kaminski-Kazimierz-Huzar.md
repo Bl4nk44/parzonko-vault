@@ -34,6 +34,7 @@ key_sources:
   - "SRC-020"
   - "SRC-022"
   - "SRC-024"
+  - "SRC-054"
 certainty: "high"
 tags:
   - type/person
