@@ -9,9 +9,9 @@ surname: "Krasowski"
 aliases:
   - "Głuszec"
 gender: "M"
-birth_date: null
-birth_date_accuracy: "unknown"
-birth_place: null
+birth_date: "1918-10-01"
+birth_date_accuracy: "day"
+birth_place: "Jaszczołty, gm. Ostrożany, pow. Siemiatycze"
 death_date: null
 death_date_accuracy: "unknown"
 death_place: null
@@ -29,6 +29,7 @@ key_sources:
   - "SRC-021"
   - "SRC-032"
   - "SRC-037"
+  - "SRC-042"
 certainty: "high"
 tags:
   - type/person
@@ -44,8 +45,8 @@ Kazimierz Krasowski, ps. "Głuszec", dowódca odrębnej grupy zbrojnego podziemi
 
 ## Dane podstawowe
 
-- Data urodzenia: nieustalona
-- Miejsce urodzenia: nieustalone
+- Data urodzenia: 1918-10-01 (potwierdzone własnym zeznaniem, SRC-042)
+- Miejsce urodzenia: Jaszczołty, gm. Ostrożany, pow. Siemiatycze
 - Role: dowódca bandy "Głuszec"
 
 ## Relacje
@@ -60,8 +61,9 @@ Kazimierz Krasowski, ps. "Głuszec", dowódca odrębnej grupy zbrojnego podziemi
 ## Najważniejsze źródła
 
 - [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 34-36 (plan śledztwa, pełny opis działalności bandy)
+- [[IPN-Bi-212-5331-t2-Postanowienie-Sabin-Jan-Wiewiorka]] — str. 5-9 (własne zeznanie Krasowskiego jako świadka, pełne dane osobowe)
 
 ## Niepewności i sprzeczności
 
-- Dokładne granice czasowe dowodzenia bandą, jej pełny skład i losy Krasowskiego po grudniu 1952 r. — nieustalone w tym źródle (dokument koncentruje się na Sabinie Janie, nie na samym Krasowskim).
-- **Niespójność imienia**: [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] (SRC-032, str. 23) wymienia w kontekście roku 1947 "Krasowskiego **Stanisława** ps. 'Głuszec'" — inne imię niż tu ustalone "Kazimierz". Nierozstrzygnięte: błąd maszynistki, dwie różne osoby o tym samym nazwisku/pseudonimie w różnych okresach (1947 vs 1950-52), czy ten sam Krasowski Kazimierz działał pod tym pseudonimem już w 1947 r. Zgodnie z zasadą projektu nie scalono automatycznie obu wzmianek.
+- Dokładne granice czasowe dowodzenia bandą po grudniu 1952 r. i jego dalsze losy — nieustalone w obecnie przetworzonej części korpusu.
+- **Niespójność imienia — W WIĘKSZOŚCI ROZSTRZYGNIĘTA na korzyść "Kazimierz"**: [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] (SRC-032, str. 23) wymieniało w kontekście roku 1947 "Krasowskiego **Stanisława** ps. 'Głuszec'". Własne zeznanie Krasowskiego (SRC-042, str. 5-9), złożone pod pełnymi danymi osobowymi (ur. 1.10.1918, Jaszczołty), jednoznacznie potwierdza imię "Kazimierz". Pozostaje niejasne, czy wzmianka "Stanisław" z SRC-032 to zwykły błąd maszynistki, czy odnosi się do innej, przypadkowo tożsamej pseudonimowo osoby z wcześniejszego okresu (1947) — ale waga dowodowa zdecydowanie przechyla się na korzyść jednej, ciągłej tożsamości "Kazimierz Krasowski".

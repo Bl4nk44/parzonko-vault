@@ -26,6 +26,7 @@ related_persons:
 key_sources:
   - "SRC-021"
   - "SRC-041"
+  - "SRC-042"
 certainty: "high"
 tags:
   - type/person
@@ -65,8 +66,11 @@ Jan Sabin, s. Kazimierza, ur. 12.07.1926 r., ps. "Wiewiórka". Zdezerterował z 
 
 - [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 34-36 (pełny opis działalności, plan śledztwa)
 - [[IPN-Bi-212-5331-t1-Konfrontacje-Sabin-Jan-Wiewiorka]] — str. 41-44 (protokoły konfrontacji Parzonki i Białowąsa jako świadków w tej sprawie)
+- [[IPN-Bi-212-5331-t2-Postanowienie-Sabin-Jan-Wiewiorka]] — str. 5-15 (zeznanie Krasowskiego, własne wyjaśnienia, pełny wykaz 24 zarzutów 1944-1952)
 
 ## Niepewności i sprzeczności
 
-- Dokładna treść wcześniejszych zeznań świadków (str. 5-23) w większości nieczytelna w OCR — nieodtworzona, poza czytelnym fragmentem str. 23 (przesłuchanie nieustalonego świadka nt. ukrytego automatu i gospodarza melinującego bandę "Zygmunta"/"Pantery"/"Marynarza").
+- Dokładna treść wcześniejszych zeznań świadków (str. 5-23 tomu 1) w większości nieczytelna w OCR — nieodtworzona, poza czytelnym fragmentem str. 23 (przesłuchanie nieustalonego świadka nt. ukrytego automatu i gospodarza melinującego bandę "Zygmunta"/"Pantery"/"Marynarza").
 - **Nowa wzmianka (SRC-041, str. 42)**: możliwy udział Sabina ("Wiewiórki") wraz z ps. "Orlikiem" w zabójstwie/próbie zabójstwa jakiejś osoby (sierpień/wrzesień 1950) — fragment silnie zniekształcony, nie ustalono wiarygodnie ofiary ani okoliczności. Wymaga dalszego, ostrożnego odczytu.
+- **SRC-042 — pełny wykaz zarzutów** ujawnia obszerną, wieloletnią karierę przestępczą Sabina (1944-1952) obejmującą kolejno bandy: NZW/"Gwiazda", "Drzymała", "Kruk", "Bitny", "Huragan", "Brzask", "Lampart", "Głuszec" — z licznymi potyczkami z MO/WP, morderstwami i rabunkami. Kluczowe dla projektu: formalnie potwierdzone podżeganie Parzonki do zabójstwa Lejzerowicza i Burzyńskiego (30.04.1951, dokładna data ROZSTRZYGNIĘTA — patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]]) oraz dostarczenie broni użytej w rabunku 7.07.1952 — patrz [[Event-1952-003-Rabunek-pieniedzy-instytutu-Sokolow-Podlaski]].
+- Punkt XX postanowienia (SRC-042) opisuje próbę zabójstwa niejakiego "Sejbuk Jana" jako **odrębnej ofiary** napadu w Gródku (sierpień 1951) — nie mylić z samym Sabinem/"Sejbukiem" jako oskarżonym (por. tytuł oryginalnego pliku w korpusie, który błędnie sugeruje tożsamość nazwisk).
