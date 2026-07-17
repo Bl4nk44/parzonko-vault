@@ -15,6 +15,7 @@ category: "homicide"
 sources:
   - "SRC-012#p13"
   - "SRC-015#p144"
+  - "SRC-056#p30"
 certainty: "medium"
 tags:
   - type/event
@@ -36,6 +37,8 @@ Sprawozdanie Sekcji III PUBP (SRC-012) wymienia ten czyn jako trzeci z udokument
 **Uzupełnienie z wyroku sądowego (SRC-015, str. 144)**: podaje inną datę — 20 lipca 1951 r. — oraz miejsce: wieś Przybyszyn, pow. Siemiatycze, i pełne imię ofiary: Franciszek Jasiński, opisany jako członek Gminnego Komitetu PZPR. Wg wyroku, Kazimierz Radziszewski ps. "Marynarz" strzelił do ofiary jako pierwszy, ale pistolet mu się zaciął po kilku strzałach; widząc, że Jasiński wciąż daje oznaki życia, Kazimierz Parzonko dobił go serią z broni automatycznej.
 
 **Rozbieżność dat (20 vs 30 lipca 1951) nie została rozstrzygnięta** — możliwe, że jeden z dokumentów zawiera błąd maszynistki/sądu, albo błąd odczytu OCR (cyfry "2" i "3" bywają mylone w słabej jakości skanach). Imię ofiary również rozbieżne: "Jasiński [nieczytelne] s. Stanisława" (SRC-012) vs "Jasiński Franciszek" (SRC-015, patronimik nie podany) — patrz [[Person-Jasinski-NN]].
+
+**Trzeci wariant daty (SRC-056)**: fragment charakterystyki bandy dołączony do akt Lucyny Samojłuk podaje datę "14 sierpnia 1951 r." dla tego samego zabójstwa (Jasiński Franciszek) — jeszcze inna data niż 20 i 30 lipca. Trzy niezależne źródła podają trzy różne daty tego samego wydarzenia — nierozstrzygnięte, prawdopodobnie kumulacja błędów maszynistek/OCR w kolejnych odpisach.
 
 ## Osoby
 
