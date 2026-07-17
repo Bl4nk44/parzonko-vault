@@ -24,6 +24,7 @@ related_persons:
   - "PERSON-001"
   - "PERSON-039"
   - "PERSON-042"
+  - "PERSON-044"
 key_sources:
   - "SRC-043"
   - "SRC-049"
@@ -53,6 +54,7 @@ Skazany wyrokiem WSR Białystok (sprawa Sr.347/53, 20.08.1953 r.) — sąd zmien
 ## Relacje
 
 - Udzielał pomocy: [[Person-Parzonko-Kazimierz-Zygmunt]], [[Person-Moscicki-Jozef-Pantera]], [[Person-Radziszewski-Kazimierz-Marynarz]], [[Person-Kostro-Jozef-Kropki]], [[Person-Krynski-Tadeusz-Rokita]]
+- Córka: [[Person-Filinska-Janina]] — również skazana za pomoc bandzie
 - Powiązany z: [[Person-Mucha-Kazimierz]] (sołtys tej samej wsi, do którego kierował bandę po zaopatrzenie/lekarstwa)
 
 ## Chronologia życia
