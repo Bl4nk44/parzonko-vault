@@ -77,6 +77,7 @@ key_sources:
   - "SRC-047"
   - "SRC-049"
   - "SRC-051"
+  - "SRC-052"
 certainty: "high"
 tags:
   - type/person
