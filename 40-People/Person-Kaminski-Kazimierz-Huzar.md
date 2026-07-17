@@ -33,6 +33,7 @@ key_sources:
   - "SRC-015"
   - "SRC-020"
   - "SRC-022"
+  - "SRC-024"
 certainty: "high"
 tags:
   - type/person
@@ -72,6 +73,8 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - 1950-10-04 — [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (wydał rozkaz zabójstwa)
 - 1951 (przed sierpniem) — podporządkowanie sobie bandy "Hanki"
 - 1951-05-29 — akcja K.B.W., likwidacja 4 członków bandy (w tym Żukowski ps. "Waspiuk", Porowski ps. "Bobrek")
+- 1951-10 – 1952-11 — cel operacji specjalnej Departamentu III MBP prowadzonej pod przykrywką fikcyjnej organizacji "Akademia" (agent Terlikowski Janusz ps. "Rytel", wprowadzony przez Parzonkę) — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]]
+- 1952-11-29 — aresztowany w Warszawie w finale tej operacji
 - 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
 
 ## Najważniejsze źródła
@@ -82,6 +85,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 3 (miejsce urodzenia, pełny skład osobowy bandy)
 - [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 17, 21 (**osobiste dokonanie zabójstwa Dymitrowa, zlecenie zabójstwa Jankowskiego**)
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 143 (zlecenie zabójstwa sołtysa Koca)
+- [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48 (**operacja "Rytel", data aresztowania, pełna historia bandy**)
 
 ## Niepewności i sprzeczności
 

@@ -13,6 +13,8 @@ aliases:
   - "Wichura"
   - "Wichora"
   - "Kazik"
+  - "Wicher"
+  - "Wojtkowski Henryk"
 gender: "M"
 birth_date: "1922-02-28"
 birth_date_accuracy: "day"
@@ -57,6 +59,7 @@ key_sources:
   - "SRC-021"
   - "SRC-022"
   - "SRC-023"
+  - "SRC-024"
 certainty: "high"
 tags:
   - type/person
@@ -91,15 +94,19 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 
 ## Chronologia życia
 
+- 1944/1945 — po wyzwoleniu Białostocczyzny wstąpił do bandy Zygmunta Szendzielarza ps. "Łupaszko" (5. Brygada Wileńska AK) — **osobisty, udokumentowany związek z historyczną formacją "Łupaszki"**, patrz [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]]
 - 1946-09 (od) — **dowódca patrolu** (podlegającego kolejno "Wilkowi", "Lufie" i "Młotowi") pod pseudonimem "Wichura" — data i rola potwierdzone niezależnie przez zeznania podwładnego, Radziszewskiego Mieczysława ps. "Kwiat"/"Zagłoba" ([[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]]) — **wcześniejsze potwierdzenie roli dowódczej niż dotąd sądzono** (poprzednio najwcześniejsze pewne dowództwo datowano na okres po sierpniu 1951 r., choć samo członkostwo w "Młocie" znane było od 1946 r.)
 - 1946-1948 — dowodzenie patrolem, udział w kilkunastu udokumentowanych napadach rabunkowych na gospodarzy w rejonie Ciechanowca (wsie: Radziszewo-Stare, Trzaski, Winna, Leśniki, Głęboczek, Kołaki, Mocydły, Czarkówka-Mała i inne) — szczegóły w [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]]
+- 1946-10-17 — **nowe, udokumentowane morderstwo**: zabójstwo żołnierza WP (okoliczności nieopisane szczegółowo) — powód ukrywania się w Gdańsku pod fałszywym nazwiskiem "Wojtkowski Henryk" od lata 1947 r.
 - 1948-10-18 — [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]] (podejrzany, wraz z Radziszewskim Mieczysławem)
 - 1948 — [[Event-1948-Aresztowanie-i-ucieczka]]
-- 1948 – sierpień 1951 — szeregowy członek bandy Kazimierza Kamińskiego ps. "Huzar" (potwierdzone wprost w sprawozdaniu z sierpnia 1951 r. — patrz [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]])
+- 1949-07 (koniec) — **dokładnie ustalona data**: powrót z Gdańska na teren pow. Bielsk Podlaski, nawiązanie kontaktu z "Huzarem", wstąpienie do jego bandy pod nowo przyjętym pseudonimem "Zygmunt"
+- 1949-07 – sierpień 1951 — szeregowy członek bandy Kazimierza Kamińskiego ps. "Huzar" (potwierdzone wprost w sprawozdaniu z sierpnia 1951 r. — patrz [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]]), z rozkazu "Huzara" dokonał osobiście kilku morderstw
 - 1950-10-04 — [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (osobiście zastrzelił sołtysa Koca, na rozkaz "Huzara")
 - 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] (osobiście zabił Burzyńskiego)
 - 1951-07 (20 lub 30) — [[Event-1951-002-Zabojstwo-Jasinskiego]] (dobił ofiarę serią z broni automatycznej, po nieudanych strzałach Radziszewskiego)
-- sierpień 1951 – marzec 1953 — okno czasowe przejścia na samodzielne dowództwo własnej grupy ps. "Zygmunt" (dokładna data awansu nieustalona — w sierpniu 1951 wciąż szeregowy członek, w marcu 1953 już samodzielny dowódca)
+- 1951 (wiosna, wg SRC-024) / sierpień 1951 – marzec 1953 (okno wg innych źródeł) — mianowanie na dowódcę własnej, 6-osobowej bojówki w stopniu plutonowego, działającej w gminach Ciechanowiec i Drohiczyn — **dokładna data awansu sporna między dwoma dokumentami UB**, patrz niepewności
+- 1952-11-30 — [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]] — aresztowany w Warszawie, dokąd wyjechał z zamiarem ucieczki za granicę (w rzeczywistości sprowokowany przez operację specjalną Departamentu III MBP, wykorzystującą jego dawną znajomość z agentem Terlikowskim Januszem ps. "Rytel")
 - 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
 - 1953-09-15 — [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]
@@ -122,6 +129,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]] — str. 6-8 (**lokalizacja bunkra bandy k. Pełcha, zabójstwo "Sokoła"**)
 - [[IPN-Bi-07-443-Zeznania-Daniluk-Franciszek-Gryf-28-11-1950]] — str. 45 (**wczesne poświadczenie aliasu "Zygmunt", 1.11.1950 — wcześniej niż dotąd sądzono**)
 - [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 35 (**potwierdzona współpraca operacyjna z bandą "Głuszca" — źródło spisu ofiar zamachu w Zajęcznikach**)
+- [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 23, 47-48 (**pełna charakterystyka, związek z "Łupaszką", alias "Wojtkowski Henryk", mechanizm aresztowania przez operację "Rytel"**)
 
 ## Niepewności i sprzeczności
 
@@ -136,6 +144,8 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 > [[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]] — str. 11: "ur. 1921 r."
 >
 > Przyjęto rok **1922, dzień 28** jako ustalone (dwa niezależne, zgodne źródła administracyjne, w tym dokument sądowy o wysokiej wiarygodności formalnej), z **miesiącem przyjętym jako luty (02)** za rejestrem MSW z 1973 r. — nowo odnaleziony zapis "28.11" w wyroku sądowym (SRC-015) pozostaje nierozstrzygniętą drugorzędną niepewnością co do samego miesiąca, nie roku. Pole `birth_date` ustawiono na `1922-02-28`, ale **miesiąc wymaga dalszej weryfikacji** — nie traktować jako w 100% pewny.
+>
+> **Czwarta wartość, jeszcze bardziej komplikująca sprawę**: [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] (str. 23) podaje "ur. 28.11.1923 r." — dzień i miesiąc (28 listopada) zgodne z odczytem "28.11" z SRC-015, ale **rok inny niż wszędzie indziej (1923, nie 1921/1922)**. To retrospektywne opracowanie z 1970 r., nie dokument z epoki, więc może zawierać błąd przy przepisywaniu z wcześniejszych akt — ale zbieżność dnia/miesiąca z SRC-015 (oba "28.11") wobec odosobnionego "28.02" z SRC-004 dodatkowo osłabia pewność co do miesiąca lutego. Stan na teraz: **rok 1922 nadal najbardziej prawdopodobny (2 z 4 źródeł), ale dzień/miesiąc "28 listopada" ma teraz poparcie 2 z 4 źródeł wobec 1 źródła na "28 lutego"** — sprzeczność nierozstrzygnięta, wymaga dokumentu rozstrzygającego (akt urodzenia).
 
 - **Pseudonim "Czarny" — ROZSTRZYGNIĘTE.** Wcześniejsza niejasność gramatyczna z raportu 1952 r. (SRC-006, str. 11: "jest członkiem bandy 'Huzara', który to występuje pod ps. 'Czarny'") rozstrzygnięta przez [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] (str. 3, doniesienie z maja 1950 — chronologicznie wcześniejsze źródło), które wprost stwierdza: "Parzonko Kazimierz pseudonim 'Czarny'". To trzeci potwierdzony pseudonim głównego bohatera.
 - **Amnestia/łaska — ROZSTRZYGNIĘTE (odmówiona).** Spekulacje ludności z marca 1953 (że śmierć Stalina może doprowadzić do amnestii — patrz SRC-001) nie potwierdziły się: Rada Państwa 15.09.1953 odmówiła prawa łaski wobec Parzonki (w przeciwieństwie do współskazanego Kostry, któremu karę złagodzono). Patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]].
@@ -150,7 +160,9 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 > [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] (str. 13) przypisuje bandzie "Zygmunta" trzy zabójstwa datowane 29.04.1951 i 30.07.1951 — czyli PRZED sierpniem 1951, kiedy to (wg [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]], str. 36) Parzonko wciąż figuruje jako szeregowy członek bandy "Huzara", bez własnego dowództwa. Możliwe wyjaśnienia: (a) nazwa "Zygmunt" mogła oznaczać pseudonim operacyjny/kryptonim przypisywany już wcześniej konkretnym akcjom bandy "Huzara" prowadzonym przez podgrupę czy patrol Parzonki, zanim formalnie przejął pełne, samodzielne dowództwo całej grupy; (b) błąd datowania w jednym z dwóch sprawozdań; (c) dwa różne dokumenty odzwierciedlają dwa różne aspekty tej samej płynnej struktury dowodzenia (Parzonko mógł dowodzić własnym patrolem w ramach szerszej bandy "Huzara" już w 1951 r., będąc jednocześnie z formalnego punktu widzenia jej "szeregowym członkiem"). Wymaga dalszych źródeł do rozstrzygnięcia.
 
 - **Nieoczywisty przebieg kariery dowódczej — "wzlot-upadek-wzlot"**: [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]] dokumentuje, że Parzonko dowodził własnym patrolem już od 1946 r. (w ramach bandy "Młota"). Po ucieczce z aresztu w 1948 r. i dołączeniu do bandy "Huzara" spadł jednak do roli szeregowego członka (potwierdzone dla sierpnia 1951 r.), by dopiero między sierpniem 1951 a marcem 1953 r. ponownie objąć samodzielne dowództwo (tym razem grupy "Zygmunt"). Niecodzienny, ale wewnętrznie spójny wzorzec: doświadczony dowódca patrolu z okresu "Młota" najwyraźniej zaczynał na nowo w hierarchii nowej bandy po dołączeniu do niej w 1948 r.
-- **Status w sierpniu 1951**: sprawozdanie operacyjne PUBP Wysokie Mazowieckie ([[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]], str. 36) opisuje Parzonkę jako **szeregowego członka** bandy "Huzara" — brak jakiejkolwiek wzmianki o samodzielnym dowodzeniu. To zawęża okno czasowe przejścia na dowództwo własnej grupy "Zygmunt" do okresu sierpień 1951 – marzec 1953.
+- **Status w sierpniu 1951**: sprawozdanie operacyjne PUBP Wysokie Mazowieckie ([[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]], str. 36) opisuje Parzonkę jako **szeregowego członka** bandy "Huzara" — brak jakiejkolwiek wzmianki o samodzielnym dowodzeniu. [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] (str. 23) podaje jednak, że mianowanie na dowódcę bojówki nastąpiło już **wiosną 1951 r.** — sprzeczne z sierpniowym sprawozdaniem. Możliwe wyjaśnienie: retrospektywne opracowanie z 1970 r. mogło uprościć/przybliżyć datę awansu, albo sprawozdanie sierpniowe nie odzwierciedlało jeszcze formalnie already-dokonanej zmiany. Nierozstrzygnięte.
+- **Operacja "Rytel" — mechanizm ostatecznego aresztowania (1951-1952)**: [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] ujawnia, że to właśnie **osobista, przedwojenna/organizacyjna znajomość Parzonki z Januszem Terlikowskim ps. "Rytel"** (w rzeczywistości agentem Departamentu III MBP) posłużyła od października 1951 r. jako pomost do infiltracji całej bandy "Huzara", prowadząc ostatecznie do jej całkowitej likwidacji i masowego aresztowania w Warszawie 29-30.11.1952 r. Nie jest jasne z dostępnego źródła, czy Parzonko był świadomym uczestnikiem oszustwa, czy w pełni oszukanym pośrednikiem — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]], [[Person-Terlikowski-Janusz-Rytel]].
+- **Łupaszko — osobisty związek potwierdzony**: [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] potwierdza, że Parzonko osobiście wstąpił do bandy Zygmunta Szendzielarza ps. "Łupaszko" (5. Brygada Wileńska) zaraz po wyzwoleniu, PRZED przejściem do "Młota" w listopadzie 1946 r. — to nowy, bezpośredni (nie tylko regionalny/kontekstowy) związek głównego bohatera z historyczną Brygadą Wileńską, częściowo naświetlający wcześniejszą zagadkę "dwóch Zygmuntów" (patrz wyżej) — być może przyjęcie pseudonimu "Zygmunt" w 1949 r. nie było przypadkowe, skoro Parzonko osobiście znał to środowisko organizacyjne od 1945 r.
 - **Wcześniejszy epizod z 1948 r. — możliwy udział w zabójstwie żołnierza KBW.** [[IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]] (str. 11) wskazuje Parzonkę (jako "Parzonko Kazimierz, ps. 'Wicher'" — wariant zapisu "Wichura"/"Wichora", uznany za tę samą osobę) obok Mieczysława Radziszewskiego ps. "Zagłoba" jako podejrzanych o zabójstwo żołnierza KBW Alojzego Rozwalskiego (18.10.1948, wieś Radziszewo-Króle) — patrz [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]]. Tożsamość sprawców oparta wyłącznie na "poufnych wywiadach" MO, nie na dowodzie bezpośrednim — certainty tego wydarzenia: medium. Istotne jako poszlaka wcześniejszej (przed grudniem 1948) współpracy Parzonki z Radziszewskim Mieczysławem, wzmacniająca hipotezę roboczą w [[Person-Radziszewski-Mieczyslaw-Kwiat]].
 - **Drobna rozbieżność rysopisu**: liczba złotych zębów — jeden (wg SRC-010, maj 1950) vs dwa (wg [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]], zeznanie z grudnia 1950 r. odnoszące się do stanu z 1948 r.). Możliwe wyjaśnienia: (a) błąd pamięci zeznającego (Danieluk opisywał osobę sprzed ok. 2-3 lat), (b) rzeczywista zmiana (kolejny złoty ząb wstawiony między 1948 a 1950 r.), (c) błąd w jednym z dokumentów. Nie rozstrzygnięte, nieistotne dla tożsamości (pozostałe cechy rysopisu spójne).
 - **Bunkier bandy (1952)**: wg [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]], banda "Zygmunta" zbudowała w sierpniu 1952 r. bunkier w lesie nad rzeką Pełchówka, koło wsi Pełch (gm. Kosiorki, pow. Siemiatycze) — patrz [[Place-Pelch]]. Parzonko i Mościcki Józef ps. "Pantera" niemal stale w nim przebywali, wychodząc tylko nocą, żywiąc się głównie grzybami.

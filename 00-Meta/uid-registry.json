@@ -1,13 +1,14 @@
 {
   "counters": {
-    "SRC": 23,
-    "PERSON": 29,
+    "SRC": 24,
+    "PERSON": 30,
     "PLACE": 14,
     "EVENT:1953": 3,
     "EVENT:1948": 5,
     "EVENT:1951": 2,
     "EVENT:1950": 1,
-    "EVENT:1946": 1
+    "EVENT:1946": 1,
+    "EVENT:1952": 1
   },
   "aliases": {
     "Parzonko Kazimierz": "PERSON-001",
@@ -56,6 +57,7 @@
     "PERSON-026": "Czarnowski Czeslaw",
     "PERSON-027": "Chlebowicz Lucjan",
     "PERSON-028": "Sidorczuk",
-    "PERSON-029": "Baran"
+    "PERSON-029": "Baran",
+    "PERSON-030": "Rytel"
   }
 }
