@@ -26,6 +26,7 @@ related_persons:
   - "PERSON-002"
 key_sources:
   - "SRC-043"
+  - "SRC-049"
 certainty: "high"
 tags:
   - type/person
@@ -71,5 +72,5 @@ Skazany wyrokiem WSR Białystok (sprawa Sr.376/53, 14.08.1953 r.) na 7 lat więz
 
 ## Niepewności i sprzeczności
 
-- Nazwiska pomocnych gospodarzy (Filiński Jan, Sidor Stanisław, Marowski Antoni, Szeremietyński Aleksander) wzmiankowane wyłącznie w kontekście tej sprawy — nie utworzono dla nich osobnych notatek (brak dodatkowych danych biograficznych poza rolą w tym epizodzie).
+- Nazwiska pomocnych gospodarzy Sidor Stanisław, Marowski Antoni i Szeremietyński Aleksander wzmiankowane wyłącznie w kontekście tej sprawy — nie utworzono dla nich osobnych notatek (brak dodatkowych danych biograficznych poza rolą w tym epizodzie). Dla Filińskiego Jana utworzono osobną notatkę — patrz [[Person-Filinski-Jan]], jego własna sprawa karna (SRC-049).
 - Choroba Parzonki (luty 1952, wymagająca penicyliny) nie jest bliżej opisana (rodzaj schorzenia nieznany).
