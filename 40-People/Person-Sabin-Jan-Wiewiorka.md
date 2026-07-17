@@ -28,6 +28,7 @@ key_sources:
   - "SRC-041"
   - "SRC-042"
   - "SRC-044"
+  - "SRC-048"
 certainty: "high"
 tags:
   - type/person
@@ -82,5 +83,6 @@ Jan Sabin, s. Kazimierza, ur. 12.07.1926 r., ps. "Wiewiórka". Zdezerterował z 
 - **Nowa wzmianka (SRC-041, str. 42)**: możliwy udział Sabina ("Wiewiórki") wraz z ps. "Orlikiem" w zabójstwie/próbie zabójstwa jakiejś osoby (sierpień/wrzesień 1950) — fragment silnie zniekształcony, nie ustalono wiarygodnie ofiary ani okoliczności. Wymaga dalszego, ostrożnego odczytu.
 - **SRC-042 — pełny wykaz zarzutów** ujawnia obszerną, wieloletnią karierę przestępczą Sabina (1944-1952) obejmującą kolejno bandy: NZW/"Gwiazda", "Drzymała", "Kruk", "Bitny", "Huragan", "Brzask", "Lampart", "Głuszec" — z licznymi potyczkami z MO/WP, morderstwami i rabunkami. Kluczowe dla projektu: formalnie potwierdzone podżeganie Parzonki do zabójstwa Lejzerowicza i Burzyńskiego (30.04.1951, dokładna data ROZSTRZYGNIĘTA — patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]]) oraz dostarczenie broni użytej w rabunku 7.07.1952 — patrz [[Event-1952-003-Rabunek-pieniedzy-instytutu-Sokolow-Podlaski]].
 - Punkt XX postanowienia (SRC-042) opisuje próbę zabójstwa niejakiego "Sejbuk Jana" jako **odrębnej ofiary** napadu w Gródku (sierpień 1951) — nie mylić z samym Sabinem/"Sejbukiem" jako oskarżonym (por. tytuł oryginalnego pliku w korpusie, który błędnie sugeruje tożsamość nazwisk).
+- **Częściowe umorzenie zarzutów (SRC-048)**: postanowieniem WUBP Białystok (wn.107/55) umorzono z braku dostatecznych dowodów winy sześć zarzutów wobec Sabina, niezwiązanych z bandą Parzonki/Huzara (zabójstwo "Osy" XI.1946, rabunek Liceum Rolniczego w Krzyżewie 1948, zabójstwo "Sady" Stanisława XI.1948, potyczka z WP w bandzie "Wróbla" 1948/49, rabunek spółdzielni w Krzemieniu 1950, napad na punkt mleczarski w Arbasach 1951) — świadkowie nie potwierdzili jego udziału lub wycofali wcześniejsze ogólnikowe zeznania. Nie dotyczy żadnego z ustaleń wiążących go z Parzonką.
 - **Rehabilitacja pośmiertna (SRC-044)**: w 1995 r. Sąd Warszawskiego Okręgu Wojskowego, na wniosek wdowy Janiny Sabin (mieszkającej wówczas w Brzegu), unieważnił w całości wyrok z 1954 r. na podstawie ustawy z 23.02.1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego — uznając, że działania Sabina (w tym udział w likwidacji "konfidentów") służyły celowi niepodległościowemu i nie stanowiły "poświęcenia dobra" w rozumieniu tej ustawy. Dokładna data śmierci Sabina nieznana — ustalono jedynie, że zmarł przed 7.05.1993 r.
 - SRC-044 potwierdza niezależnie (punkt 8 i 11 wyroku z 1954 r.) zarówno datę zabójstwa w Zajęcznikach (30 kwietnia 1951) jak i rabunek pieniędzy Woroniewskiego (7 lipca 1952, 27 000 zł) — spójne z ustaleniami SRC-042.
