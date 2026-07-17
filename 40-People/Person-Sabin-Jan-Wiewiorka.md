@@ -25,6 +25,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-021"
+  - "SRC-041"
 certainty: "high"
 tags:
   - type/person
@@ -63,7 +64,9 @@ Jan Sabin, s. Kazimierza, ur. 12.07.1926 r., ps. "Wiewiórka". Zdezerterował z 
 ## Najważniejsze źródła
 
 - [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 34-36 (pełny opis działalności, plan śledztwa)
+- [[IPN-Bi-212-5331-t1-Konfrontacje-Sabin-Jan-Wiewiorka]] — str. 41-44 (protokoły konfrontacji Parzonki i Białowąsa jako świadków w tej sprawie)
 
 ## Niepewności i sprzeczności
 
 - Dokładna treść wcześniejszych zeznań świadków (str. 5-23) w większości nieczytelna w OCR — nieodtworzona, poza czytelnym fragmentem str. 23 (przesłuchanie nieustalonego świadka nt. ukrytego automatu i gospodarza melinującego bandę "Zygmunta"/"Pantery"/"Marynarza").
+- **Nowa wzmianka (SRC-041, str. 42)**: możliwy udział Sabina ("Wiewiórki") wraz z ps. "Orlikiem" w zabójstwie/próbie zabójstwa jakiejś osoby (sierpień/wrzesień 1950) — fragment silnie zniekształcony, nie ustalono wiarygodnie ofiary ani okoliczności. Wymaga dalszego, ostrożnego odczytu.
