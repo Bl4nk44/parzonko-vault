@@ -15,6 +15,7 @@ aliases:
   - "Kazik"
   - "Wicher"
   - "Wojtkowski Henryk"
+  - "Listek"
 gender: "M"
 birth_date: "1922-02-28"
 birth_date_accuracy: "day"
@@ -67,6 +68,7 @@ key_sources:
   - "SRC-029"
   - "SRC-031"
   - "SRC-032"
+  - "SRC-033"
 certainty: "high"
 tags:
   - type/person
@@ -183,4 +185,5 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - **Bunkier bandy (1952)**: wg [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]], banda "Zygmunta" zbudowała w sierpniu 1952 r. bunkier w lesie nad rzeką Pełchówka, koło wsi Pełch (gm. Kosiorki, pow. Siemiatycze) — patrz [[Place-Pelch]]. Parzonko i Mościcki Józef ps. "Pantera" niemal stale w nim przebywali, wychodząc tylko nocą, żywiąc się głównie grzybami.
 - **Zabójstwo "Sokoła" — rozbieżność sprawcy**: [[IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]] (str. 7, doniesienie agenturalne) podaje, że Parzonko osobiście zabił członka bandy ps. "Sokół" (podejrzewanego o współpracę z UB), podczas gdy [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] (str. 146) przypisuje wykonanie tego zabójstwa Radziszewskiemu Kazimierzowi, działającemu na rozkaz Parzonki. Nierozstrzygnięte — możliwe, że obaj źródła upraszczają rzeczywisty przebieg (np. Parzonko wydał rozkaz i był obecny, ale strzał oddał Radziszewski), lub jedno ze źródeł (oba oparte na zeznaniach/doniesieniach osób trzecich, nie na przyznaniu się sprawcy) zawiera nieścisłość.
 - **Konflikt rodzinny**: to samo sprawozdanie (informator ps. "Kon") podaje, że rodzina Parzonki w Leśnikach była do niego **negatywnie nastawiona** — od młodości unikał rodziny, prowadząc "tryb życia łobuzerski" i zajmując się kradzieżą, bez utrzymywania kontaktu z rodziną. To nieco komplikuje/uzupełnia wcześniejszy obraz "rolnika" (SRC-006) — możliwe, że to legalny zawód zapisany w dokumentach urzędowych przy jednoczesnym faktycznym zerwaniu z gospodarstwem rodzinnym na rzecz działalności konspiracyjnej/przestępczej; może też odzwierciedlać tendencyjną charakterystykę UB. Nie rozstrzygnięto.
+- **Nowy pseudonim "Listek"**: wewnętrzny wykaz członków bandy "Młota" z 1947 r. ([[IPN-Bi-047-1079-Teczka-bandy-Mlota-1947]], SRC-033, poz. 58) podaje Parzonkę pod pseudonimem "Listek", zamieszkałego w Leśnikach — odmiennym od znanego z innych dokumentów tego samego okresu pseudonimu "Wichura". Niejasne, czy to dwa równolegle używane pseudonimy (ewidencyjny UB vs konspiracyjny), czy błąd/wariant zapisu. Ten sam dokument ujawnia też prawdziwe nazwisko dowódcy "Młota" — Władysław Łukasiuk, wcześniej zastępca dowódcy 5. Brygady Wileńskiej — patrz [[Person-Lukasiuk-Wladyslaw-Mlot]].
 - **Kwestionariusze osobowe serii Bi 019/24-25 (SRC-026 do SRC-029)** — nieczytelne w OCR tesseract (odręczne wypełnienia formularzy Wydziału "C" KWMO). SRC-029 to najprawdopodobniej bezpośrednio kwestionariusz Parzonki (na podstawie nazwy pliku i zakresu teczki L-Z), a SRC-028 (str. 20) potwierdza współwystępowanie nazwiska "Farzonko"/Parzonko z Gontarczukiem na karcie czynu przestępnego — oba wymagają vision-OCR, żaden nowy fakt nie został z nich wiarygodnie wydobyty.
