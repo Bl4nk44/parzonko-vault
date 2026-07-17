@@ -10,8 +10,8 @@ aliases:
   - "Baranek"
   - "Franek"
 gender: "M"
-birth_date: null
-birth_date_accuracy: "unknown"
+birth_date: "1933-10-20"
+birth_date_accuracy: "day"
 birth_place: null
 death_date: null
 death_date_accuracy: "unknown"
@@ -19,7 +19,7 @@ death_place: null
 nationality: "polska"
 occupation: []
 roles:
-  - "członek bandy (region Granne/gm. Perlejewo), rozpracowywany przez informatora Jóźwiaka Stanisława 1951-1952"
+  - "członek bandy Krasowskiego ps. \"Głuszec\" (region Granne/gm. Perlejewo), rozpracowywany przez informatora Jóźwiaka Stanisława 1951-1952"
 related_to_main_person: "unknown"
 related_persons:
   - "PERSON-016"
@@ -28,6 +28,7 @@ related_persons:
 key_sources:
   - "SRC-037"
   - "SRC-042"
+  - "SRC-045"
 certainty: "high"
 tags:
   - type/person
@@ -66,9 +67,10 @@ Feliks Bojar ps. "Baranek", bandyta działający w rejonie wsi Granne (gm. Perle
 
 - [[IPN-Bi-212-5111-Wyrok-Jozwiak-Stanislaw-Sr120-53]] — str. 80-82 (wyrok WSR, opis okoliczności)
 - [[IPN-Bi-212-5331-t2-Postanowienie-Sabin-Jan-Wiewiorka]] — str. 6-9 (zeznanie Krasowskiego, ps. "Franek", udział w bandzie "Głuszec")
+- [[IPN-Bi-237-69-t1-Akta-Bojar-Krasowski]] — str. 1 (karta informacyjna własnej sprawy karnej: s. Błażeja, ur. 20.10.1933, ps. "Franek")
 
 ## Niepewności i sprzeczności
 
 - Nie ustalono dalszych losów (czy został ostatecznie zatrzymany/zlikwidowany) — poza zakresem obecnie przetworzonych źródeł.
-- **Związek z bandą Krasowskiego — W WIĘKSZOŚCI ROZSTRZYGNIĘTY**: SRC-042 (zeznanie samego Krasowskiego) potwierdza, że Bojar dołączył do jego bandy w sierpniu 1950 r. Wcześniejsza niepewność (czy zarzut wobec Jóźwiaka dot. Krasowskiego łączył się z kontaktami z Bojarem) pozostaje częściowo otwarta, ale przynależność Bojara do grupy Krasowskiego jest teraz potwierdzona niezależnie.
-- **Niespójność pseudonimu**: SRC-037 (wyrok Jóźwiaka) podaje ps. "Baranek", natomiast SRC-042 (zeznanie Krasowskiego) konsekwentnie używa ps. "Franek" dla tej samej osoby (Feliks Bojar, brat pośredniczący w kontaktach). Nierozstrzygnięte, czy to dwa równolegle używane pseudonimy, czy błąd w jednym z dokumentów.
+- **Związek z bandą Krasowskiego — ROZSTRZYGNIĘTY**: SRC-042 (zeznanie samego Krasowskiego) potwierdza, że Bojar dołączył do jego bandy w sierpniu 1950 r.; SRC-045 (własna sprawa karna Bojara, prowadzona łącznie ze sprawą Krasowskiego, Sr.109/54) niezależnie potwierdza ten sam związek.
+- **Niespójność pseudonimu — W WIĘKSZOŚCI ROZSTRZYGNIĘTA na korzyść "Franek"**: SRC-037 (wyrok Jóźwiaka) podaje ps. "Baranek", natomiast SRC-042 i SRC-045 (dwa niezależne dokumenty, w tym własna karta informacyjna sprawy karnej Bojara) konsekwentnie podają ps. "Franek". Przewaga dowodowa (2 źródła przeciw 1) przemawia za "Franek" jako głównym/oficjalnym pseudonimem, choć "Baranek" mógł być wariantem używanym lokalnie.

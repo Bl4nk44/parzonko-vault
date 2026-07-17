@@ -8,6 +8,7 @@ given_names:
 surname: "Krasowski"
 aliases:
   - "Głuszec"
+  - "Robak"
 gender: "M"
 birth_date: "1918-10-01"
 birth_date_accuracy: "day"
@@ -30,6 +31,7 @@ key_sources:
   - "SRC-032"
   - "SRC-037"
   - "SRC-042"
+  - "SRC-045"
 certainty: "high"
 tags:
   - type/person
@@ -62,8 +64,11 @@ Kazimierz Krasowski, ps. "Głuszec", dowódca odrębnej grupy zbrojnego podziemi
 
 - [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 34-36 (plan śledztwa, pełny opis działalności bandy)
 - [[IPN-Bi-212-5331-t2-Postanowienie-Sabin-Jan-Wiewiorka]] — str. 5-9 (własne zeznanie Krasowskiego jako świadka, pełne dane osobowe)
+- [[IPN-Bi-237-69-t1-Akta-Bojar-Krasowski]] — str. 1 (karta informacyjna własnej sprawy karnej, fałszywe tożsamości)
 
 ## Niepewności i sprzeczności
 
 - Dokładne granice czasowe dowodzenia bandą po grudniu 1952 r. i jego dalsze losy — nieustalone w obecnie przetworzonej części korpusu.
-- **Niespójność imienia — W WIĘKSZOŚCI ROZSTRZYGNIĘTA na korzyść "Kazimierz"**: [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] (SRC-032, str. 23) wymieniało w kontekście roku 1947 "Krasowskiego **Stanisława** ps. 'Głuszec'". Własne zeznanie Krasowskiego (SRC-042, str. 5-9), złożone pod pełnymi danymi osobowymi (ur. 1.10.1918, Jaszczołty), jednoznacznie potwierdza imię "Kazimierz". Pozostaje niejasne, czy wzmianka "Stanisław" z SRC-032 to zwykły błąd maszynistki, czy odnosi się do innej, przypadkowo tożsamej pseudonimowo osoby z wcześniejszego okresu (1947) — ale waga dowodowa zdecydowanie przechyla się na korzyść jednej, ciągłej tożsamości "Kazimierz Krasowski".
+- **Niespójność imienia — ROZSTRZYGNIĘTA**: [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] (SRC-032, str. 23) wymieniało w kontekście roku 1947 "Krasowskiego **Stanisława** ps. 'Głuszec'". Karta informacyjna własnej sprawy karnej Krasowskiego (SRC-045) podaje wprost: "Krasowski Kazimierz [...] imię ojca: **Stanisław**" — co silnie sugeruje, że wcześniejsza wzmianka "Stanisław" w SRC-032 była pomyłką maszynistki mylącą imię ojca z imieniem samego Krasowskiego, nie odrębną osobą. Imię "Kazimierz" ostatecznie potwierdzone dwoma niezależnymi źródłami (własne zeznanie SRC-042 i własna sprawa karna SRC-045).
+- **Nowe ustalenie (SRC-045)**: data urodzenia w tym źródle podana jako 01.04.1918 — drobna niespójność dnia/miesiąca wobec 01.10.1918 z SRC-042 (oba źródła zgodne co do roku i "01" jako dnia). Nie rozstrzygnięto, który zapis miesiąca jest poprawny.
+- **Liczne fałszywe tożsamości (SRC-045)**: Krasowski posługiwał się pseudonimami "Głuszec" i "Robak" oraz fałszywymi personaliami: Rybałtowski Edward, Nowak Henryk, Kosk Franciszek — świadczy o rozbudowanej praktyce konspiracyjnej ukrywania tożsamości w ostatniej fazie działalności (sprawa karna z 1954 r., już po aresztowaniu głównych band regionu).
