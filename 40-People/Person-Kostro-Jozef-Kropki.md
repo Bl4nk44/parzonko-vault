@@ -29,6 +29,7 @@ related_persons:
 key_sources:
   - "SRC-012"
   - "SRC-015"
+  - "SRC-022"
 certainty: "high"
 tags:
   - type/person

@@ -1,7 +1,7 @@
 {
   "counters": {
-    "SRC": 21,
-    "PERSON": 24,
+    "SRC": 22,
+    "PERSON": 27,
     "PLACE": 14,
     "EVENT:1953": 3,
     "EVENT:1948": 5,
@@ -50,6 +50,9 @@
     "PERSON-021": "Dybowski Ryszard",
     "PERSON-022": "Dybowski Czeslaw",
     "PERSON-023": "Wiewiorka",
-    "PERSON-024": "Gluszec"
+    "PERSON-024": "Gluszec",
+    "PERSON-025": "Wlostowski Witold",
+    "PERSON-026": "Czarnowski Czeslaw",
+    "PERSON-027": "Chlebowicz Lucjan"
   }
 }

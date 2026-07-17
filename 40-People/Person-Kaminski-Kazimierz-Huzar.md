@@ -32,6 +32,7 @@ key_sources:
   - "SRC-013"
   - "SRC-015"
   - "SRC-020"
+  - "SRC-022"
 certainty: "high"
 tags:
   - type/person
@@ -48,6 +49,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 ## Dane podstawowe
 
 - Data urodzenia: nieustalona
+- Imię ojca: Franciszek (wg [[IPN-Bi-07-916-Akta-sledcze-Wlostowski-Witold]], lista świadków procesu Włostowskiego)
 - Miejsce urodzenia: [[Place-Czarkowo-Wolka]], gm. Piekuty, pow. Wysokie Mazowieckie
 - Data śmierci: nieustalona
 - Role: dowódca grupy zbrojnej ps. "Huzar" (powstałej z połączenia resztek band "Młota" i "Hanki"), okres dowodzenia 1947 – październik 1952
