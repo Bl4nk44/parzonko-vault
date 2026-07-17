@@ -1,14 +1,14 @@
 {
   "counters": {
-    "SRC": 30,
-    "PERSON": 31,
-    "PLACE": 15,
+    "SRC": 31,
+    "PERSON": 33,
+    "PLACE": 16,
     "EVENT:1953": 4,
     "EVENT:1948": 5,
     "EVENT:1951": 2,
     "EVENT:1950": 1,
     "EVENT:1946": 1,
-    "EVENT:1952": 1
+    "EVENT:1952": 2
   },
   "aliases": {
     "Parzonko Kazimierz": "PERSON-001",

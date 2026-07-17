@@ -65,6 +65,7 @@ key_sources:
   - "SRC-027"
   - "SRC-028"
   - "SRC-029"
+  - "SRC-031"
 certainty: "high"
 tags:
   - type/person
@@ -157,6 +158,8 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 > **W WIĘKSZOŚCI ROZSTRZYGNIĘTE przez SRC-025** ([[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]], ogólnokrajowy rejestr MSW, dokument maszynowy o dobrej, niebudzącej wątpliwości jakości OCR): "PARZONKA Kazimierz s. Stanisława, ur. **28.02.1922 r.**" — **to DRUGIE, w pełni czytelne (nie zniekształcone) źródło administracyjne, niezależnie potwierdzające dokładnie tę samą datę co [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] (SRC-004, rejestr z 1973 r.)**. Dwa czyste, maszynowe zapisy zgadzające się co do dnia, miesiąca i roku przeważają zdecydowanie nad: pojedynczym odosobnionym "1921" (SRC-006, raport z 1952 r.) oraz niepewnymi odczytami "28.11" z silnie zniekształconych, słabej jakości skanów (SRC-015, SRC-024), które przy tej nowej informacji należy uznać za najprawdopodobniej błędne odczyty tego samego zapisu "28.02" (cyfry "02" i "11" bywają mylone w słabej jakości OCR, podobnie jak już nieraz odnotowano w tym korpusie).
 >
 > **Data urodzenia przyjęta jako 1922-02-28** z wysokim (choć nie 100%) stopniem pewności — pole `birth_date` zaktualizowane. Ostateczne potwierdzenie wymagałoby aktu stanu cywilnego, którego korpus nie zawiera.
+>
+> **Piąta wzmianka** (SRC-031, [[IPN-Bi-07-1466-Akta-sledcze-Poplawski-Kazimierz]], str. 6, protokół przesłuchania Parzonki jako świadka): "ur. 28.11.1922 r. w Leśnikach" — kolejny wariant "28.11", zgodny z SRC-015/SRC-024, ale nie zmieniający przyjętego rozstrzygnięcia (rok 1922 potwierdzony, miesiąc nadal przyjęty jako luty wg dwóch niezależnych, czystych zapisów administracyjnych).
 
 - **Pseudonim "Czarny" — ROZSTRZYGNIĘTE.** Wcześniejsza niejasność gramatyczna z raportu 1952 r. (SRC-006, str. 11: "jest członkiem bandy 'Huzara', który to występuje pod ps. 'Czarny'") rozstrzygnięta przez [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] (str. 3, doniesienie z maja 1950 — chronologicznie wcześniejsze źródło), które wprost stwierdza: "Parzonko Kazimierz pseudonim 'Czarny'". To trzeci potwierdzony pseudonim głównego bohatera.
 - **Amnestia/łaska — ROZSTRZYGNIĘTE (odmówiona).** Spekulacje ludności z marca 1953 (że śmierć Stalina może doprowadzić do amnestii — patrz SRC-001) nie potwierdziły się: Rada Państwa 15.09.1953 odmówiła prawa łaski wobec Parzonki (w przeciwieństwie do współskazanego Kostry, któremu karę złagodzono). Patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]].
