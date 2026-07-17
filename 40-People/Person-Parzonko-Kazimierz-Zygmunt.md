@@ -19,8 +19,8 @@ gender: "M"
 birth_date: "1922-02-28"
 birth_date_accuracy: "day"
 birth_place: "PLACE-003"
-death_date: "1953"
-death_date_accuracy: "year"
+death_date: "1953-09-22"
+death_date_accuracy: "day"
 death_place: null
 nationality: "polska"
 occupation:
@@ -60,6 +60,7 @@ key_sources:
   - "SRC-022"
   - "SRC-023"
   - "SRC-024"
+  - "SRC-025"
 certainty: "high"
 tags:
   - type/person
@@ -81,7 +82,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - Miejsce urodzenia: Leśniki, gm. Ciechanowiec, pow. Bielsk Podlaski (SRC-015) — patrz [[Place-Lesnik]]
 - Stan cywilny (wg stanu na 1952 r.): kawaler
 - Majątek rodzinny: ojciec posiadał 7 ha ziemi we wsi Leśniki
-- Data śmierci: 1953 — skazany na karę śmierci 31.03.1953, **Rada Państwa odmówiła prawa łaski 15.09.1953** (nakaz niezwłocznego wykonania wyroku — patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]). **Dokładna data faktycznego wykonania wyroku nadal nieustalona** — dostępne poszlaki pochodzą z odczytu obarczonego potwierdzonym ryzykiem halucynacji, wymaga dalszej weryfikacji.
+- Data śmierci: **1953-09-22 — ROZSTRZYGNIĘTE.** Skazany na karę śmierci 31.03.1953, Rada Państwa odmówiła prawa łaski 15.09.1953 (patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]), wyrok wykonano **22 września 1953 r.**, potwierdzone przez ogólnokrajowy rejestr MSW ([[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]]) — patrz [[Event-1953-004-Wykonanie-wyroku-smierci-Parzonko]]. To rozstrzyga największe dotychczasowe otwarte pytanie badawcze projektu.
 - Role: kolejno — członek bandy "Młota" → członek bandy "Huzara" (po ucieczce z aresztu 1948) → dowódca własnej grupy "Zygmunt"
 - Pseudonimy: "Wichura"/"Wichora" (do 1948), "Czarny" (jako członek bandy "Huzara", potwierdzone 1950), "Zygmunt" (od momentu dowodzenia własną grupą, potwierdzony w 1953)
 - **Opis fizyczny** (wg doniesienia agenturalnego z maja 1950 r.): wzrost średni, budowa krępa, włosy czarne kręcone, jeden złoty ząb w górnej szczęce z przodu. Nosił mundur wojskowy (stopień starszego sierżanta, mundur zielony z amarantowym kołnierzem), jako dowódca — jedna gwiazdka. **Niezależny rysopis z 1950 r.** ([[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]], str. 18, 20): wzrost 175 cm, włosy czarne, falujące, twarz okrągła, blizna/rozcięcie na jednym z policzków, **dwa złote zęby**, wiek ok. 26-27 lat — spójny w większości cech, drobna rozbieżność liczby złotych zębów (jeden vs dwa), patrz niepewności.
@@ -110,6 +111,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
 - 1953-09-15 — [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]
+- 1953-09-22 — [[Event-1953-004-Wykonanie-wyroku-smierci-Parzonko]] (śmierć)
 
 ## Najważniejsze źródła
 
@@ -130,6 +132,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-07-443-Zeznania-Daniluk-Franciszek-Gryf-28-11-1950]] — str. 45 (**wczesne poświadczenie aliasu "Zygmunt", 1.11.1950 — wcześniej niż dotąd sądzono**)
 - [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 35 (**potwierdzona współpraca operacyjna z bandą "Głuszca" — źródło spisu ofiar zamachu w Zajęcznikach**)
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 23, 47-48 (**pełna charakterystyka, związek z "Łupaszką", alias "Wojtkowski Henryk", mechanizm aresztowania przez operację "Rytel"**)
+- [[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]] — str. 14 (**ROZSTRZYGNIĘTA data wykonania wyroku śmierci: 22.09.1953, oraz niezależne potwierdzenie daty urodzenia 28.02.1922**)
 
 ## Niepewności i sprzeczności
 
@@ -145,11 +148,15 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 >
 > Przyjęto rok **1922, dzień 28** jako ustalone (dwa niezależne, zgodne źródła administracyjne, w tym dokument sądowy o wysokiej wiarygodności formalnej), z **miesiącem przyjętym jako luty (02)** za rejestrem MSW z 1973 r. — nowo odnaleziony zapis "28.11" w wyroku sądowym (SRC-015) pozostaje nierozstrzygniętą drugorzędną niepewnością co do samego miesiąca, nie roku. Pole `birth_date` ustawiono na `1922-02-28`, ale **miesiąc wymaga dalszej weryfikacji** — nie traktować jako w 100% pewny.
 >
-> **Czwarta wartość, jeszcze bardziej komplikująca sprawę**: [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] (str. 23) podaje "ur. 28.11.1923 r." — dzień i miesiąc (28 listopada) zgodne z odczytem "28.11" z SRC-015, ale **rok inny niż wszędzie indziej (1923, nie 1921/1922)**. To retrospektywne opracowanie z 1970 r., nie dokument z epoki, więc może zawierać błąd przy przepisywaniu z wcześniejszych akt — ale zbieżność dnia/miesiąca z SRC-015 (oba "28.11") wobec odosobnionego "28.02" z SRC-004 dodatkowo osłabia pewność co do miesiąca lutego. Stan na teraz: **rok 1922 nadal najbardziej prawdopodobny (2 z 4 źródeł), ale dzień/miesiąc "28 listopada" ma teraz poparcie 2 z 4 źródeł wobec 1 źródła na "28 lutego"** — sprzeczność nierozstrzygnięta, wymaga dokumentu rozstrzygającego (akt urodzenia).
+> **Czwarta wartość** (odnaleziona wcześniej): [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] (str. 23) podawała "ur. 28.11.1923 r." — dzień/miesiąc "28.11" zgodny z niepewnym odczytem SRC-015, rok odmienny (1923).
+>
+> **W WIĘKSZOŚCI ROZSTRZYGNIĘTE przez SRC-025** ([[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]], ogólnokrajowy rejestr MSW, dokument maszynowy o dobrej, niebudzącej wątpliwości jakości OCR): "PARZONKA Kazimierz s. Stanisława, ur. **28.02.1922 r.**" — **to DRUGIE, w pełni czytelne (nie zniekształcone) źródło administracyjne, niezależnie potwierdzające dokładnie tę samą datę co [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] (SRC-004, rejestr z 1973 r.)**. Dwa czyste, maszynowe zapisy zgadzające się co do dnia, miesiąca i roku przeważają zdecydowanie nad: pojedynczym odosobnionym "1921" (SRC-006, raport z 1952 r.) oraz niepewnymi odczytami "28.11" z silnie zniekształconych, słabej jakości skanów (SRC-015, SRC-024), które przy tej nowej informacji należy uznać za najprawdopodobniej błędne odczyty tego samego zapisu "28.02" (cyfry "02" i "11" bywają mylone w słabej jakości OCR, podobnie jak już nieraz odnotowano w tym korpusie).
+>
+> **Data urodzenia przyjęta jako 1922-02-28** z wysokim (choć nie 100%) stopniem pewności — pole `birth_date` zaktualizowane. Ostateczne potwierdzenie wymagałoby aktu stanu cywilnego, którego korpus nie zawiera.
 
 - **Pseudonim "Czarny" — ROZSTRZYGNIĘTE.** Wcześniejsza niejasność gramatyczna z raportu 1952 r. (SRC-006, str. 11: "jest członkiem bandy 'Huzara', który to występuje pod ps. 'Czarny'") rozstrzygnięta przez [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]] (str. 3, doniesienie z maja 1950 — chronologicznie wcześniejsze źródło), które wprost stwierdza: "Parzonko Kazimierz pseudonim 'Czarny'". To trzeci potwierdzony pseudonim głównego bohatera.
 - **Amnestia/łaska — ROZSTRZYGNIĘTE (odmówiona).** Spekulacje ludności z marca 1953 (że śmierć Stalina może doprowadzić do amnestii — patrz SRC-001) nie potwierdziły się: Rada Państwa 15.09.1953 odmówiła prawa łaski wobec Parzonki (w przeciwieństwie do współskazanego Kostry, któremu karę złagodzono). Patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]].
-- **Faktyczne wykonanie wyroku — NADAL NIEUSTALONE.** Nakaz "niezwłocznego wykonania" wydano 15.09.1953, ale dokładna data/miejsce/potwierdzenie faktycznego wykonania kary śmierci nie zostały wiarygodnie ustalone. Dostępne poszlaki (możliwe przekazanie sprawy do Białegostoku 21.09.1953) pochodzą z odczytu narzędziem wizyjnym, które **na sąsiedniej stronie tego samego dokumentu dało potwierdzoną halucynację** (podstawiło tekst niepowiązanego protokołu egzekucji gen. Fieldorfa) — dlatego te poszlaki NIE są traktowane jako fakt. Wymaga: ręcznego obejrzenia oryginalnych skanów stron 117-120 dokumentu [[IPN-BU-1069-60-t1-fragment-str114-122-wyrok-ulaskawienie]], lub dalszego przetwarzania pozostałych ~148 nieprzeczytanych jeszcze stron tego samego 157-stronicowego dokumentu, gdzie protokół wykonania może się powtórzyć w czytelniejszej formie.
+- **Faktyczne wykonanie wyroku — ROZSTRZYGNIĘTE (patrz wyżej, Dane podstawowe).** Wcześniejsze, niepewne poszlaki z odczytu wizyjnego (obarczonego potwierdzoną halucynacją na sąsiedniej stronie tego samego dokumentu, [[IPN-BU-1069-60-t1-fragment-str114-122-wyrok-ulaskawienie]]) sugerowały przekazanie sprawy do Białegostoku ok. 21.09.1953 — **niezależny, czysto odczytany ogólnokrajowy rejestr MSW ([[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]]) potwierdza datę wykonania wyroku: 22 września 1953 r.**, co jest w pełni zgodne z tymi wcześniejszymi poszlakami. Miejsce wykonania wyroku pozostaje nieustalone precyzyjnie.
 - **Wcześniejsze czyny (1946-47)**: doniesienie agenturalne (źródło "Kalinowski", str. 8 dokumentu SRC-001) sugeruje, że akt oskarżenia z 1953 r. nie obejmował wcześniejszych morderstw z lat 1946-47 przypisywanych Parzonce, w tym zabójstwa oficera Wojska Polskiego w Ciechanowcu. To niepotwierdzona wzmianka z drugiej ręki (plotka sądowa zanotowana przez agenta), nie ustalony fakt — oznaczono jako otwarte pytanie badawcze.
 - **Spór o odpowiedzialność z "Huzarem"**: podczas rozprawy Parzonko zeznał, że napadów i morderstw dokonywał z polecenia "Huzara", "zadając kłam" zeznaniom Kamińskiego — obaj dowódcy najwyraźniej przerzucali na siebie odpowiedzialność w trakcie procesu. Rzeczywisty podział dowodzenia/odpowiedzialności między obiema grupami pozostaje niejasny na podstawie tego jednego źródła.
 - **Miejsce melinowania (1952)**: wg teczki werbunkowej informatora "Kanonier" ([[IPN-Bi-0088-531-J-Teczka-informator-Kanonier-Otap-Kazimierz]]), banda Parzonki w 1952 r. korzystała z melina w domu rodziny Otapów we wsi [[Place-Czaje-Bagno]]. Ta sama rodzina wcześniej (1947-52) udzielała schronienia kolejno bandom "Łunaszki", "Młota" i "Huzara".

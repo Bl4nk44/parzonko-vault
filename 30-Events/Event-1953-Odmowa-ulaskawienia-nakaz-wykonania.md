@@ -33,7 +33,7 @@ To rozstrzyga spekulacje ludności odnotowane w doniesieniach agenturalnych z ma
 
 Decyzja Rady Państwa z 15 września 1953 r. została przekazana pismem Szefa Wojskowego Sądu Rejonowego w Warszawie, zwracającym akta sprawy (2 tomy) do Białegostoku z poleceniem "niezwłocznie zarządzić wykonanie kary śmierci i kar dodatkowych" wobec trzech nieułaskawionych skazanych.
 
-**Nieustalone (wymaga dalszej weryfikacji):** czy i kiedy dokładnie wyrok został faktycznie wykonany. Fragmentaryczne, niepotwierdzone poszlaki (odczyt modelu wizyjnego, obarczony potwierdzonym ryzykiem halucynacji na sąsiedniej stronie tego samego dokumentu) sugerują przekazanie sprawy do wykonania w Białymstoku ok. 21 września 1953 r., ale to NIE jest traktowane jako potwierdzony fakt — patrz [[IPN-BU-1069-60-t1-fragment-str114-122-wyrok-ulaskawienie]] dla pełnych zastrzeżeń metodologicznych.
+**ROZSTRZYGNIĘTE**: wyrok wykonano 22 września 1953 r. — patrz [[Event-1953-004-Wykonanie-wyroku-smierci-Parzonko]], oparte na niezależnym, czysto odczytanym ogólnokrajowym rejestrze MSW ([[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]]). To potwierdza (a nie tylko sugeruje, jak wcześniej sądzono na podstawie niepewnego odczytu wizyjnego) termin bliski wcześniej podejrzewanej dacie ok. 21.09.1953.
 
 ## Osoby
 
@@ -56,4 +56,4 @@ Brak sprzeczności co do samej decyzji o odmowie łaski (jedno, wewnętrznie sp�
 
 ## Stopień pewności
 
-Wysoki co do samej decyzji Rady Państwa z 15.09.1953 (odmowa łaski dla Parzonki, zgoda na łaskę dla Kostry) — czytelne, wewnętrznie spójne źródło tesseract. Niski/brak co do faktycznego wykonania wyroku — wymaga dalszej weryfikacji w nieprzetworzonej jeszcze części tego samego 157-stronicowego dokumentu lub innych źródłach korpusu.
+Wysoki co do samej decyzji Rady Państwa z 15.09.1953 (odmowa łaski dla Parzonki, zgoda na łaskę dla Kostry) oraz — od momentu przetworzenia SRC-025 — co do faktycznego wykonania wyroku 22.09.1953 r.

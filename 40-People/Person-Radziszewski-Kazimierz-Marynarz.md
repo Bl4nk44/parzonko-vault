@@ -12,8 +12,8 @@ gender: "M"
 birth_date: "1917-11-19"
 birth_date_accuracy: "day"
 birth_place: null
-death_date: "1953"
-death_date_accuracy: "year"
+death_date: "1953-09-22"
+death_date_accuracy: "day"
 death_place: null
 nationality: "polska"
 occupation:
@@ -30,6 +30,7 @@ key_sources:
   - "SRC-017"
   - "SRC-022"
   - "SRC-024"
+  - "SRC-025"
 certainty: "high"
 tags:
   - type/person
@@ -49,7 +50,7 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 
 - Data urodzenia: 1917-11-19
 - Miejsce urodzenia: wieś Radziszewo-Sieńczuch, pow. Bielsk Podlaski
-- Data śmierci: 1953 (rok skazania na karę śmierci — wykonanie wyroku niepotwierdzone w tym źródle, jak w przypadku [[Person-Parzonko-Kazimierz-Zygmunt]]; **NIE otrzymał ułaskawienia** — patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]])
+- Data śmierci: **1953-09-22 — ROZSTRZYGNIĘTE.** Skazany na karę śmierci 31.03.1953, **NIE otrzymał ułaskawienia** (patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]), wyrok wykonano 22.09.1953 r., potwierdzone przez [[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]] — patrz [[Event-1953-004-Wykonanie-wyroku-smierci-Parzonko]]
 - Role: członek grupy zbrojnej, ps. "Marynarz"
 - Pseudonimy: "Marynarz"
 
@@ -63,11 +64,13 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 - 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] (osobiście zabił Lejzerowicza)
 - 1951-07 (data niepewna: 20 lub 30 lipca) — [[Event-1951-002-Zabojstwo-Jasinskiego]] (strzelał do ofiary, pistolet się zaciął)
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
+- 1953-09-22 — [[Event-1953-004-Wykonanie-wyroku-smierci-Parzonko]] (śmierć)
 
 ## Najważniejsze źródła
 
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 11 (skazanie), str. 5 (wzmianka doniesienia agenturalnego, ps. "Wdzięczny", określające go jako "dobrego chłopa", którego mieszkańcy żałowali)
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 142, 145-146 (pełny wyrok, dane osobowe, udział w zabójstwach)
+- [[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]] — str. 14 (**ROZSTRZYGNIĘTA data wykonania wyroku: 22.09.1953**)
 
 ## Niepewności i sprzeczności
 
