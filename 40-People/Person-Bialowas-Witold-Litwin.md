@@ -1,0 +1,67 @@
+---
+type: person
+uid: "PERSON-037"
+person_id: "PERSON-037"
+full_name: "Witold Białowąs"
+given_names:
+  - Witold
+surname: "Białowąs"
+aliases:
+  - "Litwin"
+gender: "M"
+birth_date: null
+birth_date_accuracy: "unknown"
+birth_place: null
+death_date: null
+death_date_accuracy: "unknown"
+death_place: null
+nationality: "polska"
+occupation: []
+roles:
+  - "dowódca odrębnego oddziału leśnego (region Łapy), cel operacji \"Rytel\" niezależnie od Parzonki/Huzara"
+related_to_main_person: "associate"
+related_persons:
+  - "PERSON-030"
+key_sources:
+  - "SRC-038"
+certainty: "medium"
+tags:
+  - type/person
+  - status/unreviewed
+  - topic/resistance
+---
+
+# Witold Białowąs ("Litwin")
+
+## Podsumowanie
+
+Witold Białowąs ps. "Litwin", dowódca odrębnego oddziału leśnego (region Łap, pow. Białystok). **Kluczowe znaczenie**: jego zeznanie ujawnia, że agent MBP Janusz Terlikowski ps. "Rytel" — znany dotąd z korpusu wyłącznie jako pomost do infiltracji bandy Parzonki/Kamińskiego ("Huzara") — **prowadził tę samą fikcyjną operację "WiN" równolegle wobec co najmniej jednego innego, odrębnego oddziału leśnego**, bezpośrednio, bez pośrednictwa Parzonki. To rozszerza obraz operacji z pojedynczej, spersonalizowanej "gry" wykorzystującej przyjaźń Terlikowski-Parzonko na **szerszą, systemową operację MBP obejmującą region** — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]] i [[Person-Terlikowski-Janusz-Rytel]].
+
+Terlikowski przedstawił Białowąsowi tę samą fikcyjną strukturę organizacyjną (Komenda Główna "WiN" krypt. "Uniwersytet" → obszar "Akademia" → okręg białostocki "Bursa"), zaproponował finansowanie (50 dolarów + złotówki) i zaprzestanie działalności "bandyckiej" na rzecz "pracy organizacyjnej". Spotkania odbywały się w punkcie kontaktowym u Łapińskiego Władysława w Łapach (listopad 1951, styczeń 1952, kwiecień 1952).
+
+## Dane podstawowe
+
+- Role: dowódca oddziału leśnego, cel operacji "Rytel"
+
+## Relacje
+
+- Kontakt operacyjny (jako cel infiltracji): [[Person-Terlikowski-Janusz-Rytel]]
+- Wytypował do łączności: Olędzki ps. "Ope" (szef łączności "Bursy"), Bobrzyniecka Eugenia ps. "Maria" (łączniczka) — brak dostatecznych danych do osobnych notatek
+
+## Chronologia życia
+
+- 1951-10 (ok.) — pierwszy kontakt z Terlikowskim ps. "Rytel", propozycja podporządkowania oddziału "Komendzie Głównej WiN"
+- 1951-11 — drugie spotkanie w Łapach, wyjaśnienie struktury kryptonimów ("Uniwersytet"/"Akademia"/"Bursa")
+- 1952-01 — trzecie spotkanie, przedstawienie "Znaka" (szef łączności "Akademii")
+- 1952 (wiosna) — przejęcie łączności przez "Greka"
+- 1952-04 — ostatnie spotkanie z Terlikowskim
+
+## Najważniejsze źródła
+
+- [[IPN-Bi-012-1231-t2-Zeznania-Bialowas-Witold-Litwin]] — str. 78-79 (własne zeznanie o kontaktach z Terlikowskim)
+
+## Niepewności i sprzeczności
+
+- Tożsamość zeznającego jako "Białowąs Witold ps. Litwin" oparta na nazwie oryginalnego pliku w korpusie — sama treść zeznania (pierwsza osoba) nie zawiera jego nazwiska wprost w przeczytanych fragmentach. Zgodne z wykazem świadków w [[IPN-Bi-212-5111-Wyrok-Jozwiak-Stanislaw-Sr120-53]] (SRC-037), gdzie występuje "Białowąs Witold" jako świadek.
+- Dokładny skład i teren działania jego "oddziału leśnego" nieznany w obecnie przetworzonej części korpusu.
+- Rysopis Terlikowskiego podaje "lat około 20" — prawdopodobny błąd OCR (inne źródła sugerują dojrzałego, wykształconego mężczyznę ok. 30 lat).

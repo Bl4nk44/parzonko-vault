@@ -26,6 +26,7 @@ related_persons:
   - "PERSON-002"
 key_sources:
   - "SRC-024"
+  - "SRC-038"
 certainty: "high"
 tags:
   - type/person
@@ -59,7 +60,10 @@ Janusz Terlikowski, lekarz, mieszkaniec pow. Bielsk Podlaski, dawny znajomy Kazi
 ## Najważniejsze źródła
 
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48 (opis całej operacji)
+- [[IPN-Bi-012-1231-t2-Zeznania-Bialowas-Witold-Litwin]] — str. 78-79 (własne zeznanie celu operacji dot. struktury i przebiegu kontaktów)
 
 ## Niepewności i sprzeczności
 
 - Prawdziwe imię/tożsamość poza pseudonimem organizacyjnym "Rytel" nieustalone poza wskazaniem "Terlikowski Janusz" — czy to jego prawdziwe nazwisko, czy kolejny pseudonim/kryptonim, nie jest jasne z kontekstu dokumentu.
+- **ROZSZERZONY ZAKRES OPERACJI (SRC-038)**: zeznanie Białowąsa Witolda ps. "Litwin" ujawnia, że Terlikowski prowadził tę samą fikcyjną operację "WiN" **równolegle wobec co najmniej jednego innego, odrębnego oddziału leśnego** — nie tylko wobec Parzonki/Huzara. Ujawniona pełna struktura fikcyjnych kryptonimów: Komenda Główna "WiN" = "Uniwersytet", obszar = "Akademia", okręg białostocki = "Bursa". Sieć łączności: "Znak" (szef łączności "Akademii"), Bobrzyniecka Eugenia ps. "Maria" (pierwsza łączniczka), następnie "Grek" (przejął łączność wiosną 1952 r.). Sugeruje to systemową, wielocelową operację MBP w regionie białostockim, nie tylko spersonalizowaną grę wykorzystującą przyjaźń z Parzonką.
+- Pochodzi z Ciechanowca, pow. Bielsk Podlaski (wg zeznania Białowąsa) — nowa informacja biograficzna, zgodna z regionem działania.

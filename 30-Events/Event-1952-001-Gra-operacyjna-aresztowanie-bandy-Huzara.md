@@ -18,6 +18,7 @@ category: "arrest"
 sources:
   - "SRC-024#p47-48"
   - "SRC-024#p53-54"
+  - "SRC-038#p78-79"
 certainty: "high"
 tags:
   - type/event
@@ -34,6 +35,8 @@ Na początku października 1951 r. Departament III MBP w Warszawie polecił leka
 
 ## Przebieg
 
+**Uzupełnienie struktury operacji (SRC-038)**: zeznanie Witolda Białowąsa ps. "Litwin" — dowódcy odrębnego oddziału leśnego, niezależnego od bandy Huzara/Zygmunta — ujawnia, że Terlikowski prowadził analogiczną operację również wobec jego grupy, co wskazuje na **szerszy, regionalny zasięg tej gry operacyjnej MBP**, nie ograniczony do jednego celu. Pełna, fikcyjna struktura organizacyjna: Komenda Główna "WiN" krypt. "Uniwersytet" → obszar krypt. "Akademia" → okręg białostocki krypt. "Bursa". Sieć łączności obejmowała: "Znak" (szef łączności "Akademii"), Bobrzyniecką Eugenię ps. "Maria" (pierwsza łączniczka, do wiosny 1952), a następnie "Greka" (przejął łączność). Punkt kontaktowy dla Białowąsa: u Łapińskiego Władysława w Łapach.
+
 Wg dokładnej listy aresztowań: Kamiński Kazimierz ps. "Huzar" ujęty 29.11.1952 r.; Grodzki Mieczysław, Kryński Tadeusz ps. "Rokita", Zalewski Wacław, Radziszewski [Kazimierz] ps. "Marynarz", Mościcki Józef, Kostro Józef ps. "Paweł" i inni ujęci 30.11.1952 r. Wszyscy skazani wyrokiem WSR w Warszawie na sesji wyjazdowej w Ciechanowcu z dnia 31.03.1953 r. — w większości na karę śmierci. Kazimierz Parzonko wg oddzielnej charakterystyki (patrz [[Person-Parzonko-Kazimierz-Zygmunt]]) "w dniu 30.11.1952 r. wyjechał do Warszawy z zamiarem ucieczki za granicę, gdzie w dniu tym został aresztowany przez organa SB."
 
 ## Osoby
@@ -41,6 +44,7 @@ Wg dokładnej listy aresztowań: Kamiński Kazimierz ps. "Huzar" ujęty 29.11.19
 - [[Person-Parzonko-Kazimierz-Zygmunt]] — nieświadomy/świadomy pomost do infiltracji, sam również aresztowany 30.11.1952
 - [[Person-Kaminski-Kazimierz-Huzar]] — główny cel operacji, aresztowany 29.11.1952
 - [[Person-Terlikowski-Janusz-Rytel]] — agent prowadzący operację
+- [[Person-Bialowas-Witold-Litwin]] — dowódca odrębnego oddziału, równoległy cel tej samej operacji
 
 ## Miejsce
 
