@@ -48,4 +48,5 @@ Czesław Bachorek, s. Stanisława, ur. 13.04.1930 r. Oskarżony (WSR Białystok,
 ## Niepewności i sprzeczności
 
 - Rola Bachorka samego w opisanych w aktach epizodach z Parzonką nie jest jednoznacznie ustalona z odczytanych fragmentów — cytowane zeznania (str. 9, 20, 23) pochodzą od innego świadka (podpis "Gontar P."), nie od samego Bachorka; jego bezpośredni związek z opisanymi wydarzeniami wymaga dalszego uściślenia przy pełniejszym odczycie dokumentu.
+- **Częściowo wyjaśnione**: świadek "Gontar P." to najprawdopodobniej krewny (brat) Stanisława Gontarczuka ([[Person-Gontarczuk-Stanislaw]]), który wg [[IPN-Bi-07-433-t2-Akta-sledcze-Parzonko-Kazimierz]] (SRC-076) ukrywał się razem z Parzonką pod fałszywym nazwiskiem "Łukasiuk Józef" — dokładnie zgodnie z opisem "brata" świadka w tej notatce.
 - Dalsze losy (wyrok) nieznane w obecnie przetworzonej części korpusu.

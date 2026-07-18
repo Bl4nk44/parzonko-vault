@@ -25,6 +25,7 @@ related_persons:
 key_sources:
   - "SRC-072"
   - "SRC-074"
+  - "SRC-076"
 certainty: "medium"
 tags:
   - type/person
@@ -36,7 +37,7 @@ tags:
 
 ## Podsumowanie
 
-Stanisław Gontarczuk, wymieniony w sprawozdaniu WUBP Gdańsk (lipiec 1949, sprawa WB-99/49) obok Kazimierza Parzonki jako poszukiwany członek resztek bandy "Młota" ([[Person-Lukasiuk-Wladyslaw-Mlot]]) po jej faktycznym rozpadzie. Brak dalszych danych osobowych. **Nie scalono** z już udokumentowanym [[Person-Gontarczuk-Antoni]] (inne imię) ani z Władysławem/Józefem Gontarczukiem z rejestru pseudonimów (SRC-070) — możliwe, że to kolejny członek rozgałęzionej rodziny Gontarczuków silnie zaangażowanej w podziemie regionu.
+Stanisław Gontarczuk, wymieniony w sprawozdaniu WUBP Gdańsk (lipiec 1949, sprawa WB-99/49) obok Kazimierza Parzonki jako poszukiwany członek resztek bandy "Młota" ([[Person-Lukasiuk-Wladyslaw-Mlot]]) po jej faktycznym rozpadzie. **Tożsamość aliasu ROZSTRZYGNIĘTA (SRC-076, str. 43)**: posługiwał się fałszywym nazwiskiem "Łukasiuk Józef" — to on ukrywał się razem z Parzonką (ps. "Wojtkowski Henryk") w rejonie Olsztyna 1948-49, opisanym przez świadka w [[IPN-Bi-212-4961-Akta-sledcze-Bachorek-Czeslaw]] (SRC-074) jako "mój brat ukrywający się pod nazwiskiem Łukasiuk Józef". **Nie scalono** z już udokumentowanym [[Person-Gontarczuk-Antoni]] (inne imię) ani z Władysławem/Józefem Gontarczukiem z rejestru pseudonimów (SRC-070) — możliwe, że to kolejny członek rozgałęzionej rodziny Gontarczuków silnie zaangażowanej w podziemie regionu.
 
 ## Relacje
 
