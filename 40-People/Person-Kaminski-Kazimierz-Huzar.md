@@ -44,6 +44,7 @@ key_sources:
   - "SRC-086"
   - "SRC-087"
   - "SRC-089"
+  - "SRC-091"
 certainty: "high"
 tags:
   - type/person
@@ -79,6 +80,8 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - 1948-07 — [[Event-1948-005-Potyczka-Ciechanowiec-Dybowscy]] (śmierć dwóch podwładnych w potyczce z wojskiem)
 - 1949-01-26 — [[Event-1949-001-Morderstwo-4-osob-Szepietowo]] (nowe ustalenie, SRC-086)
 - 1950-01 — bawi się całą noc na weselu z narzeczoną, nauczycielką Gertrudą Ceraniewicz ([[Person-Ceraniewicz-Gertruda]]) — SRC-087
+- 1951-10 (początek) — przyjmuje osobisty meldunek Parzonki i Radziszewskiego o zabójstwie Jasińskiego w kolonii Puław, gm. Klukowo, awansuje Radziszewskiego (SRC-091)
+- 1951-10 (12.10) — spotyka się osobiście z podstawionym agentem MBP "Rygiel"/"Rytel" w Niemyjach Nowych — kluczowy krok operacji, która doprowadziła do rozbicia bandy (SRC-091, patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]])
 - 1949-1951 — udokumentowane zabójstwa funkcjonariuszy MO/ORMO
 - 1948-02 — [[Event-1948-004-Zabojstwo-Jankowskiego-informatora]] (zlecił zabójstwo)
 - 1948-03 — [[Event-1948-003-Zabojstwo-Dymitrowa]] (osobiście dokonał egzekucji)

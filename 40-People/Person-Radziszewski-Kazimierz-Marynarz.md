@@ -36,6 +36,7 @@ key_sources:
   - "SRC-070"
   - "SRC-077"
   - "SRC-088"
+  - "SRC-091"
 certainty: "high"
 tags:
   - type/person
@@ -66,8 +67,10 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 
 ## Chronologia życia
 
+- 1949-05-02 — otrzymuje stopień kaprala od Władysława Łukasiuka ps. "Młot" (SRC-091) — potwierdza, że wciąż był w bandzie "Młota" niecałe dwa miesiące przed jego śmiercią (27.06.1949)
 - 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] (osobiście zabił Lejzerowicza)
 - 1951-07 (data niepewna: 20 lub 30 lipca) — [[Event-1951-002-Zabojstwo-Jasinskiego]] (strzelał do ofiary, pistolet się zaciął)
+- 1951-10 (początek) — wg własnego zeznania (SRC-091) osobiście melduje zabójstwo Jasińskiego Kamińskiemu w kolonii Puław, gm. Klukowo; awansowany do stopnia plutonowego — patrz niepewności co do przebiegu samego zabójstwa
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
 - 1953-09-22 — [[Event-1953-004-Wykonanie-wyroku-smierci-Parzonko]] (śmierć)
 
@@ -83,3 +86,4 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 - **Certainty podniesiona do `high`** — pełne dane osobowe (data i miejsce urodzenia, imiona rodziców) potwierdzone niezależnie w wyroku sądowym SRC-015, rozwiewając wcześniejszą niepewność opartą wyłącznie na słabej jakości OCR pojedynczego dokumentu (gdzie nazwisko pojawiało się zniekształcone jako "dądziszewski").
 - **Możliwa kolizja nazwiska**: w korpusie źródłowym istnieje inny dokument (`Bi 011_25 tom 1 zeznania Radziszewski Mieczysław do sprawy ps. Jaskółka.pdf`, jeszcze nieprzetworzony w pełni) dotyczący osoby o nazwisku Radziszewski, ale **innym imieniu (Mieczysław)** i **innej sprawie** (oddział AK-WiN pod dowództwem "Jaskółki", nie "Zygmunta"/"Huzara"). Zgodnie z zasadą "nie scalaj osób tylko dlatego, że mają podobne nazwisko" — **to jest traktowane jako odrębna osoba**, nie ten sam Radziszewski. Podobnie, dokument fotograficzny [[IPN-BU-024-95-Zdjecie-Miodusy-Radziszewski-Olszewski]] wzmiankuje "Radziszewskiego" bez pewnego imienia — może to być ta sama osoba (Kazimierz, "Marynarz") lub inny członek rodziny; oznaczone jako niepewne w tamtej notatce źródłowej, nie założono automatycznego połączenia.
 - Przynależność do konkretnej grupy ("Zygmunta" czy "Huzara") nie jest jednoznacznie podana w źródle — oskarżeni sądzeni byli łącznie w ramach jednego procesu obejmującego obie powiązane grupy.
+- **Nowa sprzeczność ws. przebiegu zabójstwa Jasińskiego**: [[IPN-BU-0189-38-t3-Opracowanie-Huzar-1954-1990]] (SRC-091, str. 66) cytuje własne zeznanie Radziszewskiego, w którym opisuje, że SAM dokonał zabójstwa (bez wzmianki o zacięciu broni czy dobiciu przez Parzonkę) i osobiście zameldował o tym Kamińskiemu w październiku 1951, otrzymując awans na plutonowego. To odmienne od wersji z wyroku Sr.251/53 (SRC-015), gdzie Radziszewski strzelał pierwszy, ale broń mu się zacięła, a Parzonko dobił ofiarę. Możliwe, że zeznanie śledcze (bardziej szczegółowe, złożone bezpośrednio po ujęciu) jest dokładniejsze niż skrócony opis w wyroku sądowym — ale nie rozstrzygnięto ostatecznie, patrz też [[Event-1951-002-Zabojstwo-Jasinskiego]].

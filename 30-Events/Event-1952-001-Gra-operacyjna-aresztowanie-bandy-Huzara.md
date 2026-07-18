@@ -19,6 +19,7 @@ sources:
   - "SRC-024#p47-48"
   - "SRC-024#p53-54"
   - "SRC-038#p78-79"
+  - "SRC-091#p88-90,140,149"
 certainty: "high"
 tags:
   - type/event
@@ -54,9 +55,11 @@ Warszawa (miejsce dokładne nieustalone — "meliny" przygotowane przez MBP).
 
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48, 53-54
 
+**Nowe szczegóły (SRC-091)**: dokument ten nazywa agenta "Rygiel" (wariant zapisu "Rytla"), podaje precyzyjne daty kolejnych spotkań przygotowawczych z Krasowskim "Głuszczem" (6-7.09, 13.09, 28.09, 1.10.1951) oraz pierwszego spotkania z Kamińskim (12.10.1951, wieś Niemyje Nowe, u meliniarza Puchalskiego, z dialogiem o orientacji politycznej rzekomej organizacji — "obóz USA i Anglii" nawiązujący do gen. Andersa). **Kluczowe: potwierdza, że to Parzonko potajemnie, przed samym Krasowskim, umówił to spotkanie** — bezpośrednia, aktywna rola w inicjacji operacji, nie tylko bierny "pomost". Opisuje też zatrzymanie Zalewskiego "Zbyszek" w zasadzce kolejowej (funkcjonariusze przebrani za "kolejarzy"), oraz plan likwidacji reszty patrolu "Zygmunta" przekazany przez Kryńskiego "Rokitę" jako zastępcę. Statystyki końcowe: 425 osób zatrzymanych/aresztowanych na terenie woj. białostockiego (3.10.1951-7.10.1952); Kamiński i Zalewski przyznali się do 40 napadów z 53 ofiarami śmiertelnymi.
+
 ## Sprzeczne relacje
 
-Brak — spójna, szczegółowa relacja jednego źródła (retrospektywne opracowanie UB z 1970 r.), zgodna co do dat aresztowania (29-30.XI.1952) z resztą korpusu (wyrok WSR z 31.03.1953 r. jako konsekwencja).
+Brak — spójna, szczegółowa relacja jednego źródła (retrospektywne opracowanie UB z 1970 r.), zgodna co do dat aresztowania (29-30.XI.1952) z resztą korpusu (wyrok WSR z 31.03.1953 r. jako konsekwencja). SRC-091 niezależnie potwierdza i wzbogaca tę samą relację o dodatkowe, precyzyjne daty i szczegóły operacyjne.
 
 ## Stopień pewności
 

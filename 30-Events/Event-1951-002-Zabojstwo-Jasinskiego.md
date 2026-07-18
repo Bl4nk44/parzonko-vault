@@ -17,6 +17,7 @@ sources:
   - "SRC-015#p144"
   - "SRC-056#p30"
   - "SRC-077#p32"
+  - "SRC-091#p66"
 certainty: "medium"
 tags:
   - type/event
@@ -58,7 +59,7 @@ Wg SRC-012 nieustalone (nieczytelne w OCR); wg SRC-015 — [[Place-Przybyszyn]],
 
 ## Sprzeczne relacje
 
-Brak — jednoźródłowe, ale silnie zniekształcony fragment tekstu ogranicza pewność szczegółów.
+**Nowa sprzeczność przebiegu (SRC-091, str. 66)**: dosłowny cytat własnego zeznania Radziszewskiego opisuje, że sam dokonał zabójstwa (przeszukał kieszenie ofiary, po czym wrócił do czekającego Parzonki) — bez wzmianki o zacięciu broni czy dobiciu przez Parzonkę, odmiennie od wersji z wyroku Sr.251/53 (SRC-015: Radziszewski strzelał pierwszy, broń się zacięła, Parzonko dobił ofiarę serią z automatu). To samo zeznanie ujawnia nowe szczegóły: zameldowanie Kamińskiemu w kolonii Puław (gm. Klukowo, październik 1951) i awans Radziszewskiego na plutonowego za ten czyn. Nie rozstrzygnięto, która wersja (skrócony opis w wyroku vs. bardziej szczegółowe własne zeznanie śledcze) jest dokładniejsza.
 
 ## Stopień pewności
 
