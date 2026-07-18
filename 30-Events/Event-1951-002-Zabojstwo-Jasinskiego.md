@@ -16,6 +16,7 @@ sources:
   - "SRC-012#p13"
   - "SRC-015#p144"
   - "SRC-056#p30"
+  - "SRC-077#p32"
 certainty: "medium"
 tags:
   - type/event
@@ -39,6 +40,8 @@ Sprawozdanie Sekcji III PUBP (SRC-012) wymienia ten czyn jako trzeci z udokument
 **Rozbieżność dat (20 vs 30 lipca 1951) nie została rozstrzygnięta** — możliwe, że jeden z dokumentów zawiera błąd maszynistki/sądu, albo błąd odczytu OCR (cyfry "2" i "3" bywają mylone w słabej jakości skanach). Imię ofiary również rozbieżne: "Jasiński [nieczytelne] s. Stanisława" (SRC-012) vs "Jasiński Franciszek" (SRC-015, patronimik nie podany) — patrz [[Person-Jasinski-NN]].
 
 **Trzeci wariant daty (SRC-056)**: fragment charakterystyki bandy dołączony do akt Lucyny Samojłuk podaje datę "14 sierpnia 1951 r." dla tego samego zabójstwa (Jasiński Franciszek) — jeszcze inna data niż 20 i 30 lipca. Trzy niezależne źródła podają trzy różne daty tego samego wydarzenia — nierozstrzygnięte, prawdopodobnie kumulacja błędów maszynistek/OCR w kolejnych odpisach.
+
+**Nowe szczegóły operacyjne (SRC-077, str. 32)**: przygotowania z 29-30 lipca 1951 r. — Parzonko podzielił oddział na drodze koło kol. Poniaty (gm. Ciechanowiec), wysyłając Kostrę i Mościckiego czekać w lesie, sam zaś z jednym z podkomendnych (najprawdopodobniej Radziszewski) udał się na nocleg do meliniarza Adama Sekali ([[Person-Sekala-Adam]]), który następnego dnia dostarczył szczegółowe rozpoznanie domu i wyglądu Jasińskiego, umożliwiając identyfikację ofiary.
 
 ## Osoby
 

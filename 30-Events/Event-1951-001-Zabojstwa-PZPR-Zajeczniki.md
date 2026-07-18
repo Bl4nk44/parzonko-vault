@@ -23,6 +23,7 @@ sources:
   - "SRC-044#p98"
   - "SRC-046#p23-24"
   - "SRC-047#p27"
+  - "SRC-077#p36"
 certainty: "high"
 tags:
   - type/event
@@ -52,6 +53,8 @@ Sprawozdanie Sekcji III PUBP (tabela "Bliższe dane odnośnie napadu") podaje te
 **Źródło informacji o ofiarach (SRC-021, str. 35)**: jesienią 1950 r. Jan Sabin ps. "Wiewiórka", członek odrębnej bandy Kazimierza Krasowskiego ps. "Głuszec", dostarczył Parzonce spis członków PZPR, z którego pochodziły dane Lejzerowicza i Burzyńskiego — pierwszy udokumentowany dowód operacyjnej współpracy między bandą "Zygmunta" a bandą "Głuszca". Patrz [[Person-Sabin-Jan-Wiewiorka]], [[Person-Krasowski-Kazimierz-Gluszec]].
 
 **Naoczne świadectwo przebiegu zabójstwa Burzyńskiego (SRC-039)**: w aktach odrębnej sprawy Witolda Białowąsa ps. "Litwin" (IPN Bi 212/5210) odnaleziono zeznanie Zofii Lejzerowicz (żony Michała), opisujące szczegółowo napad — trzech uzbrojonych mężczyzn, pobicie jej i męża, żądanie wydania broni, sprowadzenie sołtysa i niejakiego Grzymały jako świadków, przesłuchanie Lejzerowicza co do przynależności partyjnej i funkcji w O.R.M.O., odczytanie mu kartki, a następnie zastrzelenie serią z automatu ze słowami "patrzcie jak skurwysyn komunista ginie" skierowanymi do sołtysa i Grzymały. Białowąs w swej obronie odniósł się do tego zeznania, twierdząc, że to Mościcki Józef ps. "Pantera" i Parzonko ps. "Zygmunt" zaprowadzili sprawców do ofiary — zgodne z już ustalonym przypisaniem czynu bandzie Parzonki, ale **niejasne, dlaczego fragment ten znajduje się w aktach Białowąsa** (możliwe, że to materiał dowodowy współdzielony między kilkoma powiązanymi sprawami sądowymi). Patrz [[Person-Bialowas-Witold-Litwin]].
+
+**Nowa, bezpośrednia relacja przebiegu (SRC-077, str. 36)**: świadek oczekujący przy bunkrze relacjonuje, że po powrocie z akcji Parzonko osobiście opowiedział mu, iż to on zastrzelił Burzyńskiego, a Lejzerowicza zamordował Mościcki ps. "Pantera" — zmusiwszy uprzednio jego żonę do wskazania domu Burzyńskiego — podczas gdy Białowąs ps. "Litwin" stał na czatach. **Ta wersja zgadza się z SRC-047 (Mościcki zabił Lejzerowicza), nie z SRC-015 (Radziszewski)** — przechyla nieco szalę dowodową, ale przy istniejącej już gęstej sieci sprzecznych odpisów tego samego wyroku, nie traktuje się tego jako ostatecznie rozstrzygające. Rola Białowąsa (czaty) dotąd nieznana z takim stopniem precyzji.
 
 ## Osoby
 
