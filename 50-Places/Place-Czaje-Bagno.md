@@ -25,8 +25,14 @@ Brak utworzonych notatek wydarzeń bezpośrednio powiązanych z tym miejscem w t
 ## Powiązane osoby
 
 - [[Person-Otap-Kazimierz-Kanonier]] — miejsce urodzenia i dom rodzinny
-- [[Person-Parzonko-Kazimierz-Zygmunt]] — jego banda korzystała z melina w tej wsi (u ojca Otapa)
+- [[Person-Parzonko-Kazimierz-Zygmunt]] — jego banda korzystała z melina w tej wsi (u ojca Otapa, a także — niezależnie — u Aleksandry Mazur, 1950-52)
+- [[Person-Mazur-Aleksandra]] — druga rodzina meliniarska w tej samej wsi, jesień 1950 - lato 1952
 
 ## Źródła
 
 - [[IPN-Bi-0088-531-J-Teczka-informator-Kanonier-Otap-Kazimierz]]
+- [[IPN-Bi-07-433-t3-Akta-Mazur-Aleksandra]]
+
+## Niepewności i sprzeczności
+
+- Przynależność administracyjna wsi podana niespójnie w różnych źródłach: "gm. Ciechanowiec, pow. Bielsk Podlaski" (SRC dot. Otapa) vs. "gm. Pobikry, pow. Siemiatycze" (SRC-075, akta Mazur) — możliwa zmiana granic administracyjnych w czasie lub błąd w jednym z dokumentów, nie rozstrzygnięte.
