@@ -46,9 +46,10 @@ Kazimierz Matwiejczuk, s. Franciszka i Anny z d. Sukiennik, ur. 15.11.1906 r. w 
 
 ## Relacje
 
-- Meliniarz dla: bandy "Lamparta" (Adam Natyniec)
+- Meliniarz dla: [[Person-Natyniec-Adam-Lampart]]
 - Kontakt pośredni z: [[Person-Parzonko-Kazimierz-Zygmunt]] (przez patrol "Zygmunta")
 - Kontakt bezpośredni z: [[Person-Radziszewski-Kazimierz-Marynarz]] (marzec 1952)
+- Prawdopodobny ojciec: [[Person-Matwiejczuk-Jadwiga]] (hipoteza robocza, patrz niepewności w tamtej notatce)
 
 ## Chronologia
 

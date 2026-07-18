@@ -24,6 +24,7 @@ related_persons:
   - "PERSON-047"
 key_sources:
   - "SRC-058"
+  - "SRC-063"
 certainty: "medium"
 tags:
   - type/person

@@ -35,6 +35,7 @@ key_sources:
   - "SRC-022"
   - "SRC-024"
   - "SRC-054"
+  - "SRC-063"
 certainty: "high"
 tags:
   - type/person
@@ -56,7 +57,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - Data śmierci: nieustalona
 - Role: dowódca grupy zbrojnej ps. "Huzar" (powstałej z połączenia resztek band "Młota" i "Hanki"), okres dowodzenia 1947 – październik 1952
 - Pseudonimy: "Huzar"
-- Struktura organizacyjna: patrole "Huzara", "Lamparta", "Rysia" (zlikwidowany 1951)
+- Struktura organizacyjna: patrole "Huzara", "Lamparta", "Rysia" (zlikwidowany 1951); **wg SRC-063 (maj 1952, zeznanie Ostapskiego): cała formacja nosiła nazwę "1-szej Brygady Podlaskiej" i dzieliła się na 5 patroli pod ogólnym dowództwem "Huzara": I "Huzar" sam (3 ludzi), II "Wuj" (3 ludzi), III "Zygmunt"/Parzonko (4 ludzi), IV Kochanowski (4 ludzi), V "Lampart"/Natyniec Adam (6 ludzi)**
 
 ## Relacje
 
@@ -90,5 +91,5 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 
 ## Niepewności i sprzeczności
 
-- **Zakres dowodzenia i odpowiedzialności**: podczas rozprawy sądowej "Huzar" i Parzonko wzajemnie się obciążali — "Huzar" bronił Łapińskiego (obciążanego przez Kowalewicza jako bliskiego współpracownika "Huzara"), a Parzonko zeznał, że działał z polecenia "Huzara". Źródło nie rozstrzyga, który z dowódców faktycznie wydawał polecenia drugiej grupie — to może odzwierciedlać rzeczywistą strukturę dowodzenia (jeden podporządkowany drugiemu) albo taktykę obronną obu oskarżonych podczas procesu. Wymaga zestawienia z dalszymi dokumentami korpusu.
+- **Zakres dowodzenia i odpowiedzialności — częściowo WYJAŚNIONE (SRC-063).** Niezależne zeznania z maja 1952 r. (dwóch aresztowanych członków patrolu "Lamparta") potwierdzają, że struktura dowodzenia była formalna i hierarchiczna: "Huzar" jako ogólny dowódca "1-szej Brygady Podlaskiej", z Parzonką dowodzącym jednym z pięciu podległych mu patroli (patrol III). To wspiera zeznanie Parzonki na procesie z 1953 r., że działał z polecenia "Huzara" — zgodne z rzeczywistą strukturą dowodzenia, nie tylko taktyką obronną. Nie wyjaśnia to jednak w pełni sporu z rozprawy sądowej dot. obrony Łapińskiego przez "Huzara" — wymaga dalszego zestawienia.
 - Świadek Białowąs zeznawał obszernie o przestępstwach "Huzara" i innego członka bandy, Kryńskiego — szczegóły tych zeznań (konkretne czyny) nie są w pełni odtworzone w tym źródle (relacja jest streszczeniem meldunku agenturalnego, nie protokołem sądowym).
