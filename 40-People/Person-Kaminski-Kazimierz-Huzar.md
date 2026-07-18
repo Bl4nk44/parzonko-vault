@@ -41,6 +41,7 @@ key_sources:
   - "SRC-070"
   - "SRC-074"
   - "SRC-077"
+  - "SRC-086"
 certainty: "high"
 tags:
   - type/person
@@ -74,6 +75,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 
 - ~1947 — połączenie z resztkami bandy "Młota" po amnestii, przejęcie dowództwa po jej likwidacji
 - 1948-07 — [[Event-1948-005-Potyczka-Ciechanowiec-Dybowscy]] (śmierć dwóch podwładnych w potyczce z wojskiem)
+- 1949-01-26 — [[Event-1949-001-Morderstwo-4-osob-Szepietowo]] (nowe ustalenie, SRC-086)
 - 1949-1951 — udokumentowane zabójstwa funkcjonariuszy MO/ORMO
 - 1948-02 — [[Event-1948-004-Zabojstwo-Jankowskiego-informatora]] (zlecił zabójstwo)
 - 1948-03 — [[Event-1948-003-Zabojstwo-Dymitrowa]] (osobiście dokonał egzekucji)

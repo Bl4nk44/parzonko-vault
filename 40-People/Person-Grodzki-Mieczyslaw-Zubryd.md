@@ -31,6 +31,7 @@ related_persons:
 key_sources:
   - "SRC-040"
   - "SRC-046"
+  - "SRC-086"
   - "SRC-069"
 certainty: "high"
 tags:
@@ -81,4 +82,5 @@ Mieczysław Grodzki, s. Bronisława, ur. 23.11.1914 r., ps. "Żubryt"/"Zubryd", 
 - **Sprzeczność co do zabójcy Koca Bartłomieja**: SRC-046 (str. 23, zarzuty wobec Grodzkiego) przypisuje zabójstwo bezpośrednio Grodzkiemu ("wystrzałem z pistoletu automatycznego pozbawił życia sołtysa Koca Bartłomieja"), podczas gdy ten sam dokument (str. 21, odpis zarzutów wobec Radziszewskiego) oraz wcześniej ustalone [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (na podstawie SRC-015) przypisują to zabójstwo Parzonce (żonę Stefanię — Kostrze). **Sprzeczność wewnątrz jednego zestawu dokumentów sądowych, nierozstrzygnięta** — możliwe, że obaj byli obecni i któryś opis uproszczono, lub błąd redakcyjny w jednym z odpisów.
 - **Wariant imienia ofiary**: SRC-046 podaje "Lejzerowicza **Mikołaja**", podczas gdy korpus dotąd konsekwentnie ustalił imię "Michał" ([[Person-Lejzerowicz-Michal]]) — odnotowane jako otwarte pytanie w notatce ofiary.
 - Dalsze losy Grodzkiego (wyrok, data śmierci) nieznane w obecnie przetworzonej części korpusu — akta obejmują lata 1946-1967, sugerując możliwy dłuższy proces sądowy/rewizyjny nieprzetworzony w tym cyklu.
+- [[IPN-Bi-012-1230-t3-Rozbojnicy-sprawa-Huzara-1951-52]] (SRC-086, str. 32) podaje jego pseudonim jako **"Kazimierz"**, nie "Żubryt"/"Zubryd" — kolejny wariant pseudonimu tej samej osoby (możliwe, że miał kilka pseudonimów używanych w różnych okresach).
 - [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] (SRC-069) potwierdza tę samą sygnaturę Sr.216/53 jako zbiorczy proces Kamińskiego, w którym Grodzki był współoskarżonym wraz z Kryńskim, dwoma księżmi (Rakowski, Borysiewicz) i Zalewskim — dodatkowo ustala, że Grodzki był agentem Gestapo od listopada 1943 do lipca 1944, zanim wstąpił do bandy "Huzara" jesienią 1949 r.

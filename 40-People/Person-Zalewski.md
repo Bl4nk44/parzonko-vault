@@ -25,6 +25,7 @@ related_persons:
 key_sources:
   - "SRC-069"
   - "SRC-070"
+  - "SRC-086"
 certainty: "medium"
 tags:
   - type/person
@@ -53,3 +54,4 @@ Wacław Zalewski, ps. "Zbyszek" (imię i pseudonim ustalone via [[IPN-Bi-1-1536-
 ## Niepewności i sprzeczności
 
 - Dane osobowe (data urodzenia, miejsce zamieszkania) nadal nieznane w obecnie przetworzonej części korpusu.
+- [[IPN-Bi-012-1230-t3-Rozbojnicy-sprawa-Huzara-1951-52]] (SRC-086, str. 32) podaje jego imię jako **"Czesław"**, nie "Wacław" jak w SRC-070 — kolejna sprzeczność imienia w korpusie, nierozstrzygnięta.
