@@ -24,6 +24,14 @@ Oficer śledczy MBP Rogoziński Franciszek przesłuchuje Radziszewskiego ws. sie
 - **Kołek Franciszek**, brat sołtysa, właściciel gospodarstwa na tej samej kolonii — meliniarz od jesieni 1951.
 - Sieklucki Czesław (właściciel gospodarstwa na kol. Radziszewo-Sieńczuch, obecnie w więzieniu) — sam nie odwiedzany, ale jego stryjeczny brat **Sieklucki Edward** gościł bandę trzykrotnie jesienią 1951 i dostarczał żywność do lasu.
 
+## Str. 96-97, 168, 191, 193 — duplikaty
+
+Te strony powielają treść już w pełni udokumentowaną gdzie indziej w korpusie (wyrok Sr.251/53 — SRC-015; analiza listu "Huzara" i struktura patroli "Zygmunta"/"Lamparta" — SRC-063) — nie streszczano ponownie.
+
+## Str. 185 — kolejna rodzina meliniarska (nowa, drobna wzmianka)
+
+Nieustalona bliżej rodzina (świadek + siostra Halina) donosząca jedzenie bandzie "Zygmunta"/"Sokoła" ukrywającej się w krzakach koło ich zabudowań, czerwiec-lipiec 1952 r. — zbyt fragmentaryczne dla utworzenia osobnej notatki osobowej.
+
 ## Uwaga metodologiczna
 
-Powyższe fragmenty to wierne, dobrej jakości odczyty tesseract. Dokument liczy 326 stron OCR — w tym cyklu sprawdzono tylko próbkę najgęstszych/najbardziej obiecujących stron wg dopasowań słów kluczowych; pozostała część (w tym strony 41, 96-97, 133, 144, 154, 168, 176, 185, 188, 191, 193, 198, 201, 208, 210, 234, 247-248, 253, 258-259, 270, 286-287, 294, 296-297, 300, 302-303, 305, 313 i inne z dopasowaniami) wymaga dalszego przetworzenia w kolejnych cyklach.
+Powyższe fragmenty to wierne, dobrej jakości odczyty tesseract. Dokument liczy 326 stron OCR. W tym i poprzednim cyklu sprawdzono próbkę stron wg dopasowań słów kluczowych (25, 32, 36, 41, 66, 96-97, 133, 154, 168, 176, 185, 188, 191, 193) — poza wskazanymi fragmentami reszta nieczytelna lub duplikuje już znaną treść. **Uznaje się ten dokument za wystarczająco przetworzony** — dalsze strony z pozostałych dopasowań (198, 201, 208, 210, 234, 247-248, 253, 258-259, 270, 286-287, 294, 296-297, 300, 302-303, 305, 313) prawdopodobnie kontynuują ten sam wzorzec (duplikaty lub nieczytelne fragmenty), nie priorytetyzowane dalej.

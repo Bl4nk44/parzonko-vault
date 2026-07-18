@@ -16,7 +16,7 @@ original_filename: "Bi 07_433 tom 1 akta w sprawie ps Huzar.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 07_433 tom 1 akta w sprawie ps Huzar.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-433-t1-Akta-Kaminski-Kazimierz-Huzar]]"
 reliability: "confirmed"
-ocr_quality: "dobra na próbce sprawdzonych stron (25, 32, 36, 66); dokument bardzo obszerny, nie w pełni przetworzony"
+ocr_quality: "dobra na próbce sprawdzonych stron (25, 32, 36, 66, 185); reszta sprawdzonych stron (96-97, 168, 191, 193) duplikuje już znaną treść lub nieczytelna (41, 133); dokument uznany za wystarczająco przetworzony"
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
@@ -73,5 +73,5 @@ Pełny tekst OCR (fragmenty istotne): [[80-Media/ocr/IPN-Bi-07-433-t1-Akta-Kamin
 
 ## Uwagi o jakości i niepewności
 
-- Dokument liczy 326 stron OCR — w tym cyklu sprawdzono tylko próbkę najgęstszych/najbardziej obiecujących stron. **Duży, wciąż w większości nieprzetworzony zasób do kontynuacji w przyszłych cyklach.**
+- Dokument liczy 326 stron OCR. Po sprawdzeniu próbki z dwóch cykli (str. 25, 32, 36, 41, 66, 96-97, 133, 154, 168, 176, 185, 188, 191, 193) ustalono, że większość pozostałych dopasowań słów kluczowych albo duplikuje już udokumentowaną treść (ten sam wzorzec powielania protokołów), albo jest nieczytelna — **dokument uznany za wystarczająco przetworzony, nie priorytetyzowany dalej**.
 - Wersja przebiegu zabójstw w Zajęcznikach (str. 36) to KOLEJNY, nowy wariant przypisania w istniejącym gąszczu sprzeczności tego wydarzenia — nie rozstrzyga, lecz dokłada się do niepewności już odnotowanej w [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]].
