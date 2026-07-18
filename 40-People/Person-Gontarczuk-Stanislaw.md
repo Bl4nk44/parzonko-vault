@@ -6,7 +6,8 @@ full_name: "Stanisław Gontarczuk"
 given_names:
   - Stanisław
 surname: "Gontarczuk"
-aliases: []
+aliases:
+  - "Rekin"
 gender: "M"
 birth_date: null
 birth_date_accuracy: null
@@ -23,6 +24,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-072"
+  - "SRC-074"
 certainty: "medium"
 tags:
   - type/person
@@ -47,4 +49,5 @@ Stanisław Gontarczuk, wymieniony w sprawozdaniu WUBP Gdańsk (lipiec 1949, spra
 
 ## Niepewności i sprzeczności
 
-- Brak danych identyfikacyjnych poza imieniem i nazwiskiem — możliwa kolizja z innymi osobami nazwiskiem Gontarczuk w korpusie (Antoni, Władysław ps. "Rekin", Józef ps. "Korsarz" — patrz [[IPN-Bi-1-1536-Rejestr-pseudonimow-siatki-Huzara]]), nie rozstrzygnięte czy to ta sama rozgałęziona rodzina.
+- Brak dalszych danych identyfikacyjnych poza imieniem i nazwiskiem — możliwa kolizja z innymi osobami nazwiskiem Gontarczuk w korpusie (Antoni, Józef ps. "Korsarz" — patrz [[IPN-Bi-1-1536-Rejestr-pseudonimow-siatki-Huzara]]), nie rozstrzygnięte czy to ta sama rozgałęziona rodzina.
+- **Sprzeczność pseudonimu "Rekin"**: [[IPN-Bi-212-4961-Akta-sledcze-Bachorek-Czeslaw]] (SRC-074) przypisuje pseudonim "Rekin" wprost jemu (Stanisławowi), podczas gdy [[IPN-Bi-1-1536-Rejestr-pseudonimow-siatki-Huzara]] (SRC-070, poz. 17) przypisuje ten sam pseudonim "Władysławowi Gontarczukowi". Nie rozstrzygnięte, który zapis jest poprawny.
