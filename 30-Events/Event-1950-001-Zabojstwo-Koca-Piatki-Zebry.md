@@ -17,6 +17,7 @@ category: "homicide"
 sources:
   - "SRC-015#p143"
   - "SRC-015#p148"
+  - "SRC-091#p59"
 certainty: "high"
 tags:
   - type/event
@@ -34,6 +35,8 @@ tags:
 ## Przebieg
 
 Wg wyroku WSR Warszawa (sprawa Sr.251/53): "Huzar" wydał rozkaz oskarżonym Parzonce i Kostro, by zamordowali niewygodnego dla bandy sołtysa gromady Piątki-Żebry, Koca Bartłomieja. Parzonko wykonał to polecenie i osobiście, wystrzałem z pistoletu, pozbawił go życia, zatrzymawszy go uprzednio na drodze; natomiast Kostro wtargnął do mieszkania skazanego i wyciągnął stamtąd jego żonę Stefanię, którą następnie zastrzelił.
+
+**Niezależne potwierdzenie (SRC-091, str. 59)**: opracowanie retrospektywne MSW potwierdza tę samą wersję — bezpośredni sprawcy "Zygmunt" (Parzonko) i "Paweł" (Kostro) — dodając, że przy zabójstwie obecni/współudziałali również sam "Huzar" (Kamiński) i "Lampart" (Natyniec).
 
 ## Osoby
 

@@ -40,7 +40,12 @@ tags:
 
 Jeden z najbogatszych dokumentów korpusu — obszerne (218 str.), bardzo szczegółowe opracowanie analityczne MSW historii bandy "Huzara" z licznymi dosłownymi cytatami zeznań, precyzyjnymi datami i pełną listą ofiar/napadów.
 
-## Najważniejsze ustalenia
+## Najważniejsze ustalenia (aktualizacja z drugiego cyklu przetwarzania)
+
+- **Dokładna struktura bandy na 1.01.1952 r.** (str. 34): 25 osób w 5 pododdziałach — Huzar (2), Buczak "Ponury" (5), Parzonko "Zygmunt" (3), Niemyjski "Krakus" (2), Natyniec "Lampart" (najliczniejsza).
+- **Nowe, precyzyjne przypisanie ról w zabójstwie Koca Bartłomieja i żony** (4.10.1950, str. 59): bezpośredni sprawcy — "Zygmunt" (Parzonko) i "Paweł" (Kostro), przy udziale samego "Huzara" i "Lamparta" (Natyńca) — uzupełnia [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]].
+- **Kilka nowych, dotąd nieudokumentowanych morderstw** (str. 59-64): nieustalony "Przewodniczący GRN" (wrzesień 1950), trzej mieszkańcy Kompnie Lipniki (20.09.1950), sołtys Denianczuk (maj 1951), Kietorawis Stanisław (16.06.1951), Marian Fiszer PZPR/ORMO (20.06.1951).
+- **Pełna, szczegółowa relacja Radziszewskiego o zabójstwie Jasińskiego** (str. 64-65) — potwierdza brak zacięcia broni w jego własnej wersji (sprzeczność z wyrokiem, patrz niżej).
 
 - **Unikalny, dosłowny cytat zeznania Radziszewskiego** (str. 66) o zabójstwie Jasińskiego — ujawnia formalny system awansów wojskowych w bandzie za dokonane morderstwa: Radziszewski otrzymał stopień kaprala od "Młota" 2 maja 1949 r., a stopień plutonowego od "Huzara" za zabicie Jasińskiego (październik 1951, zameldowane osobiście przez Parzonkę i Radziszewskiego w kolonii Puław, gm. Klukowo). Nowe miejsce ukrywania się po morderstwie: kolonia Kamieńczyk, pow. Sokołów Podlaski.
 - **Nowe, kluczowe szczegóły operacji "Rytel"/"Rygiel"** (str. 88, 90): potwierdza bezpośrednią, osobistą rolę Parzonki w potajemnym (przed Krasowskim "Głuszczem") zorganizowaniu spotkania agenta MBP z Kamińskim (12.10.1951, Niemyje Nowe, u meliniarza Puchalskiego) — kluczowy krok prowadzący do ostatecznego rozbicia całej organizacji.

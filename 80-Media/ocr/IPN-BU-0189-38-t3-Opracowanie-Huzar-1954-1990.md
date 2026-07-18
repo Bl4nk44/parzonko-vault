@@ -57,6 +57,27 @@ Statystyki końcowe: 425 osób zatrzymanych/aresztowanych od 3.10.1951 do 7.10.1
 
 Zgodne ze strukturą już ustaloną w SRC-063. Dalej szczegółowy, numerowany wykaz zbrodni osobiście popełnionych przez Kamińskiego (z dokładnymi datami 1946-1947), zbieżny z SRC-069, ale z jeszcze większą precyzją dat.
 
+## Str. 34 — struktura bandy na 1 stycznia 1952 r. (KLUCZOWA, dokładne liczby)
+
+> "Na dzień 1 stycznia 1952 r. stan jego bandy wynosił 25 osób, podzielonych na pięć pododdziałów, którymi dowodzili: 1. Dowódca bandy Kazimierz Kamiński ps. 'Huzar' miał przy sobie 2-ch członków bandy. 2. Zastępca dowódcy bandy Witold Buczak ps. 'Ponury' posiadał 5-cio osobową grupę. 3. Kazimierz Parzonko ps. 'Zygmunt' posiadał 3-ch osobową grupę. 4. Lucjan Niemyjski ps. 'Krakus' posiadał 2-ch członków bandy. 5. Adam Natyniec ps. 'Lampart' posiadał najliczniejszą grupę [liczba nieczytelna]."
+
+Także potwierdza: po likwidacji grupy "Brzaska" (7.04.1950) "Huzar" dołączył ocalałych Oksiętę "Pomidora" i Natyńca "Lamparta" do nowego pododdziału pod "Pomidorem"; na początku sierpnia 1950 r. "Huzar" zabrał od "Pomidora" do własnej grupy Natyńca "Lamparta" i Białowąsa "Litwina".
+
+## Str. 44 — narada organizacyjna w Skórcu, koniec stycznia 1951 (czytelna)
+
+Potwierdza spotkanie wszystkich dowódców pododdziałów: Zalewski "Zbyszek", Kryński "Rokita", Parzonko "Zygmunt", Buczak "Ponury", Natyniec "Lampart", Tymiński "Ryś" — kolejne niezależne potwierdzenie pełnego składu dowódczego.
+
+## Str. 59-64 — szczegółowe relacje naocznych świadków/sprawców kolejnych morderstw (BARDZO ISTOTNE, wiele nowych)
+
+- **Wrzesień 1950**: zamordowanie nieustalonego "Przewodniczącego GRN" — sprawcy: Czapski Arkadiusz ps. "Złoty"(?), Daniluk Eugeniusz ps. "Oszczek"(?), Białowąs Witold ps. "Antoś" (czwarty nieustalony). Usiłowanie zgwałcenia żony ofiary przerwane przez świadków.
+- **20.09.1950, Kompnie Lipniki, gm. Kobylin**: zamordowanie 3 mieszkańców: Stanisława Nieczewskiego(?), [nazwisko nieczytelne] Kasiuckiego(?), Józefa Kaszewskiego(?).
+- **4.10.1950**: zamordowanie sołtysa Bartłomieja Koca i żony Stefanii w Piątkach — **sprawcy bezpośredni: "Zygmunt" (Parzonko) i "Paweł" (Kostro), przy udziale "Huzara" i "Lamparta" (Natyńca)** — nowe, precyzyjne przypisanie ról wobec już znanego [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]].
+- **Ok. 19-23.05.1951**: zamordowanie sołtysa Mieczysława Denianczuka(?) koło Drażniaka.
+- **16.06.1951, Kietorawis Stanisław** (wieś Chodyszewo) — sprawcy: "Ponury", "Orzełek".
+- **20.06.1951**: zamordowanie Mariana Fiszera (PZPR/ORMO, Topczewo gm. Wyszki) — na polecenie "Ponurego" wykonali Stanisław Łapiński ps. "Orzełek" i [imię nieczytelne] Brzozowski ps. "Zbir".
+- **30.06.1951, Przybyszyn**: zamordowanie Franciszka Jasińskiego — **pełna, bardzo szczegółowa relacja Radziszewskiego** (str. 64-65): spotkanie z Kamińskim w Błoniu (gm. Klukowo) na początku lipca 1951, gdzie Huzar polecił Parzonce wytypowanie ofiary; Parzonko wyznaczył Radziszewskiego do wykonania; przygotowania u meliniarza Sekali (kol. Poniaty), rozpoznanie domu ofiary; Radziszewski sam ścigał, postrzelił i dobił Jasińskiego, podczas gdy Parzonko stał na czatach ("obstawie") pod płotem — **BEZ wzmianki o zacięciu broni, w przeciwieństwie do wersji z wyroku Sr.251/53** (patrz niepewności w [[Event-1951-002-Zabojstwo-Jasinskiego]]).
+- **Zajęczniki (str. 63)**: pełna relacja — Białowąs "Antoś" pilnował Lejzerowicza, podczas gdy Parzonko i Mościcki poszli do Burzyńskiego (na przyjęciu z okazji chrztu dziecka); Parzonko zapytał "który jest Burzyński?", po odpowiedzi ofiary strzelił serią z PPSz w pierś; następnie Mościcki sam wrócił do Lejzerowicza i zastrzelił go, pytając wcześniej tylko o miejsce pracy.
+
 ## Uwaga metodologiczna
 
 Powyższe fragmenty to wierne, dobrej jakości odczyty tesseract. Dokument liczy 218 stron — sprawdzono próbkę wg dopasowań słów kluczowych; ze względu na wyjątkową gęstość istotnych treści, rozważyć dalsze przetwarzanie pozostałych stron w przyszłym cyklu, jeśli czas pozwoli.
