@@ -102,6 +102,7 @@ key_sources:
   - "SRC-081"
   - "SRC-086"
   - "SRC-087"
+  - "SRC-088"
 certainty: "high"
 tags:
   - type/person
@@ -191,6 +192,8 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 >
 > **Czwarta wartość** (odnaleziona wcześniej): [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] (str. 23) podawała "ur. 28.11.1923 r." — dzień/miesiąc "28.11" zgodny z niepewnym odczytem SRC-015, rok odmienny (1923).
 >
+> **Dodatkowe (trzecie) potwierdzenie (SRC-088)**: karta agenturalna WUBP z 1952 r. również podaje "ur. 28.II.1922 r." — kolejne niezależne, czyste potwierdzenie tej samej daty, wzmacniające przyjęte ustalenie wobec licznych administracyjnych kart podających błędnie rok 1920 (patrz niepewności, SRC-076 i in.).
+
 > **W WIĘKSZOŚCI ROZSTRZYGNIĘTE przez SRC-025** ([[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]], ogólnokrajowy rejestr MSW, dokument maszynowy o dobrej, niebudzącej wątpliwości jakości OCR): "PARZONKA Kazimierz s. Stanisława, ur. **28.02.1922 r.**" — **to DRUGIE, w pełni czytelne (nie zniekształcone) źródło administracyjne, niezależnie potwierdzające dokładnie tę samą datę co [[IPN-BU-0326-496-Protokol-brakowania-MSW-1973]] (SRC-004, rejestr z 1973 r.)**. Dwa czyste, maszynowe zapisy zgadzające się co do dnia, miesiąca i roku przeważają zdecydowanie nad: pojedynczym odosobnionym "1921" (SRC-006, raport z 1952 r.) oraz niepewnymi odczytami "28.11" z silnie zniekształconych, słabej jakości skanów (SRC-015, SRC-024), które przy tej nowej informacji należy uznać za najprawdopodobniej błędne odczyty tego samego zapisu "28.02" (cyfry "02" i "11" bywają mylone w słabej jakości OCR, podobnie jak już nieraz odnotowano w tym korpusie).
 >
 > **Data urodzenia przyjęta jako 1922-02-28** z wysokim (choć nie 100%) stopniem pewności — pole `birth_date` zaktualizowane. Ostateczne potwierdzenie wymagałoby aktu stanu cywilnego, którego korpus nie zawiera.

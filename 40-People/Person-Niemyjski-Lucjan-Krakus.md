@@ -50,3 +50,4 @@ Lucjan Niemyjski ps. "Krakus", członek bandy Kamińskiego "Huzar" (skład z lat
 ## Niepewności i sprzeczności
 
 - Dane osobowe (data urodzenia) nieznane w obecnie przetworzonej części korpusu.
+- [[IPN-Bi-012-1230-t4-Rozbojnicy-sprawa-Huzara-1952-55]] (SRC-088) wspomina "Niemyjskiego **Tadeusza** ps. 'Rokita'" w kontekście agentki "Lida" — inne imię i inny pseudonim niż ustalone tu ("Lucjan", "Krakus"). Możliwe, że to inna osoba (krewny) o tym samym nazwisku, lub błąd zapisu. Nie rozstrzygnięte.
