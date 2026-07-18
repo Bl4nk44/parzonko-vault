@@ -31,6 +31,7 @@ key_sources:
   - "SRC-022"
   - "SRC-024"
   - "SRC-025"
+  - "SRC-061"
 certainty: "high"
 tags:
   - type/person
@@ -71,6 +72,7 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 11 (skazanie), str. 5 (wzmianka doniesienia agenturalnego, ps. "Wdzięczny", określające go jako "dobrego chłopa", którego mieszkańcy żałowali)
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 142, 145-146 (pełny wyrok, dane osobowe, udział w zabójstwach)
 - [[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]] — str. 14 (**ROZSTRZYGNIĘTA data wykonania wyroku: 22.09.1953**)
+- [[IPN-BU-0203-2140-t4-Rozpracowanie-grupy-Lampart]] — str. 60-61 (marzec 1952, kontakt operacyjny z bandą "Lamparta" jako członek patrolu "Zygmunta" — potwierdza tożsamość tego patrolu z grupą Parzonki)
 
 ## Niepewności i sprzeczności
 

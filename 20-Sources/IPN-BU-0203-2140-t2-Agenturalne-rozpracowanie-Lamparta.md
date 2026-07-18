@@ -38,7 +38,7 @@ Teczka agenturalnego rozpracowania bandy "Lamparta" (klaster BU 0203/2140). Zawi
 
 - Doniesienie z 2.V.1951 r. (str. 4) opisuje wizytę grupy zbrojnej w gospodarstwie rodziny Gomułków, z udziałem osoby określonej jako "Zygmunt" — potencjalne dodatkowe potwierdzenie znanej współpracy operacyjnej pomiędzy bandą Parzonki a "Lampartem" (por. [[Person-Parzonko-Kazimierz-Zygmunt]], ustalenia z SRC-041/SRC-042).
 
-> **Hipoteza robocza:** Tożsamość "Zygmunta" wymienionego na str. 4 tego dokumentu NIE jest pewna ze względu na silne zniekształcenie tekstu OCR. Może to być Kazimierz Parzonko (co byłoby zgodne z już udokumentowaną współpracą jego bandy z "Lampartem"), ale równie możliwe jest, że chodzi o inną osobę lub nawet o innoczasowy/inny kontekst pseudonimu "Zygmunt" (por. już odnotowaną w [[Person-Parzonko-Kazimierz-Zygmunt]] niepewność dot. szwadronu "Zygmunt" 5. Brygady Wileńskiej z lat 1945-46). Nie rozstrzygnięto.
+> **Hipoteza robocza (od 2026-07 częściowo rozstrzygnięta):** Tożsamość "Zygmunta" wymienionego na str. 4 tego dokumentu była niepewna ze względu na silne zniekształcenie tekstu OCR. [[IPN-BU-0203-2140-t4-Rozpracowanie-grupy-Lampart]] (SRC-061, str. 60-61) potwierdza niezależnie, że "patrol Zygmunta" faktycznie utrzymywał bezpośredni, systematyczny kontakt operacyjny z "Lampartem" w tym samym okresie (1951-52), a jego członek ps. "Marynarz" jest identyczny z już udokumentowanym Kazimierzem Radziszewskim z bandy Parzonki. To silnie wspiera odczytanie "Zygmunta" na str. 4 jako Kazimierza Parzonki, choć samego tego konkretnego fragmentu (2.V.1951) nie da się już zweryfikować precyzyjniej ze względu na zniekształcenie OCR.
 
 ## Tekst źródłowy
 
