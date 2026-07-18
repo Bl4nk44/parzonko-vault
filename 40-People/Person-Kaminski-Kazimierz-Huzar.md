@@ -37,6 +37,7 @@ key_sources:
   - "SRC-054"
   - "SRC-063"
   - "SRC-066"
+  - "SRC-069"
 certainty: "high"
 tags:
   - type/person
@@ -77,8 +78,9 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - 1951 (przed sierpniem) — podporządkowanie sobie bandy "Hanki"
 - 1951-05-29 — akcja K.B.W., likwidacja 4 członków bandy (w tym Żukowski ps. "Waspiuk", Porowski ps. "Bobrek")
 - 1951-10 – 1952-11 — cel operacji specjalnej Departamentu III MBP prowadzonej pod przykrywką fikcyjnej organizacji "Akademia" (agent Terlikowski Janusz ps. "Rytel", wprowadzony przez Parzonkę) — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]]
-- 1952-11-29 — aresztowany w Warszawie w finale tej operacji
-- 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]]
+- 1952-10-29 — **ROZSTRZYGNIĘTE (SRC-069): data zatrzymania — 29 października 1952 r.**, nie 29 listopada jak wcześniej zapisano — patrz niepewności.
+- 1952-11 (ok. 22) — [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]]: OSOBNY proces (Sr.216/53, WSR) wraz ze współoskarżonymi Krynskim, ks. Rakowskim, Łapińskim, Grodzkim, ks. Borysiewiczem, Zalewskim — Parzonko zeznaje tu jako **świadek oskarżenia**, obciążając Kamińskiego za zabójstwa w Zajęcznikach i Jasińskiego
+- 1953-03-30 — [[Event-1953-03-30-Proces-Lapy-Ciechanowiec]] (odrębny, późniejszy proces — sprawdzić relację między obydwoma procesami)
 
 ## Najważniejsze źródła
 
@@ -89,8 +91,10 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - [[IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]] — str. 17, 21 (**osobiste dokonanie zabójstwa Dymitrowa, zlecenie zabójstwa Jankowskiego**)
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 143 (zlecenie zabójstwa sołtysa Koca)
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48 (**operacja "Rytel", data aresztowania, pełna historia bandy**)
+- [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] — str. 6-7, 140-143, 146-148, 151-152 (**osobny proces Sr.216/53, znacznie rozszerzona chronologia zbrodni od 1944-45, data zatrzymania 29.10.1952, Parzonko jako świadek oskarżenia**)
 
 ## Niepewności i sprzeczności
 
 - **Zakres dowodzenia i odpowiedzialności — częściowo WYJAŚNIONE (SRC-063).** Niezależne zeznania z maja 1952 r. (dwóch aresztowanych członków patrolu "Lamparta") potwierdzają, że struktura dowodzenia była formalna i hierarchiczna: "Huzar" jako ogólny dowódca "1-szej Brygady Podlaskiej", z Parzonką dowodzącym jednym z pięciu podległych mu patroli (patrol III). To wspiera zeznanie Parzonki na procesie z 1953 r., że działał z polecenia "Huzara" — zgodne z rzeczywistą strukturą dowodzenia, nie tylko taktyką obronną. Nie wyjaśnia to jednak w pełni sporu z rozprawy sądowej dot. obrony Łapińskiego przez "Huzara" — wymaga dalszego zestawienia.
+- **Relacja między dwoma procesami (Sr.216/53 z listopada 1952 i Sr.251/53 z marca 1953)**: dokumenty korpusu wskazują na dwa odrębne procesy — w pierwszym (SRC-069, zakończonym ok. 22.11.1952) Kamiński był głównym oskarżonym wraz z innymi (Krynski, księża, Grodzki, Zalewski, Łapiński) a Parzonko zeznawał jako świadek oskarżenia; w drugim (marzec 1953, Sr.251/53) Parzonko był już współoskarżonym wraz z Kamińskim, Radziszewskim, Kostro i Mościckim. Dokładny powód dwóch osobnych procesów dla tej samej sieci band (możliwe: pierwszy proces dot. wcześniejszych czynów 1944-1951 ustalonych do chwili aresztowania Kamińskiego w październiku 1952, drugi obejmował późniejsze/dodatkowe czyny i innych oskarżonych) nie jest w pełni wyjaśniony w obecnie przetworzonej części korpusu.
 - Świadek Białowąs zeznawał obszernie o przestępstwach "Huzara" i innego członka bandy, Kryńskiego — szczegóły tych zeznań (konkretne czyny) nie są w pełni odtworzone w tym źródle (relacja jest streszczeniem meldunku agenturalnego, nie protokołem sądowym).

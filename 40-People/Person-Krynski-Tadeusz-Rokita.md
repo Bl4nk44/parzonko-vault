@@ -27,6 +27,7 @@ related_persons:
 key_sources:
   - "SRC-050"
   - "SRC-054"
+  - "SRC-069"
 certainty: "high"
 tags:
   - type/person
@@ -65,3 +66,4 @@ Tadeusz Kryński, s. Franciszka, ur. 10.06.1927 r., ps. "Rokita" (w innym źród
 
 - Treść właściwego zeznania z 1992 r. (str. 6-10) niemal całkowicie nieczytelna w OCR — nie wiadomo, jakie konkretnie metody śledcze opisał ani czy został formalnie rehabilitowany. Kandydat do ponownego odczytu/vision-OCR.
 - Rozbieżność pseudonimu ("Rokita" w [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]] i [[Person-Kaminski-Kazimierz-Huzar]] vs "Dzięcioł" w innym miejscu tej samej ostatniej notatki) — nierozstrzygnięta, możliwe że to dwa pseudonimy tej samej osoby.
+- [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] (SRC-069) potwierdza go jako współoskarżonego w zbiorczym procesie Sr.216/53 (listopad 1952) obok Kamińskiego, Grodzkiego, dwóch księży i Zalewskiego — data aresztowania Kamińskiego wg tego źródła to 29.10.1952, nieco wcześniejsza niż wcześniej zapisana data 30.11.1952 dla całej bandy — nierozstrzygnięte, czy to błąd w jednym z dokumentów, czy różne osoby aresztowano w różnych dniach.
