@@ -26,6 +26,7 @@ related_persons:
 key_sources:
   - "SRC-038"
   - "SRC-039"
+  - "SRC-070"
 certainty: "high"
 tags:
   - type/person
@@ -72,3 +73,4 @@ Terlikowski przedstawił Białowąsowi tę samą fikcyjną strukturę organizacy
 - Dokładny skład i teren działania jego "oddziału leśnego" nieznany w obecnie przetworzonej części korpusu.
 - Rysopis Terlikowskiego podaje "lat około 20" — prawdopodobny błąd OCR (inne źródła sugerują dojrzałego, wykształconego mężczyznę ok. 30 lat).
 - [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] (SRC-069, str. 146) wymienia świadka "Białowąs Teofil" (nie Witold) zeznającego w procesie Kamińskiego — możliwe, że to inna osoba (krewny?) niż Witold Białowąs, lub błąd zapisu imienia w jednym z dokumentów. **Nie scalono automatycznie** — patrz zasada projektu o nieoczywistym scalaniu osób po samym nazwisku.
+- **Trzeci wariant imienia**: [[IPN-Bi-1-1536-Rejestr-pseudonimow-siatki-Huzara]] (SRC-070, poz. 70) podaje "Antoni Białowąs — Litwin" — ten sam pseudonim "Litwin", ale TRZECIE różne imię (Witold / Teofil / Antoni) w trzech różnych dokumentach. Możliwe, że to trzej różni członkowie rodziny Białowąsów używający tego samego lub podobnych pseudonimów, albo powtarzające się błędy zapisu imienia w kolejnych odpisach — wzorzec znany już z innych przypadków w tym korpusie (por. sprzeczności ws. Radziszewskiego/Lejzerowicza). Nie rozstrzygnięte.

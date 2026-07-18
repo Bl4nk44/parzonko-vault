@@ -2,10 +2,12 @@
 type: person
 uid: "PERSON-058"
 person_id: "PERSON-058"
-full_name: "Zalewski"
-given_names: []
+full_name: "Wacław Zalewski"
+given_names:
+  - Wacław
 surname: "Zalewski"
-aliases: []
+aliases:
+  - "Zbyszek"
 gender: "M"
 birth_date: null
 birth_date_accuracy: null
@@ -22,6 +24,7 @@ related_persons:
   - "PERSON-002"
 key_sources:
   - "SRC-069"
+  - "SRC-070"
 certainty: "medium"
 tags:
   - type/person
@@ -29,11 +32,11 @@ tags:
   - topic/resistance
 ---
 
-# Zalewski
+# Wacław Zalewski ("Zbyszek")
 
 ## Podsumowanie
 
-Zalewski (imię nieustalone w obecnie przetworzonej części korpusu). Wg wyroku WSR w procesie Kazimierza Kamińskiego ps. "Huzar" (Sr.216/53, listopad 1952), członek bandy "Huzara" od lutego 1946 r. do 4 listopada 1952 r., wchodzący w skład patrolu dowodzonego przez Buczaka Witolda ps. "Ponury". Ranny w potyczce z Wojskiem Polskim 23-24 grudnia 1947 r. w okolicy Łap, po czym ukrywał się. Uczestniczył w wielu napadach rabunkowych na sklepy spółdzielcze (ZSCh) na terenie swojego działania, obciążony przestępstwami z art. 259 KK. Współoskarżony w procesie Kamińskiego — jego wyjaśnienia (razem z Kryńskim) obalały linię obrony Kamińskiego, potwierdzając jego pełną wiedzę o czynach podległych band.
+Wacław Zalewski, ps. "Zbyszek" (imię i pseudonim ustalone via [[IPN-Bi-1-1536-Rejestr-pseudonimow-siatki-Huzara]], SRC-070). Wg wyroku WSR w procesie Kazimierza Kamińskiego ps. "Huzar" (Sr.216/53, listopad 1952), członek bandy "Huzara" od lutego 1946 r. do 4 listopada 1952 r., wchodzący w skład patrolu dowodzonego przez Buczaka Witolda ps. "Ponury". Ranny w potyczce z Wojskiem Polskim 23-24 grudnia 1947 r. w okolicy Łap, po czym ukrywał się. Uczestniczył w wielu napadach rabunkowych na sklepy spółdzielcze (ZSCh) na terenie swojego działania, obciążony przestępstwami z art. 259 KK. Współoskarżony w procesie Kamińskiego — jego wyjaśnienia (razem z Kryńskim) obalały linię obrony Kamińskiego, potwierdzając jego pełną wiedzę o czynach podległych band.
 
 ## Chronologia
 
@@ -49,4 +52,4 @@ Zalewski (imię nieustalone w obecnie przetworzonej części korpusu). Wg wyroku
 
 ## Niepewności i sprzeczności
 
-- Imię nieustalone — dokument konsekwentnie używa tylko nazwiska "Zalewski". Dane osobowe (data urodzenia, miejsce zamieszkania) nieznane w obecnie przetworzonej części korpusu.
+- Dane osobowe (data urodzenia, miejsce zamieszkania) nadal nieznane w obecnie przetworzonej części korpusu.

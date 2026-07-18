@@ -32,6 +32,7 @@ key_sources:
   - "SRC-037"
   - "SRC-042"
   - "SRC-045"
+  - "SRC-070"
 certainty: "high"
 tags:
   - type/person
@@ -72,3 +73,4 @@ Kazimierz Krasowski, ps. "Głuszec", dowódca odrębnej grupy zbrojnego podziemi
 - **Niespójność imienia — ROZSTRZYGNIĘTA**: [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] (SRC-032, str. 23) wymieniało w kontekście roku 1947 "Krasowskiego **Stanisława** ps. 'Głuszec'". Karta informacyjna własnej sprawy karnej Krasowskiego (SRC-045) podaje wprost: "Krasowski Kazimierz [...] imię ojca: **Stanisław**" — co silnie sugeruje, że wcześniejsza wzmianka "Stanisław" w SRC-032 była pomyłką maszynistki mylącą imię ojca z imieniem samego Krasowskiego, nie odrębną osobą. Imię "Kazimierz" ostatecznie potwierdzone dwoma niezależnymi źródłami (własne zeznanie SRC-042 i własna sprawa karna SRC-045).
 - **Nowe ustalenie (SRC-045)**: data urodzenia w tym źródle podana jako 01.04.1918 — drobna niespójność dnia/miesiąca wobec 01.10.1918 z SRC-042 (oba źródła zgodne co do roku i "01" jako dnia). Nie rozstrzygnięto, który zapis miesiąca jest poprawny.
 - **Liczne fałszywe tożsamości (SRC-045)**: Krasowski posługiwał się pseudonimami "Głuszec" i "Robak" oraz fałszywymi personaliami: Rybałtowski Edward, Nowak Henryk, Kosk Franciszek — świadczy o rozbudowanej praktyce konspiracyjnej ukrywania tożsamości w ostatniej fazie działalności (sprawa karna z 1954 r., już po aresztowaniu głównych band regionu).
+- **Kolejny wariant pseudonimu**: [[IPN-Bi-1-1536-Rejestr-pseudonimow-siatki-Huzara]] (SRC-070, poz. 27) podaje "Krasowski [imię nieczytelne] — Jędruś", jeszcze inny pseudonim niż ustalone "Głuszec"/"Robak". Możliwe kolejne przezwisko tej samej osoby, błąd rejestru z lat 90. mylący różnych Krasowskich, lub nazwisko innej osoby o tym samym nazwisku — nie rozstrzygnięte.
