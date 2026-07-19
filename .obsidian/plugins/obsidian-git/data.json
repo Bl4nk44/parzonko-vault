@@ -1,0 +1,18 @@
+{
+  "commitMessage": "vault: zmiany {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 0,
+  "autoPushInterval": 0,
+  "autoPullInterval": 10,
+  "autoPullOnBoot": true,
+  "pullBeforePush": true,
+  "disablePush": false,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "syncMethod": "merge",
+  "customMessageOnAutoBackup": false,
+  "autoBackupAfterFileChange": false,
+  "differentIntervalCommitAndPush": false,
+  "changedFilesInStatusBar": true,
+  "showedMobileNotice": true
+}
