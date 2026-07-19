@@ -1,0 +1,10 @@
+{
+  "frontMatterKey": "coordinates",
+  "defaultState": {
+    "name": "Default",
+    "mapZoom": 10,
+    "mapCenter": { "lat": 52.6788, "lng": 22.49911 },
+    "query": "",
+    "chosenMapSource": 0
+  }
+}

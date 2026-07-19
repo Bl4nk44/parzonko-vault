@@ -1,3 +1,11 @@
 [
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "dataview",
+  "obsidian-map-view",
+  "metadata-menu",
+  "obsidian-linter",
+  "omnisearch",
+  "obsidian42-strange-new-worlds",
+  "various-complements",
+  "timelines-revamped"
 ]
