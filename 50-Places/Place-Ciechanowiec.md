@@ -6,7 +6,7 @@ name: "Ciechanowiec"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "powiat siemiatycki, woj. białostockie (stan na 1953)"
-coordinates: null
+coordinates: [52.6788, 22.49911]
 certainty: "high"
 tags:
   - type/place

@@ -6,7 +6,7 @@ name: "Czaje Bagno"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "gmina Ciechanowiec, powiat Bielsk Podlaski, woj. białostockie"
-coordinates: null
+coordinates: [52.64494, 22.69152]
 certainty: "high"
 tags:
   - type/place

@@ -6,6 +6,7 @@ name: "Niemyje-Stare"
 alternative_names:
   - "Niemyjce-Stare"
 place_type: "wieś"
+coordinates: [52.71665, 22.66695]
 administrative_region: "gm. Rudka, pow. Bielsk Podlaski, woj. białostockie"
 coordinates: null
 key_sources:

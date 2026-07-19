@@ -6,7 +6,7 @@ name: "Dołubowo"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "gmina Grodzisk, woj. białostockie"
-coordinates: null
+coordinates: [52.61196, 22.87506]
 certainty: "medium"
 tags:
   - type/place

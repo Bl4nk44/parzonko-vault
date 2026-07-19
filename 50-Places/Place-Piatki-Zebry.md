@@ -6,7 +6,7 @@ name: "Piątki-Żebry"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "powiat Wysokie Mazowieckie, woj. białostockie"
-coordinates: null
+coordinates: [52.78296, 22.56486]
 certainty: "high"
 tags:
   - type/place
@@ -30,3 +30,6 @@ Miejscowość, w której 4.10.1950 r. Kazimierz Parzonko osobiście zastrzelił 
 ## Źródła
 
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]]
+
+> [!question] Hipoteza robocza
+> W dokumentach nazwa zapisana jako "Piątki-Żebry". Współczesna oficjalna nazwa wsi (OSM/TERYT): **Piętki-Żebry**, gm. Klukowo, pow. wysokomazowiecki — współrzędne w frontmatter pochodzą z tej identyfikacji. Prawdopodobnie wariant pisowni/OCR, do weryfikacji przy review.

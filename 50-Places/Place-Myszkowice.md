@@ -5,6 +5,7 @@ place_id: "PLACE-023"
 name: "Myszkowice"
 place_type: "wieś"
 region: "gm. Łysów, pow. Siedlce"
+coordinates: [52.29822, 22.73462]
 key_sources:
   - "SRC-061"
 certainty: "high"

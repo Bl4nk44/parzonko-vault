@@ -4,6 +4,7 @@ uid: "PLACE-032"
 place_id: "PLACE-032"
 name: "Tworkowice"
 place_type: "wieś/kolonia"
+coordinates: [52.63945, 22.47113]
 administrative_unit: "gm. Ciechanowiec, pow. Bielsk Podlaski"
 key_sources:
   - "SRC-130"

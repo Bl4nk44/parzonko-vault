@@ -6,7 +6,7 @@ name: "Pełch"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "gmina Kosiorki (dawn. Kosjorki), powiat Siemiatycze, woj. białostockie"
-coordinates: null
+coordinates: [52.60134, 22.49183]
 certainty: "high"
 tags:
   - type/place

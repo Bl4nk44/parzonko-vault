@@ -4,6 +4,7 @@ uid: "PLACE-030"
 place_id: "PLACE-030"
 name: "Krynki-Jarki"
 place_type: "wieś"
+coordinates: [52.61597, 22.65279]
 administrative_unit: "pow. Wysokie Mazowieckie / Bielsk Podlaski (region)"
 key_sources:
   - "SRC-104"

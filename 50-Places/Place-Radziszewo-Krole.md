@@ -6,7 +6,7 @@ name: "Radziszewo-Króle"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "gmina Ciechanowiec, powiat Bielsk Podlaski, woj. białostockie"
-coordinates: null
+coordinates: [52.64702, 22.62299]
 certainty: "high"
 tags:
   - type/place

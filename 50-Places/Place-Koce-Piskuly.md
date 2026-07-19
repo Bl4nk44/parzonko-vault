@@ -4,6 +4,7 @@ uid: "PLACE-029"
 place_id: "PLACE-029"
 name: "Koce-Piskuły"
 place_type: "kolonia"
+coordinates: [52.7042, 22.62215]
 administrative_unit: "pow. Bielsk Podlaski"
 key_sources:
   - "SRC-103"

@@ -6,7 +6,7 @@ name: "Przybyszyn"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "powiat Siemiatycze, woj. białostockie"
-coordinates: null
+coordinates: [52.63097, 22.53577]
 certainty: "high"
 tags:
   - type/place

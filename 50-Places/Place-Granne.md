@@ -6,7 +6,7 @@ name: "Granne"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "gmina Perlejewo, powiat Siemiatycze, woj. białostockie"
-coordinates: null
+coordinates: [52.53914, 22.51249]
 certainty: "high"
 tags:
   - type/place

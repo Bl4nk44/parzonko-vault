@@ -4,6 +4,7 @@ uid: "PLACE-027"
 place_id: "PLACE-027"
 name: "Gródek"
 place_type: "wieś"
+coordinates: [52.47765, 22.5067]
 administrative_unit: "gm. Jabłonna, pow. Bielsk Podlaski"
 key_sources:
   - "SRC-096"

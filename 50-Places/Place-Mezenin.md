@@ -5,6 +5,7 @@ place_id: "PLACE-022"
 name: "Mężenin"
 place_type: "kolonia/wieś"
 region: "pow. Ciechanowiec (region)"
+coordinates: [52.36957, 22.78454]
 key_sources:
   - "SRC-058"
 certainty: "high"

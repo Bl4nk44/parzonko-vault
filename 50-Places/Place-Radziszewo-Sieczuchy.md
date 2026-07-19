@@ -7,7 +7,7 @@ alternative_names:
   - "Radziszewo-Sieńczuch"
 country: "Polska"
 historical_administrative_unit: "gmina Ciechanowiec, pow. Siemiatycze/Bielsk Podlaski, woj. białostockie"
-coordinates: null
+coordinates: [52.67094, 22.66909]
 certainty: "high"
 tags:
   - type/place
@@ -33,3 +33,6 @@ Brak.
 
 - [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]]
 - [[IPN-Bi-07-916-Akta-sledcze-Wlostowski-Witold]]
+
+> [!question] Hipoteza robocza
+> W dokumentach nazwa zapisana jako "Radziszewo-Sieczuchy". Współczesna oficjalna nazwa wsi (OSM/TERYT): **Radziszewo-Sieńczuch**, gm. Ciechanowiec — współrzędne w frontmatter pochodzą z tej identyfikacji. Prawdopodobnie wariant pisowni/OCR, do weryfikacji przy review.

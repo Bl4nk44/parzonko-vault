@@ -6,7 +6,7 @@ name: "Łapy"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "woj. białostockie (stan na 1953)"
-coordinates: null
+coordinates: [52.99082, 22.88301]
 certainty: "high"
 tags:
   - type/place

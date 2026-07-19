@@ -6,7 +6,7 @@ name: "Zajęczniki"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "gmina Drohiczyn, powiat Siemiatycze, woj. białostockie"
-coordinates: null
+coordinates: [52.39058, 22.73527]
 certainty: "high"
 tags:
   - type/place

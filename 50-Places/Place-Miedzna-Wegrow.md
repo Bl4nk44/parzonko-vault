@@ -4,6 +4,7 @@ uid: "PLACE-028"
 place_id: "PLACE-028"
 name: "Miedzna"
 place_type: "gmina"
+coordinates: [52.46742, 22.08959]
 administrative_unit: "pow. Węgrów"
 key_sources:
   - "SRC-100"

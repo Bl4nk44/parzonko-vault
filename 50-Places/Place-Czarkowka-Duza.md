@@ -6,7 +6,7 @@ name: "Czarkówka-Duża"
 alternative_names: []
 country: "Polska"
 historical_administrative_unit: "gmina Ciechanowiec, woj. białostockie"
-coordinates: null
+coordinates: [52.59341, 22.58186]
 certainty: "high"
 tags:
   - type/place
