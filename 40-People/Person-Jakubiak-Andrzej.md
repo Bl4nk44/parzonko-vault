@@ -23,6 +23,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-130"
+  - "SRC-132"
 certainty: "high"
 tags:
   - type/person
@@ -48,4 +49,4 @@ Andrzej Jakubiak, brat Marii Jakubiak i Aleksandry Goworko — ukrywał się od 
 
 ## Niepewności i sprzeczności
 
-Brak istotnych — zeznanie siostry spójne i szczegółowe.
+Brak istotnych — zeznanie siostry spójne i szczegółowe. **Prawdopodobnie tożsamy (SRC-132)** z "Jakubiakiem Andrzejem ps. 'Rysiek'", członkiem zlikwidowanego 11.05.1952 patrolu "Lamparta" — zgodne z jego wyborem dołączenia do tego patrolu (nie do bojówki Parzonki) opisanym przez siostrę.
