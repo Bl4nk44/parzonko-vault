@@ -413,3 +413,16 @@ Cytaty w innym języku niż polski zachowuj w oryginale; pod cytatem dodaj krót
 - Każde odniesienie do źródła w polu `sources` wydarzenia powinno wskazywać konkretną stronę lub zakres stron, np. `"SRC-IPN-GK-123-45#p3"` lub `"SRC-IPN-GK-123-45#p3-4"`.
 - W treści notatki źródłowej cytaty istotne muszą podawać numer strony (`Źródło: strona 3.`).
 - Nie cytuj ani nie twierdź bez wskazania konkretnej strony/zakresu stron w dokumencie źródłowym.
+
+## Pluginy Obsidian i pola przez nie używane (dodane 2026-07-19)
+
+Zainstalowane pluginy: Dataview, Timelines (Revamped), Map View, Metadata Menu, Linter, Omnisearch, Strange New Worlds, Various Complements. Indeksy Dataview żyją w `70-Indexes/`.
+
+### Wydarzenia — oś czasu
+- Każda notatka wydarzenia (`30-Events/`) ma w `tags` dodatkowy tag `timeline` (wymóg pluginu Timelines Revamped). Pole `date` służy jako data startowa eventu (klucz zmapowany w ustawieniach pluginu). Oś czasu: `70-Indexes/Os-Czasu.md`.
+
+### Miejsca — mapa
+- Pole `coordinates: [lat, lon]` (WGS84, z geokodowania Nominatim/OSM) używane przez Map View (`frontMatterKey` ustawiony na `coordinates`). Miejsca niejednoznaczne zostają z `coordinates: null` — nie zgaduj współrzędnych.
+
+### Metadata Menu
+- Definicje fileClass w `00-Meta/fileClasses/` (source/person/event/place), przypisane do folderów przez fileClassQueries w ustawieniach pluginu. Przy zmianie schematu w tym pliku zaktualizuj też odpowiedni fileClass.
