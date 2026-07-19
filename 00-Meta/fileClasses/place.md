@@ -3,6 +3,8 @@ limit: 200
 mapWithTag: false
 icon: map-pin
 tagNames: []
+filesPaths:
+  - 50-Places
 excludes: []
 extends: null
 savedViews: []

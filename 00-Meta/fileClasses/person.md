@@ -3,6 +3,8 @@ limit: 200
 mapWithTag: false
 icon: user
 tagNames: []
+filesPaths:
+  - 40-People
 excludes: []
 extends: null
 savedViews: []

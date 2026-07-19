@@ -3,6 +3,8 @@ limit: 200
 mapWithTag: false
 icon: file-text
 tagNames: []
+filesPaths:
+  - 20-Sources
 excludes: []
 extends: null
 savedViews: []

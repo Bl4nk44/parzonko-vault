@@ -5,6 +5,17 @@
     "mapZoom": 10,
     "mapCenter": { "lat": 52.6788, "lng": 22.49911 },
     "query": "",
-    "chosenMapSource": 0
+    "queryError": false,
+    "chosenMapSource": 0,
+    "forceHistorySave": false,
+    "followActiveNote": false,
+    "followMyLocation": false,
+    "embeddedHeight": 300,
+    "autoFit": false,
+    "lock": false,
+    "showLinks": false,
+    "linkColor": "red",
+    "markerLabels": "off",
+    "editMode": false
   }
 }

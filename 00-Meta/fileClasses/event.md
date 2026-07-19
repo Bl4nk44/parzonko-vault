@@ -3,6 +3,8 @@ limit: 200
 mapWithTag: false
 icon: calendar
 tagNames: []
+filesPaths:
+  - 30-Events
 excludes: []
 extends: null
 savedViews: []
