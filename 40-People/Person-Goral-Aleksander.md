@@ -25,6 +25,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-096"
+  - "SRC-113"
 certainty: "medium"
 tags:
   - type/person
