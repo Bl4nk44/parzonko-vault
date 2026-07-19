@@ -1,13 +1,38 @@
 {
   "presetFields": [],
   "fileClassQueries": [],
-  "fileClassAlias": "fileClass",
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
   "classFilesPath": "00-Meta/fileClasses/",
-  "isAutoCalculationEnabled": true,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.0",
   "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
   "tableViewMaxRecords": 200,
+  "frontmatterListDisplay": "asArray",
+  "fileClassExcludedFolders": [],
   "showIndexingStatusInStatusBar": true,
-  "fileIndexingExcludedFolders": ["80-Media", "99-Archive"],
-  "fileIndexingExcludedExtensions": [".excalidraw.md"],
-  "fileIndexingExcludedRegex": []
+  "fileIndexingExcludedFolders": [
+    "80-Media",
+    "99-Archive"
+  ],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true,
+  "disableDataviewPrompt": false
 }
