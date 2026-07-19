@@ -48,3 +48,4 @@ Janina Konobrocka, c. Henryka, zam. wieś Malec, gm. Ciechanowiec. Śledztwo z 1
 
 - Charakter jej relacji z Parzonką/Radziszewskim (czy była meliniarką, czy przypadkowym świadkiem) niejednoznaczny — mimo podejrzeń, sama zgłosiła spotkanie do UB, co przeczy roli aktywnej meliniarki.
 - Tożsamość "Radziszewskiego Mieczysława ps. 'Zagłoba'" niejasna — możliwy krewny już znanego Kazimierza Radziszewskiego ps. "Marynarz" ([[Person-Radziszewski-Kazimierz-Marynarz]]), nie scalono.
+- Możliwe pomylenie z [[Person-Konobrocka-Teresa]] (SRC-103) — narzeczoną Parzonki karaną w 1949 r. za jego ukrywanie, opisaną tym samym nazwiskiem, ale innym imieniem i inną rolą (aktywna meliniarka vs zgłaszająca spotkanie do UB). Nie scalono.

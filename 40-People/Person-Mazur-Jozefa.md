@@ -24,6 +24,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-087"
+  - "SRC-103"
 certainty: "medium"
 tags:
   - type/person
@@ -47,5 +48,5 @@ Józefa Mazur, zamieszkała w Szczecinie, pracująca w piśmie "Robotnik", córk
 
 ## Niepewności i sprzeczności
 
-- Nie ustalono, czy jest krewną Aleksandry Mazur ([[Person-Mazur-Aleksandra]]) z Czaje Bagno — możliwe podobieństwo nazwiska przypadkowe, nie scalono.
+- **ROZSTRZYGNIĘTE (SRC-103)**: informator ps. "Chlew" (25.06.1950) wprost identyfikuje ją jako córkę Aleksandry Mazur ([[Person-Mazur-Aleksandra]]) z Czaje Bagno, uczącą się wówczas w Warszawie — potwierdza wcześniej tylko domniemane pokrewieństwo.
 - Nie wiadomo, czy plan UB wykorzystania jej do namierzenia Parzonki został zrealizowany.

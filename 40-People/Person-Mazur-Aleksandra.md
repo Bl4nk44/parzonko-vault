@@ -23,6 +23,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-075"
+  - "SRC-103"
 certainty: "high"
 tags:
   - type/person
