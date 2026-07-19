@@ -43,3 +43,8 @@ Wg opracowania retrospektywnego MSW (SRC-091) — zwięzły wpis bez dalszych sz
 ## Stopień pewności
 
 Średni — jednoźródłowe, zwięzłe ustalenie bez dalszych szczegółów przebiegu.
+
+## Nowa rozbieżność (SRC-128)
+
+Chronologiczny wykaz przestępstw (BU 0330/189 t.2) potwierdza datę (16.06.1951) i nazwisko ofiary, ale podaje **dwie rozbieżności**: miejsce jako "Wyszki, pow. Bielsk-Podlaski" (nie Chodyszewo, gm. Piekuty) oraz sprawstwo przypisane wprost "bandzie 'Zygmunta'" (nie "Ponuremu"/"Orzełkowi" pod bezpośrednim dowództwem Huzara). Nierozstrzygnięte — możliwe, że to inny epizod o tym samym nazwisku ofiary, lub błąd w jednym z dwóch źródeł co do przynależności patrolowej sprawców.
+

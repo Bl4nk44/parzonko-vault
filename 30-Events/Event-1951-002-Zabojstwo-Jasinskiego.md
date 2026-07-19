@@ -43,6 +43,8 @@ Sprawozdanie Sekcji III PUBP (SRC-012) wymienia ten czyn jako trzeci z udokument
 
 **Trzeci wariant daty (SRC-056)**: fragment charakterystyki bandy dołączony do akt Lucyny Samojłuk podaje datę "14 sierpnia 1951 r." dla tego samego zabójstwa (Jasiński Franciszek) — jeszcze inna data niż 20 i 30 lipca. Trzy niezależne źródła podają trzy różne daty tego samego wydarzenia — nierozstrzygnięte, prawdopodobnie kumulacja błędów maszynistek/OCR w kolejnych odpisach.
 
+**Czwarty wariant daty (SRC-128)**: chronologiczny wykaz przestępstw bandy (BU 0330/189 t.2) podaje datę "30.08.1951" dla zabójstwa Jasińskiego Franciszka w Przybyszynie — jeszcze inny wariant, choć zgodny co do miejsca (Przybyszyn) i nazwiska ofiary. Nierozstrzygnięte, dodaje się do już istniejącej sprzeczności dat.
+
 **Nowe szczegóły operacyjne (SRC-077, str. 32)**: przygotowania z 29-30 lipca 1951 r. — Parzonko podzielił oddział na drodze koło kol. Poniaty (gm. Ciechanowiec), wysyłając Kostrę i Mościckiego czekać w lesie, sam zaś z jednym z podkomendnych (najprawdopodobniej Radziszewski) udał się na nocleg do meliniarza Adama Sekali ([[Person-Sekala-Adam]]), który następnego dnia dostarczył szczegółowe rozpoznanie domu i wyglądu Jasińskiego, umożliwiając identyfikację ofiary.
 
 **Własne zeznanie Radziszewskiego (SRC-092, str. 58, 5.12.1952)** wprost podaje datę "30 lipca 1951 r." dla tego zabójstwa — zgodne z wariantem SRC-015, bezpośrednio z ust sprawcy. To najsilniejszy dotąd argument za datą 30 (nie 20) lipca — choć trzeci wariant (14 sierpnia, SRC-056) pozostaje nierozstrzygnięty.
