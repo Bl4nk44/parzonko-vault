@@ -26,6 +26,7 @@ related_persons:
 key_sources:
   - "SRC-096"
   - "SRC-113"
+  - "SRC-115"
 certainty: "medium"
 tags:
   - type/person
@@ -37,7 +38,7 @@ tags:
 
 ## Podsumowanie
 
-Aleksander Góral, s. Kazimierza i Marianny z d. Parzonko, ur. 11.12.1911 r. w Leśnikach, gm. Ciechanowiec, zam. Wieska, gm. Jabłonna, pow. Sokołów Podlaski — **kuzyn Kazimierza Parzonki** ([[Person-Parzonko-Kazimierz-Zygmunt]]) po linii matki (Marianna z domu Parzonko, najpewniej ciotka głównego bohatera). W marcu 1952 r. zawerbowany przez UB jako informator pod pseudonimem "Wilk"; przy werbunku nie przyznał się do utrzymywanych kontaktów z bandytą, przyznał jedynie pokrewieństwo. Zobowiązany do dalszej inwigilacji rodziny bandyty.
+Aleksander Góral, s. Kazimierza i Marianny z d. Parzonko, ur. 11.12.1911 r. w Leśnikach, gm. Ciechanowiec, zam. Wieska, gm. Jabłonna, pow. Sokołów Podlaski — **cioteczny brat (kuzyn) Kazimierza Parzonki** ([[Person-Parzonko-Kazimierz-Zygmunt]]) po linii matki (Marianna z domu Parzonko). Prowadził sklep spożywczy wykorzystywany przez bandę "Boruty" w okresie okupacji; z Parzonką wspólnie dokonywał rabunków na terenie pow. Bielsk Podlaski już w tym okresie (SRC-115). Do końca 1947 r. utrzymywał kontakt z bandą, udzielając informacji i wyżywienia. W marcu 1952 r. zawerbowany przez UB jako informator pod pseudonimem "Wilk"; przy werbunku nie przyznał się do utrzymywanych kontaktów z bandytą, przyznał jedynie pokrewieństwo. Wcześniej (styczeń 1952) odnotowano jego nieformalny kontakt z bandą (SRC-113).
 
 ## Dane podstawowe
 
