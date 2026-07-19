@@ -25,6 +25,7 @@ related_persons:
 key_sources:
   - "SRC-087"
   - "SRC-103"
+  - "SRC-105"
 certainty: "medium"
 tags:
   - type/person
