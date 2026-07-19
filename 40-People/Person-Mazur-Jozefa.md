@@ -26,6 +26,7 @@ key_sources:
   - "SRC-087"
   - "SRC-103"
   - "SRC-105"
+  - "SRC-120"
 certainty: "medium"
 tags:
   - type/person
@@ -51,3 +52,4 @@ Józefa Mazur, zamieszkała w Szczecinie, pracująca w piśmie "Robotnik", córk
 
 - **ROZSTRZYGNIĘTE (SRC-103)**: informator ps. "Chlew" (25.06.1950) wprost identyfikuje ją jako córkę Aleksandry Mazur ([[Person-Mazur-Aleksandra]]) z Czaje Bagno, uczącą się wówczas w Warszawie — potwierdza wcześniej tylko domniemane pokrewieństwo.
 - Nie wiadomo, czy plan UB wykorzystania jej do namierzenia Parzonki został zrealizowany.
+- **Rozbieżność imienia (SRC-120)**: dokument z 1949 r. podaje jej imię jako "Maria", nie "Józefa" — nierozstrzygnięte, czy to błąd zapisu, czy druga córka Aleksandry Mazur.
