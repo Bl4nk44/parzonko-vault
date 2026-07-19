@@ -30,6 +30,7 @@ key_sources:
   - "SRC-021"
   - "SRC-032"
   - "SRC-037"
+  - "SRC-111"
   - "SRC-042"
   - "SRC-045"
   - "SRC-070"
@@ -74,3 +75,4 @@ Kazimierz Krasowski, ps. "Głuszec", dowódca odrębnej grupy zbrojnego podziemi
 - **Nowe ustalenie (SRC-045)**: data urodzenia w tym źródle podana jako 01.04.1918 — drobna niespójność dnia/miesiąca wobec 01.10.1918 z SRC-042 (oba źródła zgodne co do roku i "01" jako dnia). Nie rozstrzygnięto, który zapis miesiąca jest poprawny.
 - **Liczne fałszywe tożsamości (SRC-045)**: Krasowski posługiwał się pseudonimami "Głuszec" i "Robak" oraz fałszywymi personaliami: Rybałtowski Edward, Nowak Henryk, Kosk Franciszek — świadczy o rozbudowanej praktyce konspiracyjnej ukrywania tożsamości w ostatniej fazie działalności (sprawa karna z 1954 r., już po aresztowaniu głównych band regionu).
 - **Kolejny wariant pseudonimu**: [[IPN-Bi-1-1536-Rejestr-pseudonimow-siatki-Huzara]] (SRC-070, poz. 27) podaje "Krasowski [imię nieczytelne] — Jędruś", jeszcze inny pseudonim niż ustalone "Głuszec"/"Robak". Możliwe kolejne przezwisko tej samej osoby, błąd rejestru z lat 90. mylący różnych Krasowskich, lub nazwisko innej osoby o tym samym nazwisku — nie rozstrzygnięte.
+- **Egzekucja podejrzanego szpiega UB (SRC-111)**: relacja agenta z terenu opisuje, że Krasowski osobiście wykonał egzekucję na człowieku podejrzanym o bycie szpiegiem UB (przysłanym rzekomo przez księdza z Gronna, zaopatrującym grupę w dokumenty i pieniądze) — kontekst operacji infiltracyjnej "Rytel"/"Rygiel", patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]].
