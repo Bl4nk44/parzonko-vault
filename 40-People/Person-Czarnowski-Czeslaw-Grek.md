@@ -25,6 +25,7 @@ related_persons:
   - "PERSON-002"
 key_sources:
   - "SRC-088"
+  - "SRC-104"
 certainty: "high"
 tags:
   - type/person
@@ -49,3 +50,4 @@ Czesław Czarnowski ps. "Grek", zam. wieś Jabłoń-Mikołajki, pow. Wysokie Maz
 ## Niepewności i sprzeczności
 
 - Dane osobowe (data urodzenia) nieznane w obecnie przetworzonej części korpusu.
+- **Wariant pseudonimu (SRC-104)**: retrospektywne opracowanie MSW z 1972 r. przypisuje mu pseudonim "Kula" (nie "Grek") w tej samej roli łącznika (do grup "Zygmunta" i "Ponurego", wraz z Henrykiem Śliwowskim ps. "Kozak"). Nie rozstrzygnięte, który zapis jest poprawny — rola i tożsamość osoby (Czesław Czarnowski) potwierdzona niezależnie w obu źródłach.
