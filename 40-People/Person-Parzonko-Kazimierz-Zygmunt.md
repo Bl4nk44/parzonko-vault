@@ -110,6 +110,7 @@ key_sources:
   - "SRC-096"
   - "SRC-098"
   - "SRC-100"
+  - "SRC-101"
 certainty: "high"
 tags:
   - type/person
@@ -257,4 +258,5 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - **Zamach na Sejbuka Jana (11.08.1951, SRC-096)**: wg doniesienia inf. "Kruk" (3.12.1951) i "Wrona", Parzonko osobiście uczestniczył w napadzie na Jana Sejbuka we wsi Gródek, gm. Jabłonna — patrz [[Event-1951-005-Zamach-na-Sejbuka-Jana]]. Ten sam fragment dokumentuje, że sama agentura UB miała trudność w rozróżnieniu, czy pseudonim "Kazik" oznacza samego Kamińskiego ("Huzara"), czy Parzonkę — kolejna poszlaka nakładania się/mylenia tożsamości obu dowódców w oczach terenowej agentury (patrz alias "Wichura-Kazik" w wykazie składu bandy, str.021).
 - **Skład bandy 1950 i biografia zbieżna z amnestyjną deklaracją (SRC-098)**: raport agencyjny 1950 r. potwierdza Parzonkę ps. "Wichura" jako 7. członka 8-osobowego składu bandy "Huzara". Odrębny fragment (str.59, niepodpisany wprost nazwiskiem) opisuje biografię niemal identyczną z jego własną deklaracją amnestyjną z SRC-076 (wstąpienie do WiN 1946, ps. "Wichura" nadany przez dowódcę podległego "Łupaszce", ujawnienie 1947 Sokołów Podlaski, potem "Huzar") — silna poszlaka tożsamości, acz bez jednoznacznego podpisu w tym konkretnym dokumencie.
 - **Nowy region działania — pow. Węgrów (SRC-100)**: sprawozdanie PUBP Węgrów (1950) potwierdza, że w latach 1947-48 (pod dowództwem "Młota"/"Brzaska") banda z udziałem Parzonki ps. "Wichura" działała także na terenie gm. Miedzna, pow. Węgrów (5 napadów na spółdzielnie, zabójstwo Litwińczuk Marianny bez indywidualnego przypisania sprawstwa) — geograficznie nowy, dotąd bezpośrednio niedokumentowany teren działania, patrz [[Place-Miedzna-Wegrow]].
+- **Aktywne poszukiwanie w woj. olsztyńskim potwierdzone już latem 1949 (SRC-101)**: agent "Tryumf" (1.06.1949, Olsztyn) otrzymał zadanie ustalenia kontaktów z "Parzonką Kazimierzem" i Gontarczukiem Stanisławem — zgodne z SRC-074. Doniesienie z 19.12.1949 r. bezpośrednio łączy alias "Kazik" (opisany jako pochodzący z Leśników) z "Kazimierzem Parzonko ps. 'Wichura'" — kolejne potwierdzenie aliasu "Wichura-Kazik".
 - **Kwestionariusze osobowe serii Bi 019/24-25 (SRC-026 do SRC-029)** — nieczytelne w OCR tesseract (odręczne wypełnienia formularzy Wydziału "C" KWMO). SRC-029 to najprawdopodobniej bezpośrednio kwestionariusz Parzonki (na podstawie nazwy pliku i zakresu teczki L-Z), a SRC-028 (str. 20) potwierdza współwystępowanie nazwiska "Farzonko"/Parzonko z Gontarczukiem na karcie czynu przestępnego — oba wymagają vision-OCR, żaden nowy fakt nie został z nich wiarygodnie wydobyty.
