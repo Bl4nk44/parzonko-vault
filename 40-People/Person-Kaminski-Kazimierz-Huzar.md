@@ -46,6 +46,7 @@ key_sources:
   - "SRC-089"
   - "SRC-091"
   - "SRC-093"
+  - "SRC-098"
 certainty: "high"
 tags:
   - type/person
@@ -107,6 +108,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 
 ## Niepewności i sprzeczności
 
+- **Geneza bandy jako bojówka WiN "Samoobrona" (SRC-098)**: przed przyjęciem nazwy "Huzar" jego formacja to bojówka Komendy Obwodu WiN "Samoobrona" (ok. 70 ludzi), aktywna 1945-46, podzielona na 5 sekcji (I: Niemyjski "Krakus", II: Truszkowski Antoni ps. "Czek", III: Buczak Witold "Ponury", IV: Strzyżewski Witold ps. "Rybak", zabity przez samego "Huzara", V: "Bystry"; oraz Marciniak Władysław ps. "Pirat", zabity). Po amnestii 1947 r. (rozkaz Ochmana Józefa ps. "Orwid") Kamiński NIE ujawnił się — pozostał w konspiracji z resztką ludzi, utrzymując podległość dowódcy "Młota", który z kolei podlegał Zygmuntowi Szendzielarzowi ps. "Łupaszko" (5. Brygada Wileńska) — kolejne potwierdzenie łańcucha podporządkowania do "Łupaszki".
 - **Nowy wgląd osobowościowy i system pseudonimów (SRC-093, donosy z celi więziennej)**: Kamiński osobiście przyznał współwięźniowi-agentowi, że nadawał bezpośrednim podwładnym pseudonimy wg własnego klucza (litera "R": Krakus, Lampart, Ponury, Ryś, Żubryt), z wyjątkiem tych, którzy dołączyli z gotowymi pseudonimami z poprzednich band ("Młota", NSZ) — **to częściowo wyjaśnia, dlaczego pseudonimy Parzonki ("Zygmunt") i Zalewskiego ("Zbyszek") nie pasują do reszty schematu**, choć nie rozstrzyga ostatecznie kwestii pochodzenia nazwy "Zygmunt" (patrz "dwaj Zygmunci" w [[Person-Parzonko-Kazimierz-Zygmunt]]). Ujawnia też jego filozofię taktyczną (małe, dobrze zamaskowane grupy) i barwny opis ulubionej meliny u wdowy po lekarzu.
 - **Zakres dowodzenia i odpowiedzialności — częściowo WYJAŚNIONE (SRC-063).** Niezależne zeznania z maja 1952 r. (dwóch aresztowanych członków patrolu "Lamparta") potwierdzają, że struktura dowodzenia była formalna i hierarchiczna: "Huzar" jako ogólny dowódca "1-szej Brygady Podlaskiej", z Parzonką dowodzącym jednym z pięciu podległych mu patroli (patrol III). To wspiera zeznanie Parzonki na procesie z 1953 r., że działał z polecenia "Huzara" — zgodne z rzeczywistą strukturą dowodzenia, nie tylko taktyką obronną. Nie wyjaśnia to jednak w pełni sporu z rozprawy sądowej dot. obrony Łapińskiego przez "Huzara" — wymaga dalszego zestawienia.
 - **Relacja między dwoma procesami (Sr.216/53 z listopada 1952 i Sr.251/53 z marca 1953)**: dokumenty korpusu wskazują na dwa odrębne procesy — w pierwszym (SRC-069, zakończonym ok. 22.11.1952) Kamiński był głównym oskarżonym wraz z innymi (Krynski, księża, Grodzki, Zalewski, Łapiński) a Parzonko zeznawał jako świadek oskarżenia; w drugim (marzec 1953, Sr.251/53) Parzonko był już współoskarżonym wraz z Kamińskim, Radziszewskim, Kostro i Mościckim. Dokładny powód dwóch osobnych procesów dla tej samej sieci band (możliwe: pierwszy proces dot. wcześniejszych czynów 1944-1951 ustalonych do chwili aresztowania Kamińskiego w październiku 1952, drugi obejmował późniejsze/dodatkowe czyny i innych oskarżonych) nie jest w pełni wyjaśniony w obecnie przetworzonej części korpusu.
