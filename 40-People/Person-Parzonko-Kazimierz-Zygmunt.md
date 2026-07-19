@@ -40,6 +40,7 @@ related_persons:
   - "PERSON-007"
   - "PERSON-011"
   - "PERSON-019"
+  - "PERSON-077"
 key_sources:
   - "SRC-001"
   - "SRC-004"
@@ -106,6 +107,7 @@ key_sources:
   - "SRC-089"
   - "SRC-091"
   - "SRC-092"
+  - "SRC-096"
 certainty: "high"
 tags:
   - type/person
@@ -249,4 +251,6 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - **Choroba i leczenie penicyliną (luty 1952, SRC-043)**: w czasie kwaterowania u meliniarzy w Oleksinie Parzonko zachorował — sołtys Kazimierz Mucha zakupił mu penicylinę i użyczył strzykawki, sam wykonując pierwszy zastrzyk, po czym nauczył Mościckiego ps. "Pantera" robić kolejne. Rodzaj schorzenia nieznany. Patrz [[Person-Mucha-Kazimierz]].
 - **Współpraca z bandą "Lamparta" w Siedleckiem (SRC-041)**: wg protokołu konfrontacji z października 1950 r. banda Parzonki (ok. 10 ludzi) spotkała się z bojówką pod dowództwem "Lamparta" na terenie pow. Siedleckiego, obie grupy przebywały wspólnie przez ok. tydzień — dowód na współdziałanie z bandami działającymi znacznie dalej od macierzystego regionu Ciechanowca niż dotąd udokumentowano. Szczegóły okoliczności i cel spotkania nieustalone (fragment częściowo nieczytelny).
 - **Nowy pseudonim "Listek"**: wewnętrzny wykaz członków bandy "Młota" z 1947 r. ([[IPN-Bi-047-1079-Teczka-bandy-Mlota-1947]], SRC-033, poz. 58) podaje Parzonkę pod pseudonimem "Listek", zamieszkałego w Leśnikach — odmiennym od znanego z innych dokumentów tego samego okresu pseudonimu "Wichura". Niejasne, czy to dwa równolegle używane pseudonimy (ewidencyjny UB vs konspiracyjny), czy błąd/wariant zapisu. Ten sam dokument ujawnia też prawdziwe nazwisko dowódcy "Młota" — Władysław Łukasiuk, wcześniej zastępca dowódcy 5. Brygady Wileńskiej — patrz [[Person-Lukasiuk-Wladyslaw-Mlot]].
+- **Rodzina rozpracowana przez UB, marzec 1952 (SRC-096)**: wykaz "Skład osobowy rodziny członka bandy" (PUBP Sokołów Podl., 16.03.1952) potwierdza szwagra Jana Biszewskiego (męża siostry Józefy) i wymienia nowego krewnego: Aleksander Góral ([[Person-Goral-Aleksander]]), s. Kazimierza i Marianny z d. Parzonko, zam. Wieska gm. Jabłonna — kuzyn Parzonki. UB zawerbowało go w marcu 1952 r. jako informatora ps. "Wilk" (nie przyznał się do dotychczasowych kontaktów z bandytą, ale zobowiązano go do dalszej inwigilacji rodziny) — dowód bezpośredniej infiltracji najbliższego otoczenia rodzinnego głównego bohatera.
+- **Zamach na Sejbuka Jana (11.08.1951, SRC-096)**: wg doniesienia inf. "Kruk" (3.12.1951) i "Wrona", Parzonko osobiście uczestniczył w napadzie na Jana Sejbuka we wsi Gródek, gm. Jabłonna — patrz [[Event-1951-005-Zamach-na-Sejbuka-Jana]]. Ten sam fragment dokumentuje, że sama agentura UB miała trudność w rozróżnieniu, czy pseudonim "Kazik" oznacza samego Kamińskiego ("Huzara"), czy Parzonkę — kolejna poszlaka nakładania się/mylenia tożsamości obu dowódców w oczach terenowej agentury (patrz alias "Wichura-Kazik" w wykazie składu bandy, str.021).
 - **Kwestionariusze osobowe serii Bi 019/24-25 (SRC-026 do SRC-029)** — nieczytelne w OCR tesseract (odręczne wypełnienia formularzy Wydziału "C" KWMO). SRC-029 to najprawdopodobniej bezpośrednio kwestionariusz Parzonki (na podstawie nazwy pliku i zakresu teczki L-Z), a SRC-028 (str. 20) potwierdza współwystępowanie nazwiska "Farzonko"/Parzonko z Gontarczukiem na karcie czynu przestępnego — oba wymagają vision-OCR, żaden nowy fakt nie został z nich wiarygodnie wydobyty.
