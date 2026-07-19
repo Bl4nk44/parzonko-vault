@@ -22,6 +22,7 @@ sources:
   - "SRC-091#p88-90,140,149"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - event/arrest
   - topic/resistance

@@ -17,6 +17,7 @@ sources:
   - "SRC-020#p43"
 certainty: "medium"
 tags:
+  - timeline
   - type/event
   - event/skirmish
   - topic/resistance

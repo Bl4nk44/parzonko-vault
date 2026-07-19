@@ -15,6 +15,7 @@ sources:
   - "SRC-025"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - topic/resistance
   - topic/postwar

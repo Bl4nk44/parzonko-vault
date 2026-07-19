@@ -20,6 +20,7 @@ sources:
   - "SRC-091#p59"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - event/homicide
   - topic/resistance

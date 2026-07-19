@@ -17,6 +17,7 @@ sources:
   - "SRC-023#p48-49"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - event/homicide
   - topic/resistance

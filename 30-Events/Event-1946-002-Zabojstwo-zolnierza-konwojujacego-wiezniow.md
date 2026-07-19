@@ -14,6 +14,7 @@ key_sources:
   - "SRC-126"
 certainty: "medium"
 tags:
+  - timeline
   - type/event
   - status/unreviewed
   - topic/resistance

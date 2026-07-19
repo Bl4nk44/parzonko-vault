@@ -15,6 +15,7 @@ sources:
   - "SRC-091#p63"
 certainty: "medium"
 tags:
+  - timeline
   - type/event
   - event/homicide
   - topic/resistance

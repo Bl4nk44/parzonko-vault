@@ -14,6 +14,7 @@ sources:
   - "SRC-086#p32"
 certainty: "medium"
 tags:
+  - timeline
   - type/event
   - event/homicide
   - topic/resistance

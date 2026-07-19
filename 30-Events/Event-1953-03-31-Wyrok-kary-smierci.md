@@ -16,6 +16,7 @@ sources:
   - "SRC-015"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - event/sentencing
   - topic/resistance

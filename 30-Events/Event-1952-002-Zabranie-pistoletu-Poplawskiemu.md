@@ -15,6 +15,7 @@ sources:
   - "SRC-031"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - topic/resistance
   - status/unreviewed

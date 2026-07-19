@@ -19,6 +19,7 @@ sources:
   - "SRC-001#p12"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - event/trial
   - topic/resistance

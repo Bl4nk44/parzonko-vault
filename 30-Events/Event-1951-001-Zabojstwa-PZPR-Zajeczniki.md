@@ -26,6 +26,7 @@ sources:
   - "SRC-077#p36"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - event/homicide
   - topic/resistance

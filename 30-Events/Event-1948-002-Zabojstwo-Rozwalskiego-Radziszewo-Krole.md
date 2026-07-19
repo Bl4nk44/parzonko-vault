@@ -17,6 +17,7 @@ sources:
   - "SRC-011#p11"
 certainty: "medium"
 tags:
+  - timeline
   - type/event
   - event/homicide
   - topic/resistance

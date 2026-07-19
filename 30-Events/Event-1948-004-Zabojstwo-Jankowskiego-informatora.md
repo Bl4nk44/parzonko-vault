@@ -15,6 +15,7 @@ sources:
   - "SRC-013#p20"
 certainty: "medium"
 tags:
+  - timeline
   - type/event
   - event/homicide
   - topic/resistance

@@ -14,6 +14,7 @@ sources:
   - "SRC-006#p11"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - event/arrest
   - topic/resistance

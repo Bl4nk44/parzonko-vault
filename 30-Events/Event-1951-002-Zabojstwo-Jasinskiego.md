@@ -21,6 +21,7 @@ sources:
   - "SRC-092#p58"
 certainty: "medium"
 tags:
+  - timeline
   - type/event
   - event/homicide
   - topic/resistance

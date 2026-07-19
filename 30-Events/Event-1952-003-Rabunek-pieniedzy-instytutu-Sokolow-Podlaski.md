@@ -17,6 +17,7 @@ sources:
   - "SRC-044#p98"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - topic/resistance
   - status/unreviewed

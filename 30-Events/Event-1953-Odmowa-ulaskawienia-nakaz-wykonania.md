@@ -15,6 +15,7 @@ sources:
   - "SRC-009#p116"
 certainty: "high"
 tags:
+  - timeline
   - type/event
   - topic/resistance
   - topic/postwar
