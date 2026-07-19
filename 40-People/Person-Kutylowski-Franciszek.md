@@ -24,6 +24,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-108"
+  - "SRC-110"
 certainty: "high"
 tags:
   - type/person
@@ -54,4 +55,4 @@ Franciszek Kutyłowski, s. Karola i Anny z d. Wakutow, ur. 03.02.1905 w Małyszc
 
 ## Niepewności i sprzeczności
 
-Brak istotnych — dokument dobrej jakości, zeznania spójne.
+Brak istotnych — dokument dobrej jakości, zeznania spójne. Jego rola niezależnie potwierdzona wprost zeznaniami samego Parzonki, Kostro i Mościckiego (SRC-110, str.76).
