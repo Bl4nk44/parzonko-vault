@@ -50,7 +50,7 @@ Teczka z akt rozpracowania agenturalnego "Rozbójnicy" dot. bandy "Huzara", zawi
 
 ## Najważniejsze ustalenia
 
-- **Pełny skład osobowy bandy "Huzara" (str. 3, ok. 1951 r.)**: dowódca Kamiński Kazimierz ps. "Huzar" (pochodzi ze wsi Czarkowo-Wólka, gm. Piekuty) → [[Person-Kaminski-Kazimierz-Huzar]]; Niemyjski Lucjan ps. "Krakus"; Tyniński Eugeniusz ps. "Ryś"; Danieluk Franciszek ps. "Gryf"; **Parzonko Kazimierz ps. "Wichura"/"Kazik"** (wieś Leśniki) → [[Person-Parzonko-Kazimierz-Zygmunt]]; Gontarczuk Stanisław ps. "Skorzec"; Łapiński Stanisław ps. "Orzeł"; [nieczytelne] Eugeniusz ps. "Orzełek"; Białowąs Michał (wieś Gródek); Czapski Arkadiusz (wieś Niemirki); Oksiuta Józef s. Wacława ps. "Pomidor" (wieś Mężenin, pow. Siedlce); Malczuk Irena (żona bandyty ps. "Brzask", nie członkini); oraz cztery osoby znane wyłącznie z pseudonimu: "Wójt", "Wiewiórka", "Adam", "Ginda"/"Ginca" — **nie utworzono dla nich osobnych notatek osób** (zbyt fragmentaryczne dane, kandydaci do uzupełnienia przy dalszym przetwarzaniu korpusu, o ile pojawią się w innych źródłach z pełniejszymi danymi).
+- **Pełny skład osobowy bandy "Huzara" (str. 3, ok. 1951 r.)**: dowódca Kamiński Kazimierz ps. "Huzar" (pochodzi ze wsi Markowo-Wólka, gm. Piekuty) → [[Person-Kaminski-Kazimierz-Huzar]]; Niemyjski Lucjan ps. "Krakus"; Tyniński Eugeniusz ps. "Ryś"; Danieluk Franciszek ps. "Gryf"; **Parzonko Kazimierz ps. "Wichura"/"Kazik"** (wieś Leśniki) → [[Person-Parzonko-Kazimierz-Zygmunt]]; Gontarczuk Stanisław ps. "Skorzec"; Łapiński Stanisław ps. "Orzeł"; [nieczytelne] Eugeniusz ps. "Orzełek"; Białowąs Michał (wieś Gródek); Czapski Arkadiusz (wieś Niemirki); Oksiuta Józef s. Wacława ps. "Pomidor" (wieś Mężenin, pow. Siedlce); Malczuk Irena (żona bandyty ps. "Brzask", nie członkini); oraz cztery osoby znane wyłącznie z pseudonimu: "Wójt", "Wiewiórka", "Adam", "Ginda"/"Ginca" — **nie utworzono dla nich osobnych notatek osób** (zbyt fragmentaryczne dane, kandydaci do uzupełnienia przy dalszym przetwarzaniu korpusu, o ile pojawią się w innych źródłach z pełniejszymi danymi).
 - **Potwierdzenie alias "Kazik"** dla Parzonko Kazimierza — czwarty potwierdzony pseudonim/przydomek (obok "Wichura"/"Wichora", "Czarny", "Zygmunt").
 - **Trzy udokumentowane zabójstwa działaczy PZPR przypisane bandzie "Zygmunta" w 1951 r.** (str. 13): 29.04.1951 — Aleksander Burzyński i Michał Lejzerowicz (wieś Zajęczniki, gm. Drohiczyn) → [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]]; 30.07.1951 — Jasiński (syn Stanisława, imię nieczytelne) → [[Event-1951-002-Zabojstwo-Jasinskiego]]. **To pierwsze w korpusie źródło wprost przypisujące konkretne, nazwane ofiary bandzie działającej pod dowództwem Parzonki jako "Zygmunt".**
 - Drugi wykaz (str. 11) wspomina "Józef Kostro ps. 'Kropki'" jako członka bandy "Huzara" — możliwa tożsamość z "współoskarżonym Kostro" wzmiankowanym gdzie indziej w kontekście złagodzenia wyroku w 1953 r. → [[Person-Kostro-Jozef-Kropki]] (hipoteza robocza).
@@ -68,7 +68,7 @@ Teczka z akt rozpracowania agenturalnego "Rozbójnicy" dot. bandy "Huzara", zawi
 ## Miejsca
 
 - [[Place-Ciechanowiec]]
-- [[Place-Czarkowo-Wolka]]
+- [[Place-Markowo-Wolka]]
 - [[Place-Zajeczniki]]
 
 ## Powiązane wydarzenia
