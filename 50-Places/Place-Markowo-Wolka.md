@@ -30,7 +30,8 @@ Brak.
 ## Źródła
 
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]]
+- [[IPN-BU-0330-189-t29-Nieczytelny]] — str. 3 (niezależne potwierdzenie nazwy miejscowości w indeksie osób)
 
 ## Uwagi
 
-Nazwa poprawiona 2026-07-20 z "Czarkowo-Wólka" na "Markowo-Wólka" — błąd odczytu OCR/AI potwierdzony przez usera po sprawdzeniu oryginału dokumentu.
+Nazwa poprawiona 2026-07-20 z "Czarkowo-Wólka" na "Markowo-Wólka" — błąd odczytu OCR/AI potwierdzony przez usera po sprawdzeniu oryginału dokumentu. Poprawność nazwy dodatkowo potwierdzona niezależnie przez [[IPN-BU-0330-189-t29-Nieczytelny]] (odczyt handwritingocr.com API).
