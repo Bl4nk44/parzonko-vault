@@ -16,7 +16,7 @@ original_filename: "BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.p
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]"
 reliability: "primary"
-ocr_quality: "dobra dla 20 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20, W TOKU); reszta niedoczytana"
+ocr_quality: "dobra dla ~50 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20, W TOKU); reszta niedoczytana"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -52,6 +52,8 @@ tags:
 - **Bezpośrednie, szczegółowe zeznanie o dwóch zabójstwach** (Burzyński/Lejzerowicz kwiecień 1951, Jasiński lipiec/sierpień 1951) — z pierwszej ręki sprawcy, uzupełnia [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] i [[Event-1951-002-Zabojstwo-Jasinskiego]]. W sprawie Jasińskiego **potwierdza wersję SRC-091** (Radziszewski sam wykonał, bez zacięcia broni/dobicia) przeciw wersji z wyroku SRC-015.
 - **Siódmy wariant daty urodzenia w korpusie**: nakaz przyjęcia do więzienia (str. 29) podaje "11.01.1922" — dzień/miesiąc inny niż ustalone 28.02, rok zgodny. Nie zmienia ustalonej daty.
 - Szczegółowe lokalizacje skrytek broni (Niemiry-Nowe, Niemiry-Stare, Radziszewo-Sieńczuch, las Rudzki) — wartość operacyjno-historyczna, nie biograficzna.
+- **Cztery różne wersje zabójstwa żołnierza WP w obrębie własnych zeznań** (str. 20, 53-54, 57) — Parzonko sam podaje różną porę roku (lato/jesień) i różną broń (automat/pistolet) w trzech różnych przesłuchaniach tego samego śledztwa. Patrz zaktualizowana, poszerzona dyskusja w [[Event-1946-002-Zabojstwo-zolnierza-konwojujacego-wiezniow]].
+- **Historia bandy "Młota"** (str. 56-60): str. 58 podaje "Młot nazwisko Łukasik" — zgodne (wariant zapisu) z już ustalonym w korpusie "Władysław Łukasiuk ps. Młot" (SRC-091, zginął 27.06.1949). Str. 56 podaje osobno "Gorzkowski Piotr ps. 'Młot'" jako dowódcę Parzonki we WCZEŚNIEJSZEJ fazie (siatka cywilna AK, do XI.1946) — możliwe, że to inny, lokalny dowódca noszący ten sam pseudonim przed Łukasiukiem, albo pomyłka odczytu API; nie zmienia ustalonej tożsamości Łukasiuka jako "Młota" z okresu 1947-49. Radziszewski Kazimierz ps. "Marynarz" był członkiem bandy "Młota", ukrywał się sam po jego śmierci (czerwiec 1949, zgodne z SRC-091) do wiosny 1951, potem przyłączył się do "Huzara" — nowy, precyzyjniejszy szczegół dla [[Person-Radziszewski-Kazimierz-Marynarz]].
 
 ## Osoby
 

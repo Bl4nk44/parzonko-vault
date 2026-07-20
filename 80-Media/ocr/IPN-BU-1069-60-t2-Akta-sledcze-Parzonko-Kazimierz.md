@@ -44,6 +44,30 @@ Nakaz przyjęcia do więzienia Mokotów: PARZONKO Kazimierz s. Stanisława, ur. 
 
 **1952 do aresztowania**: żadnych morderstw/napadów, grupa złożona z "Pantery", "Pawła", "Maryuana". Meliny na terenie pow. Bielsk-Podlaski, m.in. u sołtysa Muchy Kazimierza we wsi Oleksin gm. Brańsk (przedstawiony przez Filipińskiego Jana, jesień 1951).
 
+## Str. 38-43 — dalszy ciąg protokołu, meliny na kolonii/wsi Oleksin i Niemirje-Nowe/Stare
+
+Obszerny wykaz meliniarzy: Mucha Kazimierz (sołtys Oleksin, dostarczał penicylinę wstrzykiwaną przez "Panterę"), dwaj Sidorowie (Oleksin), Filiński Jan i córka Janina-Dorota (kolonia Oleksin — zakupy w mieście, reperacja zegarka), Szeremietyn Antoni/Eugeniusz (krawiec)/Zygmunt (bracia, kolonia Oleksin), Popławski Stanisław, gospodarz koło Popław gm. Brańsk, Morawski (szwagier Muchy), Puchalski Jan i Tadeusz (Niemirje-Nowe, melina używana od 1949 przez Parzonkę i "Huzara" wspólnie — miejsce spotkań Huzar-Krasowski "Głuszec" 1950, Huzar-Lampart 1950-51), sąsiad Puchalskich w Niewiarowie-Nowym, Kryński (sąsiad Puchalskich), "Bombota" (Niemirje-Nowe — tu ukryto broń przed wyjazdem do Warszawy).
+
+## Str. 44-55 — protokół 11.12.1952, napady rabunkowe i morderstwa bandy "Huzara" 1949-1951 (streszczenie zbiorcze)
+
+**Napady rabunkowe** (z udziałem/wiedzą Parzonki): Sawice (1950, z "Lampartem" i Jakubiakiem "Tygrysem" — pobicie dziewczyny za doniesienie na milicję), Mień (1949/50), Raczyny pow. Mława (18.04.1951, osobiście jako dowódca z "Tygrysem", "Antkiem", "Marynarzem", "Panterą"), napad na leśniczówkę (1950, z "Krakusem").
+
+**Morderstwa bandy "Huzara" wg wiedzy Parzonki** (większość z relacji innych, nie osobisty udział): Putasie pow. Wysokie-Maz. (trzej mężczyźni, w tym dwaj bracia, na rozkaz "Huzara" wykonane przez "Pomruka" i "Rysia"), Gnaty gm. Klukowo (sołtys i żona zamordowani na rozkaz "Huzara", żonę dobił "Paweł"/Kostro pistoletem TT), Dynielów (nieznany mężczyzna, "Ryś"+"Rekin"+"Marek"), Wólka-Noski (dwoje ludzi, "Krakus"+"Zubryt"), Monierowo/Siemiatycze (trzej bracia Karpiukowie, "Lampart"), Radziszewo (25 lipca, "Lampart"+"Rekin"), Piskuty gm. Ciechanowiec (małżeństwo Niedziółek, "Ponury"+"Rekin"+Biedrzycki "Wacek"), Bujanka (młode małżeństwo, "Ponury"+"Rekin"), Rudka gm. Brańsk (Raczek, "Ponury"+"Rekin"). **Własne**: Zajęczniki (Burzyński osobiście, Lejzerowicz przez "Panterę"), Jasiński (na rozkaz "Huzara", wykonane przez "Marynarza"). Morderstwa bandy "Głuszca"/NZW: Gródek gm. Jabłonna (1951, "Wiewiórka"+"Orlik"), Czarkówka gm. Ciechanowiec (1950-51, "Wiewiórka").
+
+**Trzecia, sprzeczna wersja zabójstwa żołnierza WP** (str. 53-54, ten sam protokół z 11.12.1952): "W 1946 r. jesienią będąc aresztowanym przez wojsko, w czasie transportowania mnie do Bielska-Podlaskiego udało mi się skorzystać z nieuwagi konwojenta, któremu odebrałem automat 'Pepecha' i z tego automatu zastrzeliłem tego konwojenta" — tu "jesienią" (autumn), zgodne z kartami MSW, ale SPRZECZNE z jego własnym zeznaniem sprzed 9 dni (str. 20, protokół 2.12.1952: "w lecie" / summer). **Parzonko sam podaje różne pory roku dla tego samego zdarzenia w dwóch różnych przesłuchaniach tego samego śledztwa.**
+
+## Str. 56-57 — protokół 30.12.1952: organizacje 1945-1947, CZWARTA wersja zabójstwa żołnierza
+
+Lato 1945: AK gm. Ciechanowiec, siatka cywilna, dowódca **Gorzkowski Piotr ps. "Młot"** (do listopada 1946). Listopad 1946: przydzielony przez komendanta okręgu ps. "Biały"/"Bolcio" do oddziału Brygady Wileńskiej, dowódca "Luty" (Henryk, nazwisko nieznane), podległy "Łupaszce" — do ujawnienia się w kwietniu 1947.
+
+**CZWARTA wersja zabójstwa żołnierza** (str. 57): "Jesienią 1946 r. [...] na terenie Ciechanowca w mieszkaniu mojej znajomej zatrzymany zostałem przez [...] wojsko. Po odebraniu mi broni zaczęto mnie konwojować. Na jednym z postojów we wsi **Bojenka** gm. Ciechanowiec pozostawiono mnie tylko z jednym żołnierzem, na którego napadłem i zastrzeliłem odebranym mu **pistoletem PM**." — "jesienią" zgodne z poprzednią wersją (str. 53-54) i kartami MSW, ale **broń tym razem to pistolet PM, nie automat "Pepesza"** jak w dwóch poprzednich wersjach (str. 20, 53-54) — trzeci wariant broni w obrębie własnych zeznań tej samej osoby. Nowy szczegół: konkretna wieś postoju konwoju — Bojenka.
+
+## Str. 58-60 — protokół 15.01.1953: historia bandy "Młota"
+
+**Sprzeczność tożsamości "Młota"**: str. 58 podaje "'Młot' nazwisko Łukasik" — inne nazwisko niż "Gorzkowski Piotr ps. 'Młot'" ze str. 56 (ten sam dokument, wcześniejsze przesłuchanie). Możliwe, że to dwie różne osoby noszące ten sam pseudonim w kolejnych okresach (dowódca siatki cywilnej vs. dowódca oddziału leśnego), albo pomyłka protokolanta.
+
+Okres 1947-1949: po ujawnieniu się (kwiecień 1947) i kilku miesiącach, ukrywanie się od końca 1947 do sierpnia 1949 — bez kontaktu z bandą "Młota" w tym czasie. Sierpień 1949: wstąpienie do "Huzara". **Śmierć "Młota" (czerwiec 1949)**: zabity przez podwładnego Dybowskiego Czesława po awanturze, w której "Młot" śmiertelnie zranił Dybowskiego Leopolda (trzeci brat: Dybowski Ryszard). Po tym zdarzeniu część ludzi "Młota" (Rakowiec/Ratyniec ps. "Lampart", Buczak ps. "Grom") przyłączyła się do "Huzara"; bracia Dybowscy zbiegli i ukrywali się. **Radziszewski Kazimierz ps. "Marynarz" był też w bandzie "Młota"** — po jego śmierci ukrywał się sam do wiosny 1951, potem przyłączył się do "Huzara" (nowy, dokładniejszy szczegół dla [[Person-Radziszewski-Kazimierz-Marynarz]]).
+
 ## Uwaga metodologiczna
 
-Kontynuacja w toku — 224 z 244 stron w puli DO_TLUMACZENIA_strony jeszcze nieodczytane, plus reszta z 792 stron całego tomu poza pulą. **Najwyższy priorytet** dla dalszej transkrypcji.
+Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-60 z 244 dostępnych w puli. Reszta (str. 61+ z tej puli, oraz cały pozostały zakres 792-stronicowego tomu poza pulą) wciąż priorytet dalszej transkrypcji.

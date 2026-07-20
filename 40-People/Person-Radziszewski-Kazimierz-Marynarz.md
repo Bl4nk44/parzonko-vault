@@ -69,6 +69,7 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 ## Chronologia życia
 
 - 1949-05-02 — otrzymuje stopień kaprala od Władysława Łukasiuka ps. "Młot" (SRC-091) — potwierdza, że wciąż był w bandzie "Młota" niecałe dwa miesiące przed jego śmiercią (27.06.1949)
+- 1949-06 (po śmierci "Młota") – 1951 (wiosna) — wg zeznania Parzonki (SRC-095) ukrywał się sam, bez kontaktu z żadną bandą, po czym przyłączył się do "Huzara"
 - 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] (osobiście zabił Lejzerowicza)
 - 1951-07 (data niepewna: 20 lub 30 lipca) — [[Event-1951-002-Zabojstwo-Jasinskiego]] (strzelał do ofiary, pistolet się zaciął)
 - 1951-10 (początek) — wg własnego zeznania (SRC-091) osobiście melduje zabójstwo Jasińskiego Kamińskiemu w kolonii Puław, gm. Klukowo; awansowany do stopnia plutonowego — patrz niepewności co do przebiegu samego zabójstwa
@@ -81,6 +82,7 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 142, 145-146 (pełny wyrok, dane osobowe, udział w zabójstwach)
 - [[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]] — str. 14 (**ROZSTRZYGNIĘTA data wykonania wyroku: 22.09.1953**)
 - [[IPN-BU-0203-2140-t4-Rozpracowanie-grupy-Lampart]] — str. 60-61 (marzec 1952, kontakt operacyjny z bandą "Lamparta" jako członek patrolu "Zygmunta" — potwierdza tożsamość tego patrolu z grupą Parzonki)
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 58-59 (zeznanie Parzonki: przynależność do bandy "Młota", ukrywanie się samodzielne 1949-1951)
 - [[IPN-Kartoteka-pomocnicza-MSW]] — str. 2 (imię ojca "Wiktor" — zgodne)
 - [[IPN-Inwentarz-KSL-WUBP-Bialystok]] — str. 1, poz. 12886 (wspólna sygnatura III-1151)
 
