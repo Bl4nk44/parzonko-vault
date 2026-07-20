@@ -67,6 +67,7 @@ Terlikowski przedstawił Białowąsowi tę samą fikcyjną strukturę organizacy
 ## Najważniejsze źródła
 
 - [[IPN-Bi-012-1231-t2-Zeznania-Bialowas-Witold-Litwin]] — str. 78-79 (własne zeznanie o kontaktach z Terlikowskim)
+- [[IPN-BU-0203-2140-t6-Protokol-przesluchania-swiadka-Lampart]] — str. 5-6 (zeznanie o melinach patrolu "Zygmunta")
 
 ## Niepewności i sprzeczności
 
