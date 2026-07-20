@@ -32,3 +32,4 @@ Brak dedykowanej notatki wydarzenia (werbunek opisany w notatce osoby).
 ## Źródła
 
 - [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] — str. 23-26
+- [[IPN-BU-0330-189-t18-Akta-sledztwa-Kaminski]] — str. 5-6 dok. (miejsce ukrywania się jesienią 1948-49, kontakty operacyjne 1951)
