@@ -16,7 +16,7 @@ original_filename: "BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.p
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]"
 reliability: "primary"
-ocr_quality: "dobra dla ~155 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20/21, W TOKU); reszta niedoczytana"
+ocr_quality: "dobra dla ~195 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20/21, W TOKU); reszta niedoczytana"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -66,7 +66,8 @@ tags:
 - **Nowa potyczka z wojskiem** (17.10.1951, kol. Radziszewo-Sieńczuch) — grupa Parzonki ostrzelana podczas wycofywania z kwatery.
 - **NOWE ZDARZENIE: zabójstwo wewnątrz własnej bandy** — Olemiuk Henryk ps. "Sokół" zastrzelony 22.08.1952 przez Radziszewskiego (za zgodą Parzonki) pod podejrzeniem zdrady — nowa notatka [[Event-1952-004-Zabojstwo-Olemiuka-Sokol]].
 - **Korekta broni w zabójstwie Jasińskiego**: Radziszewski strzelał z pistoletu "Nagan", nie TT; Parzonko dodatkowo ostrzelał już martwe ciało seriami z PPS — zaktualizowano [[Event-1951-002-Zabojstwo-Jasinskiego]].
-- **Trzecie kluczowe własne zeznanie — Kostro Józef** (str. 167-179): pełny życiorys, koryguje rok urodzenia (1928, nie 1927) i nazwisko panieńskie matki (Jankowska), pełny skład i uzbrojenie bandy "Huzara" (28 pozycji).
+- **Trzecie kluczowe własne zeznanie — Kostro Józef** (str. 167-179): pełny życiorys, koryguje rok urodzenia (1928, nie 1927) i nazwisko panieńskie matki (Jankowska), pełny skład i uzbrojenie bandy "Huzara" (28 pozycji). Zawiera też wewnętrzną sprzeczność co do daty wstąpienia do bandy (kwiecień 1951 vs październik 1950).
+- **Czwarte kluczowe własne zeznanie — Mościcki Józef ps. "Pantera"** (str. 195-221): pełny życiorys, nowy fakt o członkostwie w AK 1941 pod "Grubym Józefem", rozstrzyga nazwę miejscowości gdzie ukrywał bandę "Głuszca" (kolonia Pelich). Potwierdza pistolet "Nagan" i kolejność zdarzeń w zabójstwie Jasińskiego (Parzonko podszedł dopiero po strzałach Radziszewskiego).
 
 ## Osoby
 

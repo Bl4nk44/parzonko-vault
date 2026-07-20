@@ -35,6 +35,7 @@ key_sources:
   - "SRC-070"
   - "SRC-077"
   - "SRC-088"
+  - "SRC-095"
 certainty: "high"
 tags:
   - type/person
@@ -46,7 +47,7 @@ tags:
 
 ## Podsumowanie
 
-Józef Mościcki, s. Kazimierza i Anny z d. Kamieńska, ur. 11.02.1923 r., zamieszkały gm. Ciechanowiec, pow. Siemiatycze. Czwarty oskarżony w głównym procesie sądowym z marca 1953 r. (sprawa Sr.251/53, WSR Warszawa, sesja wyjazdowa w Ciechanowcu). Członek "patrolu Zygmunta" ps. "Pantera". Wg wyroku, w 1948 r. zetknął się na terenie pow. Bielsk Podlaski z kontrrewolucyjną bandą "Głuszcz(a)" — **prawdopodobnie tożsamą z bandą Krasowskiego Kazimierza ps. "Głuszec"** wzmiankowaną w [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]] — udzielając jej schronienia i wyżywienia we własnym domu w [nieczytelne] pow. Bielsk-Podlaski. Od jesieni 1950 r. wstąpił do "patrolu Lamparta", podkomendnego "Huzarowi".
+Józef Mościcki, s. Kazimierza i Anny z d. Kamieńska, ur. 11.02.1923 r. we wsi Petele gm. Ciechanowiec pow. Bielsk (własne zeznanie, SRC-095, potwierdza dane). Czwarty oskarżony w głównym procesie sądowym z marca 1953 r. (sprawa Sr.251/53, WSR Warszawa, sesja wyjazdowa w Ciechanowcu). Członek "patrolu Zygmunta" ps. "Pantera" — pseudonim nadany mu przez Ratyńca Adama ps. "Lampart" (nie przez Huzara), przy wstąpieniu do bandy w grudniu 1950. **Nowy szczegół z własnego zeznania**: w 1941 r. należał do AK pod dowództwem "Grubego Józefa" (grupa 9 ludzi), zbierając broń i amunicję — utracił kontakt po wywózce do Prus Wschodnich (1942). Wg wyroku, w 1948 r. zetknął się na terenie pow. Bielsk Podlaski z kontrrewolucyjną bandą "Głuszcz(a)" — **prawdopodobnie tożsamą z bandą Krasowskiego Kazimierza ps. "Głuszec"** wzmiankowaną w [[IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]] — udzielając jej schronienia i wyżywienia we własnym domu na **kolonii Pelich** (nazwa miejscowości rozstrzygnięta własnym zeznaniem, wcześniej nieczytelna w OCR). Podczas drugiej wizyty bandy (listopad 1949) dom otoczyło wojsko — jeden z gości, "Oleś", zginął, reszta uciekła; Mościcki ukrywał się samotnie do grudnia 1950, kiedy przyłączył się do "patrolu Lamparta", podkomendnego "Huzarowi".
 
 ## Dane podstawowe
 
@@ -68,6 +69,7 @@ Brak danych o rodzinie poza imionami rodziców (Kazimierz Mościcki i Anna z d. 
 
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 146-147
 - [[IPN-Kartoteka-pomocnicza-MSW]] — str. 2 (imię ojca "Kazimierz" — zgodne)
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 195-221 (**własne, obszerne zeznanie — pełny życiorys, członkostwo w AK 1941, rozstrzyga miejscowość "kolonia Pelich"**)
 
 ## Niepewności i sprzeczności
 

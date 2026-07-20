@@ -158,6 +158,28 @@ Protokół 11.12.1952 zawiera podwójną autokorektę: (1) rekrutera do bandy "M
 
 **Nowe morderstwo (wg opowieści)**: październik/wrzesień 1951, wieś Kostry-Noski — zamordowanie Bobrowskiego (ORMO-wiec) przez Niemyńskiego "Krakus" oraz jego szwagra (b. milicjant) przez Grodzkiego "Żubryt", tego samego dnia.
 
+## Str. 180-194 — zeznanie Kostry c.d.: morderstwa ze słyszenia, wynagrodzenie, WEWNĘTRZNA SPRZECZNOŚĆ daty wstąpienia
+
+Kostro relacjonuje kilkanaście morderstw znanych mu ze słyszenia (Kostewski i bracia Wyprzyńscy, Piszczatowski, Skowroński Henryk, Bobrowski i szwagier w Kostry-Noski). **Sprzeczność wewnętrzna**: str. 181-182 (5.12.1952) i str. 184 (16.12.1952) podają datę wstąpienia do bandy jako **"pierwsze dni października 1950"**, ze szczegółową historią (spotkanie z bandą u Werpechowskiego w Wojdytach, potem u Średnickiego w Moczydłach, udział od razu w zabójstwie sołtysa i żony we wsi Piętki-Gręzy) — sprzeczne z wcześniej odczytanym zeznaniem (str. 168-169), gdzie Kostro podał **"kwiecień 1951"**. Analogicznie do autokorekty Radziszewskiego, może to być kolejny przypadek świadomego wprowadzenia w błąd śledztwa w pierwszym zeznaniu — nie rozstrzygnięte, wymaga dalszej lektury pozostałych stron dla ew. autokorekty.
+
+**Wynagrodzenie**: od lipca 1951 — 50 zł/miesiąc, ostatnie 2 miesiące — 100 zł/miesiąc, plus jednorazowo 500 zł przed przerzutem do Warszawy. Łącznie 1350 zł w gotówce przez cały okres.
+
+## Str. 195-221 — WŁASNE, OBSZERNE ZEZNANIE MOŚCICKIEGO JÓZEFA ps. "Pantera" — CZWARTE kluczowe pierwszoosobowe źródło
+
+Życiorys: ur. **11.02.1923** Petele gm. Ciechanowiec (zgodne z ustaloną datą), rodzice Kazimierz i Anna z d. Kamieńska (zgodne z ustalonym). Szkoła w Kobylinie (4 klasy). Do 1942 praca u ojca (11 ha). **1941: wstąpił do AK** pod dowództwem "Grubego Józefa" (grupa 9 ludzi), zbieranie broni/amunicji — nowy, wcześniej nieznany szczegół konspiracyjny. 1942: wywieziony do Prus Wschodnich, potem Litwa (marzec 1943), z powrotem Prusy, okolice Gdyni, wyzwolony kwiecień 1945 przez Armię Czerwoną. Maj 1945: powrót do domu. 1947: przeniósł się na kolonię Pelich, tam do 1949 dwukrotnie melinował członków bandy "Głuszca" (Andruchek, Wiewiórka, Oleś, Harnaś) — podczas drugiej wizyty (listopad 1949) otoczeni przez wojsko, "Oleś" zabity w jego domu, trzej pozostali uciekli. Mościcki uciekł i ukrywał się samotnie (kradzieżami) do grudnia 1950, kiedy spotkał Parzonkę ps. "Zygmunt"/"Wichura" i "Lamparta", którzy przyjęli go do bandy — **pseudonim "Pantera" nadany przez samego "Lamparta"**, nie przez Huzara.
+
+**Uzbrojenie w czasie**: "pepeszka" (od "Lamparta"), karabin 10-strzałowy (poł. 1951), RKM + pistolet Tokariew (po przejściu pod dowództwo "Zygmunta") — RKM zostawiony w lesie u "Zygmunta" przy wyjeździe do Warszawy.
+
+**Własna wersja zabójstwa Burzyńskiego/Lejzerowicza** (str. 208): potwierdza, że **Parzonko ("Zygmunt") osobiście zastrzelił Burzyńskiego** serią z PPS na chrzcinach, po czym Mościcki miał iść "do Lejrewicza" (urwane zdanie, brak jednoznacznego potwierdzenia kto zabił Lejzerowicza w tym fragmencie).
+
+**Własna wersja zabójstwa Jasińskiego** (str. 210): "'Marynarz' udał się do Jasińskiego, którego zastał bez broni [...] Jasiński zaczął uciekać. W trakcie ucieczki 'Marynarz' wyjął 'nagan' i zaczął do niego strzelać trafiając go w plecy. Po zabójstwie [...] podszedł 'Zygmunt' do 'Marynarza'" — **potwierdza pistolet Nagan (zgodnie z korektą Radziszewskiego) i kolejność (Parzonko podszedł PO zabójstwie)**, spójne z już zaktualizowanym [[Event-1951-002-Zabojstwo-Jasinskiego]].
+
+**Nowy szczegół**: rozkaz zabicia Jasińskiego wydał "Huzar" osobiście w rozmowie z "Zygmuntem" w maju 1951 — bo Jasiński "utrudniał działalność bandzie".
+
+**Obszerny, częściowo powtarzalny wykaz członków i ofiar band "Huzara"/"Głuszca"** (str. 199-221) — potwierdza już znane fakty (śmierć grupy "Lamparta" w maju 1952 z wyjątkiem "Sokoła"; śmierć "Rysia"/"Rekina"/"Marka" maj 1951 w Zochach) i dodaje kilka nowych dat/miejsc śmierci pomniejszych postaci. Skrytka broni przed wyjazdem do Warszawy: las koło stacji Śniadowo, u Parzonki i Kryńskiego "Rokity".
+
+**Relacja o księdzu z Pobikr i pogrzebie "Młota"** (str. 219-220) — Mościcki zna to tylko z opowiadań Radziszewskiego, zgodne z już ustalonym przebiegiem (ks. Borysiewicz, udział "Huzara" w pogrzebie).
+
 ## Uwaga metodologiczna
 
-Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-179 z 244 dostępnych w puli (ok. 155 stron, w tym własne zeznania TRZECH kluczowych świadków: Parzonki, Radziszewskiego i Kostry). Reszta wciąż priorytet dalszej transkrypcji.
+Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-221 z 244 dostępnych w puli (ok. 195 stron, w tym własne zeznania CZTERECH kluczowych świadków: Parzonki, Radziszewskiego, Kostry i Mościckiego). Pozostało ok. 49 stron w tej puli.
