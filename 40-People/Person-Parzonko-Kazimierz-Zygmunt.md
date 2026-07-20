@@ -202,6 +202,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-07-822-t1-Akta-sledcze-Sabin-Jan-Wiewiorka]] — str. 35 (**potwierdzona współpraca operacyjna z bandą "Głuszca" — źródło spisu ofiar zamachu w Zajęcznikach**)
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 23, 47-48 (**pełna charakterystyka, związek z "Łupaszką", alias "Wojtkowski Henryk", mechanizm aresztowania przez operację "Rytel"**)
 - [[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]] — str. 14 (**ROZSTRZYGNIĘTA data wykonania wyroku śmierci: 22.09.1953, oraz niezależne potwierdzenie daty urodzenia 28.02.1922**)
+- [[IPN-Kartoteka-skazanych]] — str. 1-2 (**czwarte/piąte niezależne potwierdzenie daty urodzenia i śmierci; nowy szczegół: przeniesienie do Białegostoku 23.03.1953**)
 
 ## Niepewności i sprzeczności
 

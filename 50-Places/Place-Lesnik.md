@@ -38,6 +38,7 @@ W imiennym wykazie członków bandy "Młota" z 1947 r. ([[IPN-Bi-047-1079-Teczka
 - [[IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]] (zapis "Leśnik")
 - [[IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]] — str. 11 (zapis "Leśniki", potwierdzenie niezależnym źródłem)
 - [[IPN-Bi-047-1079-Teczka-bandy-Mlota-1947]] — str. 5 (poz. 58 wykazu, zapis "Leśniki")
+- [[IPN-Kartoteka-skazanych]] — str. 1 (miejsce urodzenia w karcie więziennej)
 
 ## Uwagi
 
