@@ -68,6 +68,8 @@ Brak danych o rodzinie poza imionami rodziców (Józef Kostro i Maria).
 
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 11
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 142-144, 157 (pełny wyrok, dane osobowe, ułaskawienie, zwolnienie)
+- [[IPN-Kartoteka-pomocnicza-MSW]] — str. 2 (imię ojca "Józef" — zgodne)
+- [[IPN-Inwentarz-KSL-WUBP-Bialystok]] — str. 1, poz. 12886 (wspólna sygnatura III-1151)
 
 ## Niepewności i sprzeczności
 

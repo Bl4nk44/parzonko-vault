@@ -67,6 +67,7 @@ Brak danych o rodzinie poza imionami rodziców (Kazimierz Mościcki i Anna z d. 
 ## Najważniejsze źródła
 
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 146-147
+- [[IPN-Kartoteka-pomocnicza-MSW]] — str. 2 (imię ojca "Kazimierz" — zgodne)
 
 ## Niepewności i sprzeczności
 
