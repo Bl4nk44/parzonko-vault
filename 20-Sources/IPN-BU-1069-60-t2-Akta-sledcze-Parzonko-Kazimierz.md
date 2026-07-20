@@ -16,7 +16,7 @@ original_filename: "BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.p
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]"
 reliability: "primary"
-ocr_quality: "dobra dla ~120 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20, W TOKU); reszta niedoczytana"
+ocr_quality: "dobra dla ~155 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20/21, W TOKU); reszta niedoczytana"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -32,6 +32,7 @@ related_events:
   - "EVENT-1951-001"
   - "EVENT-1951-002"
   - "EVENT-1950-001"
+  - "EVENT-1952-004"
 tags:
   - type/source
   - source/ipn
@@ -63,6 +64,9 @@ tags:
 - **Pełny skład osobowy bandy "Młota" (12 osób) i bandy "Huzara" (26 pozycji)** — bogaty materiał do przyszłego cross-referencingu (str. 119-142).
 - **Dokładna data i okoliczności wstąpienia Radziszewskiego do "Huzara"**: 6.04.1951, finansowanie oddziału (żołd 350 zł/os./miesiąc, łącznie 7200 zł), przegrupowanie 20.07.1951 (str. 122-136).
 - **Nowa potyczka z wojskiem** (17.10.1951, kol. Radziszewo-Sieńczuch) — grupa Parzonki ostrzelana podczas wycofywania z kwatery.
+- **NOWE ZDARZENIE: zabójstwo wewnątrz własnej bandy** — Olemiuk Henryk ps. "Sokół" zastrzelony 22.08.1952 przez Radziszewskiego (za zgodą Parzonki) pod podejrzeniem zdrady — nowa notatka [[Event-1952-004-Zabojstwo-Olemiuka-Sokol]].
+- **Korekta broni w zabójstwie Jasińskiego**: Radziszewski strzelał z pistoletu "Nagan", nie TT; Parzonko dodatkowo ostrzelał już martwe ciało seriami z PPS — zaktualizowano [[Event-1951-002-Zabojstwo-Jasinskiego]].
+- **Trzecie kluczowe własne zeznanie — Kostro Józef** (str. 167-179): pełny życiorys, koryguje rok urodzenia (1928, nie 1927) i nazwisko panieńskie matki (Jankowska), pełny skład i uzbrojenie bandy "Huzara" (28 pozycji).
 
 ## Osoby
 

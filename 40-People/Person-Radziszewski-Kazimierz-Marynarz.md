@@ -84,7 +84,8 @@ Rodzice: Wiktor Radziszewski (zm. sierpień 1945) i Sabina z d. Radziszewska (zm
 - 1951-06-12 – 1951-07-20 — krótki, przejściowy okres w grupie Ratyńca Adama ps. "Lampart"
 - 1951-07-20 (od) — z powrotem w grupie Parzonki, do aresztowania
 - 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] — **poprawka**: własne zeznanie (SRC-095, str. 100-101) i trzy inne niezależne źródła wskazują, że to Mościcki "Pantera" zabił Lejzerowicza, nie Radziszewski (Radziszewski w tym czasie czekał z łodzią po drugiej stronie Bugu, nie brał bezpośredniego udziału w zabójstwie)
-- 1951-07-30 — [[Event-1951-002-Zabojstwo-Jasinskiego]] — **własnoręcznie zastrzelił Jasińskiego Franciszka** (dwa strzały w plecy podczas ucieczki ofiary, dobicie strzałem w pierś) — szczegółowy własny opis, SRC-095 str. 93-95
+- 1951-07-30 — [[Event-1951-002-Zabojstwo-Jasinskiego]] — **własnoręcznie zastrzelił Jasińskiego Franciszka** (dwa strzały w plecy podczas ucieczki ofiary, dobicie strzałem w pierś, pistoletem "Nagan" — poprawka wobec wcześniej podanego TT) — szczegółowy własny opis, SRC-095 str. 93-95, 160, 166
+- 1952-08-22 — [[Event-1952-004-Zabojstwo-Olemiuka-Sokol]] — zastrzelił śpiącego członka własnej grupy, Olemiuka Henryka ps. "Sokół", pod podejrzeniem zdrady; od tego dnia nosił przy sobie pistolet TT zabrany ofierze
 - 1951-10 (początek) — wg własnego zeznania (SRC-091, SRC-095) osobiście melduje zabójstwo Jasińskiego Kamińskiemu w kol. Pułazi/Puław, gm. Klukowo; awansowany z kaprala na plutonowego
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
 - 1953-09-22 — [[Event-1953-004-Wykonanie-wyroku-smierci-Parzonko]] (śmierć)

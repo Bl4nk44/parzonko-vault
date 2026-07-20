@@ -10,9 +10,10 @@ aliases:
   - "Kropki"
   - "Paweł"
 gender: "M"
-birth_date: "1927-05-15"
+birth_date: "1928-05-15"
 birth_date_accuracy: "day"
-birth_place: null
+birth_place:
+  - "Kostry-Noski, gm. Piekuty"
 death_date: null
 death_date_accuracy: "unknown"
 death_place: null
@@ -32,6 +33,7 @@ key_sources:
   - "SRC-022"
   - "SRC-024"
   - "SRC-052"
+  - "SRC-095"
 certainty: "high"
 tags:
   - type/person
@@ -43,7 +45,7 @@ tags:
 
 ## Podsumowanie
 
-Józef Kostro, s. Józefa i Marii z d. [nazwisko nieczytelne], ur. 15.05.1927 r. (ostatnia cyfra roku niepewna w OCR — mogło być 1927 lub 1928) w Kostrach-Noskach, gm. Piekuty, pow. Wysokie Mazowieckie. **Tożsamość ROZSTRZYGNIĘTA**: to trzeci z czterech oskarżonych w głównym procesie sądowym z marca 1953 r. (sprawa Sr.251/53, WSR Warszawa, sesja wyjazdowa w Ciechanowcu) — członek "patrolu Zygmunta" (Parzonki) ps. "Paweł", wcześniej znany też jako "Kropki" w wykazie personalnym bandy "Huzara" (SRC-012). Osobiście zabił Stefanię Koc podczas napadu na sołectwo Piątki-Żebry (4.10.1950) — patrz [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]]. Skazany na karę śmierci wyrokiem z 31.03.1953 r.; **jako jedyny z czterech skazanych otrzymał ułaskawienie** — decyzją Rady Państwa z 15.09.1953 r. karę śmierci zamieniono na dożywotnie więzienie. Zwolniony 28.02.1959 r.
+Józef Kostro, s. Józefa i Marii z d. Jankowska (własne zeznanie, SRC-095, str. 167 — rozstrzyga wcześniejszą niepewność OCR co do nazwiska panieńskiego matki), ur. **15.05.1928 r.** (własne zeznanie koryguje wcześniej niepewny rok 1927 na 1928) w Kostrach-Noskach, gm. Piekuty, pow. Wysokie Mazowieckie. Ojciec posiadał 11 ha ziemi. Do lipca 1944 pracował u ojca; wywieziony przez Niemców na roboty do majątku Poryte koło Zambrowa; wrócił sierpień 1944. Listopad 1948 – lipiec 1949: praca w Samopomocy Chłopskiej we Wrocławiu (ul. Kleczkowska, zamieszkanie ul. Sobota 6/1). Od października 1950 ukrywał się (odmówił zameldowania o znajomym z bandy, Zalewskim Wacławem) u Wojciechowskiego Kazimierza we wsi Wojdaty gm. Szepietowo. Kwiecień 1951: wstąpił do bandy "Huzara". **Tożsamość ROZSTRZYGNIĘTA**: to trzeci z czterech oskarżonych w głównym procesie sądowym z marca 1953 r. (sprawa Sr.251/53, WSR Warszawa, sesja wyjazdowa w Ciechanowcu) — członek "patrolu Zygmunta" (Parzonki) ps. "Paweł", wcześniej znany też jako "Kropki" w wykazie personalnym bandy "Huzara" (SRC-012). Osobiście zabił Stefanię Koc podczas napadu na sołectwo Piątki-Żebry (4.10.1950) — patrz [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]]. Skazany na karę śmierci wyrokiem z 31.03.1953 r.; **jako jedyny z czterech skazanych otrzymał ułaskawienie** — decyzją Rady Państwa z 15.09.1953 r. karę śmierci zamieniono na dożywotnie więzienie. Zwolniony 28.02.1959 r.
 
 ## Dane podstawowe
 
@@ -70,7 +72,7 @@ Brak danych o rodzinie poza imionami rodziców (Józef Kostro i Maria).
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 142-144, 157 (pełny wyrok, dane osobowe, ułaskawienie, zwolnienie)
 - [[IPN-Kartoteka-pomocnicza-MSW]] — str. 2 (imię ojca "Józef" — zgodne)
 - [[IPN-Inwentarz-KSL-WUBP-Bialystok]] — str. 1, poz. 12886 (wspólna sygnatura III-1151)
-- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 95 (trzeci pseudonim "Dąbek", zeznanie Radziszewskiego)
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 95 (trzeci pseudonim "Dąbek", zeznanie Radziszewskiego); str. 167-179 (**własne, obszerne zeznanie — życiorys, rok urodzenia 1928, nazwisko panieńskie matki, pełen skład i uzbrojenie bandy "Huzara"**)
 
 ## Niepewności i sprzeczności
 

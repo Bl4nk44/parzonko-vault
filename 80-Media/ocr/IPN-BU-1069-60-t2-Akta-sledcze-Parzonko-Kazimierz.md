@@ -138,6 +138,26 @@ Protokół 11.12.1952 zawiera podwójną autokorektę: (1) rekrutera do bandy "M
 
 **Morderstwa znane tylko ze słyszenia** (nie osobisty udział): Chodyszewo (I poł. 1950, "Ryś"+2), małżeństwo Niedziółek (lipiec 1950 — data różni się od wcześniej ustalonej, "Rekin"+"Ponury"), ojciec i syn PZPR w Słochach gm. Siemiatycze (lato 1951, "Lampart"+"Tygrys"+Maksymow), członek PZPR koło Niemojek (jesień 1951, "Tygrys"+"Lampart"), członek ORMO koło Kostry-Noski (wrzesień 1951, Niemyński "Kralus"+cywil nazwiskiem Bobrowski).
 
+## Str. 145-166 — zeznanie Radziszewskiego c.d.: sieć ks. Borysiewicza, ZABÓJSTWO OLEMIUKA, korekty broni
+
+**Sieć wsparcia ks. Wiktora Borysiewicza (parafia Pobikry) dla bandy "Młota"**: pośrednik Rytel Franciszek (Kraje-Wólka), znający braci Dybowskich z polowań, dostarczał do bunkra w lesie Rudzkim paczki od księdza (kakao, papierosy, sukno na spodnie — uszyte przez krawca Burakowskiego Zygmunta z Czaje-Wólki). Po śmierci "Młota" (27.06.1949) ks. Borysiewicz osobiście przybył do bunkra (przywieziony furmanką przez Boguszewskiego Stanisława) udzielić ostatnich sakramentów śmiertelnie rannemu Dybowskiemu Leopoldowi. Radziszewski pierwotnie ukrył ten fakt w swoim zeznaniu z 11.12.1952, uzupełnił go dopiero 17.12.1952. Pochówek "Młota" w lesie Czartajówka — uczestnicy: Sieklucki Edward, Godlewski Bronisław, Mularczyk Józef (też dopisani później, wcześniej pominięci celowo).
+
+**NOWE ZDARZENIE: zabójstwo Olemiuka Henryka ps. "Sokół" (22.08.1952)** — patrz osobna notatka [[Event-1952-004-Zabojstwo-Olemiuka-Sokol]]. Olemiuk, jedyny ocalały z rozbitej grupy "Lamparta" (maj 1952), dołączył do grupy Parzonki, ale został przez nią (wspólną decyzją Parzonki, Radziszewskiego, Mościckiego, Kostry) uznany za zagrożenie zdrady i zastrzelony przez Radziszewskiego strzałem w głowę podczas snu, pistoletem "Nagan". Bunkier z zamelinowaną bronią po ofierze odkryty i rozbity przez wojsko we wrześniu 1952.
+
+**Korekty broni w zabójstwie Jasińskiego**: Radziszewski prostuje, że strzelał nie z TT (jak podał 5.12.1952), lecz z pistoletu "Nagan" — TT wszedł w jego posiadanie dopiero po zabiciu Olemiuka. Dodaje nowy szczegół: Parzonko, stojąc na obstawie, podbiegł po strzałach Radziszewskiego i wystrzelił dodatkowe serie z automatu PPS w już martwe ciało Jasińskiego — patrz zaktualizowany [[Event-1951-002-Zabojstwo-Jasinskiego]].
+
+**Dodatkowe napady rabunkowe grupy "Lamparta"** (ze słyszenia): Borsuki pow. Siedlce (lipiec 1951, Ratyniec+Jakubiak, 400 zł + towar), inne napady na kasjerów (Niemojki, 7000 zł; Biała-Podlaska).
+
+## Str. 167-179 — WŁASNE, OBSZERNE ZEZNANIE KOSTRY JÓZEFA ps. "Paweł"/"Kropki" (2-4.12.1952) — trzecie kluczowe pierwszoosobowe źródło
+
+Życiorys: ur. **15.05.1928** Kostry-Noski (koryguje niepewny wcześniej rok 1927), rodzice Józef i **Maria z d. Jankowska** (rozstrzyga nieczytelne wcześniej nazwisko panieńskie matki), ojciec posiadał 11 ha. Do lipca 1944 praca u ojca; wywieziony przez Niemców do majątku Poryte k. Zambrowa; powrót sierpień 1944. Listopad 1948 – lipiec 1949: praca w Wrocławiu (Samopomoc Chłopska, ul. Kleczkowska). Od października 1950 ukrywanie się (odmowa doniesienia o Zalewskim Wacławie) u Wojciechowskiego Kazimierza (Wojdaty gm. Szepietowo). Kwiecień 1951: wstąpienie do bandy "Huzara".
+
+**Uzbrojenie w czasie (zmieniające się)**: pistolet maszynowy "Derkacz" (od Niemyńskiego "Krakus", IV.1951) → zamieniony na "P.S." (V.1952, od Parzonki) → zdany Parzonce (XI.1952). Pistolet "Nagan" od Kryńskiego "Rokita" (VI.1951, zdany VIII.1952). Pistolet "Walter" od Mościckiego (VIII.1952, do aresztowania).
+
+**Pełny, obszerny skład osobowy bandy "Huzara" (28 pozycji)** z pseudonimami, miejscowościami pochodzenia i losami — częściowo pokrywa się z listą Radziszewskiego, dodaje kilka nowych detali (daty wstąpienia/śmierci poszczególnych osób). Potwierdza Radziszewskiego jako "zastępcę Parzonki" od kwietnia 1951.
+
+**Nowe morderstwo (wg opowieści)**: październik/wrzesień 1951, wieś Kostry-Noski — zamordowanie Bobrowskiego (ORMO-wiec) przez Niemyńskiego "Krakus" oraz jego szwagra (b. milicjant) przez Grodzkiego "Żubryt", tego samego dnia.
+
 ## Uwaga metodologiczna
 
-Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-144 z 244 dostępnych w puli (ok. 120 stron, w tym własne zeznania DWÓCH kluczowych świadków: Parzonki i Radziszewskiego, z ważną autokorektą tego drugiego, plus pełny skład osobowy obu band). Reszta wciąż priorytet dalszej transkrypcji.
+Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-179 z 244 dostępnych w puli (ok. 155 stron, w tym własne zeznania TRZECH kluczowych świadków: Parzonki, Radziszewskiego i Kostry). Reszta wciąż priorytet dalszej transkrypcji.
