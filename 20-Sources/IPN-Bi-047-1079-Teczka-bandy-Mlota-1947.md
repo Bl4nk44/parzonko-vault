@@ -53,7 +53,7 @@ Operacyjna teczka WUBP Białystok dot. bandy "Młota" za rok 1947, zawierająca 
 
 ## Miejsca
 
-- [[Place-Lesniki]] — adres zamieszkania Parzonki w wykazie
+- [[Place-Lesnik]] — adres zamieszkania Parzonki w wykazie (zapis "Leśniki")
 
 ## Powiązane wydarzenia
 
