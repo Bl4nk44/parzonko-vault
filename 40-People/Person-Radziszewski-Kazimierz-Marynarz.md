@@ -52,7 +52,7 @@ tags:
 
 Kazimierz Radziszewski, s. Wiktora i Sabiny z d. Radziszewska, ur. 19.11.1917 r. we wsi Radziszewo-Sieńczuch, pow. Bielsk Podlaski, ps. "Marynarz". Członek "patrolu Zygmunta" (grupy Kazimierza Parzonki). Sądzony razem z Parzonką, Józefem Kostro i Józefem Mościckim w głównym procesie sądowym z marca 1953 r. (sprawa Sr.251/53, WSR Warszawa), skazany na karę śmierci.
 
-Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy PZPR w Zajęcznikach (30.04.1951) — patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] — oraz strzelał (bez skutku śmiertelnego, pistolet się zaciął) do Jasińskiego w Przybyszynie, którego następnie dobił serią Parzonko — patrz [[Event-1951-002-Zabojstwo-Jasinskiego]].
+Wg wyroku sądowego (jeden z trzech sprzecznych odpisów), miał zabić Michała Lejzerowicza w Zajęcznikach (30.04.1951) — **ale cztery niezależne źródła, w tym jego własne zeznanie i zeznanie Parzonki, wskazują, że to Mościcki "Pantera" go zabił** (Radziszewski w tym czasie czekał łodzią po drugiej stronie Bugu) — patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]]. **Własnoręcznie i jednoznacznie zastrzelił Jasińskiego Franciszka** w Przybyszynie (30.07.1951, dwa strzały w plecy + strzał dobijający w pierś) — patrz [[Event-1951-002-Zabojstwo-Jasinskiego]] i jego szczegółowe własne zeznanie (SRC-095).
 
 ## Dane podstawowe
 
@@ -75,13 +75,17 @@ Rodzice: Wiktor Radziszewski (zm. sierpień 1945) i Sabina z d. Radziszewska (zm
 
 - 1948-07-05 — banda "Młota" (15 osób) kwateruje jedną noc w jego stodole w Radziszewie-Sieńczuchu; rozpoznaje dowódcę po charakterystycznej sztywnej lewej nodze, nie zgłasza tego władzom (SRC-095)
 - 1948-07-10 — MO przychodzi go szukać, zaczyna się ukrywać (SRC-095)
-- 1948-07-25 — Otap (Czaje-Bagno) odnajduje go w lesie, prowadzi do obozu "Młota" w lesie Pobikrowskim; wstępuje do bandy, przyjmuje pseudonim "Marynarz" (SRC-095)
-- 1949-05-02 — otrzymuje stopień kaprala od Władysława Łukasiuka ps. "Młot" (SRC-091) — potwierdza, że wciąż był w bandzie "Młota" niecałe dwa miesiące przed jego śmiercią (27.06.1949)
-- 1949-06 — "Młot" zastrzelony przez pijanego podwładnego Dybowskiego Czesława ps. "Rejtan" (SRC-095, nowy pseudonim zabójcy); banda dzieli się, Radziszewski dołącza do grupy Ratyńca Adama ps. "Lampart" (5 osób)
-- 1949-06 – 1951-05 — po śmierci "Młota" przyłączył się do grupy Ratyńca Adama ps. "Lampart" (5 osób) — **poprawka**: wcześniejsza notatka (za zeznaniem Parzonki, z drugiej ręki) błędnie sugerowała samodzielne ukrywanie się w tym okresie; własne zeznanie Radziszewskiego (SRC-095, str. 87) to prostuje — od maja 1951 przeszedł do grupy Parzonki ("Wichura"/"Zygmunt")
-- 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] (osobiście zabił Lejzerowicza)
-- 1951-07 (data niepewna: 20 lub 30 lipca) — [[Event-1951-002-Zabojstwo-Jasinskiego]] (strzelał do ofiary, pistolet się zaciął)
-- 1951-10 (początek) — wg własnego zeznania (SRC-091) osobiście melduje zabójstwo Jasińskiego Kamińskiemu w kolonii Puław, gm. Klukowo; awansowany do stopnia plutonowego — patrz niepewności co do przebiegu samego zabójstwa
+- 1948-07-25 — wstępuje do bandy "Młota" (obóz w lesie Pobikrowskim), przyjmuje pseudonim "Marynarz". Zwerbowany faktycznie przez Dybowskiego Leopolda ps. "Rymsza"/"Rybitwa" — **poprawiona wersja** (SRC-095, str. 109-110): we wcześniejszym zeznaniu z 3.12.1952 podał, że zrobił to "Okap"/Otap, co sam sprostował 11.12.1952 jako pomyłkę pamięci.
+- 1948-07-29 — potyczka z wojskiem w kol. Zadobrze gm. Ciechanowiec (wymiana ognia pół godziny, wycofanie do lasu Rudzkiego)
+- 1949-05-02/03 — otrzymuje stopień kaprala od Władysława Łukasiuka ps. "Młot" (SRC-091, SRC-095)
+- 1949-06-27 — **"Młot" zastrzelony przez pijanego podwładnego Dybowskiego Czesława ps. "Rejtan"**, po awanturze w której "Młot" śmiertelnie postrzelił Dybowskiego Leopolda (zmarł następnego dnia). Obaj pochowani osobno (Młot w lasku Czartajówka, Dybowski Leopold na cmentarzu w Winnej, przy udziale Boguszewskiego Stanisława i grabarza Podlesińskiego) — szczegółowa relacja naocznego świadka, SRC-095 str. 112-114.
+- **1949-06/07 – 1951-04-06 (ok. 20 miesięcy) — UKRYWAŁ SIĘ SAMOTNIE w wykopanej przez siebie ziemiance w lesie koło Radziszewa-Sieńczucha**, żywiony przez siostrę Stanisławę. **WAŻNA KOREKTA HISTORII ZEZNAŃ**: Radziszewski złożył na ten temat TRZY kolejne, sprzeczne wersje w ramach jednego śledztwa — (1) 3.12.1952: wspomniał ogólnie o ukrywaniu się; (2) 5.12.1952: zeznał, że **od razu po śmierci "Młota" przyłączył się do grupy "Lamparta"** (ta wersja trafiła do mojej wcześniejszej notatki jako "poprawka" — błędnie, patrz niżej); (3) 11.12.1952: **sam odwołał wersję (2) jako celowe kłamstwo**, tłumacząc, że bał się, iż prawda (ukrywanie się przy pomocy siostry) naraziłaby ją na aresztowanie. Prawdziwy przebieg wg tego ostatniego, najbardziej wiarygodnego zeznania: ukrywał się samotnie w ziemiance od połowy sierpnia 1949 (po rozstaniu z braćmi Dybowskimi Ryszardem i Czesławem, którzy przeżyli "Młota") do 6.04.1951, kiedy wstąpił BEZPOŚREDNIO do bandy "Huzara" (nie przez "Lamparta").
+- 1951-04-06 – 1951-06-12 — członek grupy Parzonki ("Wichura"/"Zygmunt") w ramach bandy "Huzara"
+- 1951-06-12 – 1951-07-20 — krótki, przejściowy okres w grupie Ratyńca Adama ps. "Lampart"
+- 1951-07-20 (od) — z powrotem w grupie Parzonki, do aresztowania
+- 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] — **poprawka**: własne zeznanie (SRC-095, str. 100-101) i trzy inne niezależne źródła wskazują, że to Mościcki "Pantera" zabił Lejzerowicza, nie Radziszewski (Radziszewski w tym czasie czekał z łodzią po drugiej stronie Bugu, nie brał bezpośredniego udziału w zabójstwie)
+- 1951-07-30 — [[Event-1951-002-Zabojstwo-Jasinskiego]] — **własnoręcznie zastrzelił Jasińskiego Franciszka** (dwa strzały w plecy podczas ucieczki ofiary, dobicie strzałem w pierś) — szczegółowy własny opis, SRC-095 str. 93-95
+- 1951-10 (początek) — wg własnego zeznania (SRC-091, SRC-095) osobiście melduje zabójstwo Jasińskiego Kamińskiemu w kol. Pułazi/Puław, gm. Klukowo; awansowany z kaprala na plutonowego
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]]
 - 1953-09-22 — [[Event-1953-004-Wykonanie-wyroku-smierci-Parzonko]] (śmierć)
 
