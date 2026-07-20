@@ -19,7 +19,7 @@ sources:
   - "SRC-077#p32"
   - "SRC-091#p66"
   - "SRC-092#p58"
-  - "SRC-095#p36-37"
+  - "SRC-095#p36-37,89-91"
 certainty: "medium"
 tags:
   - timeline
@@ -69,7 +69,9 @@ Wg SRC-012 nieustalone (nieczytelne w OCR); wg SRC-015 — [[Place-Przybyszyn]],
 
 **Nowa sprzeczność przebiegu (SRC-091, str. 66)**: dosłowny cytat własnego zeznania Radziszewskiego opisuje, że sam dokonał zabójstwa (przeszukał kieszenie ofiary, po czym wrócił do czekającego Parzonki) — bez wzmianki o zacięciu broni czy dobiciu przez Parzonkę, odmiennie od wersji z wyroku Sr.251/53 (SRC-015: Radziszewski strzelał pierwszy, broń się zacięła, Parzonko dobił ofiarę serią z automatu). To samo zeznanie ujawnia nowe szczegóły: zameldowanie Kamińskiemu w kolonii Puław (gm. Klukowo, październik 1951) i awans Radziszewskiego na plutonowego za ten czyn.
 
-**Trzecie źródło potwierdza wersję "Radziszewski sam wykonał" (SRC-095, str. 36-37, własne zeznanie Parzonki, 8.12.1952)**: "Udałem się do wsi z 'Maryuanem' po czym wymienionemu poleciłem dokonać tego morderstwa. 'Maryuan' wszedł do zabudowań Jasińskiego i spotkał go na podwórzu, gdzie go zastrzelił" — Parzonko wydał rozkaz, ale nie wspomina o żadnym udziale własnym w samym strzelaniu ani o zacięciu broni. To zgadza się z wersją SRC-091 (Radziszewski sam, czysto), nie z wersją wyroku SRC-015 (zacięcie + dobicie przez Parzonkę). Mając teraz DWA niezależne zeznania z pierwszej ręki (sprawcy i wykonawcy) zgodne ze sobą, przeciwko JEDNEMU skróconemu opisowi sądowemu, wersja "Radziszewski sam wykonał" wydaje się bardziej wiarygodna — ale formalnie nie rozstrzygnięto (wyrok mógł uwzględniać dodatkowe dowody/zeznania nieznane w tym korpusie).
+**Trzecie źródło potwierdza wersję "Radziszewski sam wykonał" (SRC-095, str. 36-37, własne zeznanie Parzonki, 8.12.1952)**: "Udałem się do wsi z 'Maryuanem' po czym wymienionemu poleciłem dokonać tego morderstwa. 'Maryuan' wszedł do zabudowań Jasińskiego i spotkał go na podwórzu, gdzie go zastrzelił" — Parzonko wydał rozkaz, ale nie wspomina o żadnym udziale własnym w samym strzelaniu ani o zacięciu broni. To zgadza się z wersją SRC-091 (Radziszewski sam, czysto), nie z wersją wyroku SRC-015 (zacięcie + dobicie przez Parzonkę).
+
+**CZWARTE źródło, tym razem WŁASNE ZEZNANIE Radziszewskiego** (SRC-095, str. 89-91, 5.12.1952): "w dniu 30 lipca 1951 roku osobiście zamordowałem jednego człowieka — Jasińskiego Franciszka" — dokładnie opisuje, jak sam zgłosił się na ochotnika do "Huzara" ("oświadczając 'Huzarowi', że sam dokonam likwidacji"), wytypował ofiarę wspólnie z Parzonką, i wyruszył w nocy 29/30.07.1951 od kol. Poniaty. Żadnej wzmianki o zacięciu broni czy udziale Parzonki w samym zabójstwie. Mając teraz TRZY niezależne, pierwszoosobowe/pierwszorzędne zeznania (Radziszewskiego dwukrotnie — SRC-091 i teraz SRC-095, oraz Parzonki — SRC-095) zgodne co do "Radziszewski sam, bez zacięcia broni", przeciwko JEDNEMU skróconemu opisowi sądowemu (SRC-015), wersja "Radziszewski sam wykonał" jest teraz zdecydowanie lepiej udokumentowana. Data **30.07.1951 potwierdzona TRZY razy z pierwszej ręki** (Radziszewski dwukrotnie, zgodnie z SRC-092) — najsilniejszy kandydat na poprawną datę spośród czterech wariantów.
 
 ## Stopień pewności
 

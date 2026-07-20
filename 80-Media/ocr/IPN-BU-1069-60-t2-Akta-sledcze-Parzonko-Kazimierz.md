@@ -84,6 +84,24 @@ Lato 1950, Pietkowo pow. Wysokie-Mazowieckie: napad rabunkowy na leśniczego z "
 
 **Jesień 1950, Piątki-Żebry: zabójstwo sołtysa Koca i żony — Parzonko OSOBIŚCIE zastrzelił Koca** z automatu PPS ("sam zastrzeliłem z automatu 'P.P.S' Koca w pobliżu jego zabudowań"), był obecny przy zamordowaniu żony przez "Pawła" (Kostro, używającego pożyczonej broni Parzonki). [Bezpośrednio potwierdza już ustalone [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]], SRC-015/SRC-091 — teraz z jednoznacznym, własnoręcznym przyznaniem sprawcy.]
 
+## Str. 71-77 — dalszy ciąg zeznania Parzonki: napady, spis inwigilacyjny "Wiewiórki", drobne notatki wydatków
+
+Napad grupy "Lamparta" na spółdzielnię w Sawicach (przełom 1950-51) — dziewczyna pobita przez "Tygrysa" pod zarzutem donosicielstwa. Napad na spółdzielnię w Raczy gm. Łysów (kwiecień, jako dowódca, 1000 zł + tekstylia).
+
+**Istotny nowy szczegół o zabójstwie Burzyńskiego/Lejzerowicza**: Parzonko otrzymał od "Wiewiórki" (banda NSZ-owska "Głuszca"/"Gromca") **spisaną listę 19 osób podejrzanych o współpracę z władzą** — na liście byli Burzyński i Lejzerowicz. Przedstawił listę "Huzarowi", który polecił ich zamordować. Lista przechowywana w bunkrze koło Perlejewa, zlikwidowanym przez wojsko jesienią 1952.
+
+Zeznanie (7.02.1953) o drobnych zapiskach w zeszycie wydatków: wizyta u lekarza w Brańsku (luty 1952, grypa, fałszywe nazwisko na recepcie) oraz zapłacenie 100 zł za mszę za poległych kolegów (październik 1952, wieś Kienie Stare).
+
+## Str. 79-91 — WŁASNE ZEZNANIE KAZIMIERZA RADZISZEWSKIEGO ps. "Marynarz" (od 3.12.1952) — drugie kluczowe pierwszoosobowe źródło
+
+Pełny życiorys: ur. 10.11.1917 Radziszewo-Sieńczuch, rodzice Wiktor (zm. sierpień 1945) i Sabina z d. Radziszewska (zm. listopad 1941). Służba wojskowa w 80 pp w Słonimiu, kampania wrześniowa 1939 (Częstochowa/Modlin), niewola niemiecka, zwolniony 3.10.1939. **Brak przynależności konspiracyjnej w okresie okupacji.** Po wojnie gospodarstwo z siostrą Stanisławą do lipca 1948. Wylicza całe rodzeństwo (6 sióstr, 1 brat) i krewnych w Chicago (ciotka Marianna, wujowie Leonard i Stanisław Radziszewscy).
+
+**Werbunek do bandy "Młota"** (szczegółowa, dokładnie datowana relacja): 5.07.1948 banda "Młota" (15 osób) kwateruje w jego stodole na noc — rozpoznaje dowódcę po sztywnej lewej nodze, powszechnie znanym znaku "Młota". Nie zgłasza tego władzom. 10.07.1948 MO przychodzi go szukać — zaczyna się ukrywać. **25.07.1948**: Otap (z kolonii Czaje-Bagno) odnajduje go w lesie z polecenia "Młota", prowadzi do obozowiska w lesie Pobikrowskim — przyjęty do oddziału, przyjmuje pseudonim **"Marynarz"**.
+
+W bandzie "Młota" do czerwca 1949 (śmierć "Młota", zastrzelony przez pijanego Dybowskiego Czesława ps. "Rejtan" — nowy pseudonim zabójcy). Zastępca "Młota": Oksiuta Józef ps. "Pomidor". Po śmierci "Młota" banda podzieliła się: grupa Olesiuka Józefa ps. "Komar" i grupa Ratyńca Adama ps. "Lampart" (Radziszewski dołączył do tej drugiej, 5 osób) do maja 1951, potem do grupy Parzonki ("Wichura"/"Zygmunt", 4-osobowa, bezpośrednio podległa "Huzarowi") do aresztowania 30.11.1952.
+
+**Własne przyznanie do zabójstw** (5.12.1952): **osobiście zamordował Jasińskiego Franciszka** 30.07.1951 (przygotowania: spotkanie z "Huzarem" ok. 20.07.1951 we wsi Słomia gm. Klukowo, gdzie "Huzar" polecił zlikwidować aktywnego działacza PZPR — Radziszewski sam zgłosił się na ochotnika; wytypowanie ofiary wspólnie z Parzonką; wymarsz w nocy 29.07.1951 od kol. Poniaty). Udział w zabójstwach Burzyńskiego i Lejzerowicza (30.04/1.05.1951). Udział w napadach: Raczyny pow. Siedlce (17.04.1951), spółdzielnia gm. Jabłonna pow. Sokołów-Podlaski (jesień 1950).
+
 ## Uwaga metodologiczna
 
-Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-70 z 244 dostępnych w puli (ok. 60 stron). Reszta (str. 71+ z tej puli, oraz cały pozostały zakres 792-stronicowego tomu poza pulą) wciąż priorytet dalszej transkrypcji.
+Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-91 z 244 dostępnych w puli (ok. 70 stron, w tym własne zeznania DWÓCH kluczowych świadków: Parzonki i Radziszewskiego). Reszta wciąż priorytet dalszej transkrypcji.

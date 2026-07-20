@@ -38,6 +38,7 @@ key_sources:
   - "SRC-088"
   - "SRC-091"
   - "SRC-092"
+  - "SRC-095"
 certainty: "high"
 tags:
   - type/person
@@ -66,10 +67,18 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 - Współoskarżony: [[Person-Parzonko-Kazimierz-Zygmunt]]
 - Współoskarżony: [[Person-Kaminski-Kazimierz-Huzar]]
 
+## Własny życiorys (SRC-095, zeznanie z 3.12.1952)
+
+Rodzice: Wiktor Radziszewski (zm. sierpień 1945) i Sabina z d. Radziszewska (zm. listopad 1941), gospodarstwo 8 ha w Radziszewie-Sieńczuchu. Sześć sióstr (Stanisława, Józefa, Wiktoria, Antonina, Marianna, Helena) i jeden brat (Stanisław); krewni w Chicago (ciotka Marianna, wujowie Leonard i Stanisław). Służba wojskowa: 80 pp w Słonimiu k. Baranowicz, kampania wrześniowa 1939 (Częstochowa, Modlin), niewola niemiecka, zwolniony 3.10.1939. **Brak przynależności do organizacji konspiracyjnej w okresie okupacji** (własne słowa) — po wojnie prowadził gospodarstwo z siostrą Stanisławą do lipca 1948.
+
 ## Chronologia życia
 
+- 1948-07-05 — banda "Młota" (15 osób) kwateruje jedną noc w jego stodole w Radziszewie-Sieńczuchu; rozpoznaje dowódcę po charakterystycznej sztywnej lewej nodze, nie zgłasza tego władzom (SRC-095)
+- 1948-07-10 — MO przychodzi go szukać, zaczyna się ukrywać (SRC-095)
+- 1948-07-25 — Otap (Czaje-Bagno) odnajduje go w lesie, prowadzi do obozu "Młota" w lesie Pobikrowskim; wstępuje do bandy, przyjmuje pseudonim "Marynarz" (SRC-095)
 - 1949-05-02 — otrzymuje stopień kaprala od Władysława Łukasiuka ps. "Młot" (SRC-091) — potwierdza, że wciąż był w bandzie "Młota" niecałe dwa miesiące przed jego śmiercią (27.06.1949)
-- 1949-06 (po śmierci "Młota") – 1951 (wiosna) — wg zeznania Parzonki (SRC-095) ukrywał się sam, bez kontaktu z żadną bandą, po czym przyłączył się do "Huzara"
+- 1949-06 — "Młot" zastrzelony przez pijanego podwładnego Dybowskiego Czesława ps. "Rejtan" (SRC-095, nowy pseudonim zabójcy); banda dzieli się, Radziszewski dołącza do grupy Ratyńca Adama ps. "Lampart" (5 osób)
+- 1949-06 – 1951-05 — po śmierci "Młota" przyłączył się do grupy Ratyńca Adama ps. "Lampart" (5 osób) — **poprawka**: wcześniejsza notatka (za zeznaniem Parzonki, z drugiej ręki) błędnie sugerowała samodzielne ukrywanie się w tym okresie; własne zeznanie Radziszewskiego (SRC-095, str. 87) to prostuje — od maja 1951 przeszedł do grupy Parzonki ("Wichura"/"Zygmunt")
 - 1951-04-30 — [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] (osobiście zabił Lejzerowicza)
 - 1951-07 (data niepewna: 20 lub 30 lipca) — [[Event-1951-002-Zabojstwo-Jasinskiego]] (strzelał do ofiary, pistolet się zaciął)
 - 1951-10 (początek) — wg własnego zeznania (SRC-091) osobiście melduje zabójstwo Jasińskiego Kamińskiemu w kolonii Puław, gm. Klukowo; awansowany do stopnia plutonowego — patrz niepewności co do przebiegu samego zabójstwa
@@ -82,13 +91,14 @@ Wg wyroku, osobiście zabił Michała Lejzerowicza podczas napadu na działaczy 
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 142, 145-146 (pełny wyrok, dane osobowe, udział w zabójstwach)
 - [[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]] — str. 14 (**ROZSTRZYGNIĘTA data wykonania wyroku: 22.09.1953**)
 - [[IPN-BU-0203-2140-t4-Rozpracowanie-grupy-Lampart]] — str. 60-61 (marzec 1952, kontakt operacyjny z bandą "Lamparta" jako członek patrolu "Zygmunta" — potwierdza tożsamość tego patrolu z grupą Parzonki)
-- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 58-59 (zeznanie Parzonki: przynależność do bandy "Młota", ukrywanie się samodzielne 1949-1951)
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 58-59 (zeznanie Parzonki: przynależność do bandy "Młota", ukrywanie się samodzielne 1949-1951); str. 79-91 (**własne, obszerne zeznanie — pełny życiorys, dokładna historia werbunku do "Młota", przyznanie do zabójstwa Jasińskiego**)
 - [[IPN-Kartoteka-pomocnicza-MSW]] — str. 2 (imię ojca "Wiktor" — zgodne)
 - [[IPN-Inwentarz-KSL-WUBP-Bialystok]] — str. 1, poz. 12886 (wspólna sygnatura III-1151)
 
 ## Niepewności i sprzeczności
 
 - **Certainty podniesiona do `high`** — pełne dane osobowe (data i miejsce urodzenia, imiona rodziców) potwierdzone niezależnie w wyroku sądowym SRC-015, rozwiewając wcześniejszą niepewność opartą wyłącznie na słabej jakości OCR pojedynczego dokumentu (gdzie nazwisko pojawiało się zniekształcone jako "dądziszewski").
+- **Drobna rozbieżność dnia urodzenia**: własne zeznanie (SRC-095, str. 79-80) podaje "10 listopada 1917" (powtórzone dwukrotnie w tym samym zeznaniu), podczas gdy ustalona data w tej notatce to 19.11.1917 (z wyroku SRC-015). Nie zmieniono ustalonej daty na podstawie jednego rozbieżnego źródła, ale odnotowane jako nierozstrzygnięte.
 - **Możliwa kolizja nazwiska**: w korpusie źródłowym istnieje inny dokument (`Bi 011_25 tom 1 zeznania Radziszewski Mieczysław do sprawy ps. Jaskółka.pdf`, jeszcze nieprzetworzony w pełni) dotyczący osoby o nazwisku Radziszewski, ale **innym imieniu (Mieczysław)** i **innej sprawie** (oddział AK-WiN pod dowództwem "Jaskółki", nie "Zygmunta"/"Huzara"). Zgodnie z zasadą "nie scalaj osób tylko dlatego, że mają podobne nazwisko" — **to jest traktowane jako odrębna osoba**, nie ten sam Radziszewski. Podobnie, dokument fotograficzny [[IPN-BU-024-95-Zdjecie-Miodusy-Radziszewski-Olszewski]] wzmiankuje "Radziszewskiego" bez pewnego imienia — może to być ta sama osoba (Kazimierz, "Marynarz") lub inny członek rodziny; oznaczone jako niepewne w tamtej notatce źródłowej, nie założono automatycznego połączenia.
 - Przynależność do konkretnej grupy ("Zygmunta" czy "Huzara") nie jest jednoznacznie podana w źródle — oskarżeni sądzeni byli łącznie w ramach jednego procesu obejmującego obie powiązane grupy.
 - **Nowa sprzeczność ws. przebiegu zabójstwa Jasińskiego**: [[IPN-BU-0189-38-t3-Opracowanie-Huzar-1954-1990]] (SRC-091, str. 66) cytuje własne zeznanie Radziszewskiego, w którym opisuje, że SAM dokonał zabójstwa (bez wzmianki o zacięciu broni czy dobiciu przez Parzonkę) i osobiście zameldował o tym Kamińskiemu w październiku 1951, otrzymując awans na plutonowego. To odmienne od wersji z wyroku Sr.251/53 (SRC-015), gdzie Radziszewski strzelał pierwszy, ale broń mu się zacięła, a Parzonko dobił ofiarę. Możliwe, że zeznanie śledcze (bardziej szczegółowe, złożone bezpośrednio po ujęciu) jest dokładniejsze niż skrócony opis w wyroku sądowym — ale nie rozstrzygnięto ostatecznie, patrz też [[Event-1951-002-Zabojstwo-Jasinskiego]].
