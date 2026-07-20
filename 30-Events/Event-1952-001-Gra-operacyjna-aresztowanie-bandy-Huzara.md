@@ -44,6 +44,7 @@ Wg dokładnej listy aresztowań: Kamiński Kazimierz ps. "Huzar" ujęty 29.11.19
 ## Osoby
 
 - [[Person-Parzonko-Kazimierz-Zygmunt]] — nieświadomy/świadomy pomost do infiltracji, sam również aresztowany 30.11.1952
+- [[Person-Dobrzyniecka-Eugenia-Maria]] — łączniczka operacji; jej własnoręczny list z grudnia 1952 r. ([[IPN-BU-0330-189-t26-Przygotowanie-wyjazdu-Zygmunt-Maria-Emil-MBP]]) dostarcza nowej poszlaki do pytania o świadomy/nieświadomy udział Parzonki — zob. tamta notatka źródłowa
 - [[Person-Kaminski-Kazimierz-Huzar]] — główny cel operacji, aresztowany 29.11.1952
 - [[Person-Terlikowski-Janusz-Rytel]] — agent prowadzący operację
 - [[Person-Bialowas-Witold-Litwin]] — dowódca odrębnego oddziału, równoległy cel tej samej operacji
@@ -55,6 +56,7 @@ Warszawa (miejsce dokładne nieustalone — "meliny" przygotowane przez MBP).
 ## Źródła
 
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48, 53-54
+- [[IPN-BU-0330-189-t26-Przygotowanie-wyjazdu-Zygmunt-Maria-Emil-MBP]] — str. 50-53 (pierwszoosobowy list agentki "Marii", grudzień 1952)
 
 **Nowe szczegóły (SRC-091)**: dokument ten nazywa agenta "Rygiel" (wariant zapisu "Rytla"), podaje precyzyjne daty kolejnych spotkań przygotowawczych z Krasowskim "Głuszczem" (6-7.09, 13.09, 28.09, 1.10.1951) oraz pierwszego spotkania z Kamińskim (12.10.1951, wieś Niemyje Nowe, u meliniarza Puchalskiego, z dialogiem o orientacji politycznej rzekomej organizacji — "obóz USA i Anglii" nawiązujący do gen. Andersa). **Kluczowe: potwierdza, że to Parzonko potajemnie, przed samym Krasowskim, umówił to spotkanie** — bezpośrednia, aktywna rola w inicjacji operacji, nie tylko bierny "pomost". Opisuje też zatrzymanie Zalewskiego "Zbyszek" w zasadzce kolejowej (funkcjonariusze przebrani za "kolejarzy"), oraz plan likwidacji reszty patrolu "Zygmunta" przekazany przez Kryńskiego "Rokitę" jako zastępcę. Statystyki końcowe: 425 osób zatrzymanych/aresztowanych na terenie woj. białostockiego (3.10.1951-7.10.1952); Kamiński i Zalewski przyznali się do 40 napadów z 53 ofiarami śmiertelnymi.
 
