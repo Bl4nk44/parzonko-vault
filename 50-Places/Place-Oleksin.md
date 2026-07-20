@@ -7,7 +7,6 @@ alternative_names: []
 place_type: "wieś"
 coordinates: [52.69713, 22.89758]
 administrative_region: "pow. Bielsk Podlaski, woj. białostockie"
-coordinates: null
 key_sources:
   - "SRC-043"
 certainty: "high"

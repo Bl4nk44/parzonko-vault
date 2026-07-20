@@ -8,6 +8,7 @@ region: "między wsiami Kisielew, Ruskow, Mężenin, gm. Sarnaki/Łysów, pow. S
 key_sources:
   - "SRC-063"
   - "SRC-065"
+coordinates: [52.3339753, 22.7757389]
 certainty: "high"
 tags:
   - type/place

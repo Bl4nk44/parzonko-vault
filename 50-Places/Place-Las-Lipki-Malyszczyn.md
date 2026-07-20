@@ -7,6 +7,7 @@ place_type: "las"
 administrative_unit: "gm. Pobikry, pow. Siemiatycze"
 key_sources:
   - "SRC-108"
+coordinates: [52.6641734, 22.7229202]
 certainty: "high"
 tags:
   - type/place

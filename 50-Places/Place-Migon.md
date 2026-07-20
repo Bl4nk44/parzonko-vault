@@ -7,6 +7,7 @@ place_type: "wieś"
 region: "pow. Lidzbark Warmiński lub Braniewo, woj. olsztyńskie"
 key_sources:
   - "SRC-074"
+coordinates: null
 certainty: "medium"
 tags:
   - type/place

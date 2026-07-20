@@ -5,9 +5,8 @@ place_id: "PLACE-017"
 name: "Skórzec"
 alternative_names: []
 place_type: "wieś"
-coordinates: [52.10696, 22.12999]
+coordinates: [52.6118, 22.5837]
 administrative_region: "gm. Ciechanowiec, pow. Bielsk Podlaski"
-coordinates: null
 key_sources:
   - "SRC-032"
 certainty: "high"

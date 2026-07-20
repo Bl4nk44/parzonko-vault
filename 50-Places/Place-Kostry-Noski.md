@@ -7,7 +7,6 @@ alternative_names: []
 place_type: "wieś"
 coordinates: [52.83562, 22.64671]
 administrative_region: "gm. Piekuty, pow. Wysokie Mazowieckie, woj. białostockie"
-coordinates: null
 key_sources:
   - "SRC-030"
   - "SRC-040"

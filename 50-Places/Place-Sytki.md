@@ -6,7 +6,7 @@ name: "Sytki"
 alternative_names: []
 place_type: "wieś"
 administrative_region: "gm. Drohiczyn, pow. Siemiatycze, woj. białostockie"
-coordinates: null
+coordinates: [52.4356712, 22.7212417]
 key_sources:
   - "SRC-056"
 certainty: "high"

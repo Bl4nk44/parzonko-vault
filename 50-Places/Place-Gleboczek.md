@@ -7,7 +7,6 @@ alternative_names: []
 place_type: "wieś"
 coordinates: [52.56504, 22.48627]
 administrative_region: "gm. Perlejewo, pow. Siemiatycze, woj. białostockie"
-coordinates: null
 key_sources:
   - "SRC-031"
 certainty: "high"
