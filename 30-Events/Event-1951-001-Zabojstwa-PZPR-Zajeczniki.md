@@ -24,6 +24,7 @@ sources:
   - "SRC-046#p23-24"
   - "SRC-047#p27"
   - "SRC-077#p36"
+  - "SRC-095#p33-35"
 certainty: "high"
 tags:
   - timeline
@@ -70,6 +71,7 @@ Sprawozdanie Sekcji III PUBP (tabela "Bliższe dane odnośnie napadu") podaje te
 ## Źródła
 
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 13
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 33-35 (**własne, bardzo szczegółowe zeznanie sprawcy** — budowa bunkrów, przebieg obu zabójstw, Parzonko osobiście zastrzelił Burzyńskiego)
 
 ## Sprzeczne relacje
 

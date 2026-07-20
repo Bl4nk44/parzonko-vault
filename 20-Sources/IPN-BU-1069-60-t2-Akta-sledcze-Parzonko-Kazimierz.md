@@ -2,12 +2,12 @@
 type: source
 uid: "SRC-095"
 source_id: "IPN BU 1069/60 t.II"
-title: "Akta w sprawie Kazimierza Parzonko, tom II (52-53)"
+title: "Akta w sprawie Kazimierza Parzonko, tom II — własne zeznania (kluczowe źródło biograficzne)"
 source_type: "akta śledcze"
 archive: "IPN"
 call_number: "BU 1069/60 t.II (stara sygn. SR-251/53-T-II)"
-date_document: "1952-1953"
-date_accuracy: "range"
+date_document: "1952-12-02"
+date_accuracy: "day"
 place_document: "Warszawa"
 language:
   - pl
@@ -15,47 +15,72 @@ pages: 792
 original_filename: "BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]"
-reliability: "unusable"
-ocr_quality: "formularze druk. czytelne, treść odręczna niemal całkowicie nieczytelna dla tesseract"
+reliability: "primary"
+ocr_quality: "dobra dla 20 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20, W TOKU); reszta niedoczytana"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
+  - "PERSON-002"
+  - "PERSON-003"
+  - "PERSON-011"
+  - "PERSON-019"
+  - "PERSON-042"
 places_mentioned: []
 organizations_mentioned: []
-related_events: []
+related_events:
+  - "EVENT-1946-002"
+  - "EVENT-1951-001"
+  - "EVENT-1951-002"
 tags:
   - type/source
   - source/ipn
-  - status/requires-review
+  - status/unreviewed
 ---
 
-# Akta w sprawie Kazimierza Parzonko, tom II (SRC-095)
+# Akta w sprawie Kazimierza Parzonko, tom II — własne zeznania (SRC-095)
 
 ## Opis dokumentu
 
-792-stronicowy tom śledczy (sygn. SR-251/53-T-II), zawierający protokoły
-przesłuchań głównego bohatera i świadków (m.in. Radziszewskiego Kazimierza),
-wniosek o areszt, postanowienie o tymczasowym aresztowaniu, protokoły rewizji
-i kwity depozytowe — grudzień 1952 r. Całość to formularze urzędowe z odręcznym
-wypełnieniem, nieczytelne dla OCR tesseract.
+792-stronicowy tom śledczy (sygn. SR-251/53-T-II). **PRZEŁOM 2026-07-20**: 20 z 244 stron dostępnych w puli rękopisów odczytane przez API handwritingocr.com — **własne zeznania Kazimierza Parzonki z grudnia 1952 r., najważniejsze pierwszoosobowe źródło biograficzne w całym korpusie**. Praca w toku — 224 strony z tej puli i reszta z 792-stronicowego tomu wciąż priorytet dalszej transkrypcji.
 
 ## Najważniejsze ustalenia
 
-Jedyna czytelna treść to spis akt (str. 4-5) potwierdzający chronologię: własne
-przesłuchania Parzonki 2-8.XII.1952, przesłuchanie Radziszewskiego 13.XII.1952,
-kolejne przesłuchania 15/19/25.XII.1952. Zgodne z już ustaloną chronologią
-aresztowania (29.10.1952, SRC-069) i śledztwa. Formularz aresztowy (str.29)
-potwierdza dane osobowe, ale odczyt daty/miejsca urodzenia zbyt niepewny by
-korygować ustaloną datę 28.02.1922.
+- **Pełny własny życiorys** (str. 16-19): "Miecz i Pług"/AK Sokołów Podlaski (1942-43, dowódca Oleksiak Henryk ps. "Poraj"-**"Wichura"** — możliwe źródło własnego pseudonimu Parzonki!), wywózka do Prus Wschodnich, powrót maj 1945, AK Bielsk-Podlaski od lata 1945, listopad 1946 przydzielony do Brygady Wileńskiej "Łupaszki", amnestia wiosna 1947.
+- **Nowa, istotna sprzeczność daty**: zabójstwo żołnierza WP podczas ucieczki z konwoju datuje na **"lato 1946"** (str. 20) — sprzeczne z dwiema administracyjnymi kartami MSW podającymi 17-19.10.1946. Cofnięto wcześniejsze oznaczenie "rozstrzygnięte" w [[Event-1946-002-Zabojstwo-zolnierza-konwojujacego-wiezniow]] — patrz tamta notatka.
+- **Nowy szczegół**: fałszywa tożsamość "Wojtkowski Henryk" przyjęta w Gdańsku jesienią 1948 r. (nie 1947, jak wcześniej sądzono) — z Gontarczukiem Stanisławem, potem okolice Lidzbarka/Dobrego Miasta.
+- **Precyzyjna data i sposób wstąpienia do bandy "Huzara"**: koniec lipca 1949, jako "stójka" pod pseudonimem "Wichura" — który, wg własnych słów, "posługiwałem się organizacyjnie w okresie od 1945 r. do chwili obecnej". W bandzie Huzara nazywano go niezależnie "Zygmunt".
+- **Bezpośrednie, szczegółowe zeznanie o dwóch zabójstwach** (Burzyński/Lejzerowicz kwiecień 1951, Jasiński lipiec/sierpień 1951) — z pierwszej ręki sprawcy, uzupełnia [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] i [[Event-1951-002-Zabojstwo-Jasinskiego]]. W sprawie Jasińskiego **potwierdza wersję SRC-091** (Radziszewski sam wykonał, bez zacięcia broni/dobicia) przeciw wersji z wyroku SRC-015.
+- **Siódmy wariant daty urodzenia w korpusie**: nakaz przyjęcia do więzienia (str. 29) podaje "11.01.1922" — dzień/miesiąc inny niż ustalone 28.02, rok zgodny. Nie zmienia ustalonej daty.
+- Szczegółowe lokalizacje skrytek broni (Niemiry-Nowe, Niemiry-Stare, Radziszewo-Sieńczuch, las Rudzki) — wartość operacyjno-historyczna, nie biograficzna.
+
+## Osoby
+
+- [[Person-Parzonko-Kazimierz-Zygmunt]]
+- [[Person-Kaminski-Kazimierz-Huzar]]
+- [[Person-Radziszewski-Kazimierz-Marynarz]]
+- [[Person-Kostro-Jozef-Kropki]]
+- [[Person-Moscicki-Jozef-Pantera]]
+- [[Person-Krynski-Tadeusz-Rokita]]
+
+## Powiązane wydarzenia
+
+- [[Event-1946-002-Zabojstwo-zolnierza-konwojujacego-wiezniow]] — nowa sprzeczność daty
+- [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] — szczegółowe własne zeznanie
+- [[Event-1951-002-Zabojstwo-Jasinskiego]] — potwierdza wersję SRC-091
 
 ## Tekst źródłowy
 
 [[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]
 
+## Cytaty istotne
+
+> "Podczas konwojowania mnie do Bielska - Podlaskiego udało się zbiec w ten sposób, że korzystając z nieuwagi jednego z konwojentów - kaprala, zabrałem mu automat i zastrzeliłem go."
+Źródło: str. 20 dok.
+
+> "W końcu lipca 1949 r. nawiązałem kontakt z Kazimierukiem Kazimierzem 'Huzar' [...] pozostawałem w jego bandzie jako stójka [...] występując pod pseudonimem 'Wichura'. Nadmieniam, że pseudonimem 'Wichura' posługiwałem się organizacyjnie w okresie od 1945 r. do chwili obecnej. W bandzie 'Huzara' niezależnie od tego nazywano mnie 'Zygmunt'."
+Źródło: str. 21 dok.
+
 ## Uwagi o jakości i niepewności
 
-Dokument w praktyce nieczytelny (formularze z odręcznym wypełnieniem, tesseract
-nie radzi sobie z pismem odręcznym). Kopia PDF przekazana do
-`DO_TLUMACZENIA_nieczytelne/` — jeśli użytkownik odczyta treść własnym
-narzędziem, protokoły przesłuchań podejrzanego i Radziszewskiego z grudnia 1952
-mogą dostarczyć istotnych nowych szczegółów (dopisać do tej notatki po weryfikacji).
+- **Praca w toku**: 224 z 244 stron dostępnych w puli rękopisów jeszcze nieodczytane, plus reszta z 792-stronicowego tomu poza tą pulą. Najwyższy priorytet dla kontynuacji.
+- Nazwisko przesłuchiwanego zapisywane w API w licznych zniekształconych wariantach (Pomouko, Parocha, Poruczko, Paronko, Panowko, Piorunko, Pawronko, Pomianko, Pomocko, Parosiko) — jednoznacznie ta sama osoba (Kazimierz Parzonko) dzięki spójnym danym osobowym i treści zeznania.
