@@ -16,7 +16,7 @@ original_filename: "BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.p
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]"
 reliability: "primary"
-ocr_quality: "dobra dla ~50 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20, W TOKU); reszta niedoczytana"
+ocr_quality: "dobra dla ~60 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20, W TOKU); reszta niedoczytana"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -31,6 +31,7 @@ related_events:
   - "EVENT-1946-002"
   - "EVENT-1951-001"
   - "EVENT-1951-002"
+  - "EVENT-1950-001"
 tags:
   - type/source
   - source/ipn
@@ -54,6 +55,9 @@ tags:
 - Szczegółowe lokalizacje skrytek broni (Niemiry-Nowe, Niemiry-Stare, Radziszewo-Sieńczuch, las Rudzki) — wartość operacyjno-historyczna, nie biograficzna.
 - **Cztery różne wersje zabójstwa żołnierza WP w obrębie własnych zeznań** (str. 20, 53-54, 57) — Parzonko sam podaje różną porę roku (lato/jesień) i różną broń (automat/pistolet) w trzech różnych przesłuchaniach tego samego śledztwa. Patrz zaktualizowana, poszerzona dyskusja w [[Event-1946-002-Zabojstwo-zolnierza-konwojujacego-wiezniow]].
 - **Historia bandy "Młota"** (str. 56-60): str. 58 podaje "Młot nazwisko Łukasik" — zgodne (wariant zapisu) z już ustalonym w korpusie "Władysław Łukasiuk ps. Młot" (SRC-091, zginął 27.06.1949). Str. 56 podaje osobno "Gorzkowski Piotr ps. 'Młot'" jako dowódcę Parzonki we WCZEŚNIEJSZEJ fazie (siatka cywilna AK, do XI.1946) — możliwe, że to inny, lokalny dowódca noszący ten sam pseudonim przed Łukasiukiem, albo pomyłka odczytu API; nie zmienia ustalonej tożsamości Łukasiuka jako "Młota" z okresu 1947-49. Radziszewski Kazimierz ps. "Marynarz" był członkiem bandy "Młota", ukrywał się sam po jego śmierci (czerwiec 1949, zgodne z SRC-091) do wiosny 1951, potem przyłączył się do "Huzara" — nowy, precyzyjniejszy szczegół dla [[Person-Radziszewski-Kazimierz-Marynarz]].
+- **Osobiste przyznanie do zabójstwa sołtysa Koca** (str. 70): "sam zastrzeliłem z automatu 'P.P.S' Koca w pobliżu jego zabudowań" — bezpośrednie, własnoręczne potwierdzenie już ustalonego [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (dotąd oparte na wyroku i zeznaniu Radziszewskiego).
+- **Struktura terytorialna bandy "Huzara"** (str. 65-69): podział na grupy terytorialne od 1950 r., stały przydział członków dopiero wiosną 1951. Nowy fakt: "Sokół" z grupy "Lamparta" dołączył na tydzień do grupy Parzonki, ale został zastrzelony przez Radziszewskiego "Marynarza" w sierpniu 1952 pod podejrzeniem zdrady.
+- Obecność (bez osobistego wykonania) przy morderstwach braci Wymyńskich, Kozłowskiego i Piniatowskiego (jesień 1949, Patasze/Dąbrówka-Kościelna) — nowe wydarzenia, nie utworzono jeszcze osobnych notatek Event ze względu na czas.
 
 ## Osoby
 

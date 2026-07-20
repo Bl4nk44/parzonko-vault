@@ -18,6 +18,7 @@ sources:
   - "SRC-015#p143"
   - "SRC-015#p148"
   - "SRC-091#p59"
+  - "SRC-095#p70"
 certainty: "high"
 tags:
   - timeline
@@ -54,6 +55,7 @@ Wg wyroku WSR Warszawa (sprawa Sr.251/53): "Huzar" wydał rozkaz oskarżonym Par
 ## Źródła
 
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 143-144, 148-149
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 70 (własne zeznanie: "sam zastrzeliłem z automatu 'P.P.S' Koca" — bezpośrednie potwierdzenie z pierwszej ręki)
 
 ## Sprzeczne relacje
 

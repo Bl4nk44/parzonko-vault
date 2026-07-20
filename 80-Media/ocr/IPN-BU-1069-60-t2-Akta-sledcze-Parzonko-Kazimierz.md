@@ -68,6 +68,22 @@ Lato 1945: AK gm. Ciechanowiec, siatka cywilna, dowódca **Gorzkowski Piotr ps. 
 
 Okres 1947-1949: po ujawnieniu się (kwiecień 1947) i kilku miesiącach, ukrywanie się od końca 1947 do sierpnia 1949 — bez kontaktu z bandą "Młota" w tym czasie. Sierpień 1949: wstąpienie do "Huzara". **Śmierć "Młota" (czerwiec 1949)**: zabity przez podwładnego Dybowskiego Czesława po awanturze, w której "Młot" śmiertelnie zranił Dybowskiego Leopolda (trzeci brat: Dybowski Ryszard). Po tym zdarzeniu część ludzi "Młota" (Rakowiec/Ratyniec ps. "Lampart", Buczak ps. "Grom") przyłączyła się do "Huzara"; bracia Dybowscy zbiegli i ukrywali się. **Radziszewski Kazimierz ps. "Marynarz" był też w bandzie "Młota"** — po jego śmierci ukrywał się sam do wiosny 1951, potem przyłączył się do "Huzara" (nowy, dokładniejszy szczegół dla [[Person-Radziszewski-Kazimierz-Marynarz]]).
 
+## Str. 61-69 — protokół 21.01.1953: struktura bandy "Huzara" w grupy, historia "Młota" c.d.
+
+Radziszewski "Marynarz" opowiadał Parzonce o dawnej bandzie "Młota" (1947-49): mała, kilkuosobowa, melinowała się w bunkrach w lesie rudzkim (rejon Pobitrowa gm. Pobikry). Śmierć "Młota" czerwiec 1949 — ksiądz z Pobikrów przyniesiony do rannego Dybowskiego Leopolda. Godlewski Bronisław (Czaje-wieś gm. Pobikry) — dawny kontakt AK, dawca automatu PPS.
+
+**Powtórzone/rozszerzone zeznanie własnej historii** (str. 63-65): po amnestii 1947 ukrywał się z Radziszewskim Mieczysławem i Gontarczukiem Stanisławem "Rekin" (uzbrojenie: Parzonko — parabellum + PPS od Godlewskiego; Radziszewski M. — TT + PPS; Gontarczuk — pistolet belgijski 9mm + PPS). 1948: aresztowany Radziszewski Mieczysław. Z Gontarczukiem: Gdańsk, potem olsztyńskie, powrót do Ciechanowca, ukrywanie się u rodziny Gontarczuka w Bujence. Druga połowa 1949: kontakt przez "Ponurego" i "Krakusa" z "Huzarem", przyjęcie do bandy. **Złożył "Huzarowi" pisemny życiorys — celowo pominął przynależność do "Miecza i Pługa".**
+
+**Struktura bandy "Huzara" wg podziału na grupy** (str. 65-69): od 1950 r. podział terytorialny — grupa "Ponurego" (północne Wysokie-Mazowieckie, ~4 ludzi), grupa "Lamparta" (Bielsk-Podlaski/Sokołów-Podlaski/Biała-Podlaska/Siedlce), grupa "Rysia"/"Krakusa" na zmianę (południowe Wysokie-Mazowieckie). Stały przydział członków dopiero wiosną 1951 — wtedy Parzonko dowódcą czwartej grupy (teren Bielsk-Podlaski). "Lampart" zginął maj 1952 w potyczce z wojskiem (aresztowani: Białowąs, "Krakowiak", Panek); grupa "Rysia" zginęła maj 1951 w Łochach; "Ponury" zginął wiosną 1952 (następca Zalewski "Zbyszek", grupa potem rozwiązana). "Krakus" zabity sierpień 1952 w Łapach. **Ostatni skład grupy Parzonki**: Kostro "Paweł", Mościcki "Pantera", Radziszewski "Marynarz", oraz przez tydzień "Sokół" z grupy "Lamparta" — **zastrzelony przez Radziszewskiego "Marynarza" w sierpniu 1952 pod podejrzeniem zdrady** (nowy fakt).
+
+## Str. 69-70 — protokół, dalsze własne przyznania do morderstw (1949-1950)
+
+Jesień 1949, Patasze pow. Wysokie-Mazowieckie: obecny (nie wykonawca) przy morderstwie braci Wymyńskich (dokonał "Ponury") i Kozłowskiego (dokonał "Ryś"), z "Huzarem" dowodzącym akcją. Tegoż wieczoru, Dąbrówka-Kościelna: morderstwo Piniatowskiego — Parzonko pilnował w kuchni, "Ponury" zamordował w sypialni.
+
+Lato 1950, Pietkowo pow. Wysokie-Mazowieckie: napad rabunkowy na leśniczego z "Krakusem".
+
+**Jesień 1950, Piątki-Żebry: zabójstwo sołtysa Koca i żony — Parzonko OSOBIŚCIE zastrzelił Koca** z automatu PPS ("sam zastrzeliłem z automatu 'P.P.S' Koca w pobliżu jego zabudowań"), był obecny przy zamordowaniu żony przez "Pawła" (Kostro, używającego pożyczonej broni Parzonki). [Bezpośrednio potwierdza już ustalone [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]], SRC-015/SRC-091 — teraz z jednoznacznym, własnoręcznym przyznaniem sprawcy.]
+
 ## Uwaga metodologiczna
 
-Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-60 z 244 dostępnych w puli. Reszta (str. 61+ z tej puli, oraz cały pozostały zakres 792-stronicowego tomu poza pulą) wciąż priorytet dalszej transkrypcji.
+Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-70 z 244 dostępnych w puli (ok. 60 stron). Reszta (str. 71+ z tej puli, oraz cały pozostały zakres 792-stronicowego tomu poza pulą) wciąż priorytet dalszej transkrypcji.
