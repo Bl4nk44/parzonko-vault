@@ -19,7 +19,7 @@ sources:
   - "SRC-077#p32"
   - "SRC-091#p66"
   - "SRC-092#p58"
-  - "SRC-095#p36-37,89-91,93-95,160,166"
+  - "SRC-095#p36-37,89-91,93-95,160,166,210"
 certainty: "medium"
 tags:
   - timeline
@@ -76,6 +76,8 @@ Wg SRC-012 nieustalone (nieczytelne w OCR); wg SRC-015 — [[Place-Przybyszyn]],
 **Pełny, brutalny przebieg zabójstwa** (SRC-095, str. 93-95): meliniarz Adam Sękala wskazał dom ofiary. Radziszewski podszedł sam do Jasińskiego (Parzonko na obstawie), zapytał o nazwisko, po potwierdzeniu tożsamości Jasiński rzucił się do ucieczki w stronę stodoły — Radziszewski strzelił mu w plecy dwukrotnie, dobiegł do rannego, leżącego i wzywającego pomocy ("ludzie ratujcie"), i dobił go strzałem w pierś. Zrewidował kieszenie ofiary (puste). Zameldował Parzonce, po czym oddział przeprawił się za Bug na teren pow. Sokołów-Podlaski.
 
 **Poprawka broni i nowy szczegół — CZĘŚCIOWY powrót elementu "dobicia przez Parzonkę"** (SRC-095, str. 160, 166): Radziszewski w kolejnym przesłuchaniu sprostował, że strzelał nie z pistoletu TT (jak podał 5.12.1952), lecz z **pistoletu "Nagan"** — TT wszedł w jego posiadanie dopiero 22.08.1952, po zabójstwie Olemiuka ([[Event-1952-004-Zabojstwo-Olemiuka-Sokol]]). Dodatkowo uzupełnił: **gdy Jasiński już leżał martwy na ziemi, podbiegł Parzonko (dotąd na obstawie) i wystrzelił kilka serii z automatu PPS w already-martwe ciało**. To częściowo zbiega się z wersją wyroku sądowego (SRC-015: udział Parzonki w "dobiciu"), choć w innej kolejności przyczynowej — tu ofiara była już martwa od strzału Radziszewskiego, a seria Parzonki była dodatkowym, "kontrolnym" ostrzałem zwłok, nie ratunkowym dobiciem po zacięciu broni.
+
+**PIĄTE źródło, Mościcki Józef we własnym zeznaniu (SRC-095, str. 210)**: "'Marynarz' udał się do Jasińskiego, którego zastał bez broni [...] Jasiński zaczął uciekać. W trakcie ucieczki 'Marynarz' wyjął 'nagan' i zaczął do niego strzelać trafiając go w plecy. Po zabójstwie [...] podszedł 'Zygmunt' do 'Marynarza'" — niezależnie potwierdza broń "Nagan" (zgodnie z korektą Radziszewskiego) oraz kolejność zdarzeń (Parzonko podszedł dopiero PO zabójstwie, nie brał udziału w samym strzelaniu) — spójne z już przeważającą wersją str. 160/166.
 
 ## Stopień pewności
 

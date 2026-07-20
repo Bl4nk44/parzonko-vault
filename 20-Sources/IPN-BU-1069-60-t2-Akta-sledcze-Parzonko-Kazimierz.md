@@ -16,7 +16,7 @@ original_filename: "BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.p
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]"
 reliability: "primary"
-ocr_quality: "dobra dla ~195 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20/21, W TOKU); reszta niedoczytana"
+ocr_quality: "dobra dla 244 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20/21, ZAKOŃCZONY); reszta 792-stronicowego tomu poza tą pulą nieodczytana"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -25,6 +25,8 @@ people_mentioned:
   - "PERSON-011"
   - "PERSON-019"
   - "PERSON-042"
+  - "PERSON-058"
+  - "PERSON-086"
 places_mentioned: []
 organizations_mentioned: []
 related_events:
@@ -33,6 +35,7 @@ related_events:
   - "EVENT-1951-002"
   - "EVENT-1950-001"
   - "EVENT-1952-004"
+  - "EVENT-1951-006"
 tags:
   - type/source
   - source/ipn
@@ -68,6 +71,10 @@ tags:
 - **Korekta broni w zabójstwie Jasińskiego**: Radziszewski strzelał z pistoletu "Nagan", nie TT; Parzonko dodatkowo ostrzelał już martwe ciało seriami z PPS — zaktualizowano [[Event-1951-002-Zabojstwo-Jasinskiego]].
 - **Trzecie kluczowe własne zeznanie — Kostro Józef** (str. 167-179): pełny życiorys, koryguje rok urodzenia (1928, nie 1927) i nazwisko panieńskie matki (Jankowska), pełny skład i uzbrojenie bandy "Huzara" (28 pozycji). Zawiera też wewnętrzną sprzeczność co do daty wstąpienia do bandy (kwiecień 1951 vs październik 1950).
 - **Czwarte kluczowe własne zeznanie — Mościcki Józef ps. "Pantera"** (str. 195-221): pełny życiorys, nowy fakt o członkostwie w AK 1941 pod "Grubym Józefem", rozstrzyga nazwę miejscowości gdzie ukrywał bandę "Głuszca" (kolonia Pelich). Potwierdza pistolet "Nagan" i kolejność zdarzeń w zabójstwie Jasińskiego (Parzonko podszedł dopiero po strzałach Radziszewskiego).
+- **Piąte kluczowe własne zeznanie — Zalewski Wacław ps. "Zbyszek"/"Zbynek" oraz (str. 324-333) najprawdopodobniej samego Kamieńskiego Kazimierza ps. "Huzar"**: NAJBARDZIEJ BEZPOŚREDNIE potwierdzenie składu "patrolu Zygmunta" (Parzonko, Radziszewski "Marynarz", Kostro "Paweł", Mościcki "Pantera") z ust samego dowódcy bandy. Dziesiątki nowych pseudonimów i kilkanaście dotąd nieudokumentowanych ofiar/napadów z lat 1945-1952 — patrz OCR str. 310-333.
+- **NOWE, wcześniej niedokumentowane zabójstwo**: Tymosiak Franciszek, uprowadzony i znaleziony powieszonym w lesie koło majątku "Józefin" — jednoźródłowa, fragmentaryczna wzmianka (str. 269), niska pewność — nowa notatka [[Event-1951-006-Zabojstwo-Tymosiaka]].
+- **Formalny akt oskarżenia z 13.06.1953 r.** (str. 377-395) przeciwko czterem oskarżonym — niezależne, oficjalne podsumowanie całej sprawy, zbieżne (nie sprzeczne) z materiałem własnych zeznań już przetworzonym.
+- **Odczyt tej puli rękopisów (244/244 stron) ZAKOŃCZONY.** Reszta 792-stronicowego tomu poza tą pulą pozostaje nieodczytana.
 
 ## Osoby
 

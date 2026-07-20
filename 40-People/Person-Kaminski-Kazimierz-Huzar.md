@@ -107,6 +107,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - [[IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]] — str. 143 (zlecenie zabójstwa sołtysa Koca)
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48 (**operacja "Rytel", data aresztowania, pełna historia bandy**)
 - [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] — str. 6-7, 140-143, 146-148, 151-152 (**osobny proces Sr.216/53, znacznie rozszerzona chronologia zbrodni od 1944-45, data zatrzymania 29.10.1952, Parzonko jako świadek oskarżenia**)
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 324-333 (najprawdopodobniej własne zeznanie, mimo niejasnego podpisu wcześniejszego fragmentu — patrz [[Person-Zalewski]]; NAJBARDZIEJ BEZPOŚREDNIE potwierdzenie z ust dowódcy bandy składu czterech "patroli", w tym patrolu "Wichury"/"Zygmunta")
 
 ## Niepewności i sprzeczności
 

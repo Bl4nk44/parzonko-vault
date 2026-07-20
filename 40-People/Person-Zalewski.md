@@ -26,6 +26,7 @@ key_sources:
   - "SRC-069"
   - "SRC-070"
   - "SRC-086"
+  - "SRC-095"
 certainty: "medium"
 tags:
   - type/person
@@ -51,8 +52,14 @@ Wacław Zalewski, ps. "Zbyszek" (imię i pseudonim ustalone via [[IPN-Bi-1-1536-
 
 - [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] — str. 142-143, 146-148, 151
 - [[IPN-BU-0330-189-t5-Zeznania-Lapinski-Zalewski-Rakowski]] — własne zeznanie, listopad 1952 – styczeń 1953 (meliny, skład grupy październik 1952)
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 310-322 (**obszerne własne zeznanie** — historia od AK 1942, WiN 1945-47, band "Huzara" od jesieni 1949; kilkanaście morderstw i napadów rabunkowych, nowe pseudonimy sprawców dotąd nieznane w korpusie)
+
+- **AK 1942-43**: przed WiN, Zalewski zeznaje o wcześniejszej służbie w AK od 1942 r. pod ps. "Karaś" jako dowódca plutonu w obwodzie Wysoko-Mazowieckim, potem przy sztabie obwodu do 1944 — nowy, wcześniej nieznany szczegół biograficzny (SRC-095, str. 324).
+- **Nowy zestaw pseudonimów sprawców** wymienionych w jego zeznaniu, dotąd nieobecnych w korpusie: "Topór", "Kreska", "Świat", "Sommy"/"Somny", "Pomocny"/"Donny", "Zemsta", "Wicher" (dowódca oddziału NSZ), "Żbik" — brak dotąd wystarczających danych do utworzenia osobnych notatek osób.
+- **Przymus wewnątrz bandy**: przy końcu zeznania (str. 321-322) opisuje, że został uderzony przez "Sommy'ego" za odmowę udziału w powieszeniu ofiary koło Łap — analogia do wcześniej udokumentowanych przypadków zastraszania niechętnych członków band.
 
 ## Niepewności i sprzeczności
 
 - Dane osobowe (data urodzenia, miejsce zamieszkania) nadal nieznane w obecnie przetworzonej części korpusu.
 - [[IPN-Bi-012-1230-t3-Rozbojnicy-sprawa-Huzara-1951-52]] (SRC-086, str. 32) podaje jego imię jako **"Czesław"**, nie "Wacław" jak w SRC-070 — kolejna sprzeczność imienia w korpusie, nierozstrzygnięta.
+- **Autor str. 324-333 niejasny**: fragment jest zapisany w pierwszej osobie o dowodzeniu całą bandą "Huzara" (nie tylko patrolem Zalewskiego), a podpisy pod tekstem konsekwentnie brzmią "Kamieński Kazimierz"/"Kamiński Kazimierz" — najprawdopodobniej to w istocie własne zeznanie Kazimierza Kamieńskiego ps. "Huzar", nie Zalewskiego, mimo że poprzedzający fragment (str. 310-322) jest podpisany inaczej. Nie rozstrzygnięte ostatecznie bez wglądu w oryginalny skan — traktowane tu jako odrębne źródło przypisane [[Person-Kaminski-Kazimierz-Huzar]] w praktyce cytowań.
