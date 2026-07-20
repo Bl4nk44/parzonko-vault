@@ -20,6 +20,7 @@ sources:
   - "SRC-024#p53-54"
   - "SRC-038#p78-79"
   - "SRC-091#p88-90,140,149"
+  - "SRC-118#p13,29"
 certainty: "high"
 tags:
   - timeline
@@ -57,8 +58,11 @@ Warszawa (miejsce dokładne nieustalone — "meliny" przygotowane przez MBP).
 
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48, 53-54
 - [[IPN-BU-0330-189-t26-Przygotowanie-wyjazdu-Zygmunt-Maria-Emil-MBP]] — str. 50-53 (pierwszoosobowy list agentki "Marii", grudzień 1952)
+- [[IPN-BU-0330-189-t4-Zeznania-Krynski-Grodzki-Borysewicz]] — str. 13, 29 (relacja dnia po dniu ostatnich dni na wolności i podróży do Warszawy)
 
 **Nowe szczegóły (SRC-091)**: dokument ten nazywa agenta "Rygiel" (wariant zapisu "Rytla"), podaje precyzyjne daty kolejnych spotkań przygotowawczych z Krasowskim "Głuszczem" (6-7.09, 13.09, 28.09, 1.10.1951) oraz pierwszego spotkania z Kamińskim (12.10.1951, wieś Niemyje Nowe, u meliniarza Puchalskiego, z dialogiem o orientacji politycznej rzekomej organizacji — "obóz USA i Anglii" nawiązujący do gen. Andersa). **Kluczowe: potwierdza, że to Parzonko potajemnie, przed samym Krasowskim, umówił to spotkanie** — bezpośrednia, aktywna rola w inicjacji operacji, nie tylko bierny "pomost". Opisuje też zatrzymanie Zalewskiego "Zbyszek" w zasadzce kolejowej (funkcjonariusze przebrani za "kolejarzy"), oraz plan likwidacji reszty patrolu "Zygmunta" przekazany przez Kryńskiego "Rokitę" jako zastępcę. Statystyki końcowe: 425 osób zatrzymanych/aresztowanych na terenie woj. białostockiego (3.10.1951-7.10.1952); Kamiński i Zalewski przyznali się do 40 napadów z 53 ofiarami śmiertelnymi.
+
+**Najbardziej szczegółowa relacja dnia po dniu (SRC-118, zeznanie Kryńskiego Tadeusza)**: Kryński towarzyszył Parzonce bezpośrednio w ostatnich dniach na wolności. Noc 26/27.11.1952 w stodole we wsi Śliwiec gm. Ciechanowiec; wieczorem 27.11 przejście do kol. Malec; nad ranem 28.11 "Zygmunt" budzi Kryńskiego bez wyjaśnień, idą do lasu Rudzkiego. **Wyjazd do Warszawy odbył się w dwóch falach**: 20.11.1952, po wizycie łączniczki "Huzara" na melinie u Żero Jana (Niemiry-Stare), pierwsza grupa (Kostro "Paweł", Radziszewski "Marynarz", trzeci nieustalony "Panek") wyjeżdża do Warszawy w cywilnych ubraniach przywiezionych przez łączniczkę. Sam Parzonko i Kryński wyjeżdżają dopiero 27.11 — ta sama łączniczka przynosi im garnitury, broń chowają w podwalinach stodoły w Kozłowie, jadą pociągiem, przyjeżdżają na dworzec Warszawa Wileński. Możliwe, że ta łączniczka to [[Person-Dobrzyniecka-Eugenia-Maria]] — ale to rodzi **nierozstrzygniętą sprzeczność**: SRC-038 (wyżej) podaje, że "Maria" pełniła funkcję łączniczki tylko "do wiosny 1952", po czym przejął ją "Grek" — a odczytany fragment SRC-116 (list samej "Marii" z grudnia 1952) i to zeznanie Kryńskiego (transport w listopadzie 1952) sugerują jej aktywność znacznie później. Możliwe wyjaśnienia: (a) "Maria" wróciła do czynnej roli specjalnie na finał operacji, (b) łączniczka z listopada 1952 to inna, nienazwana kobieta, (c) SRC-038 błędnie datuje koniec jej roli. Nie rozstrzygnięte.
 
 ## Sprzeczne relacje
 

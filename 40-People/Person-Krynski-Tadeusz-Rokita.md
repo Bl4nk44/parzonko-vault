@@ -54,6 +54,10 @@ Tadeusz Kryński, s. Franciszka, ur. 10.06.1927 r., ps. "Rokita" (w innym źród
 ## Chronologia życia
 
 - 1927-06-10 — urodzony
+- 1950 (jesień) — wstąpił do bandy "Huzara" po ukrywaniu się we wsi Koce-Schaby gm. Ciechanowiec; uczestniczył w zabójstwie ORMO-wca Prószyńskiego (Chodynewo)
+- 1951 (kwiecień/maj) — przeżył zasadzkę wojskową we wsi Łocki gm. Piekuty, w której zginęli "Ryś", "Marek", "Marynarz" (Porowski Tadeusz) i "Rekin"
+- 1952-07 (koniec) — przekazany przez "Huzara" do grupy "Zygmunta" (Parzonki)
+- 1952-11-27/28 — bezpośrednio towarzyszył Parzonce w ostatnich dniach na wolności (Śliwiec, kol. Malec, las Rudzki), następnie wspólny wyjazd do Warszawy (Kity → dworzec Wileński) — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]]
 - 1952 (październik) — wizyta u Filińskiego Jana w Oleksinie razem z Parzonką
 - 1952-11-30 — aresztowany wraz z resztą bandy "Huzara"
 - 1992 — zeznanie przed GKBZpNP nt. niedozwolonych metod śledczych stosowanych wobec niego w latach 1945-1956
@@ -61,6 +65,7 @@ Tadeusz Kryński, s. Franciszka, ur. 10.06.1927 r., ps. "Rokita" (w innym źród
 ## Najważniejsze źródła
 
 - [[IPN-Bi-1-1546-Zeznanie-Krynski-Tadeusz-1992]] — str. 1 (karta informacyjna, dane osobowe)
+- [[IPN-BU-0330-189-t4-Zeznania-Krynski-Grodzki-Borysewicz]] — str. 13, 20, 24-31 (**własne zeznanie — najbardziej szczegółowa relacja ostatnich dni na wolności i wyjazdu do Warszawy w całym korpusie**)
 
 ## Niepewności i sprzeczności
 
