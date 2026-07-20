@@ -124,6 +124,20 @@ Protokół 11.12.1952 zawiera podwójną autokorektę: (1) rekrutera do bandy "M
 
 **Odwołuje też zeznanie o udziale w napadzie na spółdzielnię jesienią 1950 w pow. Sokołów-Podlaski** (w składzie grupy "Lamparta") — przyznaje, że to "całkowicie zmyślone".
 
+## Str. 119-136 — pełny skład bandy "Młota" i wstąpienie do "Huzara" (6.04.1951, szczegóły)
+
+**Skład bandy "Młota"** (12 osób, 2 oddziały): Oddz. I — Łukasiuk Władysław ps. "Młot" (dowódca), Radziszewski ps. "Marynarz", bracia Dybowscy (Ryszard ps. "Marek"/"Markos", Czesław ps. "Rejtan", Leopold ps. "Rymsza"). Oddz. II (dowódca zastępca Oksiuta Józef ps. "Pomidor", z żoną) — Ilczuk Kazimierz ps. "Sęp", ps. "Walwa", ps. "Poładysław", ps. "Stefan", Ratyniec Adam ps. "Lampart" (jedyny ocalały z Oddz. II, reszta zginęła 1950 w akcji z wojskiem).
+
+**Wstąpienie do "Huzara" (6.04.1951), pełny opis**: kuzyn Niemyński Jan dotarł do jego ziemianki z propozycją od "Paszkowskiego"/Parzonki; spotkanie u Masłowskiego Czesława (kol. Kobusy); poznał skład oddziału (Parzonko, Mościcki "Pantera", Jakubiak "Tygrys", Białowąs "Litwin"); przyjął pseudonim zapisany w tym miejscu jako **"Mały"** [prawdopodobnie błąd odczytu API za "Marynarz", używany konsekwentnie w pozostałych fragmentach — nie zmieniono ustalonego aliasu]. Finanse: żołd miesięczny 350 zł/os. od listopada 1951 (grupa 4-osobowa, po 50 zł do ręki), łącznie otrzymał 7200 zł w całym okresie, w tym 500 zł jednorazowo przed przerzutem do Warszawy (19.11.1952) i 2500 zł na mundury/buty (styczeń 1952, zakupy przez Walczuka Stanisława na bazarze warszawskim, marzec 1952).
+
+**Przegrupowanie 20.07.1951** (spotkanie z "Huzarem" we wsi Błonie): do oddziału Parzonki dołączył Kostro "Paweł", odszedł Białowąs "Litwin" (do "Lamparta"); ostateczny, stały skład grupy Parzonki do aresztowania: Parzonko, Radziszewski, Mościcki, Kostro — plus Kryński "Rokita" dołączony październik/listopad 1952.
+
+**Nowe wydarzenie — potyczka z wojskiem** (17.10.1951, kol. Radziszewo-Sieńczuch): grupa Parzonki (Parzonko, Radziszewski, Kostro, Mościcki) ostrzelana podczas wycofywania się z kwatery u Radziszewskiego Stanisława, odpowiedzieli ogniem, wycofali się przez las Pobikrowski do lasu Rudzkiego.
+
+**Pełny skład osobowy bandy "Huzara"** (26 pozycji z pseudonimami/miejscowościami pochodzenia/losem) — w większości już znani z korpusu, część nowych szczegółów: Tymiński Eugeniusz "Ryś" zabity 30.05.1951 we wsi Zochy; Ratyniec "Lampart" pochodził ze wsi Gwaliny gm. Kornica; cała grupa "Lamparta" (9 osób łącznie z Maksymowem Konstantym ps. "Kostek"/"Ryszard", Filczukiem Wiesławem ps. "Romel", "Sokołem", "Krakowiakiem", "Poleszukiem") zginęła razem w maju 1952.
+
+**Morderstwa znane tylko ze słyszenia** (nie osobisty udział): Chodyszewo (I poł. 1950, "Ryś"+2), małżeństwo Niedziółek (lipiec 1950 — data różni się od wcześniej ustalonej, "Rekin"+"Ponury"), ojciec i syn PZPR w Słochach gm. Siemiatycze (lato 1951, "Lampart"+"Tygrys"+Maksymow), członek PZPR koło Niemojek (jesień 1951, "Tygrys"+"Lampart"), członek ORMO koło Kostry-Noski (wrzesień 1951, Niemyński "Kralus"+cywil nazwiskiem Bobrowski).
+
 ## Uwaga metodologiczna
 
-Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-118 z 244 dostępnych w puli (ok. 95 stron, w tym własne zeznania DWÓCH kluczowych świadków: Parzonki i Radziszewskiego, z ważną autokorektą tego drugiego). Reszta wciąż priorytet dalszej transkrypcji.
+Kontynuacja w toku — odczytano dotąd strony 11, 16-25, 29-144 z 244 dostępnych w puli (ok. 120 stron, w tym własne zeznania DWÓCH kluczowych świadków: Parzonki i Radziszewskiego, z ważną autokorektą tego drugiego, plus pełny skład osobowy obu band). Reszta wciąż priorytet dalszej transkrypcji.

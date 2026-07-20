@@ -16,7 +16,7 @@ original_filename: "BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.p
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]"
 reliability: "primary"
-ocr_quality: "dobra dla ~95 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20, W TOKU); reszta niedoczytana"
+ocr_quality: "dobra dla ~120 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20, W TOKU); reszta niedoczytana"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -60,6 +60,9 @@ tags:
 - Obecność (bez osobistego wykonania) przy morderstwach braci Wymyńskich, Kozłowskiego i Piniatowskiego (jesień 1949, Patasze/Dąbrówka-Kościelna) — nowe wydarzenia, nie utworzono jeszcze osobnych notatek Event ze względu na czas.
 - **Osobne, obszerne WŁASNE ZEZNANIE Kazimierza Radziszewskiego** (str. 79-102) — drugie kluczowe pierwszoosobowe źródło w tym tomie. Pełny życiorys (rodzice, rodzeństwo, służba wojskowa 1939), dokładna, datowana historia werbunku do bandy "Młota" (5-25.07.1948), oraz **pełny, brutalny opis z pierwszej ręki obu głównych zabójstw** (Jasiński 30.07.1951, Burzyński/Lejzerowicz 30.04.1951) — potwierdza czwarty raz "Mościcki zabił Lejzerowicza" (nie Radziszewski, jak w wyroku SRC-015), patrz [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]].
 - **Trzeci pseudonim Kostry Józefa**: "Dąbek" (str. 95, zeznanie Radziszewskiego), obok znanych "Paweł"/"Kropki".
+- **Pełny skład osobowy bandy "Młota" (12 osób) i bandy "Huzara" (26 pozycji)** — bogaty materiał do przyszłego cross-referencingu (str. 119-142).
+- **Dokładna data i okoliczności wstąpienia Radziszewskiego do "Huzara"**: 6.04.1951, finansowanie oddziału (żołd 350 zł/os./miesiąc, łącznie 7200 zł), przegrupowanie 20.07.1951 (str. 122-136).
+- **Nowa potyczka z wojskiem** (17.10.1951, kol. Radziszewo-Sieńczuch) — grupa Parzonki ostrzelana podczas wycofywania z kwatery.
 
 ## Osoby
 
