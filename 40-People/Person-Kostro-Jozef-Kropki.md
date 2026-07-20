@@ -75,3 +75,4 @@ Brak danych o rodzinie poza imionami rodziców (Józef Kostro i Maria).
 
 - **Tożsamość "Kropki"/"Paweł" — ROZSTRZYGNIĘTE.** Wcześniejsza hipoteza robocza (czy Józef Kostro ps. "Kropki" z SRC-012 to ta sama osoba co "współoskarżony Kostro" ułaskawiony w 1953 r.) potwierdzona przez pełny wyrok sądowy SRC-015, który podaje dane osobowe zgodne z osobą znaną z wykazu personalnego bandy "Huzara".
 - Ostatnia cyfra roku urodzenia niepewna w OCR ("15 maja 192[7/8] r.").
+- **Nowy wariant nazwiska — nierozstrzygnięty**: [[IPN-BU-0330-189-t16-Akta-sledztwa-Kaminski]] (str. 11 dok.) zapisuje go jako "Wyszogrodzki vel Kostro Józef ps. \"Paweł\"" — możliwe fałszywe nazwisko używane w konspiracji, nie potwierdzone innym źródłem.
