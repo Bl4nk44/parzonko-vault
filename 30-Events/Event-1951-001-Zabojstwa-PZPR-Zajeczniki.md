@@ -24,7 +24,7 @@ sources:
   - "SRC-046#p23-24"
   - "SRC-047#p27"
   - "SRC-077#p36"
-  - "SRC-095#p33-35"
+  - "SRC-095#p33-35,97-102"
 certainty: "high"
 tags:
   - timeline
@@ -58,6 +58,8 @@ Sprawozdanie Sekcji III PUBP (tabela "Bliższe dane odnośnie napadu") podaje te
 
 **Nowa, bezpośrednia relacja przebiegu (SRC-077, str. 36)**: świadek oczekujący przy bunkrze relacjonuje, że po powrocie z akcji Parzonko osobiście opowiedział mu, iż to on zastrzelił Burzyńskiego, a Lejzerowicza zamordował Mościcki ps. "Pantera" — zmusiwszy uprzednio jego żonę do wskazania domu Burzyńskiego — podczas gdy Białowąs ps. "Litwin" stał na czatach. **Ta wersja zgadza się z SRC-047 (Mościcki zabił Lejzerowicza), nie z SRC-015 (Radziszewski)** — przechyla nieco szalę dowodową, ale przy istniejącej już gęstej sieci sprzecznych odpisów tego samego wyroku, nie traktuje się tego jako ostatecznie rozstrzygające. Rola Białowąsa (czaty) dotąd nieznana z takim stopniem precyzji.
 
+**CZWARTE źródło potwierdza "Mościcki zabił Lejzerowicza" (SRC-095, str. 97-102, własne zeznanie Radziszewskiego)**: Radziszewski, czekający tej nocy z łodzią po drugiej stronie Bugu (nie był fizycznie obecny przy zabójstwach), zeznaje, że po powrocie Parzonko osobiście zrelacjonował mu: "on osobiście zastrzelił w Zajęcznikach Burzyńskiego, zaś Lejzerowicza zamordował Mościcki ps. 'Pantera'", z Białowąsem na obstawie — dokładnie zgodne z SRC-077 i SRC-047. Mając teraz TRZY niezależne źródła (SRC-077, SRC-047, SRC-095) zgodne co do "Mościcki", przeciw jednemu odpisowi wyroku (SRC-015, "Radziszewski"), wersja "Mościcki zabił Lejzerowicza" jest teraz zdecydowanie lepiej udokumentowana — choć formalnie wciąż nie rozstrzygnięte (patrz wyżej, sprzeczne odpisy tego samego wyroku).
+
 ## Osoby
 
 - [[Person-Burzynski-Aleksander]] (ofiara)
@@ -71,7 +73,7 @@ Sprawozdanie Sekcji III PUBP (tabela "Bliższe dane odnośnie napadu") podaje te
 ## Źródła
 
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 13
-- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 33-35 (**własne, bardzo szczegółowe zeznanie sprawcy** — budowa bunkrów, przebieg obu zabójstw, Parzonko osobiście zastrzelił Burzyńskiego)
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 33-35 (**własne, bardzo szczegółowe zeznanie sprawcy** — budowa bunkrów, przebieg obu zabójstw, Parzonko osobiście zastrzelił Burzyńskiego); str. 97-102 (własne zeznanie Radziszewskiego — potwierdza Mościckiego jako zabójcę Lejzerowicza, opis przeprawy przez Bug łodzią)
 
 ## Sprzeczne relacje
 
