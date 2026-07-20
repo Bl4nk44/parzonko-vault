@@ -50,6 +50,7 @@ Wacław Zalewski, ps. "Zbyszek" (imię i pseudonim ustalone via [[IPN-Bi-1-1536-
 ## Najważniejsze źródła
 
 - [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] — str. 142-143, 146-148, 151
+- [[IPN-BU-0330-189-t5-Zeznania-Lapinski-Zalewski-Rakowski]] — własne zeznanie, listopad 1952 – styczeń 1953 (meliny, skład grupy październik 1952)
 
 ## Niepewności i sprzeczności
 
