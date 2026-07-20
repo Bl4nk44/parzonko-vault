@@ -99,6 +99,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 ## Najważniejsze źródła
 
 - [[IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]] — str. 1, 6, 9, 11, 12, 13, 14
+- [[IPN-BU-0330-189-t1-Zeznania-Huzara-sprawa-Huzara]] — własne, obszerne zeznania (październik 1952 – luty 1953), najbardziej szczegółowa relacja operacji "Rytel" w korpusie
 - [[IPN-BU-0189-38-t1-Kwestionariusze-osobowe-Wlostowski-Konorodzka]] — str. 1 (okres działalności grupy)
 - [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]] — str. 21, 27-29 (**historia powstania bandy, struktura, zbrodnie**)
 - [[IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]] — str. 3 (miejsce urodzenia, pełny skład osobowy bandy)

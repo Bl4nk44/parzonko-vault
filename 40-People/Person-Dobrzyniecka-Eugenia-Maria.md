@@ -19,7 +19,7 @@ death_place: null
 nationality: "polska"
 occupation:
   - "agentka MBP (łączniczka)"
-certainty: "medium"
+certainty: "high"
 tags:
   - type/person
   - status/unreviewed
@@ -49,9 +49,11 @@ W liście do "Pana Henryka" (prawdopodobnie oficera prowadzącego operację) opi
 
 - [[IPN-BU-0330-189-t26-Przygotowanie-wyjazdu-Zygmunt-Maria-Emil-MBP]] — str. 50-53 (list własnoręczny)
 - [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]] — rola w strukturze operacji (wg SRC-038)
+- [[IPN-BU-0330-189-t1-Zeznania-Huzara-sprawa-Huzara]] — str. 48 (**potwierdzenie z pierwszej ręki przez samego Kamińskiego**: "zwerbowałem Rymicką Dobryniecką Eugenię ps. \"Maria\"" — jednoznacznie rozstrzyga tożsamość i rolę)
 
 ## Niepewności i sprzeczności
 
-- Tożsamość "Dobrzyniecka Eugenia" vs wariant zapisu "Bobrzyniecka" (obie formy występują w korpusie) — traktowane jako ta sama osoba, typowy wariant OCR/pisma odręcznego pierwszej litery.
+- Tożsamość "Dobrzyniecka Eugenia" vs wariant zapisu "Bobrzyniecka"/"Rymicka Dobryniecka" (kilka form występuje w korpusie) — traktowane jako ta sama osoba, typowy wariant OCR/pisma odręcznego.
 - Nie ustalono dat urodzenia/śmierci — brak danych poza rolą operacyjną.
 - Charakter dokumentu SRC-116 (110 stron, w większości nadal nieczytelnych) sugeruje, że to prawdopodobnie ONA jest autorką większości korespondencji w tej teczce — nie potwierdzone dla wszystkich stron, tylko dla odczytanego fragmentu (str. 50-53).
+- **ROZSTRZYGNIĘTA rola w operacji** (SRC-097): Kamiński sam potwierdza, że ją zwerbował i że jeździła do Warszawy po pocztę organizacyjną aż do wiosny 1952, kiedy przejął to Olędzki "Grek" — zgodne z rolą opisaną w SRC-038, ale wcześniejsza sprzeczność (jej rzekoma dalsza aktywność w grudniu 1952 wg SRC-116) pozostaje nierozstrzygnięta, patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]].

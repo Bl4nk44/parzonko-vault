@@ -60,6 +60,7 @@ Janusz Terlikowski, lekarz, mieszkaniec pow. Bielsk Podlaski, dawny znajomy Kazi
 ## Najważniejsze źródła
 
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48 (opis całej operacji)
+- [[IPN-BU-0330-189-t1-Zeznania-Huzara-sprawa-Huzara]] — str. 10-14, 44-49 (własne zeznanie Kamińskiego, najbardziej szczegółowy opis kontaktów z Terlikowskim)
 - [[IPN-Bi-012-1231-t2-Zeznania-Bialowas-Witold-Litwin]] — str. 78-79 (własne zeznanie celu operacji dot. struktury i przebiegu kontaktów)
 
 ## Niepewności i sprzeczności
