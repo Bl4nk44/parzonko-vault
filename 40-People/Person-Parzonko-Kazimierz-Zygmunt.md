@@ -167,7 +167,8 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - 1944/1945 — po wyzwoleniu Białostocczyzny wstąpił do bandy Zygmunta Szendzielarza ps. "Łupaszko" (5. Brygada Wileńska AK) — **osobisty, udokumentowany związek z historyczną formacją "Łupaszki"**, patrz [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]]
 - 1946-09 (od) — **dowódca patrolu** (podlegającego kolejno "Wilkowi", "Lufie" i "Młotowi") pod pseudonimem "Wichura" — data i rola potwierdzone niezależnie przez zeznania podwładnego, Radziszewskiego Mieczysława ps. "Kwiat"/"Zagłoba" ([[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]]) — **wcześniejsze potwierdzenie roli dowódczej niż dotąd sądzono** (poprzednio najwcześniejsze pewne dowództwo datowano na okres po sierpniu 1951 r., choć samo członkostwo w "Młocie" znane było od 1946 r.)
 - 1946-1948 — dowodzenie patrolem, udział w kilkunastu udokumentowanych napadach rabunkowych na gospodarzy w rejonie Ciechanowca (wsie: Radziszewo-Stare, Trzaski, Winna, Leśniki, Głęboczek, Kołaki, Mocydły, Czarkówka-Mała i inne) — szczegóły w [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]]
-- 1946-10-17 — **nowe, udokumentowane morderstwo**: zabójstwo żołnierza WP (okoliczności nieopisane szczegółowo) — powód ukrywania się w Gdańsku pod fałszywym nazwiskiem "Wojtkowski Henryk" od lata 1947 r. Możliwe, że to samo zdarzenie co [[Event-1946-002-Zabojstwo-zolnierza-konwojujacego-wiezniow]] (SRC-126: zabójstwo żołnierza konwojującego partię więźniów, lato 1946, trasa Ciechanów-Bielsk Podlaski) — nie potwierdzone jednoznacznie.
+- 1946-10-17 — aresztowany przez PUBP Bielsk-Podlaski za przynależność do WiN i nielegalne posiadanie broni
+- 1946-10-19 — **ROZSTRZYGNIĘTE**: zbiegł z aresztu, zabijając konwojującego kaprala WP i zabierając mu broń — powód ukrywania się w Gdańsku pod fałszywym nazwiskiem "Wojtkowski Henryk" od lata 1947 r. Dokładna data i przebieg potwierdzone niezależnie dwoma kartami katalogowymi MSW ([[Event-1946-002-Zabojstwo-zolnierza-konwojujacego-wiezniow]], SRC-126 i SRC-079).
 - 1948-10-18 — [[Event-1948-002-Zabojstwo-Rozwalskiego-Radziszewo-Krole]] (podejrzany, wraz z Radziszewskim Mieczysławem)
 - 1948 — [[Event-1948-Aresztowanie-i-ucieczka]]
 - 1949-07 (koniec) — **dokładnie ustalona data**: powrót z Gdańska na teren pow. Bielsk Podlaski, nawiązanie kontaktu z "Huzarem", wstąpienie do jego bandy pod nowo przyjętym pseudonimem "Zygmunt"
@@ -203,6 +204,7 @@ Kazimierz Parzonko, rolnik ze wsi Leśniki (gm. Ciechanowiec), po wojnie zaanga�
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 23, 47-48 (**pełna charakterystyka, związek z "Łupaszką", alias "Wojtkowski Henryk", mechanizm aresztowania przez operację "Rytel"**)
 - [[IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]] — str. 14 (**ROZSTRZYGNIĘTA data wykonania wyroku śmierci: 22.09.1953, oraz niezależne potwierdzenie daty urodzenia 28.02.1922**)
 - [[IPN-Kartoteka-skazanych]] — str. 1-2 (**czwarte/piąte niezależne potwierdzenie daty urodzenia i śmierci; nowy szczegół: przeniesienie do Białegostoku 23.03.1953**)
+- [[IPN-Kartoteka-ogolnoinformacyjna-MSW]] — str. 12 (**precyzyjna data i okoliczności zabójstwa żołnierza WP podczas ucieczki z aresztu, 19.10.1946 — rozstrzyga wcześniejszą niepewność**)
 
 ## Niepewności i sprzeczności
 
