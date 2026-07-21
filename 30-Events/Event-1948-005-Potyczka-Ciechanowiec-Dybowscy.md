@@ -12,6 +12,7 @@ people_involved:
   - "PERSON-021"
   - "PERSON-022"
   - "PERSON-012"
+  - "PERSON-092"
 category: "skirmish"
 sources:
   - "SRC-020#p43"
@@ -38,6 +39,7 @@ Wg zeznania Franciszka Danieluka ps. "Gryf" (28.11.1950), banda "Huzara" (w skł
 
 - [[Person-Dybowski-Ryszard-Warkocz]] (ofiara)
 - [[Person-Dybowski-Czeslaw-Rejtan]] (ofiara)
+- [[Person-Dybowski-Leopold-Rymsza]] (trzeci brat, obecny, przeżył — zginął rok później, patrz jego notatka)
 - [[Person-Kaminski-Kazimierz-Huzar]] (dowódca obecny podczas starcia)
 - [[Person-Danieluk-Franciszek-Gryf]] (świadek/uczestnik)
 

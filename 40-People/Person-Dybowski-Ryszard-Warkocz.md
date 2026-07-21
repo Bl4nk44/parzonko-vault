@@ -49,6 +49,7 @@ Ryszard Dybowski, ps. "Warkocz", zamieszkały Ciechanowiec, członek bandy "Huza
 ## Relacje
 
 - Brat: [[Person-Dybowski-Czeslaw-Rejtan]] — zginął tego samego dnia
+- Brat: [[Person-Dybowski-Leopold-Rymsza]] — trzeci brat, przeżył potyczkę 1948, zginął czerwiec 1949
 
 ## Chronologia życia
 

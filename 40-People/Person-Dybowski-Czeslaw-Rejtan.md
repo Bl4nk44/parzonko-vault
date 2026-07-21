@@ -26,6 +26,8 @@ related_persons:
 key_sources:
   - "SRC-020"
   - "SRC-032"
+  - "SRC-054"
+  - "SRC-055"
 certainty: "medium"
 tags:
   - type/person
@@ -62,6 +64,5 @@ Czesław Dybowski, ps. "Rejtan", zamieszkały Ciechanowiec, członek bandy "Huza
 
 ## Niepewności i sprzeczności
 
-Brak istotnych sprzeczności ze śmiercią w 1948 r.
-
 - Patrz [[Person-Dybowski-Ryszard-Warkocz]], sekcja niepewności — fragment SRC-032 (str. 35) wzmiankuje "Dybowskiego Czesława" w kontekście wydarzeń z 1952 r., co może dotyczyć innej osoby o tym samym imieniu/nazwisku (możliwe, że rodzina Dybowskich z Ciechanowca była liczna) lub błędu odczytu. Nie rozstrzygnięto.
+- **NOWA, POWAŻNA SPRZECZNOŚĆ (SRC-054, str. 12-19, własne zeznanie Kamińskiego "Huzara"; SRC-055, str. 65-68, własne zeznanie Radziszewskiego)**: oba źródła niezależnie podają, że to **Dybowski Czesław ps. "Rejtan"** zastrzelił dowódcę bandy "Młota" (Łukasiuka Władysława) w czerwcu 1949 r. w odwecie za śmiertelne postrzelenie brata, Leopolda Dybowskiego ps. "Rymsza"/"Rzymsa" — patrz [[Person-Lukasiuk-Wladyslaw-Mlot]]. To **rok PO** ustalonej dacie śmierci samego Czesława (lipiec 1948, [[Event-1948-005-Potyczka-Ciechanowiec-Dybowscy]]). Razem z powyższą wzmianką o "Dybowskim Czesławie" żywym w 1952 r. — silny, powtarzający się sygnał, że data śmierci "1948-07" może być błędna lub dotyczyć innego brata. Wymaga weryfikacji pierwotnego źródła (SRC-020) i porównania z nowymi zeznaniami — **pole `death_date` NIE zmienione do czasu dalszej weryfikacji**.
