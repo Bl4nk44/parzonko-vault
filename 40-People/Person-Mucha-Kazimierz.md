@@ -27,6 +27,7 @@ related_persons:
 key_sources:
   - "SRC-043"
   - "SRC-049"
+  - "SRC-055"
 certainty: "high"
 tags:
   - type/person
@@ -60,6 +61,7 @@ Skazany wyrokiem WSR Białystok (sprawa Sr.376/53, 14.08.1953 r.) na 7 lat więz
 - 1925-1927 — służba w WP (80 pp)
 - 1946 — członek SL (potem ZSL)
 - 1951 (jesień) — pierwszy kontakt z bandą "Huzara" u Filińskiego Jana
+- 1951 (koniec)/1952 (początek) — sąsiad Filiński Jan wzywa go wieczorem do siebie, gdzie zastaje 3-4 uzbrojonych bandytów; grożą mu śmiercią jako "komuniście", nakazują zbierać od wieśniaków "podatek" (do 100 zł/os., resztę oddawać do G.R.M.) na rzecz bandy pod groźbą zabicia jego i całej rodziny w razie zameldowania władzom (SRC-055, str. 48, własne zeznanie Muchy, 3.02.1953) — kontekst bezpośrednio wspierający jego (odrzuconą przez sąd) linię obrony "działania pod przymusem"
 - 1952 (styczeń/luty) — pośredniczenie w zakwaterowaniu bandy u kilku gospodarzy
 - 1952-02 — zakup penicyliny i użyczenie strzykawki choremu Parzonce
 - 1952-08 — ostatnie udokumentowane spotkanie z bandą
