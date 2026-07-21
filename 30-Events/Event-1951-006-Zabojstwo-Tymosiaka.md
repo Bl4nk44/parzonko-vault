@@ -2,9 +2,9 @@
 type: event
 uid: "EVENT-1951-006"
 event_id: "EVENT-1951-006"
-title: "Uprowadzenie i zabójstwo Tymosiaka Franciszka (znaleziony powieszony w lesie rudzkim)"
-date: null
-date_accuracy: "unknown"
+title: "Uprowadzenie i powieszenie Tymosiaka Franciszka koło majątku Józefin (ROZSTRZYGNIĘTE: lipiec/sierpień 1948, nie 1951)"
+date: "1948-07-29"
+date_accuracy: "month"
 place: null
 main_person: "PERSON-001"
 people_involved:
@@ -13,7 +13,8 @@ category: "homicide"
 sources:
   - "SRC-095#p269"
   - "SRC-092#p293"
-certainty: "low"
+  - "SRC-092#p210-211"
+certainty: "high"
 tags:
   - timeline
   - type/event
@@ -22,32 +23,37 @@ tags:
   - status/unreviewed
 ---
 
-# Uprowadzenie i zabójstwo Tymosiaka Franciszka
+# Uprowadzenie i powieszenie Tymosiaka Franciszka koło majątku Józefin
 
 ## Opis
 
-Świadek zeznaje o uprowadzeniu Franciszka Tymosiaka, znalezionego następnie powieszonym w lesie w rejonie majątku Józefin (nazwa miejscowości niepewna w odczycie OCR — do weryfikacji na oryginalnym skanie). Dotąd nieznane z żadnego innego źródła w korpusie — nowy, wcześniej niedokumentowany przypadek.
+**UID zachowuje datownik "1951" z nazwy pliku wyłącznie dla ciągłości linków — RZECZYWISTA DATA to koniec lipca/początek sierpnia 1948 r.**, ustalona ostatecznie dzięki pełnemu, własnemu zeznaniu Parzonki ([[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]], SRC-092, str. 210-211). Franciszek Tymosiak, mieszkaniec wsi Małyszczyn gm. Grodzisk, został uprowadzony przez bandę "Młota" (do której należał wówczas Parzonko, świadek zdarzenia) tuż po potyczce z wojskiem w kolonii Zadobrze (29.07.1948), podczas odwrotu do lasu Rudzkiego. Związany paskiem i prowadzony razem z oddziałem przez ok. 8 km, następnie powieszony na własnym pasku na drzewie w lesie koło majątku Józefin, gm. Brańsk, pow. Bielsk-Podlaski — z obawy, że mógłby zameldować władzom o kierunku ucieczki bandy.
 
 ## Przebieg
 
-Zeznanie świadka w ramach śledztwa przeciwko Kazimierzowi Parzonko (SRC-095, str. 269) wspomina to zdarzenie przy okazji relacjonowania innych faktów ze śledztwa — brak szczegółów sprawcy, daty dziennej ani bezpośredniego motywu w odczytanym fragmencie. Nie wiadomo, czy zabójstwo przypisywane jest bandzie "Zygmunta"/"Huzara" czy innej grupie działającej w regionie.
+Podczas odwrotu do lasu Rudzkiego po potyczce z wojskiem (29.07.1948, w której brał udział zarówno oddział "Młota" jak i towarzyszący mu wówczas oddział "Huzara"), trójka bandytów — Dybowski Leopold ps. "Rymsza", "Ponury"/"Wuj" i Gontarczuk Stanisław ps. "Rekin" — weszła do gospodarstwa Matuszewskiego koło wsi Małyszczyn po mleko. Wyprowadzili stamtąd nieznanego wcześniej młodego mężczyznę — Franciszka Tymosiaka, mieszkańca tej wsi. Po krótkiej rozmowie "Ponury" związał mu ręce paskiem i zabrał go ze sobą, mówiąc, że może on zameldować władzom Bezpieczeństwa Publicznego o kierunku ucieczki bandy. Po przejściu ok. 8 km, gdy zapadł już wieczór, "Ponury" wraz z Gontarczukiem "Rekinem" i trzecim bandytą ps. "Fredek" (wszyscy trzej, jak zaznacza Parzonko, już nie żyją w chwili składania zeznania) odprowadzili Tymosiaka kilkadziesiąt metrów w bok od trasy przemarszu i powiesili go na jego własnym pasku na drzewie w lesie w okolicach majątku Józefin, gm. Brańsk, pow. Bielsk-Podlaski.
+
+**Wcześniejsze, fragmentaryczne wzmianki obecnie w pełni wyjaśnione**: [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] (SRC-095, str. 269) i [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (SRC-092, str. 293) zawierały jedynie krótkie, drugorzędne wzmianki o tym zabójstwie (stąd wcześniejsza, błędna hipoteza o dwóch różnych osobach/zdarzeniach i błędnej dacie "1943" w jednym z fragmentów — najwyraźniej sam błąd zapisu/pamięci świadka w tamtym, pobieżnym źródle). Pełne, bezpośrednie, pierwszoosobowe zeznanie naocznego świadka (Parzonki) w SRC-092 str. 210-211 rozstrzyga wszystkie wcześniejsze wątpliwości: to jedno, spójne zdarzenie, poprawna data to lipiec/sierpień 1948, sprawcy to trzej konkretni bandyci z oddziału "Młota"/"Ponurego".
 
 ## Osoby
 
 - [[Person-Tymosiak-Franciszek]] (ofiara)
+- [[Person-Parzonko-Kazimierz-Zygmunt]] (naoczny świadek, nie brał czynnego udziału)
+- [[Person-Gontarczuk-Stanislaw]] (współsprawca, ps. "Rekin")
 
 ## Miejsce
 
-Las w rejonie majątku "Józefin" (pisownia niepewna) — brak notatki miejsca, nie tworzono linku bez potwierdzenia lokalizacji.
+Las w okolicach majątku Józefin, gm. Brańsk, pow. Bielsk-Podlaski — brak notatki miejsca, nie tworzono linku bez dalszej weryfikacji dokładnej lokalizacji.
 
 ## Źródła
 
-- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 269
+- [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] — str. 210-211 (**pełne, własne zeznanie Parzonki — rozstrzyga datę, sprawców i okoliczności**), str. 293 (wcześniejsza, fragmentaryczna i błędnie zdatowana wzmianka)
+- [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 269 (wcześniejsza, fragmentaryczna wzmianka)
 
 ## Sprzeczne relacje
 
-**Możliwa korelacja nazwiskowa, nierozstrzygnięta**: [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (SRC-092, str. 293) zawiera zeznanie o odrębnym, wojennym (1943) porwaniu i zamordowaniu "chłopca Tymosiaka Franciszka" przez INNĄ bandę — wcześniej ocenione (przy pierwotnym, pobieżnym odczycie) jako niezwiązane z główną sprawą. Zbieżność imienia i nazwiska z ofiarą w SRC-095 jest uderzająca, ale (a) SRC-092 opisuje ofiarę jako "chłopca" (dziecko), a SRC-095 nie precyzuje wieku; (b) SRC-092 datuje na 1943 (okupacja), kontekst SRC-095 sugeruje okres powojenny; (c) SRC-092 przypisuje czyn "innej bandzie", nie bandzie Parzonki/Huzara. Możliwe, że to dwie różne osoby o tym samym, niezbyt rzadkim w regionie nazwisku, lub że jedno z dwóch źródeł błędnie datuje/kontekstualizuje to samo zdarzenie. **Nie scalono — wymaga porównania pełnej treści obu fragmentów źródłowych.**
+Brak — wcześniejsza pozorna sprzeczność (możliwe dwie różne osoby, różne daty) rozstrzygnięta przez pełne zeznanie w SRC-092 str. 210-211. Jedyna pozostała drobna niepewność: dokładny dzienny termin zabójstwa (ustalone tylko "tego samego dnia lub wieczorem" po potyczce 29.07.1948, więc late lipiec/wczesny sierpień 1948).
 
 ## Stopień pewności
 
-Niski. Dwuźródłowa, ale wzajemnie niejednoznaczna wzmianka (patrz wyżej) — brak pewnej daty, brak jasnego wskazania sprawcy/bandy. Wymaga dalszej weryfikacji — priorytet dla przyszłego przeglądu obu dokumentów w całości.
+Wysoki — bezpośrednie, szczegółowe, spójne zeznanie naocznego świadka (Parzonki), z podaniem miejsca uprowadzenia, trasy, motywu i tożsamości trzech sprawców (choć dwóch z nich znanych tylko z pseudonimu).

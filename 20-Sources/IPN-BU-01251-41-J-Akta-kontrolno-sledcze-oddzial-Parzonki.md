@@ -55,6 +55,7 @@ tags:
 - **Własne zeznanie Kostry (str. 21-27, 4.12.1952)**: pełny wykaz 28 pseudonimów bandy z datami śmierci, precyzyjne uzbrojenie ośmiu członków, nowe meliny 1952, kolejny nienazwany krewny Parzonki ("Michał"), oraz DRUGI, jednoznacznie odrębny od Radziszewskiego "Marynarz" (zginął V.1951 w grupie "Rysia") — potwierdza, że pseudonim był używany wielokrotnie przez różne osoby.
 - **Obszerne własne zeznanie Parzonki (str. 124-129, 11.12.1952)**: wyczerpujący wykaz napadów/morderstw bandy 1949-1951, w tym OSIEM dotąd nieudokumentowanych zabójstw (Karpiuk x3, Dąbrowski, Mierzejewscy, para z Bujonki, Raczek, dwa morderstwa bandy "Głuszca") — priorytet dla przyszłych osobnych notatek Event. Nowy, brutalny szczegół zabójstwa Koców — pozostawione małe dzieci ofiar.
 - **Trzeci cel operacji "Akademia" (str. 109, własne zeznanie Kamińskiego)**: banda "Głuszca" również była celem tej samej gry operacyjnej MBP (agent "major Stefan"), ale Krasowski rozpoznał prowokację i zastrzelił agenta — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]].
+- **ROZSTRZYGNIĘTE — zabójstwo Tymosiaka Franciszka (str. 210-211)**: pełne, własne zeznanie Parzonki jako naocznego świadka rozwiązuje wcześniejszą niepewność z SRC-095/wstępnego odczytu SRC-092 str. 293 — poprawna data to koniec lipca/początek sierpnia 1948 r. (nie 1943 ani 1951), sprawcy to "Ponury", Gontarczuk "Rekin" i "Fredek" z bandy "Młota". Patrz zaktualizowany [[Event-1951-006-Zabojstwo-Tymosiaka]].
 
 ## Osoby
 
