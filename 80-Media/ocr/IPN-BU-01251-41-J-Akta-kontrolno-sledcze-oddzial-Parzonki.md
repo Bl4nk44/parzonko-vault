@@ -72,6 +72,21 @@ Dzień po dniu: 22.11 Aleksin/Oleksin u Filipińskiego, wieczorem do Siemionczuk
 
 Własne zeznania Mościckiego i Radziszewskiego o zabójstwach Burzyńskiego/Lejzerowicza (Zajęczniki, 30.04-1.05.1951) i Jasińskiego (30.07.1951, zameldowanie Huzarowi w Pułaziach, awans na plutonowego) — zgodne w każdym szczególe z już udokumentowanymi wersjami z SRC-091/SRC-095. Str. 61-70: obszerny wykaz melin Kostry/Mościckiego w regionie — powtarzalny wzorzec ("Zygmunt", "Marynarz", "Paweł"/"Tygrys"/"Antoś" razem), niska wartość dowodowa poza potwierdzeniem spójności składu patrolu.
 
+## Str. 124-129 — WŁASNE, OBSZERNE ZEZNANIE PARZONKI (11.12.1952) — wyczerpujący wykaz napadów i morderstw bandy "Huzara" 1949-1951
+
+Najbardziej wyczerpująca dotąd, pierwszoosobowa lista przestępstw. W większości koroboruje już znane wydarzenia z nowymi szczegółami (m.in. Piątki-Żebry/Koc — patrz zaktualizowany [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]]; Zajęczniki, Jasiński — zgodne z ustaloną wersją; zabójstwo konwojenta 1946 — zgodne). **NOWE, DOTĄD NIEUDOKUMENTOWANE morderstwa** (priorytet dla przyszłych osobnych notatek Event/Person):
+
+- **Trzej bracia "Karpiuk"**, miejscowość Moszczona koło Siemiatycz, 1951, dokonane przez grupę "Lamparta" (już bez udziału Parzonki — po przejęciu przez niego własnej grupy).
+- **Dąbrowski** (imię nieznane), wieś Radziszewo gm. Ciechanowiec, 1949/1950, zamordowany przez "Lamparta" i "Rekina".
+- **Małżeństwo Mierzejewskich**, wieś Piskuły gm. Ciechanowiec, 1950, zamordowani przez "Ponurego", "Rekina" i Budkiewicza ps. "Władek".
+- **Młode małżeństwo (nazwiska nieznane)**, wieś Bujonka gm. Ciechanowiec, 1950/1951, zamordowani przez "Ponurego" i "Rekina".
+- **Raczek** (imię nieznane), wieś Rudka gm. Brańsk, 1950, zamordowany przez "Ponurego" i "Rekina".
+- **Gospodarz (nazwisko nieznane, ciężko ranny, być może zmarł)**, wieś Gródek gm. Jabłonna pow. Sokołów Podlaski, 1951, dokonane przez bandę "Głuszca" ("Wiewiórka" i "Orlik").
+- **Gospodarz-drogowy (nazwisko nieznane)**, wieś Czarhówka gm. Ciechanowiec, 1950/1951, dokonane przez "Wiewiórkę" z bandy "Głuszca".
+- Rabunek sklepu spółdzielczego w Krzemieniu gm. Jabłonna przez bandę "Głuszca" (data nieznana).
+
+Także potwierdza pełny, ostateczny skład grupy "Lamparta" PO odejściu Parzonki (Ratyniec/"Lampart", "Kostek" — zabity 1951, "Wiesiek" — zabity, "Antoś" — więzienie, "Tygrys" — zabity, "Sokół" — zabity przez "Marynarza" pod zarzutem współpracy z UB, "Krakowiak" i "Panek" — aresztowani) oraz udział samego Parzonki jako strzelca do sołtysa Koca (str. 126-127, zintegrowane z [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]]).
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.

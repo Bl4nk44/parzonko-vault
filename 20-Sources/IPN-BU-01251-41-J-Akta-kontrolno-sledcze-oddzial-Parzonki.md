@@ -53,6 +53,8 @@ tags:
 - Fragment niezwiązany (str. 293, nieprzeczytany w tej sesji, tylko odnotowany wcześniej): zeznanie dot. odrębnej, wojennej sprawy porwania i zamordowania chłopca w 1943 r.
 - **WŁASNE, PODPISANE zeznanie Parzonki (str. 18-20, 4.12.1952)**: bardzo precyzyjny wykaz skrytek broni tuż przed wyjazdem do Warszawy — jednoznacznie potwierdza tożsamość "Marynarza" (Radziszewski) i nowy pseudonim Kostry ("Pasek").
 - **Własne zeznanie Kostry (str. 21-27, 4.12.1952)**: pełny wykaz 28 pseudonimów bandy z datami śmierci, precyzyjne uzbrojenie ośmiu członków, nowe meliny 1952, kolejny nienazwany krewny Parzonki ("Michał"), oraz DRUGI, jednoznacznie odrębny od Radziszewskiego "Marynarz" (zginął V.1951 w grupie "Rysia") — potwierdza, że pseudonim był używany wielokrotnie przez różne osoby.
+- **Obszerne własne zeznanie Parzonki (str. 124-129, 11.12.1952)**: wyczerpujący wykaz napadów/morderstw bandy 1949-1951, w tym OSIEM dotąd nieudokumentowanych zabójstw (Karpiuk x3, Dąbrowski, Mierzejewscy, para z Bujonki, Raczek, dwa morderstwa bandy "Głuszca") — priorytet dla przyszłych osobnych notatek Event. Nowy, brutalny szczegół zabójstwa Koców — pozostawione małe dzieci ofiar.
+- **Trzeci cel operacji "Akademia" (str. 109, własne zeznanie Kamińskiego)**: banda "Głuszca" również była celem tej samej gry operacyjnej MBP (agent "major Stefan"), ale Krasowski rozpoznał prowokację i zastrzelił agenta — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]].
 
 ## Osoby
 

@@ -19,6 +19,7 @@ sources:
   - "SRC-015#p148"
   - "SRC-091#p59"
   - "SRC-095#p70"
+  - "SRC-092#p126-127"
 certainty: "high"
 tags:
   - timeline
@@ -39,6 +40,8 @@ tags:
 Wg wyroku WSR Warszawa (sprawa Sr.251/53): "Huzar" wydał rozkaz oskarżonym Parzonce i Kostro, by zamordowali niewygodnego dla bandy sołtysa gromady Piątki-Żebry, Koca Bartłomieja. Parzonko wykonał to polecenie i osobiście, wystrzałem z pistoletu, pozbawił go życia, zatrzymawszy go uprzednio na drodze; natomiast Kostro wtargnął do mieszkania skazanego i wyciągnął stamtąd jego żonę Stefanię, którą następnie zastrzelił.
 
 **Niezależne potwierdzenie (SRC-091, str. 59)**: opracowanie retrospektywne MSW potwierdza tę samą wersję — bezpośredni sprawcy "Zygmunt" (Parzonko) i "Paweł" (Kostro) — dodając, że przy zabójstwie obecni/współudziałali również sam "Huzar" (Kamiński) i "Lampart" (Natyniec).
+
+**Własne, podpisane zeznanie Parzonki (SRC-092, str. 126-127, 11.12.1952)** — najbardziej szczegółowa dotąd wersja: strzelił do uciekającego sołtysa z automatu P.P.S., zabijając na miejscu. "Huzar" polecił "Pawłowi" (Kostro) zabić żonę — "Lampart" wyprowadził ją do stodoły, gdzie "Paweł" oddał serię z automatu Parzonki (własnej broni jeszcze wtedy nie miał); ponieważ wciąż żyła, "Lampart" pożyczył mu swój pistolet TT, którym dobił ją trzema strzałami. **Nowy, brutalny szczegół: w domu pozostały małe dzieci ofiar.**
 
 ## Osoby
 
