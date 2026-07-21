@@ -16,7 +16,7 @@ original_filename: "BU 01251_41_J akta kontrolno sledcze w sprawie oddziału Par
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 01251_41_J akta kontrolno sledcze w sprawie oddziału Parzonki.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]]"
 reliability: "primary"
-ocr_quality: "dobra dla 231 z 232 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-21) — wcześniejsza próbka tesseract (str. 1, 58) była niereprezentatywna, WIĘKSZOŚĆ dokumentu (233/372 str.) jest w istocie czytelnym rękopisem, nie duplikatem; praca w toku, ok. 95/231 stron dokładnie przejrzanych"
+ocr_quality: "dobra dla 231 z 232 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-21) — wcześniejsza próbka tesseract (str. 1, 58) była niereprezentatywna, WIĘKSZOŚĆ dokumentu (233/372 str.) jest w istocie czytelnym rękopisem, nie duplikatem; praca w toku, ok. 110/231 stron dokładnie przejrzanych"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
