@@ -52,6 +52,10 @@ Zeznanie dot. odrębnego, wojennego (1943) porwania i zamordowania **chłopca Ty
 
 Treść tożsama z już przetworzonym wyrokiem Sr.251/53 (SRC-015).
 
+## Str. 268-283 (numeracja pliku; NIE odpowiada numeracji teczki ze spisu treści str.5) — protokoły świadków, DUPLIKAT już znanego wydarzenia
+
+Seria formalnych protokołów przesłuchań świadków (rodziny/sąsiedzi ofiar) dot. potrójnego/poczwórnego zabójstwa w Pułaziach i Dąbrówce Kościelnej (Kozłowski Eugeniusz, Wyszyński Czesław, Piszczatowski) — **zgodne z już udokumentowanym wydarzeniem z października 1949 r.** (patrz [[Person-Parzonko-Kazimierz-Zygmunt]], akt oskarżenia SRC-015: "Pułazie... Kozłowski Eugeniusz oraz bracia Wyszyńscy... Piszczatowski Władysław"). Nowy szczegół: opis obrażeń Kozłowskiego (postrzał w szyję, roztrzaskana czaszka, seria w pierś) i grabież butów/dokumentów. **Uwaga nawigacyjna**: numeracja plików `strona_NNN.txt` w tej puli NIE odpowiada numeracji stron cytowanej w spisie treści teczki (str. 5) — "akt oskarżenia str. 267-283" wg spisu treści NIE pokrywa się z plikami strona_267-283 (które w rzeczywistości zawierają protokoły świadków ze stemplem "Strona: 0295-0310"). Rzeczywista lokalizacja aktu oskarżenia i wyroku w tej puli plików nieustalona — wymaga dalszego przeszukania.
+
 ## Uwaga metodologiczna
 
-Praca w toku: 231/232 pobranych stron dostępne, dotychczas dokładnie przejrzano ok. 15 (str. 2-3, 5, 11-12, 31, 58, 179-180, 265, 293, 334-355 spot-checked). Pozostałe 139 stron zawierających wzmianki o głównych postaciach (zidentyfikowane grep-em aliasów) czekają na systematyczny odczyt — priorytet dla kolejnej sesji, w szczególności akt oskarżenia (str. 267-283) i wyrok (str. 284-297).
+Praca w toku: 231/232 pobranych stron dostępne, dotychczas dokładnie przejrzano ok. 26 (str. 2-3, 5, 11-12, 31, 58, 179-180, 265, 268-283, 293, 334-355 spot-checked). Pozostałe strony zawierające wzmianki o głównych postaciach (zidentyfikowane grep-em aliasów) czekają na systematyczny odczyt — priorytet dla kolejnej sesji: zlokalizować akt oskarżenia/wyrok wg rzeczywistej numeracji plików (nie wg spisu treści), oraz rozstrzygnąć sprzeczność "Marynarza" (str. 11).
