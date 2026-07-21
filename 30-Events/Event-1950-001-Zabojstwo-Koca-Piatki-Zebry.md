@@ -19,7 +19,7 @@ sources:
   - "SRC-015#p148"
   - "SRC-091#p59"
   - "SRC-095#p70"
-  - "SRC-092#p126-127,177-178"
+  - "SRC-092#p126-127,177-178,355,363"
 certainty: "high"
 tags:
   - timeline
@@ -42,6 +42,8 @@ Wg wyroku WSR Warszawa (sprawa Sr.251/53): "Huzar" wydał rozkaz oskarżonym Par
 **Niezależne potwierdzenie (SRC-091, str. 59)**: opracowanie retrospektywne MSW potwierdza tę samą wersję — bezpośredni sprawcy "Zygmunt" (Parzonko) i "Paweł" (Kostro) — dodając, że przy zabójstwie obecni/współudziałali również sam "Huzar" (Kamiński) i "Lampart" (Natyniec).
 
 **Własne, podpisane zeznanie Parzonki (SRC-092, str. 126-127, 11.12.1952)** — najbardziej szczegółowa dotąd wersja: strzelił do uciekającego sołtysa z automatu P.P.S., zabijając na miejscu. "Huzar" polecił "Pawłowi" (Kostro) zabić żonę — "Lampart" wyprowadził ją do stodoły, gdzie "Paweł" oddał serię z automatu Parzonki (własnej broni jeszcze wtedy nie miał); ponieważ wciąż żyła, "Lampart" pożyczył mu swój pistolet TT, którym dobił ją trzema strzałami. **Nowy, brutalny szczegół: w domu pozostały małe dzieci ofiar.**
+
+**Formalny wyrok WSR Warszawa (SRC-092, str. 355, 363)** potwierdza w pełni: "w dniu 4 października 1950 r. w Piątkach-Zebrach [...] wystrzałem z pistoletu automatycznego pozbawił życia sołtysa Koca Bartłomieja" (Parzonko), oraz osobno wobec Kostry: "działając wspólnie z innymi członkami bandy [...] brał udział w gwałtownym zamachu na sołtysa Koca Bartłomieja, którego zabił Parzonko [...] zaś jego żonę Stefanię wystrzałem z pistoletu maszynowego PPS pozbawił życia sam Kostro" — formalne, niezależne (od zeznań) potwierdzenie sądowe całego przebiegu.
 
 **DRUGIE, niezależne własne zeznanie Kostry — z jego perspektywy, potwierdza wersję Parzonki (SRC-092, str. 177-178)**: Kostro (zapisany tu "Koszko Józef" — kolejny wariant OCR) potwierdza swój udział "z pierwszej ręki" — sam strzelał serią z PS do siedzącej żony sołtysa, dostał od "Lamparta" pistolet TT i oddał kolejne dwa strzały, po czym "Lampart" wziął broń z powrotem i sam strzelił jeszcze raz. **Rozstrzyga wcześniejszą sprzeczność dat wstąpienia Kostry do bandy na korzyść "października 1950"** — to zeznanie umieszcza go w bandzie i uczestniczącego w tym morderstwie już w pierwszych dniach października 1950 r., bezpośrednio po wstąpieniu (patrz [[Person-Kostro-Jozef-Kropki]]). **Nowa, niepewna postać**: dowódcą wydającym rozkazy na miejscu był tu ktoś nazwany "Mazur" — niejasne, czy to alias Huzara, czy odrębna, dotąd nieudokumentowana osoba. Nie rozstrzygnięte.
 

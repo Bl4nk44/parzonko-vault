@@ -4,7 +4,7 @@ uid: "EVENT-1951-006"
 event_id: "EVENT-1951-006"
 title: "Uprowadzenie i powieszenie Tymosiaka Franciszka koło majątku Józefin (ROZSTRZYGNIĘTE: lipiec/sierpień 1948, nie 1951)"
 date: "1948-07-29"
-date_accuracy: "month"
+date_accuracy: "day"
 place: null
 main_person: "PERSON-001"
 people_involved:
@@ -14,6 +14,7 @@ sources:
   - "SRC-095#p269"
   - "SRC-092#p293"
   - "SRC-092#p210-211"
+  - "SRC-092#p358,362"
 certainty: "high"
 tags:
   - timeline
@@ -38,8 +39,9 @@ Podczas odwrotu do lasu Rudzkiego po potyczce z wojskiem (29.07.1948, w której 
 ## Osoby
 
 - [[Person-Tymosiak-Franciszek]] (ofiara)
-- [[Person-Parzonko-Kazimierz-Zygmunt]] (naoczny świadek, nie brał czynnego udziału)
+- [[Person-Parzonko-Kazimierz-Zygmunt]] (wg własnego zeznania: naoczny świadek, nie brał czynnego udziału; wg wyroku: skazany za pomocnictwo, brał udział w uprowadzeniu)
 - [[Person-Gontarczuk-Stanislaw]] (współsprawca, ps. "Rekin")
+- [[Person-Radziszewski-Kazimierz-Marynarz]] (wg wyroku: pomagał "Ponuremu" przy samym powieszeniu — drobna rozbieżność względem składu z zeznania Parzonki, patrz niżej)
 
 ## Miejsce
 
@@ -52,8 +54,10 @@ Las w okolicach majątku Józefin, gm. Brańsk, pow. Bielsk-Podlaski — brak no
 
 ## Sprzeczne relacje
 
-Brak — wcześniejsza pozorna sprzeczność (możliwe dwie różne osoby, różne daty) rozstrzygnięta przez pełne zeznanie w SRC-092 str. 210-211. Jedyna pozostała drobna niepewność: dokładny dzienny termin zabójstwa (ustalone tylko "tego samego dnia lub wieczorem" po potyczce 29.07.1948, więc late lipiec/wczesny sierpień 1948).
+Brak — wcześniejsza pozorna sprzeczność (możliwe dwie różne osoby, różne daty) rozstrzygnięta przez pełne zeznanie w SRC-092 str. 210-211, oraz **NIEZALEŻNIE POTWIERDZONA formalnym wyrokiem WSR Warszawa (Sr.251/53, str. 358, 362)**: "w lipcu 1950 r. [błąd roku w uzasadnieniu — orzeczenie precyzuje: 29 lipca 1948 r.] osk. Radziszewski będąc podówczas razem z bandytą 'Ponurym' pomagał temu ostatniemu do powieszenia na drzewie i pozbawienia życia uprowadzonego ze wsi [Małyszczyn] robotnika rolnego wrogiego bandzie Tymosiaka Franciszka" oraz formalnie: "w dniu 29 lipca 1948 r. w [Małyszczyn], pow. Wysokie-Mazowieckie działając wspólnie z innymi członkami bandy [...] udzielił pomocy do zabicia Tymosiuka Franciszka przez to, że brał udział w jego uprowadzeniu" (Parzonko skazany za pomocnictwo z art. 28 k.k. w zw. z art. 225 § 1 K.K.). **Trzy niezależne źródła (własne zeznanie Parzonki, uzasadnienie i orzeczenie wyroku) zgodne co do dnia 29.07.1948** — data podniesiona z dokładności "miesiąc" na "dzień".
+
+**Drobna rozbieżność składu sprawców przy samym powieszeniu**: własne zeznanie Parzonki (str. 210-211) wymienia "Ponurego", Gontarczuka "Rekina" i "Fredka" jako wykonawców powieszenia, nie wspominając o udziale Radziszewskiego (którego Parzonko w ogóle nie wymienia jako obecnego przy tym zdarzeniu). Wyrok natomiast przypisuje pomoc przy powieszeniu Radziszewskiemu, obok "Ponurego". Możliwe, że obie relacje opisują różne etapy tego samego zdarzenia (uprowadzenie vs samo powieszenie) z udziałem częściowo innych osób na każdym etapie — nierozstrzygnięte, niska szkodliwość dla ogólnego obrazu zdarzenia.
 
 ## Stopień pewności
 
-Wysoki — bezpośrednie, szczegółowe, spójne zeznanie naocznego świadka (Parzonki), z podaniem miejsca uprowadzenia, trasy, motywu i tożsamości trzech sprawców (choć dwóch z nich znanych tylko z pseudonimu).
+Wysoki — bezpośrednie, szczegółowe zeznanie naocznego świadka (Parzonki) niezależnie potwierdzone formalnym wyrokiem sądowym co do daty, miejsca i ogólnego przebiegu (drobna rozbieżność składu sprawców przy samym powieszeniu, patrz wyżej).

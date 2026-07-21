@@ -16,7 +16,7 @@ original_filename: "BU 01251_41_J akta kontrolno sledcze w sprawie oddziału Par
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 01251_41_J akta kontrolno sledcze w sprawie oddziału Parzonki.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]]"
 reliability: "primary"
-ocr_quality: "dobra dla 231 z 232 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-21) — wcześniejsza próbka tesseract (str. 1, 58) była niereprezentatywna, WIĘKSZOŚĆ dokumentu (233/372 str.) jest w istocie czytelnym rękopisem, nie duplikatem; praca w toku, ok. 125/231 stron dokładnie przejrzanych — pozostałe głównie karty formalne świadków o niskiej wartości"
+ocr_quality: "dobra dla 240 z 241 stron dostępnych w puli rękopisów (232 handwritingocr.com API + 9 dodatkowych stron wyroku via API + 2 str. via Gemini 2.5 Pro/OpenRouter, 2026-07-21) — wcześniejsza próbka tesseract była niereprezentatywna; PEŁNY WYROK Sr.251/53 zlokalizowany (str. 353-366) i w większości odczytany; praca w toku, ok. 135/241 stron dokładnie przejrzanych"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -24,10 +24,21 @@ people_mentioned:
   - "PERSON-003"
   - "PERSON-019"
   - "PERSON-011"
+  - "PERSON-086"
+  - "PERSON-087"
+  - "PERSON-088"
+  - "PERSON-089"
+  - "PERSON-090"
+  - "PERSON-091"
 places_mentioned: []
 organizations_mentioned: []
 related_events:
   - "EVENT-1951-002"
+  - "EVENT-1949-002"
+  - "EVENT-1950-003"
+  - "EVENT-1951-006"
+  - "EVENT-1950-001"
+  - "EVENT-1951-001"
 tags:
   - type/source
   - source/ipn
@@ -56,6 +67,7 @@ tags:
 - **Obszerne własne zeznanie Parzonki (str. 124-129, 11.12.1952)**: wyczerpujący wykaz napadów/morderstw bandy 1949-1951, w tym OSIEM dotąd nieudokumentowanych zabójstw (Karpiuk x3, Dąbrowski, Mierzejewscy, para z Bujonki, Raczek, dwa morderstwa bandy "Głuszca") — priorytet dla przyszłych osobnych notatek Event. Nowy, brutalny szczegół zabójstwa Koców — pozostawione małe dzieci ofiar.
 - **Trzeci cel operacji "Akademia" (str. 109, własne zeznanie Kamińskiego)**: banda "Głuszca" również była celem tej samej gry operacyjnej MBP (agent "major Stefan"), ale Krasowski rozpoznał prowokację i zastrzelił agenta — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]].
 - **ROZSTRZYGNIĘTE — zabójstwo Tymosiaka Franciszka (str. 210-211)**: pełne, własne zeznanie Parzonki jako naocznego świadka rozwiązuje wcześniejszą niepewność z SRC-095/wstępnego odczytu SRC-092 str. 293 — poprawna data to koniec lipca/początek sierpnia 1948 r. (nie 1943 ani 1951), sprawcy to "Ponury", Gontarczuk "Rekin" i "Fredek" z bandy "Młota". Patrz zaktualizowany [[Event-1951-006-Zabojstwo-Tymosiaka]].
+- **ZLOKALIZOWANY I ODCZYTANY PEŁNY WYROK Sr.251/53 (str. 353-366)** — dotąd znany tylko fragmentarycznie. Precyzyjne daty dzienne dla kilku wcześniej mniej dokładnie datowanych zdarzeń (Pułazie 26.10.1949 — nowe notatki [[Event-1949-002-Zabojstwa-Pulazie-Dabrowka-Koscielna]], Gabrysin 11.03.1950 — [[Event-1950-003-Napad-lesniczowka-Gabrysin]]), pełny wymiar kar (wszyscy czterej skazani na śmierć), niezależne potwierdzenie kluczowych zabójstw (Koc, Zajęczniki, Tymosiak). Nowy, nierozstrzygnięty wariant imienia: "Lejzerowicz Mikołaj" zamiast ustalonego "Michał". 2 z 241 stron (365-366) odczytane przez Google Gemini 2.5 Pro (OpenRouter) po wyczerpaniu limitu handwritingocr.com — model dał najlepsze wyniki spośród testowanych (gpt-4o, claude-sonnet-4.5, qwen2.5-vl-72b), zweryfikowany krzyżowo z już potwierdzoną treścią sąsiedniej strony.
 
 ## Osoby
 

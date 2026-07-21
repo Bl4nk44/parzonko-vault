@@ -107,6 +107,18 @@ Str. 252-255 i 262-264 to dwa odpisy tej samej, obszernej odpowiedzi Parzonki na
 
 Jasińska Zofia (wdowa po Jasińskim Franciszku) zeznaje o zwrocie legitymacji partyjnej męża sekretarzowi Partii podczas pogrzebu — zgodne z już znaną wersją [[Event-1951-002-Zabojstwo-Jasinskiego]]. Pozostałe strony (288, 319) to same karty rejestracyjne świadków bez treściowej wartości.
 
+## Str. 353-366 — PEŁNY TEKST WYROKU WSR WARSZAWA Sr.251/53 (31.03.1953) — ZLOKALIZOWANY
+
+**Numeracja pliku NIE odpowiada spisowi treści** (teczka wskazuje str. 284-297, faktyczne pliki to strona_353 do strona_366+). Str. 353-364 odczytane (9 stron via handwritingocr.com, 2 str. — 365, 366 — via Google Gemini 2.5 Pro przez OpenRouter, po tym jak Mistral Large i inne testowane modele zawiodły — patrz niżej). Str. 359, 361, 367-371 (koniec wyroku, dot. formalności/pouczenia o apelacji) już wcześniej w puli, nieprzeczytane szczegółowo w tej sesji.
+
+**Skład sądu**: WSR Warszawa, sesja wyjazdowa w Ciechanowcu, 30-31.03.1953. Przewodniczący mjr Jęczmyk Edward, sędziowie mjr Płonka Jan i por. Paramonow Jan, prokurator ppłk Ligięza Henryk. Obrońcy z urzędu z Białegostoku: adw. Boliński Ireneusz (Parzonko), adw. Plackowski Marian (Radziszewski), adw. Majewski Alojzy (Kostro i Mościcki).
+
+**Uzasadnienie (str. 354-358)**: obszerny, narracyjny opis działalności całej bandy "Huzara" i czynów każdego z czterech oskarżonych — w większości koroboruje już ustaloną chronologię (zabójstwo konwojenta 1946, Pułazie/Wyszyńscy/Kozłowski październik 1949 — **precyzyjna data 26.10.1949**, napad Gabrysin 11.03.1950, Koc 4.10.1950, Sawice/Hardej styczeń 1951, Zajęczniki 30.04.1951, Jasiński 30.07.1951, Olemiuk sierpień 1952). Nowy fakt: sąd formalnie stwierdza organizacyjne powiązanie "Miecza i Pługa" z wywiadem hitlerowskim jako rzekomo "notoryjnie znane" (traktować z ostrożnością — to prokuratorska narracja, nie niezależny dowód).
+
+**Orzeczenie (str. 360, 362-366)**: szczegółowa lista zarzutów punkt po punkcie dla każdego oskarżonego, z precyzyjnymi datami dziennymi (część dotąd nieznana z taką dokładnością) oraz dokładny wymiar kary za każdy epizod osobno, połączony w karę łączną. **Wszyscy czterej skazani na karę śmierci** (kara łączna), z utratą praw publicznych na zawsze i przepadkiem mienia — zgodne z już znanym wynikiem procesu, ale teraz z pełnym rozbiciem na poszczególne czyny i artykuły. Nowy, dotąd nieznany epizod: Parzonko skazany też z art. 191 KK (2 lata więzienia) — treść czynu nieustalona z odczytanego fragmentu, priorytet do wyjaśnienia.
+
+**Metodologia odczytu str. 365-366**: strony te wykluczono z pierwotnej wysyłki do handwritingocr.com (błąd filtra — tesseract dawał na pozór "czytelne" ilości polskich słów kluczowych, ale tekst był w rzeczywistości nieczytelnym szumem). Po wyczerpaniu ustalonego limitu API (241 stron), przetestowano bezpośrednio przez OpenRouter kilka modeli wizyjnych (gpt-4o, claude-sonnet-4.5, gemini-2.5-pro, qwen2.5-vl-72b) na tej samej stronie — **Gemini 2.5 Pro zdecydowanie najlepszy**, dający spójny, wewnętrznie zgodny tekst z poprawną sygnaturą sprawy i nazwiskami, podczas gdy pozostałe modele dawały nieczytelny szum lub (w przypadku wcześniej używanego Mistral Large, patrz ostrzeżenie w `scripts/vision_ocr.py`) ryzyko halucynacji. Wynik zweryfikowany krzyżowo przez porównanie z już potwierdzoną (via handwritingocr.com) treścią str. 353 — niemal dosłowna zgodność, wysoka pewność poprawności.
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.
