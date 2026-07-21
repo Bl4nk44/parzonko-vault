@@ -1,7 +1,7 @@
 {
   "counters": {
     "SRC": 143,
-    "PERSON": 92,
+    "PERSON": 93,
     "PLACE": 32,
     "EVENT:1953": 4,
     "EVENT:1948": 5,
@@ -9,7 +9,7 @@
     "EVENT:1950": 3,
     "EVENT:1946": 2,
     "EVENT:1952": 4,
-    "EVENT:1949": 2,
+    "EVENT:1949": 3,
     "EVENT:1947": 1
   },
   "aliases": {

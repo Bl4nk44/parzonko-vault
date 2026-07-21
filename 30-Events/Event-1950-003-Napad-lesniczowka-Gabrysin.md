@@ -48,6 +48,7 @@ Leśniczówka w Gabrysinie, pow. Wysokie Mazowieckie — brak notatki miejsca.
 
 - [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] — str. 355, 360 (wyrok WSR Warszawa Sr.251/53 — precyzyjna data i kwota)
 - [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 70 (wcześniejsza, mniej precyzyjna wzmianka, ta sama data)
+- [[IPN-BU-1069-134-t2-Zeznania-Wichura-Parzonko-Radziszewski]] (SRC-055, str. 63, dopisek do własnego zeznania Parzonki) — kolejna, niezależna wzmianka: napad na leśniczówkę z Niemyjskim Julianem ps. "Krakus", ok. 40 000 zł — rok w tym odczycie niepewny ("III 1952"?, prawdopodobnie błąd odczytu roku, treść i kwota pasują do 11.03.1950)
 
 ## Sprzeczne relacje
 

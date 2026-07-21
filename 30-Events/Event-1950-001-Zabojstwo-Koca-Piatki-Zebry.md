@@ -20,6 +20,7 @@ sources:
   - "SRC-091#p59"
   - "SRC-095#p70"
   - "SRC-092#p126-127,177-178,355,363"
+  - "SRC-054#p34-35"
 certainty: "high"
 tags:
   - timeline
@@ -44,6 +45,8 @@ Wg wyroku WSR Warszawa (sprawa Sr.251/53): "Huzar" wydał rozkaz oskarżonym Par
 **Własne, podpisane zeznanie Parzonki (SRC-092, str. 126-127, 11.12.1952)** — najbardziej szczegółowa dotąd wersja: strzelił do uciekającego sołtysa z automatu P.P.S., zabijając na miejscu. "Huzar" polecił "Pawłowi" (Kostro) zabić żonę — "Lampart" wyprowadził ją do stodoły, gdzie "Paweł" oddał serię z automatu Parzonki (własnej broni jeszcze wtedy nie miał); ponieważ wciąż żyła, "Lampart" pożyczył mu swój pistolet TT, którym dobił ją trzema strzałami. **Nowy, brutalny szczegół: w domu pozostały małe dzieci ofiar.**
 
 **Formalny wyrok WSR Warszawa (SRC-092, str. 355, 363)** potwierdza w pełni: "w dniu 4 października 1950 r. w Piątkach-Zebrach [...] wystrzałem z pistoletu automatycznego pozbawił życia sołtysa Koca Bartłomieja" (Parzonko), oraz osobno wobec Kostry: "działając wspólnie z innymi członkami bandy [...] brał udział w gwałtownym zamachu na sołtysa Koca Bartłomieja, którego zabił Parzonko [...] zaś jego żonę Stefanię wystrzałem z pistoletu maszynowego PPS pozbawił życia sam Kostro" — formalne, niezależne (od zeznań) potwierdzenie sądowe całego przebiegu.
+
+**Nowy szczegół — możliwa ciąża ofiary (SRC-054, str. 34-35, własne zeznanie Kamińskiego "Huzara")**: podaje, że żona Koca była w ciąży w chwili zabójstwa — szczegół nieobecny w pozostałych, liczniejszych źródłach (które mówią o "małych dzieciach" pozostawionych w domu, nie o ciąży). Możliwe, że to dodatkowy, wcześniej nieznany fakt, albo pomyłka/konfabulacja jednego świadka — nierozstrzygnięte, nie zmieniono głównego opisu.
 
 **DRUGIE, niezależne własne zeznanie Kostry — z jego perspektywy, potwierdza wersję Parzonki (SRC-092, str. 177-178)**: Kostro (zapisany tu "Koszko Józef" — kolejny wariant OCR) potwierdza swój udział "z pierwszej ręki" — sam strzelał serią z PS do siedzącej żony sołtysa, dostał od "Lamparta" pistolet TT i oddał kolejne dwa strzały, po czym "Lampart" wziął broń z powrotem i sam strzelił jeszcze raz. **Rozstrzyga wcześniejszą sprzeczność dat wstąpienia Kostry do bandy na korzyść "października 1950"** — to zeznanie umieszcza go w bandzie i uczestniczącego w tym morderstwie już w pierwszych dniach października 1950 r., bezpośrednio po wstąpieniu (patrz [[Person-Kostro-Jozef-Kropki]]). **Nowa, niepewna postać**: dowódcą wydającym rozkazy na miejscu był tu ktoś nazwany "Mazur" — niejasne, czy to alias Huzara, czy odrębna, dotąd nieudokumentowana osoba. Nie rozstrzygnięte.
 

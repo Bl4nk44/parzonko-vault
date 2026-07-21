@@ -9,8 +9,8 @@ surname: "Kamiński"
 aliases:
   - "Huzar"
 gender: "M"
-birth_date: null
-birth_date_accuracy: "unknown"
+birth_date: "1919-01-08"
+birth_date_accuracy: "day"
 birth_place: "PLACE-009"
 death_date: null
 death_date_accuracy: "unknown"
@@ -79,6 +79,8 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 
 ## Chronologia życia
 
+- 1919-01-08 — urodzony w Markowej Wólce, gm. Piekuty/Tykocin pow. Wysokie Mazowieckie (SRC-054, str. 4, własne zeznanie — dotąd nieznana data urodzenia)
+- 1945-1947 — pseudonim okupacyjny/wczesnokonspiracyjny "Grzyb" (SRC-054, str. 56-60, własne zeznanie) — różny od późniejszego "Huzar"
 - ~1947 — połączenie z resztkami bandy "Młota" po amnestii, przejęcie dowództwa po jej likwidacji
 - 1948-07 — [[Event-1948-005-Potyczka-Ciechanowiec-Dybowscy]] (śmierć dwóch podwładnych w potyczce z wojskiem)
 - 1949-10-26 — [[Event-1949-002-Zabojstwa-Pulazie-Dabrowka-Koscielna]] (poczwórne zabójstwo w Pułaziach/Dąbrówce-Kościelnej; SRC-086 podaje tę samą zbrodnię z błędną datą "26.01.1949" — scalone, patrz notatka wydarzenia)
