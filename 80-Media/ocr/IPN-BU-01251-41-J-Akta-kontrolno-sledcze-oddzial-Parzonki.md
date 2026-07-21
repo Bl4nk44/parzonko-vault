@@ -99,6 +99,10 @@ Kolejne zeznania Mościckiego/Kostry: rozbudowany wykaz melin w regionie Radzisz
 
 Rozbudowane wykazy melin i drobnych kontaktów (dziesiątki nazwisk, głównie kol. Czaje-Bagno/Matyszyn/Korionki/Krynki-Białokunki) oraz formalne podsumowanie prokuratorskie (str. 221-226) potwierdzające już znane daty głównych zabójstw (Jasiński 30.07.1951, Olemiuk 22.08.1952, Zajęczniki 30.04-1.05.1951, napad Raczyny 17.04.1951). Str. 247-248: nowy drobny szczegół — Golewski Bronisław (Czaje-Wólka) dał Parzonce automat PPS po amnestii 1947 r., z którym przyszedł do bandy "Huzara". Bez innych nowych faktów.
 
+## Str. 252-264 — DUPLIKAT (dwa niemal identyczne odpisy tego samego zeznania Parzonki)
+
+Str. 252-255 i 262-264 to dwa odpisy tej samej, obszernej odpowiedzi Parzonki na pytanie o akcje band w latach 1949-1951 — zgodne z już udokumentowanymi wydarzeniami (Pułazie/Kozłowski/Wyszyńscy, Piątki/Koc, Zajęczniki/Burzyński-Lejzerowicz, Jasiński). Potwierdza mechanizm: **każdy nowy członek bandy musiał dokonać "chrzczącego" morderstwa** (motyw: taki członek się nie podda). Potwierdza już znaną listę 19 nazwisk od "Wiewiórki" (Głuszec) jako źródło informacji o Burzyńskim/Lejzerowiczu (zgodne z SRC-021). Bez nowych faktów poza drobnymi wariantami zapisu nazwisk (efekt dwóch niezależnych odpisów tego samego dokumentu).
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.
