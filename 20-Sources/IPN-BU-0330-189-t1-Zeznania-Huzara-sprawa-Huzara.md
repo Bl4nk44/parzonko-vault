@@ -16,7 +16,7 @@ original_filename: "BU_0_330_189_t1 ZEZNANIA HUZARA SPRAWA HUZARA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t1 ZEZNANIA HUZARA SPRAWA HUZARA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t1-Zeznania-Huzara-sprawa-Huzara]]"
 reliability: "primary"
-ocr_quality: "dobra dla 45 z 308 stron (odczyt handwritingocr.com API, 2026-07-20); reszta nieczytelna"
+ocr_quality: "dobra — CAŁY DOKUMENT (154/154 str.) przeczytany systematycznie (2026-07-21): 45 str. przez handwritingocr.com (2026-07-20), reszta przez Claude/subagentów (render PDF→obraz, odczyt bezpośredni, bez API)."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
@@ -39,7 +39,7 @@ tags:
 
 ## Opis dokumentu
 
-45 z 308 stron odczytane 2026-07-20 przez API handwritingocr.com — własne, wielokrotne zeznania Kazimierza Kamińskiego (Kamieńskiego) ps. "Huzar" ([[Person-Kaminski-Kazimierz-Huzar]]), październik 1952 – luty 1953. To **najbardziej szczegółowa relacja operacji "Rytel"/"Rygiel" odnaleziona w korpusie**, opowiedziana z perspektywy głównego celu operacji, uzupełniająca retrospektywne opracowania (SRC-091) i fragmenty z perspektywy agentki (SRC-116). Pozostałe 263 strony wciąż nieczytelne — wysoki priorytet dalszej transkrypcji.
+Cały dokument (154/154 str.) przeczytany — własne, wielokrotne zeznania Kazimierza Kamińskiego (Kamieńskiego) ps. "Huzar" ([[Person-Kaminski-Kazimierz-Huzar]]), październik 1952 – luty 1953, plus (str. 111-154) akt oskarżenia MBP z 13.03.1953 i "Plan Procesu" z 26.03.1953. To **najbardziej szczegółowa relacja operacji "Rytel"/"Rygiel" odnaleziona w korpusie**, opowiedziana z perspektywy głównego celu operacji, uzupełniająca retrospektywne opracowania (SRC-091) i fragmenty z perspektywy agentki (SRC-116).
 
 ## Najważniejsze ustalenia
 
@@ -50,6 +50,11 @@ tags:
 - **Dokładna trasa i mieszkanie po przyjeździe do Warszawy** (15.10.1952): dworzec Wileński → most Poniatowskiego → mieszkanie na trzecim piętrze (nr 38 lub 48) u kobiety ok. 60 lat, gdzie Kamiński przebywał aż do aresztowania.
 - **Nieudana próba ostatniego kontaktu z Parzonką przed aresztowaniem**: 13.10.1952 Kamiński wysłał Kryńskiego "Rokitę" do "Zygmunta" z wiadomością o spotkaniu 25/26.10, ale do spotkania nie doszło (obawa wyjścia w dzień wyborów sejmowych) — kolejna próba przez pośrednika Rudziewskiego również nieudana.
 - Włostowski Witold (Radziszewo-Sieńczuch) — nowy, potwierdzony punkt kontaktowy do łączności z grupą "Zygmunta" od początku 1952 r.
+- **Formalny podział na dwa procesy** (str. 153, "Plan Procesu"): sprawa Kamińskiego/Grodzkiego/Zalewskiego/Kryńskiego osądzona w Łapach, sprawa Parzonki/Radziszewskiego/Mościckiego/Kostry osobno w Ciechanowcu — patrz [[Person-Parzonko-Kazimierz-Zygmunt]].
+- **Poważny, niepotwierdzony zarzut wobec Grodzkiego Mieczysława** (str. 122, akt oskarżenia): opisany jako "były płatny agent gestapo ps. 'Renald'" — traktować z ostrożnością (dokument prokuratorski stalinowski), patrz [[Person-Grodzki-Mieczyslaw-Zubryd]].
+- **Śmierć Niemyjskiego "Krakusa" doprecyzowana**: samobójstwo podczas okrążenia przez wojsko w Łapach, 19.08.1952, dzień po zakopaniu broni i korespondencji "Akademii" (nigdy nieodnalezionej) — patrz [[Person-Niemyjski-Lucjan-Krakus]].
+- Rytel Franciszek — realna osoba (gospodarz, dostawca żywności dla bandy przez ks. Borysiewicza), nie mylić z Terlikowskim ps. "Rytel"/"Rygiel" (agent operacji).
+- Rozbudowana sieć melin i informatorów (dziesiątki nazwisk, str. 26-41) — pełny wykaz w tekście źródłowym.
 
 ## Osoby
 

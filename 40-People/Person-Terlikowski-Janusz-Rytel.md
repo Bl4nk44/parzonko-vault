@@ -27,6 +27,7 @@ related_persons:
 key_sources:
   - "SRC-024"
   - "SRC-038"
+  - "SRC-097"
 certainty: "high"
 tags:
   - type/person
@@ -53,8 +54,8 @@ Janusz Terlikowski, lekarz, mieszkaniec pow. Bielsk Podlaski, dawny znajomy Kazi
 
 ## Chronologia życia
 
-- 1951-10 (początek) — nawiązanie kontaktu z Parzonką z polecenia Departamentu III MBP
-- 1951-11 (koniec) — spotkanie z "Huzarem", zaproponowanie mu stanowiska "Komendanta Okręgu" fikcyjnej organizacji "Akademia"
+- 1951-10 (początek) — nawiązanie kontaktu z Parzonką z polecenia Departamentu III MBP; wg SRC-097 (str. 9-12) pierwsze spotkanie odbyło się w mieszkaniu Łapińskiego Władysława w Łapach-Bocianach, Terlikowski przekazał wówczas Parzonce 10-12 tys. zł
+- 1951-11 (koniec) — spotkanie z "Huzarem", zaproponowanie mu stanowiska "Komendanta Okręgu" fikcyjnej organizacji "Akademia"; przy drugim spotkaniu przekazał Kamińskiemu 50 dolarów (SRC-097, str. 17-20); "Bartłomiej", komendant "Akademii", opisany jako pułkownik
 - 1952-11/12 — finał operacji, aresztowanie "Huzara" i ok. 10 członków bandy w Warszawie
 
 ## Najważniejsze źródła
