@@ -15,8 +15,8 @@ pages: 176
 original_filename: "BU 1069_134 _t1 ZEZNANIA HUZAR, ROKITA, ZBYSZEWK.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 1069_134 _t1 ZEZNANIA HUZAR, ROKITA, ZBYSZEWK.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-134-t1-Zeznania-Huzar-Rokita-Zbyszek]]"
-reliability: "uncertain"
-ocr_quality: "dobra — str. 1-60 z 176 przeczytane systematycznie (2026-07-21) przez Claude/subagentów (render PDF→obraz, odczyt bezpośredni, bez API). Reszta (61-176) w toku."
+reliability: "confirmed"
+ocr_quality: "dobra — CAŁY DOKUMENT (str. 1-175, str. 176 nie istnieje) przeczytany systematycznie (2026-07-21) przez Claude/subagentów (render PDF→obraz, odczyt bezpośredni, bez API)."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
@@ -38,12 +38,14 @@ Obszerne (176 stron) akta sprawy SR-216/53-T-I przeciwko Kazimierzowi Kamińskie
 
 ## Najważniejsze ustalenia
 
-Str. 1-60 przeczytane — to głównie własne, wielosesyjne zeznanie Kamińskiego "Huzara" (protokoły z X-XII.1952 i I.1953), nie Kryńskiego/Zalewskiego (ich zeznania najpewniej w dalszej części tomu). Kluczowe: data urodzenia Kamińskiego (8.01.1919, Markowa Wólka), pełny skład i struktura patroli bandy 1949-1952, potwierdzenie tożsamości "Zygmunta"=Parzonko jako dowódcy 4-osobowego patrolu, okoliczności śmierci Łukasiuka "Młota" (czerwiec 1949, zabity przez Dybowskiego Czesława w odwecie), liczne dotąd nieudokumentowane zabójstwa i napady dokonane przez INNE patrole bandy (Ponury, Lampart, Ryś) — nie bezpośrednio przez grupę Parzonki.
+Dokument w pełni przeczytany (175/175 str.). Str. 1-96: wielosesyjne własne zeznanie Kamińskiego "Huzara" — data urodzenia (8.01.1919, Markowa Wólka), historia AK/WiN 1942-47, powstanie niezależnej bandy po odmowie ujawnienia się (amnestia 1947), struktura patroli 1949-1952, okoliczności śmierci Łukasiuka "Młota" (czerwiec 1949). Str. 97-165: zeznania Zalewskiego Wacława ps. "Zbyszek" — historia bandy od 1946, liczne zabójstwa/napady INNYCH patroli (Ponury, Ryś, Rekin), skorygowane w toku śledztwa (m.in. "Zygmunt" oczyszczony z zarzutu zabójstwa w Rudce). Str. 166-175: osobne zeznanie Kryńskiego Tadeusza ps. "Rokita" — własna biografia w bandzie, lista 19 członków z datami śmierci, potwierdzenie ciągłej przynależności do grupy "Zygmunta" (Parzonki) aż do aresztowania.
 
 ## Osoby
 
 - [[Person-Kaminski-Kazimierz-Huzar]] — główny podmiot akt
 - [[Person-Krynski-Tadeusz-Rokita]] — współoskarżony
+- [[Person-Zalewski]] — współoskarżony (ps. "Zbyszek"/"Bryś")
+- [[Person-Parzonko-Kazimierz-Zygmunt]] — dowódca powiązanej grupy "Zygmunta"
 
 ## Miejsca
 
@@ -59,5 +61,5 @@ Pełny tekst OCR: [[80-Media/ocr/IPN-BU-1069-134-t1-Zeznania-Huzar-Rokita-Zbysze
 
 ## Uwagi o jakości i niepewności
 
-- Str. 61-176 jeszcze nieprzeczytane — kontynuacja w toku (subagenty równoległe).
-- Odczyt metodą render PDF→obraz + odczyt bezpośredni (Claude, multimodalnie), bez zewnętrznego API.
+- Odczyt metodą render PDF→obraz + odczyt bezpośredni (Claude, multimodalnie, częściowo przez subagentów równoległych), bez zewnętrznego API.
+- Kilka niespójności aliasów/imion wewnątrz samego dokumentu (np. "Rekin" raz jako Gontarczuk Józef, raz Stanisław) — patrz odpowiednie notatki osobowe.
