@@ -16,7 +16,7 @@ original_filename: "Bi 012_1231 tom 3 AKTA HUZAR 49-52 BIELSK PODLASKI WYKAZ ODD
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1231 tom 3 AKTA HUZAR 49-52 BIELSK PODLASKI WYKAZ ODDZIAŁU.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1231-t3-Wykaz-oddzialu-Huzar]]"
 reliability: "primary"
-ocr_quality: "zróżnicowana (str. 3: dobra, pełny skład osobowy; str. 11-12: bardzo słaba, silnie zniekształcony maszynopis z tabelą; str. 13: dobra)"
+ocr_quality: "dobra — 13 stron dostępnych w tej kwerendzie przeczytane 2026-07-21 przez Claude/subagenta (wycinek z 231-stronicowej teczki). Pełny skład osobowy bandy, genealogia rodziny Parzonki, aliasy 'Wiarus' (Zalewski) i kolizja 'Wichura' (Zalewski Jan, inna banda)."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

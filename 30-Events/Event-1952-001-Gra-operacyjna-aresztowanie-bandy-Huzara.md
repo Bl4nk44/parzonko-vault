@@ -21,6 +21,7 @@ sources:
   - "SRC-038#p78-79"
   - "SRC-091#p88-90,140,149"
   - "SRC-118#p13,29"
+  - "SRC-050"
   - "SRC-097#p10-14,44-49,100-103"
   - "SRC-092#p109"
 certainty: "high"
@@ -78,3 +79,7 @@ Brak — spójna, szczegółowa relacja jednego źródła (retrospektywne opraco
 ## Stopień pewności
 
 Wysoki — dokument to profesjonalne, wewnętrzne podsumowanie UB sporządzone z dostępem do pełnej dokumentacji operacyjnej sprawy, spójne z innymi źródłami korpusu co do dat i osób.
+
+## Uwaga metodologiczna — wiarygodność zeznań z okresu śledztwa (2026-07-21)
+
+**Ważne dla oceny WSZYSTKICH zeznań złożonych przez aresztowanych 1952-1953** (Kamiński, Radziszewski, Parzonko, Kryński, Zalewski i in.): własne zeznanie Kryńskiego Tadeusza przed GKBZpNP (SRC-050, 4.11.1992) opisuje szczegółowo tortury stosowane przez MBP wobec niego podczas śledztwa — bicie do nieprzytomności, uderzenia kolbą karabinu, wymuszone klęczenie, podwieszanie na hakach. Kryński wprost zaznacza, że jego ówczesne zeznania były "niezawsze zgodne z prawdą". Potwierdza też, że współoskarżony Niemyjski Lucjan "Krakus" był torturowany identycznie, przyznał się pod przymusem, a na rozprawie pokazowej w Klukowie odwołał zeznania. **Nie podważa to ustalonych faktów (dat, miejsc, ról) potwierdzonych krzyżowo wieloma niezależnymi źródłami, ale nakazuje dodatkową ostrożność wobec szczegółów znanych tylko z jednego zeznania śledczego z tego okresu** — szczególnie tam, gdzie zeznający obciąża siebie lub innych bez potwierdzenia z innego, niezależnego źródła.

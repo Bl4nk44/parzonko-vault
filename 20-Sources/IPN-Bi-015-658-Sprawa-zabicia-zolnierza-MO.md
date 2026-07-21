@@ -16,7 +16,7 @@ original_filename: "Bi 015_658 SPRAWA ZABICIA ŻOŁNIERZA NA POSTERUNKU MO.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 015_658 SPRAWA ZABICIA ŻOŁNIERZA NA POSTERUNKU MO.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-015-658-Sprawa-zabicia-zolnierza-MO]]"
 reliability: "primary"
-ocr_quality: "słaba (większość stron: dokumenty poszyte/przekrzywione, str. 2 nieczytelna w całości; str. 9 i 11 dobrej jakości)"
+ocr_quality: "dobra — cały dokument (12/12 str.) przeczytany 2026-07-21 przez Claude/subagenta. Zabójstwo żołnierza KBW w Radziszewie-Królach (18.10.1948), podejrzani: Parzonko ps. 'Wicher', Radziszewski Mieczysław ps. 'Zagłoba' (inna osoba niż Radziszewski Kazimierz), Akacki/Skacki Zygmunt."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

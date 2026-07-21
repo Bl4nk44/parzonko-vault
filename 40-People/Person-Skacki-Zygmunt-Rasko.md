@@ -25,6 +25,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-114"
+  - "SRC-011"
 certainty: "medium"
 tags:
   - type/person
@@ -54,6 +55,8 @@ Zygmunt Skacki ps. "Rasko"/"Rajsko" — kolega Kazimierza Parzonki od 1943 r., r
 - [[IPN-BU-0330-189-t18-Akta-sledztwa-Kaminski]] — str. 4-8
 
 ## Niepewności i sprzeczności
+
+- **Prawdopodobny wariant nazwiska "Akacki" (IPN-Bi-015-658, meldunek śledczy 16.11.1948)**: wskazuje jako podejrzanego o zabójstwo żołnierza KBW w Radziszewie-Królach (18.10.1948) "Akackiego Zygmunta, zam. kol. Skorzec, gm. Ciechanowiec" — niemal na pewno ta sama osoba (zbieżna kolonia Skowiec/Skorzec, imię, region, okres) z odmiennym zapisem nazwiska. Nie scalono formalnie (różnica nazwisk zbyt duża, by uznać za pewny błąd OCR bez dalszego potwierdzenia), ale silna poszlaka tożsamości.
 
 - Nie ustalono, czy to on, czy Parzonko, był adresatem słów ofiary Jasińskiego "Zygmuncie, co robisz" — istniejące, dobrze udokumentowane zeznania (SRC-095, SRC-091) jednoznacznie przypisują to zabójstwo Radziszewskiemu (strzelał) i Parzonce (obecny/dobił) — rola Skackiego w tym zdarzeniu, jeśli w ogóle miała miejsce, pozostaje niejasna i nie potwierdzona w głównym nurcie źródeł.
 - Dane osobowe (data urodzenia, dalsze losy) nieznane.

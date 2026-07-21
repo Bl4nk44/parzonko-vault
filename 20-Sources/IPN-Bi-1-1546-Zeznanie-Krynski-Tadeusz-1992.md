@@ -16,7 +16,7 @@ original_filename: "Bi 1_1546 zeznania Rokity 1992.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 1_1546 zeznania Rokity 1992.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-1-1546-Zeznanie-Krynski-Tadeusz-1992]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (karta informacyjna i pismo przewodnie czytelne; właściwe zeznanie str. 6-10 nieczytelne)"
+ocr_quality: "dobra — cały dokument (10/10 str.) przeczytany 2026-07-21 przez Claude/subagenta. Zeznanie Kryńskiego przed GKBZpNP (1992): opis tortur MBP, potwierdzenie egzekucji Parzonki."
 main_person: "PERSON-042"
 people_mentioned:
   - "PERSON-042"
