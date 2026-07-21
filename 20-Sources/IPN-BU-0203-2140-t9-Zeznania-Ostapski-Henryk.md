@@ -11,12 +11,12 @@ date_accuracy: "unknown"
 place_document: null
 language:
   - pl
-pages: 10
+pages: 5
 original_filename: "BU_0_203_2140_t9 ZEZNANIA OPTSAWSKI HENRYK.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t9 ZEZNANIA OPTSAWSKI HENRYK.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t9-Zeznania-Ostapski-Henryk]]"
 reliability: "not-applicable"
-ocr_quality: "prawie całkowicie puste/nieczytelne, tylko 10 stron"
+ocr_quality: "dobra — cały dokument (5/5 str.) przeczytany 2026-07-21 przez Claude/subagenta. Zeznanie Ostapskiego Henryka (24.05.1952) — korespondencja Huzar/Lampart/Zygmunt, punkty kontaktowe, podział terenu Lampart/Zygmunt (20.04.1952)."
 main_person: null
 people_mentioned:
   - "PERSON-052"

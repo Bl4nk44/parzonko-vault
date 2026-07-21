@@ -11,12 +11,12 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 22
+pages: 11
 original_filename: "BU_0_330_189_t18.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t18.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t18-Akta-sledztwa-Kaminski]]"
 reliability: "primary"
-ocr_quality: "dobra dla 2 z 22 stron (odczyt handwritingocr.com API, 2026-07-20); reszta niemal całkowicie nieczytelna"
+ocr_quality: "dobra — cały dokument (11/11 str.) przeczytany 2026-07-21 przez Claude/subagenta. Nowa osoba Skacki Zygmunt ps. 'Rasko' (kolega Parzonki od 1943), nowy członek patrolu Kosk Paweł, lokalizacja ukrywania Skowiec (1948)."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"

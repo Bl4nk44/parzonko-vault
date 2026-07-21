@@ -16,7 +16,7 @@ original_filename: "BU_0_330_189_t29.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t29.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t29-Nieczytelny]]"
 reliability: "primary"
-ocr_quality: "dobra dla 1 z 6 stron (odczyt handwritingocr.com API, 2026-07-20); reszta nieczytelna"
+ocr_quality: "dobra — cały dokument (3/3 str.) przeczytany 2026-07-21 przez Claude/subagenta (render PDF→obraz). Głównie indeks alfabetyczny osób, poz.1 potwierdza alias Parzonki 'Wichura'."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"

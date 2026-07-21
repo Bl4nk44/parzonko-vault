@@ -11,12 +11,12 @@ date_accuracy: "unknown"
 place_document: "Warszawa"
 language:
   - pl
-pages: 14
+pages: 7
 original_filename: "BU_0_330_189_t27.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t27.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t27-Nieczytelny]]"
 reliability: "unusable"
-ocr_quality: "całkowicie nieczytelna lub pusta"
+ocr_quality: "dobra — cały dokument (7/7 str.) przeczytany 2026-07-21 przez Claude/subagenta. Meldunek ws. przerzutu Grek/Żubryt (VIII.1952), doniesienie Ryglewski ws. dochodzenia Zygmunta ws. Głuszca (XI.1951)."
 main_person: null
 people_mentioned:
   - "PERSON-002"

@@ -11,12 +11,12 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 12
+pages: 6
 original_filename: "Książka ewidencji depozytów.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Książka ewidencji depozytów.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Ksiazka-ewidencji-depozytow-MBP]]"
 reliability: "confirmed"
-ocr_quality: "słaba, wpis nazwisk czytelny w formie listy"
+ocr_quality: "dobra — cały dokument (6/6 str.) przeczytany 2026-07-21 przez Claude/subagenta. Str.6 poz.994: wpis depozytowy Parzonko Kazimierz, nr 4701."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

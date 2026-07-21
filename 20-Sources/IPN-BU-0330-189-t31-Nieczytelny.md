@@ -11,12 +11,12 @@ date_accuracy: "unknown"
 place_document: "Warszawa"
 language:
   - pl
-pages: 52
+pages: 26
 original_filename: "BU_0_330_189_t31.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t31.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t31-Nieczytelny]]"
 reliability: "unusable"
-ocr_quality: "całkowicie nieczytelna lub pusta"
+ocr_quality: "dobra — cały dokument (26/26 str.) przeczytany 2026-07-21 przez Claude/subagenta. Pełny wyrok WSR Warszawa Sr.216/53 (26.03.1953) — proces Kamiński/Grodzki/Borysiewicz/Zalewski/Kryński/Rakowski/Łapiński. Parzonko i Radziszewski jako świadkowie oskarżenia."
 main_person: null
 people_mentioned:
   - "PERSON-002"

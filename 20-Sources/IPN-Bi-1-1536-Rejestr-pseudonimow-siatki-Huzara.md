@@ -16,7 +16,7 @@ original_filename: "Bi 1_1536.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 1_1536.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-1-1536-Rejestr-pseudonimow-siatki-Huzara]]"
 reliability: "confirmed"
-ocr_quality: "mieszana — ok. 2/3 pozycji czytelnych, reszta nieczytelna"
+ocr_quality: "dobra — cały dokument (3/3 str.) przeczytany 2026-07-21 przez Claude/subagenta. Str.3: master roster 76 osób siatki Huzara z nazwiskami i pseudonimami — kluczowe źródło referencyjne."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-001"

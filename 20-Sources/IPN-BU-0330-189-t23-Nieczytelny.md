@@ -11,12 +11,12 @@ date_accuracy: "unknown"
 place_document: "Warszawa"
 language:
   - pl
-pages: 26
+pages: 13
 original_filename: "BU_0_330_189_t23.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t23.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t23-Nieczytelny]]"
 reliability: "primary"
-ocr_quality: "dobra dla 1 z 26 stron (odczyt handwritingocr.com API, 2026-07-20); reszta nieczytelna"
+ocr_quality: "dobra — cały dokument (13/13 str.) przeczytany 2026-07-21 przez Claude/subagenta. Skład patroli Huzara (Adam/Ponury/Krakus/Arab/Zygmunt/Czuma), finansowanie z WiN, próba przewerbowania Zygmunta przez adw. 'Jacka'/Piaseckiego."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"

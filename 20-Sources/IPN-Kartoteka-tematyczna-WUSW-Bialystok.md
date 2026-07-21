@@ -16,7 +16,7 @@ original_filename: "Kartoteka tematyczna WUSW Białystok.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Kartoteka tematyczna WUSW Białystok.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Kartoteka-tematyczna-WUSW-Bialystok]]"
 reliability: "primary"
-ocr_quality: "dobra dla 4 z 8 stron (odczyt handwritingocr.com API, 2026-07-20); reszta nieczytelna"
+ocr_quality: "dobra — cały dokument (8/8 str.) przeczytany 2026-07-21 przez Claude/subagenta. Dane osobowe Parzonki, jedna karta błędnie przypisuje alias 'Krakus' (koliduje z ustalonym Niemyjski) — nierozstrzygnięte."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

@@ -11,12 +11,12 @@ date_accuracy: "range"
 place_document: "Białystok"
 language:
   - pl
-pages: 28
+pages: 14
 original_filename: "BU_0_330_189_t15.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t15.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t15-Fotokopie-listow]]"
 reliability: "confirmed"
-ocr_quality: "w większości puste/nieczytelne, dwie kluczowe strony czytelne"
+ocr_quality: "dobra — cały dokument (14/14 str.) przeczytany 2026-07-21 przez Claude/subagenta. Schemat kontaktów Zygmunta, życiorys Parzonki (WUBP 5.06.1951), doniesienia agenturalne 'Rytlewski' o działaniach patrolu Zygmunta 1951-52, próba przewerbowania przez 'Jacka'/Piaseckiego."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

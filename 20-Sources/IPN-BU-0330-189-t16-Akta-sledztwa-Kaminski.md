@@ -11,12 +11,12 @@ date_accuracy: "unknown"
 place_document: "Warszawa"
 language:
   - pl
-pages: 24
+pages: 12
 original_filename: "BU_0_330_189_t16.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t16.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t16-Akta-sledztwa-Kaminski]]"
 reliability: "primary"
-ocr_quality: "dobra dla 8 z 24 stron (odczyt handwritingocr.com API, 2026-07-20); reszta nieczytelna"
+ocr_quality: "dobra — cały dokument (12/12 str.) przeczytany 2026-07-21 przez Claude/subagenta. Spisy osób figurujących w sprawie — Radziszewski jako formalny zastępca Parzonki, daty śmierci wielu członków bandy, funkcje sztabowe Huzara (Olędzki 'Grek', Warpechowski 'Biały', Żborowski 'Alfred')."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
