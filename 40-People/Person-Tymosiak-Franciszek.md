@@ -22,6 +22,7 @@ related_to_main_person: "victim"
 related_persons: []
 key_sources:
   - "SRC-095"
+  - "SRC-092"
 certainty: "low"
 tags:
   - type/person
@@ -54,3 +55,4 @@ Brak danych.
 ## Niepewności i sprzeczności
 
 - Cała tożsamość i okoliczności śmierci znane z jednej, fragmentarycznej wzmianki świadka przy okazji innych zeznań — brak daty, sprawcy, dalszego potwierdzenia. Priorytet dla przyszłej weryfikacji.
+- **Możliwa druga wzmianka, niepewna korelacja**: [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (str. 293) opisuje zamordowanie "chłopca Tymosiaka Franciszka" w 1943 r. przez inną, niezidentyfikowaną bandę — może być tą samą osobą błędnie datowaną, albo zupełnie inną osobą tego samego nazwiska. Patrz [[Event-1951-006-Zabojstwo-Tymosiaka]].

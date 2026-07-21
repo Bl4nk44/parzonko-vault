@@ -12,6 +12,7 @@ people_involved:
 category: "homicide"
 sources:
   - "SRC-095#p269"
+  - "SRC-092#p293"
 certainty: "low"
 tags:
   - timeline
@@ -45,8 +46,8 @@ Las w rejonie majątku "Józefin" (pisownia niepewna) — brak notatki miejsca, 
 
 ## Sprzeczne relacje
 
-Brak — jednoźródłowa, fragmentaryczna wzmianka.
+**Możliwa korelacja nazwiskowa, nierozstrzygnięta**: [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (SRC-092, str. 293) zawiera zeznanie o odrębnym, wojennym (1943) porwaniu i zamordowaniu "chłopca Tymosiaka Franciszka" przez INNĄ bandę — wcześniej ocenione (przy pierwotnym, pobieżnym odczycie) jako niezwiązane z główną sprawą. Zbieżność imienia i nazwiska z ofiarą w SRC-095 jest uderzająca, ale (a) SRC-092 opisuje ofiarę jako "chłopca" (dziecko), a SRC-095 nie precyzuje wieku; (b) SRC-092 datuje na 1943 (okupacja), kontekst SRC-095 sugeruje okres powojenny; (c) SRC-092 przypisuje czyn "innej bandzie", nie bandzie Parzonki/Huzara. Możliwe, że to dwie różne osoby o tym samym, niezbyt rzadkim w regionie nazwisku, lub że jedno z dwóch źródeł błędnie datuje/kontekstualizuje to samo zdarzenie. **Nie scalono — wymaga porównania pełnej treści obu fragmentów źródłowych.**
 
 ## Stopień pewności
 
-Niski. Jednoźródłowa wzmianka, brak daty, brak jasnego wskazania sprawcy/bandy, brak potwierdzenia w innych aktach dotąd przetworzonych. Wymaga dalszej weryfikacji — priorytet dla przyszłego przeglądu jeśli natrafiono na kolejne źródło.
+Niski. Dwuźródłowa, ale wzajemnie niejednoznaczna wzmianka (patrz wyżej) — brak pewnej daty, brak jasnego wskazania sprawcy/bandy. Wymaga dalszej weryfikacji — priorytet dla przyszłego przeglądu obu dokumentów w całości.

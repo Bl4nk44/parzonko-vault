@@ -15,11 +15,12 @@ pages: 372
 original_filename: "BU 01251_41_J akta kontrolno sledcze w sprawie oddziału Parzonki.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 01251_41_J akta kontrolno sledcze w sprawie oddziału Parzonki.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]]"
-reliability: "confirmed"
-ocr_quality: "dobra na sprawdzonych stronach (1, 58); duplikat już znanej treści na innych (334, 355); str.293 niezwiązana"
+reliability: "primary"
+ocr_quality: "dobra dla 231 z 232 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-21) — wcześniejsza próbka tesseract (str. 1, 58) była niereprezentatywna, WIĘKSZOŚĆ dokumentu (233/372 str.) jest w istocie czytelnym rękopisem, nie duplikatem; praca w toku, tylko część 231 stron przejrzana"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
+  - "PERSON-002"
   - "PERSON-003"
   - "PERSON-019"
   - "PERSON-011"
@@ -37,17 +38,23 @@ tags:
 
 ## Opis dokumentu
 
-Zbiorcze akta kontrolno-śledcze MSW (372 str.) przeciwko czterem współoskarżonym — Kostro, Mościckiemu, Parzonce, Radziszewskiemu — poprzedzające główny proces Sr.251/53. W dużej mierze duplikuje treść już przetworzoną (SRC-015, SRC-069, SRC-077, SRC-091).
+**KOREKTA WCZEŚNIEJSZEJ OCENY**: dokument uznano wcześniej za w większości duplikat na podstawie 2-stronicowej próbki tesseract. Po odczycie handwritingocr.com (2026-07-21, 232 strony wysłane, 231 pobrane) okazuje się, że **233 z 372 stron to w istocie w pełni czytelny rękopis** — spis treści teczki (str. 5) potwierdza: akt oskarżenia str. 267-283, wyrok str. 284-297 (nieprzeczytane jeszcze w tej sesji), protokoły przesłuchań podejrzanych str. 19-205, protokoły świadków str. 206-253. Zbiorcze akta kontrolno-śledcze MSW przeciwko czterem współoskarżonym — Kostro, Mościckiemu, Parzonce, Radziszewskiemu.
+
+**Praca w toku**: z 231 czytelnych stron dostępnych w puli rękopisów, ok. 15 przejrzano dotychczas dokładnie (str. 2-3, 5, 11-12, 31, 179-180, 265, 371); pozostałe 139 stron zawierających wzmianki o głównych postaciach (zidentyfikowane przez grep aliasów) czekają na systematyczny odczyt w kolejnej sesji.
 
 ## Najważniejsze ustalenia
 
-- **Piąte niezależne potwierdzenie daty urodzenia Parzonki** (28.02.1922) — karta informacyjna archiwum.
-- **Radziszewski osobiście podaje datę zabójstwa Jasińskiego jako 30 lipca 1951 r.** (własne zeznanie, 5.12.1952) — zgodne z jednym z już znanych wariantów dat tego wydarzenia (patrz [[Event-1951-002-Zabojstwo-Jasinskiego]]).
-- Fragment niezwiązany (str. 293): zeznanie dot. odrębnej, wojennej sprawy porwania i zamordowania chłopca w 1943 r. — dołączony materiał z innego postępowania, niezwiązany z główną sprawą.
+- **Piąte niezależne potwierdzenie daty urodzenia Parzonki** (28.02.1922) oraz nazwiska panieńskiego matki (Lewczuk) — karta informacyjna archiwum (str. 2).
+- **NOWA, ISTOTNA SPRZECZNOŚĆ — tożsamość "Marynarza"** (str. 11, zeznanie najprawdopodobniej samego Parzonki/"Zygmunta", opisującego skład własnej bandy w pierwszej osobie): "Pod koniec 1951 r. po odejściu od nas 'Lamparta' doszedł do nas MODZELEWSKI Kazimierz ps. 'Marynarz'" — **inne nazwisko** niż ustalone "Radziszewski Kazimierz ps. 'Marynarz'** (potwierdzone wielokrotnie w SRC-095 i innych źródłach, data dołączenia do bandy 06.04.1951). Możliwe wyjaśnienia: (a) błąd zapisu/OCR nazwiska w tym jednym dokumencie; (b) dwie różne osoby noszące ten sam pseudonim "Marynarz" w różnych okresach; (c) alternatywne/prawdziwe nazwisko Radziszewskiego (rzadki scenariusz, ale w tym korpusie już spotykany wzorzec fałszywych tożsamości). **NIE ROZSTRZYGNIĘTE — wymaga dalszej weryfikacji przy pełnym odczycie dokumentu**, nie scalono ani nie odrzucono żadnej wersji.
+- **Bogaty wykaz losów członków bandy "Huzara"** (str. 11-12, to samo zeznanie): daty i miejsca śmierci/zaginięcia kilkunastu pseudonimów — "Ryś" (zginął V.1951, Łochy pow. Wysokie Mazowieckie, wraz z "Rekinem", "Marynarzem" [inny, trzeci wariant tego pseudonimu — członek grupy "Rysia", zginął z nim maj 1951 — możliwe THIRD odrębne użycie pseudonimu "Marynarz" w tym samym dokumencie!] i "Markiem"), "Wuj" (zginął wiosna 1952, wraz z "Jurkiem" i "Orzełkiem"), "Krakus" — imię Lutek (zginął VII/VIII.1952, pow. Wysokie Mazowieckie), grupa "Lamparta" (zginęła zbiorowo pod Siemiatyczami maj 1952: "Wiesiek"/Józef, "Andrzej"/Jakubiak Andrzej, "Krakowiak", "Panek"). "Antoś" — ranny w tej samej potyczce pod Siemiatyczami (maj 1952), los nieznany.
+- **Precyzyjne daty dołączenia nowych członków do patrolu "Zygmunta" jesienią 1952 r.**: Kostko/Kostro Józef ps. "Paweł" (czerwiec/lipiec 1952, przysłany przez samego "Huzara"), Kryński Tadeusz ps. "Rokita" (październik 1952, wcześniej u "Huzara"). **Oboje przyjechali do Warszawy z narratorem (najpewniej Parzonką) w niedzielę 30.11.1952 r.** — nowa, precyzyjna data bezpośrednio poprzedzająca aresztowanie, zgodna z kontekstem operacji MBP "wyjazd przez Marię i Emila" (SRC odnoszące się do t26).
+- **Korroboracja śmierci "Młota" i pogrzebu** (str. 179-180, zeznanie Mościckiego; str. 265, zeznanie Kostry) — oba niezależnie potwierdzają już znaną wersję (śmierć jesienią/1948 we wsi Wólka gm. Ciechanowiec w bójce z braćmi Dybowskimi, pogrzeb z udziałem księdza z Pobikier i "Huzara").
+- **Biograficzne potwierdzenie Radziszewskiego** (str. 31, własne zeznanie): ur. Radziszewo-Sierczuch, matka Sabina z d. Radziszewska (zm. IV.1941), służba wojskowa III.1939 (80 pp Słonim), kampania wrześniowa, krótka niewola niemiecka (zwolniony 3.10.1939 jako szeregowy), brak działalności konspiracyjnej podczas okupacji (**nowy, wcześniej nieznany fakt** — kontrastuje z rolą w bandzie od 1948), pełny wykaz sześciu sióstr i brata z nazwiskami po mężu i miejscami zamieszkania.
+- Fragment niezwiązany (str. 293, nieprzeczytany w tej sesji, tylko odnotowany wcześniej): zeznanie dot. odrębnej, wojennej sprawy porwania i zamordowania chłopca w 1943 r.
 
 ## Osoby
 
-- [[Person-Parzonko-Kazimierz-Zygmunt]], [[Person-Radziszewski-Kazimierz-Marynarz]], [[Person-Moscicki-Jozef-Pantera]] — potwierdzenie danych
+- [[Person-Parzonko-Kazimierz-Zygmunt]], [[Person-Radziszewski-Kazimierz-Marynarz]], [[Person-Moscicki-Jozef-Pantera]], [[Person-Kostro-Jozef-Kropki]], [[Person-Kaminski-Kazimierz-Huzar]]
 
 ## Tekst źródłowy
 
@@ -55,4 +62,5 @@ Zbiorcze akta kontrolno-śledcze MSW (372 str.) przeciwko czterem współoskarż
 
 ## Uwagi o jakości i niepewności
 
-- Dokument w znacznej mierze duplikuje już przetworzoną treść korpusu — tylko 5 dopasowań słów kluczowych na 372 strony, sugerujące, że reszta to formalne protokoły bez bezpośrednich wzmianek o głównych postaciach lub silnie zniekształcony OCR.
+- **Wcześniejsza ocena była błędna** — dokument nie jest w większości duplikatem, tylko został niedoszacowany przez tesseract-owy spot-check. Analogiczny błąd jak SRC-067/SRC-068.
+- **Praca w toku**: 139 z 231 czytelnych stron zidentyfikowanych (grep aliasów) jako zawierających wzmianki o głównych postaciach, jeszcze nie przejrzanych systematycznie — priorytet dla kolejnej sesji, w szczególności odczyt aktu oskarżenia (str. 267-283) i wyroku (str. 284-297), które mogą zawierać treść uzupełniającą już znany wyrok Sr.251/53 (SRC-015).
