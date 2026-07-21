@@ -16,6 +16,7 @@ people_involved:
 category: "homicide"
 sources:
   - "SRC-095#p155-162"
+  - "IPN-BU-0330-189-t4#p44-46"
 certainty: "high"
 tags:
   - timeline
@@ -36,6 +37,8 @@ Olemiuk Henryk ps. "Sokół" (dawny członek grupy Ratyńca "Lamparta", zniszczo
 Wg własnego zeznania Radziszewskiego (SRC-095): po klęsce grupy "Lamparta" (maj 1952, cała grupa poza Olemiukiem zabita/aresztowana przez wojsko), Olemiuk zbiegł i dołączył do grupy Parzonki. Czterej członkowie grupy (Parzonko, Radziszewski, Mościcki, Kostro) uzgodnili między sobą likwidację Olemiuka z obawy przed zdradą, ustalając, że wykonawca przejmie po nim pistolet TT. Radziszewski zgłosił się na ochotnika. W dniu zabójstwa Olemiuk zasnął na trawie przed bunkrem — Radziszewski, za zgodą obecnego przy tym Parzonki, podszedł i zastrzelił go jednym strzałem w głowę z bliska. Ciało pochowano na miejscu, ślady zatarto igliwem. Broń i mundur ofiary zdjęto i częściowo zamelinowano w pobliskim pustym kurniku (RKM, granat, mundur, pistolet "Nagan" Radziszewskiego); pistolet TT po zabitym Radziszewski zatrzymał dla siebie do własnego aresztowania.
 
 We wrześniu 1952 wojsko odkryło i rozbito bunkier w lesie Obryczyzna, konfiskując zamelinowaną tam broń — grupa nie odważyła się sprawdzić miejsca z obawy przed zasadzką. Parzonko zameldował o zabójstwie Olemiuka "Huzarowi".
+
+**Niezależne, DRUGIE zeznanie Radziszewskiego (BU 0330/189 t.4, str. 44-46, protokół 29.12.1952)** — potwierdza wszystkie kluczowe elementy z jeszcze większą precyzją: Radziszewski przyznał się po tym, jak wcześniej (15.12.1952) skłamał, zrzucając zabójstwo na wojsko. Doprecyzowuje lokalizację (las Obryczyzna koło wsi Pełch i Kobyła), wskazuje **informatora, który doprowadził wojsko do bunkra — Jewiak, mieszkaniec Kobyły** (koniec września 1952). Potwierdza, że Parzonko osobiście pomógł wykopać dół i pochować ciało; że mundur i buty ofiary zdjęto (Kostro), a buty Parzonko podobno oddał komuś, może własnemu ojcu w Leśnikach.
 
 ## Osoby
 
