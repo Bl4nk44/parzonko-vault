@@ -16,7 +16,7 @@ original_filename: "BU 1069_134 _t2 ZEZNANIA W SPRAWIE WICHURY MIN. PARZONKO, RA
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 1069_134 _t2 ZEZNANIA W SPRAWIE WICHURY MIN. PARZONKO, RADZISZEWSKI.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-134-t2-Zeznania-Wichura-Parzonko-Radziszewski]]"
 reliability: "uncertain"
-ocr_quality: "dobra — str. 1-52 przeczytane systematycznie (2026-07-21): str. 1-2,4-6,8-10,12-22 przez vision-OCR OpenRouter/Gemini 2.5 Pro, str. 21,23-52 bezpośrednio przez Claude (render PDF→obraz, bez API, po wyczerpaniu kredytów OpenRouter). Str. 50-52: WŁASNE zeznanie Parzonki (Mokotów, 5.02.1953) — bardzo istotne, patrz Person-Parzonko. Reszta (53-74) do kontynuacji."
+ocr_quality: "dobra — str. 1-53 przeczytane systematycznie (2026-07-21): str. 1-2,4-6,8-10,12-22 przez vision-OCR OpenRouter/Gemini 2.5 Pro, str. 21,23-53 bezpośrednio przez Claude (render PDF→obraz, bez API, po wyczerpaniu kredytów OpenRouter). Str. 50-53: WŁASNE zeznanie Parzonki (Mokotów, 5.02.1953) — bardzo istotne, patrz Person-Parzonko. Reszta (54-74) do kontynuacji."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
