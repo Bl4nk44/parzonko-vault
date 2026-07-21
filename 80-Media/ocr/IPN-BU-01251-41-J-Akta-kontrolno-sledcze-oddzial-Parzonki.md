@@ -36,6 +36,22 @@ Ur. Radziszewo-Sierczuch, matka Sabina z d. Radziszewska (zm. IV.1941), służba
 
 **Radziszewski osobiście podaje datę zabójstwa Jasińskiego jako 30 lipca 1951 r.** — zgodne z jednym z już znanych wariantów (SRC-015), bezpośrednio z ust sprawcy.
 
+## Str. 18-20 — WŁASNE, PODPISANE ZEZNANIE PARZONKI (4.12.1952) — skrytki broni, potwierdza skład patrolu
+
+Podpisane "Zeznał: Parzonko Kazimierz" (str. 20). Potwierdza: wstąpienie do bandy "Huzara" koniec lipca 1949, pseudonimy "Wichura" (od 1949) i "Zygmunt" (nadany w bandzie), towarzysze wstąpienia Gontarczuk Stanisław ps. "Rekin" i (później) brat Gontarczuk Józef ps. "Korsarz". **Skład jego grupy**: Radziszewski Kazimierz ps. "Marynarz", Mościcki Józef ps. "Pantera", Kostro Józef ps. **"Pasek"** (nowy wariant pseudonimu, obok "Paweł"/"Kropki"/"Dąbek"), ostatnio (~2 tyg. przed aresztowaniem) dołączony przez "Huzara" Kryński Tadeusz ps. "Rokita" — **prosto z ust samego Parzonki, jednoznacznie potwierdza tożsamość "Marynarza" jako Radziszewskiego**, rozwiewając wątpliwość ze str. 11 (prawdopodobny błąd odczytu "Modzelewski").
+
+Szczegółowy, bardzo precyzyjny wykaz skrytek broni ukrytej 27-28.11.1952 r. (tuż przed wyjazdem grupy do Warszawy 30.11.1952 r.): stodoły gospodarzy we wsiach Mianowo Nowe (u "Bombały"), Kienyje Stare (dwie skrytki, w tym u gospodarza z lokatorką-nauczycielką), opuszczone zabudowania w Radziszewie-Sieńczuchu (dwa granaty), oraz mrowisko w lesie Rudzkim koło Koców Borowych (ok. 10 granatów, torby polowe, pasy wojskowe, rogatywka, notatniki — w bańce po mleku skradzionej spod mleczarni w Kocach). Schowki robione wspólnie z Kryńskim "Rokitą".
+
+## Str. 21-27 — WŁASNE ZEZNANIE KOSTRY JÓZEFA (4.12.1952) — pełny wykaz 28 członków bandy z datami/miejscami śmierci, uzbrojenie osobiste, meliny 1952
+
+Podaje datę własnego wstąpienia do bandy jako "kwiecień 1952 r." — **TRZECI wariant** obok już znanych sprzecznych dat (kwiecień 1951 wg SRC-095 str.168-169, październik 1950 wg SRC-095 str.181-184) — możliwy błąd zapisu roku (1951→1952), nierozstrzygnięte, patrz [[Person-Kostro-Jozef-Kropki]].
+
+**Obszerny wykaz 28 pseudonimów** z datami wstąpienia/śmierci — potwierdza i uzupełnia już znaną chronologię: "Wujo" (zastępca Huzara, zabity V.1952), "Lampart"/Adam (zabity V.1952), Bieniek Lucjan ps. "Krakus" (zabity VIII/IX.1952 koło Łap), Temiński Eugeniusz ps. "Ryś" (zabity V.1951), Gontarczuk Stanisław ps. "Rekin" (zabity V.1951), Zalewski Wacław ps. "Zbyszek" (żywy, ostatni kontakt X.1952), Antoni ps. "Marek" (zabity V.1951), **DRUGI, ODRĘBNY "Marynarz"** — nieznane nazwisko, rodzina we wsi Porośle pow. Wysokie Mazowieckie, wstąpił III.1951, zabity V.1951 w grupie "Rysia" (**NIE Radziszewski** — jednoznacznie odrębna osoba, potwierdza wzorzec wielokrotnego użycia tego pseudonimu), Mościcki "Pantera" (wstąpił XII.1950), **Radziszewski jako "zastępca Parzonki", wstąpił IV.1951** (zgodne z ustaloną datą), Kryński "Rokita" (wstąpił XII.1950), Gontarczuk ps. "Jurek"/"Ignaś" (zabity III.1952), "Tygrys"/Kazimierz (grupa Lamparta, zabity V.1952), Łapiński Stanisław ps. "Orzełek"/"Stary" (zabity III.1952), Grodzki Mieczysław ps. "Zbyryt"/"Marian" (grupa Huzara), Krasowski ps. "Głuszec" i żona Krasowska (osobna, sprzymierzona banda), "Wiewiórka" (zastępca Głuszca).
+
+**Precyzyjny wykaz uzbrojenia osobistego** ośmiu członków (Parzonko: MP-44 + P.W.wz.33 + 3 granaty; Mościcki: RKM + P.W.wz.33 + 2 granaty; Radziszewski: PM 7,62mm + P.W.wz.33 + 2 granaty; Kryński: MP-44 + FN wz.35 + 2 granaty; Zalewski: PPS + Walter + 2 granaty; Kamiński: MP-44 + "Wis"; Krasowski: PM + FN wz.35; Wiewiórka: PM + FN wz.35).
+
+**Nowe meliny 1952** (Stare Siudy — Porowski, Niemiejski, Polak, Piliński; Radziszewo — Włostowski Witold, regularne wypłaty >1000 zł od Parzonki; Kobyla — Korycki, nienazwany sprzedawca kiełbasy; Kosiorki — dwóch gospodarzy "Rusiniak"). **Nowy, nienazwany krewny Parzonki**: "Michał", średniego wzrostu, ciemny blond, ok. 20-25 lat, przynosił jedzenie grupie ukrywającej się w lesie koło Leśnik (koniec VIII.1952) — wg Mościckiego krewny Parzonki (kolejny, obok Góral "Wilk", nieznany dotąd krewny w otoczeniu bandy).
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.

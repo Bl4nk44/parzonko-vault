@@ -51,6 +51,8 @@ tags:
 - **Korroboracja śmierci "Młota" i pogrzebu** (str. 179-180, zeznanie Mościckiego; str. 265, zeznanie Kostry) — oba niezależnie potwierdzają już znaną wersję (śmierć jesienią/1948 we wsi Wólka gm. Ciechanowiec w bójce z braćmi Dybowskimi, pogrzeb z udziałem księdza z Pobikier i "Huzara").
 - **Biograficzne potwierdzenie Radziszewskiego** (str. 31, własne zeznanie): ur. Radziszewo-Sierczuch, matka Sabina z d. Radziszewska (zm. IV.1941), służba wojskowa III.1939 (80 pp Słonim), kampania wrześniowa, krótka niewola niemiecka (zwolniony 3.10.1939 jako szeregowy), brak działalności konspiracyjnej podczas okupacji (**nowy, wcześniej nieznany fakt** — kontrastuje z rolą w bandzie od 1948), pełny wykaz sześciu sióstr i brata z nazwiskami po mężu i miejscami zamieszkania.
 - Fragment niezwiązany (str. 293, nieprzeczytany w tej sesji, tylko odnotowany wcześniej): zeznanie dot. odrębnej, wojennej sprawy porwania i zamordowania chłopca w 1943 r.
+- **WŁASNE, PODPISANE zeznanie Parzonki (str. 18-20, 4.12.1952)**: bardzo precyzyjny wykaz skrytek broni tuż przed wyjazdem do Warszawy — jednoznacznie potwierdza tożsamość "Marynarza" (Radziszewski) i nowy pseudonim Kostry ("Pasek").
+- **Własne zeznanie Kostry (str. 21-27, 4.12.1952)**: pełny wykaz 28 pseudonimów bandy z datami śmierci, precyzyjne uzbrojenie ośmiu członków, nowe meliny 1952, kolejny nienazwany krewny Parzonki ("Michał"), oraz DRUGI, jednoznacznie odrębny od Radziszewskiego "Marynarz" (zginął V.1951 w grupie "Rysia") — potwierdza, że pseudonim był używany wielokrotnie przez różne osoby.
 
 ## Osoby
 

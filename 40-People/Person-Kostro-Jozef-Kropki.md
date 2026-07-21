@@ -34,6 +34,7 @@ key_sources:
   - "SRC-024"
   - "SRC-052"
   - "SRC-095"
+  - "SRC-092"
 certainty: "high"
 tags:
   - type/person
@@ -81,3 +82,5 @@ Brak danych o rodzinie poza imionami rodziców (Józef Kostro i Maria).
 - **Trzeci pseudonim**: [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] (SRC-095, zeznanie Radziszewskiego, str. 95) nazywa go "Kostry ps. 'Dąbek'" — obok już znanych "Paweł" i "Kropki". Jednorazowa wzmianka, nie dodano do pola `aliases` bez dalszego potwierdzenia.
 - **Nowy wariant nazwiska — nierozstrzygnięty**: [[IPN-BU-0330-189-t16-Akta-sledztwa-Kaminski]] (str. 11 dok.) zapisuje go jako "Wyszogrodzki vel Kostro Józef ps. \"Paweł\"" — możliwe fałszywe nazwisko używane w konspiracji, nie potwierdzone innym źródłem.
 - **Sprzeczna data wstąpienia do bandy w obrębie własnych zeznań (SRC-095)**: w jednym przesłuchaniu (str. 168-169) podał "kwiecień 1951", w innym (str. 181-184, ze szczegółową, spójną historią spotkania z bandą u Werpechowskiego i Średnickiego) podał "pierwsze dni października 1950". Wzorem autokorekty Radziszewskiego w tym samym śledztwie, możliwe że któraś wersja to świadome zatajenie — nie rozstrzygnięte, nie sprawdzono czy Kostro sam to sprostował na dalszych stronach.
+- **TRZECI wariant daty wstąpienia**: [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (SRC-092, str. 21, inne własne zeznanie z 4.12.1952) podaje "kwiecień 1952 r." — możliwy błąd zapisu roku (1951↔1952 pomylone), ale dodaje się do już istniejącej niepewności zamiast ją rozstrzygać.
+- **Czwarty pseudonim — "Pasek"**: [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (SRC-092, str. 18, własne, podpisane zeznanie Parzonki) nazywa go "Kostro Józef ps. 'Pasek'" — obok już znanych "Paweł", "Kropki", "Dąbek". Wzorzec wielokrotnie zmienianych/różnie zapisywanych pseudonimów w tym korpusie.
