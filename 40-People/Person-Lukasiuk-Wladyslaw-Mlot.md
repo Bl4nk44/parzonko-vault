@@ -29,6 +29,7 @@ key_sources:
   - "SRC-033"
   - "SRC-072"
   - "SRC-089"
+  - "SRC-055"
 certainty: "high"
 tags:
   - type/person
@@ -72,4 +73,5 @@ Władysław Łukasiuk, ur. 16.11.1906 r. we wsi Żenin, pow. Siedlce, woj. lubel
 
 - Struktura dowodzenia bandą w 1947 r. obejmowała kilka pododdziałów ("Bartosza", "Lecha", "Jaskółki", doraźnie "Lufy" i "Rawity") — nie ustalono precyzyjnie, do którego z nich formalnie należał Parzonko w tym okresie (wykaz nie podaje przypisania do konkretnego pododdziału dla poz. 58 "Listek"/Parzonko).
 - Dalsze losy Łukasiuka po 1949 r. — **ROZSTRZYGNIĘTE (SRC-072): zginął 27.06.1949 r.**
-- Pełne nazwisko ofiary "Owskiego", zamordowanej przez samego "Młota" (co sprowokowało zemstę i jego śmierć), nieustalone — urwane w OCR.
+- **Pełne nazwisko ofiary "Owskiego" — PRAWDOPODOBNIE ROZSTRZYGNIĘTE (SRC-055, str. 52, własne zeznanie Parzonki, 5.02.1953)**: Parzonko opisuje, że dowódca oddziału leśnego Łukasiuk Władysław ps. "Młot" przez pomyłkę śmiertelnie postrzelił własnego podwładnego, Żybowskiego Leopolda; w odwecie brat ofiary, Żybowski [imię nieczytelne — możliwe "Bernard"], zastrzelił "Młota", po czym razem z bratem "Bynasłowem" (?, imię niepewne) zbiegli z oddziału i ukrywali się na własną rękę. Nazwisko "Żybowski" bardzo dobrze pasuje do urwanego w OCR "...owskiego" z SRC-072 — silna poszlaka tożsamości, nie scalono formalnie z braku pełnego imienia. Po tym zdarzeniu podwładni "Młota" — Buczak Witold ps. "Ponury", Radziszewski Kazimierz ps. "Marynarz" i Ratyniec Adam ps. "Lampart" — przeszli do oddziału "Huzara".
+- **Sprzeczność daty śmierci — NIEROZSTRZYGNIĘTA**: Parzonko w tym samym zeznaniu umiejscawia całe zdarzenie (postrzelenie Żybowskiego, zemsta, śmierć "Młota") "w pewnym miesiącu 1948 r." — pełen rok wcześniej niż ustalona data 27.06.1949 (SRC-072). Możliwe wyjaśnienia: (a) błąd pamięci Parzonki po ponad 4 latach, zeznającego w śledztwie pod presją; (b) błąd w SRC-072; (c) dwa odrębne wydarzenia mylnie utożsamione. Data 1949-06-27 pozostaje przyjęta (źródło z konkretną dzienną datą), ale nie jest to już całkowicie pewne.
