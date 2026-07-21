@@ -22,6 +22,7 @@ sources:
   - "SRC-091#p88-90,140,149"
   - "SRC-118#p13,29"
   - "SRC-097#p10-14,44-49,100-103"
+  - "SRC-092#p109"
 certainty: "high"
 tags:
   - timeline
@@ -40,6 +41,8 @@ Na początku października 1951 r. Departament III MBP w Warszawie polecił leka
 ## Przebieg
 
 **Uzupełnienie struktury operacji (SRC-038)**: zeznanie Witolda Białowąsa ps. "Litwin" — dowódcy odrębnego oddziału leśnego, niezależnego od bandy Huzara/Zygmunta — ujawnia, że Terlikowski prowadził analogiczną operację również wobec jego grupy, co wskazuje na **szerszy, regionalny zasięg tej gry operacyjnej MBP**, nie ograniczony do jednego celu. Pełna, fikcyjna struktura organizacyjna: Komenda Główna "WiN" krypt. "Uniwersytet" → obszar krypt. "Akademia" → okręg białostocki krypt. "Bursa". Sieć łączności obejmowała: "Znak" (szef łączności "Akademii"), Bobrzyniecką Eugenię ps. "Maria" (pierwsza łączniczka, do wiosny 1952), a następnie "Greka" (przejął łączność). Punkt kontaktowy dla Białowąsa: u Łapińskiego Władysława w Łapach.
+
+**TRZECI cel tej samej gry operacyjnej — banda "Głuszca" (SRC-092, str. 109, własne zeznanie Kamińskiego "Huzara", 16.12.1952)**: Kamiński zeznaje, że jesienią 1951 r. otrzymał od fikcyjnej "Akademii" pisemne polecenie podporządkowania sobie bandy Krasowskiego ps. "Głuszec" i zlecił to Parzonce (wiosna 1952). Niezależnie, do samego Głuszca przyjeżdżał z Warszawy inny agent operacji — **"major ps. 'Stefan'"** — rzekomo z "Centrali organizacyjnej". Głuszec, **podejrzewając zdradę, zastrzelił tego agenta w 1952 r.** (dokładna data i okoliczności nieznane Kamińskiemu, wiedza z drugiej ręki od Parzonki). To pokazuje, że operacja obejmowała TRZY niezależne cele (Huzar/Zygmunt przez "Rytla", Białowąs przez Terlikowskiego, Głuszec przez "majora Stefana") i że przynajmniej w jednym przypadku prowokacja została rozpoznana i zakończyła się śmiercią agenta — silny kontrast wobec sukcesu operacji wobec Huzara/Zygmunta. Patrz [[Person-Krasowski-Kazimierz-Gluszec]].
 
 Wg dokładnej listy aresztowań: Kamiński Kazimierz ps. "Huzar" ujęty 29.11.1952 r.; Grodzki Mieczysław, Kryński Tadeusz ps. "Rokita", Zalewski Wacław, Radziszewski [Kazimierz] ps. "Marynarz", Mościcki Józef, Kostro Józef ps. "Paweł" i inni ujęci 30.11.1952 r. Wszyscy skazani wyrokiem WSR w Warszawie na sesji wyjazdowej w Ciechanowcu z dnia 31.03.1953 r. — w większości na karę śmierci. Kazimierz Parzonko wg oddzielnej charakterystyki (patrz [[Person-Parzonko-Kazimierz-Zygmunt]]) "w dniu 30.11.1952 r. wyjechał do Warszawy z zamiarem ucieczki za granicę, gdzie w dniu tym został aresztowany przez organa SB."
 

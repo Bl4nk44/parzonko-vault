@@ -34,6 +34,7 @@ key_sources:
   - "SRC-042"
   - "SRC-045"
   - "SRC-070"
+  - "SRC-092"
 certainty: "high"
 tags:
   - type/person
@@ -71,6 +72,7 @@ Kazimierz Krasowski, ps. "Głuszec", dowódca odrębnej grupy zbrojnego podziemi
 ## Niepewności i sprzeczności
 
 - Dokładne granice czasowe dowodzenia bandą po grudniu 1952 r. i jego dalsze losy — nieustalone w obecnie przetworzonej części korpusu.
+- **Nowy fakt, wymaga dalszej weryfikacji**: [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (SRC-092, str. 109, zeznanie Kamińskiego "Huzara") podaje, że Krasowski w 1952 r. zastrzelił agenta operacji "Akademia" ("major ps. 'Stefan'"), podejrzewając zdradę — sugeruje, że Głuszec (w przeciwieństwie do Huzara/Zygmunta) rozpoznał prowokację MBP. Dokładna data i okoliczności nieznane, wiedza z drugiej ręki (Kamiński→od Parzonki). Patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]].
 - **Niespójność imienia — ROZSTRZYGNIĘTA**: [[IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]] (SRC-032, str. 23) wymieniało w kontekście roku 1947 "Krasowskiego **Stanisława** ps. 'Głuszec'". Karta informacyjna własnej sprawy karnej Krasowskiego (SRC-045) podaje wprost: "Krasowski Kazimierz [...] imię ojca: **Stanisław**" — co silnie sugeruje, że wcześniejsza wzmianka "Stanisław" w SRC-032 była pomyłką maszynistki mylącą imię ojca z imieniem samego Krasowskiego, nie odrębną osobą. Imię "Kazimierz" ostatecznie potwierdzone dwoma niezależnymi źródłami (własne zeznanie SRC-042 i własna sprawa karna SRC-045).
 - **Nowe ustalenie (SRC-045)**: data urodzenia w tym źródle podana jako 01.04.1918 — drobna niespójność dnia/miesiąca wobec 01.10.1918 z SRC-042 (oba źródła zgodne co do roku i "01" jako dnia). Nie rozstrzygnięto, który zapis miesiąca jest poprawny.
 - **Liczne fałszywe tożsamości (SRC-045)**: Krasowski posługiwał się pseudonimami "Głuszec" i "Robak" oraz fałszywymi personaliami: Rybałtowski Edward, Nowak Henryk, Kosk Franciszek — świadczy o rozbudowanej praktyce konspiracyjnej ukrywania tożsamości w ostatniej fazie działalności (sprawa karna z 1954 r., już po aresztowaniu głównych band regionu).
