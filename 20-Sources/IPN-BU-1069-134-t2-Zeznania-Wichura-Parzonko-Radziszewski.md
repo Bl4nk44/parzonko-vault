@@ -13,7 +13,7 @@ language:
   - pl
 pages: 74
 original_filename: "BU 1069_134 _t2 ZEZNANIA W SPRAWIE WICHURY MIN. PARZONKO, RADZISZEWSKI.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_134 _t2 ZEZNANIA W SPRAWIE WICHURY MIN. PARZONKO, RADZISZEWSKI.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 1069_134 _t2 ZEZNANIA W SPRAWIE WICHURY MIN. PARZONKO, RADZISZEWSKI.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-134-t2-Zeznania-Wichura-Parzonko-Radziszewski]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (gęste pismo odręczne, nieczytelne w całym zakresie 74 stron)"
