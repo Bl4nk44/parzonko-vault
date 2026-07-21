@@ -25,6 +25,7 @@ related_persons:
   - "PERSON-002"
 key_sources:
   - "SRC-086"
+  - "SRC-092"
 certainty: "high"
 tags:
   - type/person
@@ -51,3 +52,4 @@ Lucjan Niemyjski ps. "Krakus", członek bandy Kamińskiego "Huzar" (skład z lat
 
 - Dane osobowe (data urodzenia) nieznane w obecnie przetworzonej części korpusu.
 - [[IPN-Bi-012-1230-t4-Rozbojnicy-sprawa-Huzara-1952-55]] (SRC-088) wspomina "Niemyjskiego **Tadeusza** ps. 'Rokita'" w kontekście agentki "Lida" — inne imię i inny pseudonim niż ustalone tu ("Lucjan", "Krakus"). Możliwe, że to inna osoba (krewny) o tym samym nazwisku, lub błąd zapisu. Nie rozstrzygnięte.
+- **Nowy wariant nazwiska**: [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (SRC-092, str. 76, WŁASNE zeznanie Parzonki, 8.12.1952) nazywa dowódcę tej małej bojówki "MIERZWIŃSKI Lucjan ps. 'Krakus'" — to samo imię ("Lucjan") i pseudonim, ale INNE nazwisko niż ustalone "Niemyjski". Możliwe pomylenie/przejęzyczenie nazwiska przez Parzonkę w trakcie przesłuchania, albo błąd zapisu maszynistki — nie rozstrzygnięte, nie zmieniono ustalonego nazwiska (oparte na SRC-086, bardziej formalnym źródle).
