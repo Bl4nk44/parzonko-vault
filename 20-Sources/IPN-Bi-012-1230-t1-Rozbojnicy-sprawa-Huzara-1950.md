@@ -11,12 +11,12 @@ date_accuracy: "range"
 place_document: "Białystok"
 language:
   - pl
-pages: 303
+pages: 89
 original_filename: "Bi 012_1230 tom 1 KRYPT ROZBÓJNICY SPRAWA HUZARA 50.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1230 tom 1 KRYPT ROZBÓJNICY SPRAWA HUZARA 50.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1230-t1-Rozbojnicy-sprawa-Huzara-1950]]"
 reliability: "confirmed"
-ocr_quality: "dobra, systematycznie przeczytane str. 1-40 (Gemini 2.5 Pro vision-OCR + tesseract); pozostałe str. 41-303 jeszcze nieprzeczytane systematycznie"
+ocr_quality: "dobra, systematycznie przeczytany cały dokument (str. 1-89, Gemini 2.5 Pro vision-OCR + tesseract). Numeracja stron w treści dokumentu ('X z 303') to archiwalny stempel ciągły obejmujący kilka powiązanych teczek — nie liczba stron tego pliku PDF (89, potwierdzone pdfinfo)."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
