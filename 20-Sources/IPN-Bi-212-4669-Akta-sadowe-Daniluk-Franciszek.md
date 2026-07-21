@@ -13,7 +13,7 @@ language:
   - pl
 pages: 45
 original_filename: "Bi 212_4669 AKTA DANILUK FRANCISZEK.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_4669 AKTA DANILUK FRANCISZEK.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_4669 AKTA DANILUK FRANCISZEK.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-4669-Akta-sadowe-Daniluk-Franciszek]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (skan niskiej jakości, silne zniekształcenia rozpoznawania znaków w całym dokumencie)"

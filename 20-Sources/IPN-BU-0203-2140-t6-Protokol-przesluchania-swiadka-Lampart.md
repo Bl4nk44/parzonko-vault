@@ -13,7 +13,7 @@ language:
   - pl
 pages: 10
 original_filename: "BU_0_203_2140_t6 AGENTURALNE ROZPRACOWANIE PS LAMPART.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t6 AGENTURALNE ROZPRACOWANIE PS LAMPART.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t6 AGENTURALNE ROZPRACOWANIE PS LAMPART.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t6-Protokol-przesluchania-swiadka-Lampart]]"
 reliability: "primary"
 ocr_quality: "dobra dla 2 z 10 stron (odczyt handwritingocr.com API, 2026-07-20); reszta pusta/nieczytelna"

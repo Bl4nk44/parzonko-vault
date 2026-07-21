@@ -13,7 +13,7 @@ language:
   - pl
 pages: 212
 original_filename: "BU_0_180_82_t3 1979-1985 GRZYBOWSKI VI RYG WILENSKA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_180_82_t3 1979-1985 GRZYBOWSKI VI RYG WILENSKA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_180_82_t3 1979-1985 GRZYBOWSKI VI RYG WILENSKA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0180-82-t3-Charakterystyka-66-VI-Brygada-Wilenska-statystyki]]"
 reliability: "confirmed"
 ocr_quality: "duplikat SRC-089 w większości; nowe tabele statystyczne str.48-53 częściowo nieczytelne liczbowo"

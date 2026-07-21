@@ -13,7 +13,7 @@ language:
   - pl
 pages: 22
 original_filename: "BU_0_203_2140_t16 SPRAWA LAMPARTA, LISIECKI HENRYK PS LIS.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t16 SPRAWA LAMPARTA, LISIECKI HENRYK PS LIS.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t16 SPRAWA LAMPARTA, LISIECKI HENRYK PS LIS.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t16-Sprawa-Lamparta-Lisiecki-Henryk-Lis]]"
 reliability: "requires-review"
 ocr_quality: "słaba — jedynie str.3, 8 (częściowo) i 22 czytelne, reszta pusta lub nieczytelna"

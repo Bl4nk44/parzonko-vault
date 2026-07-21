@@ -13,7 +13,7 @@ language:
   - pl
 pages: 73
 original_filename: "Bi 237_67 AKTA W SPRAWIE FILIŃSKI JAN.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 237_67 AKTA W SPRAWIE FILIŃSKI JAN.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 237_67 AKTA W SPRAWIE FILIŃSKI JAN.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-237-67-Wyrok-Filinski-Jan-Sr347-53]]"
 reliability: "confirmed"
 ocr_quality: "dobra dla wyroku (str. 70-71, w pełni czytelny), reszta mieszana/nieczytelna"

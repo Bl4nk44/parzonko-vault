@@ -13,7 +13,7 @@ language:
   - pl
 pages: 7
 original_filename: "BU_0_180_82_t4 KWESTIONARIUSZ OSOBOWY PARZONKO KAZIMIERZ.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_180_82_t4 KWESTIONARIUSZ OSOBOWY PARZONKO KAZIMIERZ.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_180_82_t4 KWESTIONARIUSZ OSOBOWY PARZONKO KAZIMIERZ.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0180-82-t4-Charakterystyka-nr-66-VI-Brygada-Wilenska]]"
 reliability: "confirmed"
 ocr_quality: "słaba — poza kartą informacyjną (str.1) i nagłówkami formularzy, treść odręczna nieczytelna"

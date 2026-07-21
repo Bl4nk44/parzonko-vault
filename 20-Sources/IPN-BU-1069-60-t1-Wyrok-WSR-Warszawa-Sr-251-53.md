@@ -13,7 +13,7 @@ language:
   - pl
 pages: 157
 original_filename: "BU 1069_60 tom 1 AKTA W SPRAWIE KAZIMIERZA PARZONKO.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 1069_60 tom 1 AKTA W SPRAWIE KAZIMIERZA PARZONKO.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 1 AKTA W SPRAWIE KAZIMIERZA PARZONKO.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t1-Wyrok-WSR-Warszawa-Sr-251-53]]"
 reliability: "primary"
 ocr_quality: "zróżnicowana (str. 123-134: głównie numeracja archiwalna/formularze zgonu, słaba; str. 135-157: dobra do średniej, z licznymi lukami)"

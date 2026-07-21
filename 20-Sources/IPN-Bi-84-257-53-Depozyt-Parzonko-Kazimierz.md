@@ -13,7 +13,7 @@ language:
   - pl
 pages: 5
 original_filename: "depozyt K. Parzonko.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/depozyt K. Parzonko.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/depozyt K. Parzonko.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-84-257-53-Depozyt-Parzonko-Kazimierz]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (skan częściowo odwrócony, tekst w większości nieczytelny)"

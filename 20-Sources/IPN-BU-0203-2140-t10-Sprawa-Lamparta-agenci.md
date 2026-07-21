@@ -13,7 +13,7 @@ language:
   - pl
 pages: 122
 original_filename: "BU_0_203_2140_t10 SPRAWA LAMPARTA, AGENCI, ROZPRACOWANIA AGENTURALNE.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t10 SPRAWA LAMPARTA, AGENCI, ROZPRACOWANIA AGENTURALNE.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t10 SPRAWA LAMPARTA, AGENCI, ROZPRACOWANIA AGENTURALNE.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t10-Sprawa-Lamparta-agenci]]"
 reliability: "requires-review"
 ocr_quality: "mieszana — str.95-96, 106 czytelne, reszta biurokratyczna o niskiej wartości lub nieczytelna"

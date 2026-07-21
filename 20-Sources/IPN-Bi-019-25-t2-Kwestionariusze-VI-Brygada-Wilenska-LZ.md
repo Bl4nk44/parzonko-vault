@@ -13,7 +13,7 @@ language:
   - pl
 pages: 5
 original_filename: "Bi 019_25 tom 2 KWESTIONARIUSZ OSOBOWY 1977-79 PARZONKO KAZIMIERZ.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 019_25 tom 2 KWESTIONARIUSZ OSOBOWY 1977-79 PARZONKO KAZIMIERZ.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 019_25 tom 2 KWESTIONARIUSZ OSOBOWY 1977-79 PARZONKO KAZIMIERZ.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-25-t2-Kwestionariusze-VI-Brygada-Wilenska-LZ]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (formularz czytelny, wypełnienie odręczne nieczytelne)"

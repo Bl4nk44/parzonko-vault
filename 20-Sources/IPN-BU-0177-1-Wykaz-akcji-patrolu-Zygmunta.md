@@ -13,7 +13,7 @@ language:
   - pl
 pages: 20
 original_filename: "BU 0177_1 WYKAZ AKCJI PATROLU ZYGMUNTA SPISANE PRZEZ UB.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 0177_1 WYKAZ AKCJI PATROLU ZYGMUNTA SPISANE PRZEZ UB.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/BU 0177_1 WYKAZ AKCJI PATROLU ZYGMUNTA SPISANE PRZEZ UB.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0177-1-Wykaz-akcji-patrolu-Zygmunta]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne)"

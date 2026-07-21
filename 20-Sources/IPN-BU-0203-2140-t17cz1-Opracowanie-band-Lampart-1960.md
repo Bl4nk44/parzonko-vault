@@ -13,7 +13,7 @@ language:
   - pl
 pages: 447
 original_filename: "BU_0_203_2140_t17cz1 OPRACOWANIE DOT ODDZIALY PS. LAMPART 1960 ZDJECIA Z LIKWIDACJI PATROLU.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t17cz1 OPRACOWANIE DOT ODDZIALY PS. LAMPART 1960 ZDJECIA Z LIKWIDACJI PATROLU.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t17cz1 OPRACOWANIE DOT ODDZIALY PS. LAMPART 1960 ZDJECIA Z LIKWIDACJI PATROLU.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t17cz1-Opracowanie-band-Lampart-1960]]"
 reliability: "confirmed"
 ocr_quality: "dobra na str.1-15 (retrospektywne opracowanie), reszta dokumentu (głównie fotografie) nieczytelna lub nieodczytana szczegółowo"

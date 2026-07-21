@@ -13,7 +13,7 @@ language:
   - pl
 pages: 7
 original_filename: "Bi 019_119 CHARAKTERYSTYKA CZLONKOW NZW - HENRYK PARZONKO ORAZ KAZIMIERZ PARZONKO.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 019_119 CHARAKTERYSTYKA CZLONKOW NZW - HENRYK PARZONKO ORAZ KAZIMIERZ PARZONKO.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 019_119 CHARAKTERYSTYKA CZLONKOW NZW - HENRYK PARZONKO ORAZ KAZIMIERZ PARZONKO.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-119-Charakterystyka-Henryk-Kazimierz-Parzonko]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne)"

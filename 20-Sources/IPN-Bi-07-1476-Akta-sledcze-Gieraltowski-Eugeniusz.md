@@ -13,7 +13,7 @@ language:
   - pl
 pages: 12
 original_filename: "Bi 07_1476 AKTA GIERAŁTOWSKI EUGENIUSZ Z KOSTRY, UKRYWAŁ HUZARA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 07_1476 AKTA GIERAŁTOWSKI EUGENIUSZ Z KOSTRY, UKRYWAŁ HUZARA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 07_1476 AKTA GIERAŁTOWSKI EUGENIUSZ Z KOSTRY, UKRYWAŁ HUZARA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-1476-Akta-sledcze-Gieraltowski-Eugeniusz]]"
 reliability: "confirmed"
 ocr_quality: "słaba (czytelna wyłącznie karta informacyjna, str. 1; pozostałe strony bez odczytanej treści merytorycznej)"

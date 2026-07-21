@@ -13,7 +13,7 @@ language:
   - pl
 pages: 6
 original_filename: "Bi 3_163 UNIEWINNIENIE WYROKU.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 3_163 UNIEWINNIENIE WYROKU.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 3_163 UNIEWINNIENIE WYROKU.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-3-163-Wyrok-Filinska-Janina]]"
 reliability: "confirmed"
 ocr_quality: "słaba do średniej (fragmenty czytelne po rekonstrukcji z kontekstu, str. 3-5)"

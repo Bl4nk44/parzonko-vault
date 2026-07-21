@@ -13,7 +13,7 @@ language:
   - pl
 pages: 25
 original_filename: "BU_0_203_2140_t2 AGENTURALNE ROZPRACOWANIE LAMPARTA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t2 AGENTURALNE ROZPRACOWANIE LAMPARTA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t2 AGENTURALNE ROZPRACOWANIE LAMPARTA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t2-Agenturalne-rozpracowanie-Lamparta]]"
 reliability: "requires-review"
 ocr_quality: "słaba — jedynie str.4 i częściowo str.13 czytelne, reszta silnie zniekształcona lub pusta"

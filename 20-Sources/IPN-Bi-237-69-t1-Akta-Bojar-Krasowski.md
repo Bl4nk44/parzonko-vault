@@ -13,7 +13,7 @@ language:
   - pl
 pages: 17
 original_filename: "Bi 237_69 tom 1 ZEZNANIA PARZONKO, KOSTRO BIAŁOWĄS W SPRAWIE WIEWIÓRKI.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 237_69 tom 1 ZEZNANIA PARZONKO, KOSTRO BIAŁOWĄS W SPRAWIE WIEWIÓRKI.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 237_69 tom 1 ZEZNANIA PARZONKO, KOSTRO BIAŁOWĄS W SPRAWIE WIEWIÓRKI.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-237-69-t1-Akta-Bojar-Krasowski]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (jedynie karta informacyjna czytelna; pozostałe 16 stron formularzy przesłuchań nieczytelne)"

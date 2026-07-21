@@ -13,7 +13,7 @@ language:
   - pl
 pages: 23
 original_filename: "Bi 019_24 tom 3 CZYNY PRZESTEPCZE 1946-1948 PODODZIAŁ PARZONKI PS. WICHURA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 019_24 tom 3 CZYNY PRZESTEPCZE 1946-1948 PODODZIAŁ PARZONKI PS. WICHURA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 019_24 tom 3 CZYNY PRZESTEPCZE 1946-1948 PODODZIAŁ PARZONKI PS. WICHURA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-24-t3-Czyny-przestepcze-VI-Brygada-Wilenska]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne, jeden fragment częściowo czytelny)"

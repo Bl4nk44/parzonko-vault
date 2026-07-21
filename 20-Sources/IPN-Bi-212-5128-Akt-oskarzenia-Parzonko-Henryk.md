@@ -13,7 +13,7 @@ language:
   - pl
 pages: 104
 original_filename: "Bi 212_5128 AKTA W SPRAWIE HENKRYK PARZONKO PEŁCH.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_5128 AKTA W SPRAWIE HENKRYK PARZONKO PEŁCH.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_5128 AKTA W SPRAWIE HENKRYK PARZONKO PEŁCH.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5128-Akt-oskarzenia-Parzonko-Henryk]]"
 reliability: "confirmed"
 ocr_quality: "mieszana (akt oskarżenia — str. 71, 73 — dobrej jakości, w pełni czytelny; formularze przesłuchań w większości nieczytelne)"

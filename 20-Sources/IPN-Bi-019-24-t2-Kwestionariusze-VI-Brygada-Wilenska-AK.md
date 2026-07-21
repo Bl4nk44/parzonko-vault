@@ -13,7 +13,7 @@ language:
   - pl
 pages: 9
 original_filename: "Bi 019_24 tom 2 CHARAKTERYSTYKI OSOBOWE 1946 PODODZIAŁ PARZONKI 1979-80.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 019_24 tom 2 CHARAKTERYSTYKI OSOBOWE 1946 PODODZIAŁ PARZONKI 1979-80.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 019_24 tom 2 CHARAKTERYSTYKI OSOBOWE 1946 PODODZIAŁ PARZONKI 1979-80.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-24-t2-Kwestionariusze-VI-Brygada-Wilenska-AK]]"
 reliability: "uncertain"
 ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne)"
