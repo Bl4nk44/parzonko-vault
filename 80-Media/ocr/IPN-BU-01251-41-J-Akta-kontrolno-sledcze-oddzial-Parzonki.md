@@ -103,6 +103,10 @@ Rozbudowane wykazy melin i drobnych kontaktów (dziesiątki nazwisk, głównie k
 
 Str. 252-255 i 262-264 to dwa odpisy tej samej, obszernej odpowiedzi Parzonki na pytanie o akcje band w latach 1949-1951 — zgodne z już udokumentowanymi wydarzeniami (Pułazie/Kozłowski/Wyszyńscy, Piątki/Koc, Zajęczniki/Burzyński-Lejzerowicz, Jasiński). Potwierdza mechanizm: **każdy nowy członek bandy musiał dokonać "chrzczącego" morderstwa** (motyw: taki członek się nie podda). Potwierdza już znaną listę 19 nazwisk od "Wiewiórki" (Głuszec) jako źródło informacji o Burzyńskim/Lejzerowiczu (zgodne z SRC-021). Bez nowych faktów poza drobnymi wariantami zapisu nazwisk (efekt dwóch niezależnych odpisów tego samego dokumentu).
 
+## Str. 288, 298-300, 319 — formalne karty świadków, drobna korroboracja
+
+Jasińska Zofia (wdowa po Jasińskim Franciszku) zeznaje o zwrocie legitymacji partyjnej męża sekretarzowi Partii podczas pogrzebu — zgodne z już znaną wersją [[Event-1951-002-Zabojstwo-Jasinskiego]]. Pozostałe strony (288, 319) to same karty rejestracyjne świadków bez treściowej wartości.
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.
