@@ -11,12 +11,12 @@ date_accuracy: "range"
 place_document: "Białystok"
 language:
   - pl
-pages: 254
+pages: 42
 original_filename: "Bi 012_1230 tom 3 KRYPT ROZBÓJNICY SPRAWA HUZARA 51-52.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1230 tom 3 KRYPT ROZBÓJNICY SPRAWA HUZARA 51-52.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1230-t3-Rozbojnicy-sprawa-Huzara-1951-52]]"
 reliability: "confirmed"
-ocr_quality: "dobra na sprawdzonych stronach (5, 28, 32, 41); dokument obszerny (254 str. wg numeracji wewnętrznej), sprawdzono próbkę"
+ocr_quality: "dobra, systematycznie przeczytany cały dokument (str. 1-42, Gemini 2.5 Pro vision-OCR + tesseract). Numeracja stron w treści ('X z 254') to archiwalny stempel ciągły obejmujący kilka powiązanych teczek — nie liczba stron tego pliku PDF (42, potwierdzone pdfinfo)."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
@@ -28,7 +28,7 @@ places_mentioned:
   - "PLACE-004"
 organizations_mentioned: []
 related_events:
-  - "EVENT-1949-001"
+  - "EVENT-1949-002"
 tags:
   - type/source
   - source/ipn
@@ -44,8 +44,9 @@ Teczka operacyjna WUBP Białystok, kryptonim "Rozbójnicy" (numeracja wewnętrzn
 ## Najważniejsze ustalenia
 
 - **Pełny, numerowany skład bandy "Huzara" 1947-1951** (9 członków): Kamiński "Huzar" (d-ca), Buczak Witold "Ponury" (2-ca), Niemyjski Lucjan "Krakus" ([[Person-Niemyjski-Lucjan-Krakus]] — **rozstrzyga tożsamość "Krakusa"**, dowódcy bojówki, do której Parzonko krótko należał we wrześniu 1950 r.), Parzonko "Wichura", Grodzki Mieczysław "Kazimierz" (kolejny wariant jego pseudonimu, obok "Żubryt"/"Zubryd"), Butkiewicz Roman "Władysław" ([[Person-Butkiewicz-Roman]]), Kryński Tadeusz "Dzięcioł", Brzozowski Józef "Hanka", Zalewski Czesław (kolejna sprzeczność imienia — "Czesław" tu, "Wacław" w SRC-070), pseudonim "Rymsza" (nazwisko nieustalone).
-- **Nowe morderstwo (26.01.1949, gm. Szepietowo)**: 4 ofiary (Piszczatowski Władysław, Wyszyński Witold, Wyszyński Czesław, Kozłowski Eugeniusz) — patrz [[Event-1949-001-Morderstwo-4-osob-Szepietowo]].
+- **Ten sam dokument potwierdza [[Event-1949-002-Zabojstwa-Pulazie-Dabrowka-Koscielna]]** (str. 171, 4 ofiary: Piszczatowski Władysław, Wyszyński Witold, Wyszyński Czesław, Kozłowski Eugeniusz), ale z błędną datą "26.I.49" zamiast prawidłowej 26.10.1949 (ustalonej z wyroku, SRC-092) — prawdopodobny błąd maszynistki I/X. Osobna notatka EVENT-1949-001 "Morderstwo 4 osób w Szepietowie" (błędnie utworzona jako odrębne wydarzenie na podstawie tego samego wpisu) scalona z EVENT-1949-002, usunięta.
 - **Szczegółowy plan zasadzki na Parzonkę (lipiec 1952)**: banda 5-osobowa umiejscowiona koło Czaje Bagno, meliniarze Trzciński Władysław ([[Person-Trzcinski-Wladyslaw]], las Sypniowski) i "Otap Adolf" (możliwy krewny już znanego Kazimierza Otapa — patrz niepewności w [[Person-Otap-Kazimierz-Kanonier]]).
+- **Str. 1-42 przeczytane systematycznie (kontynuacja, 2026-07-21)**: nowe lokalizacje melin (Lubowicz Wielki/Stary, Gródek, Kostry Podsońkowskie, Żebry Wielkie — patrz [[Person-Parzonko-Kazimierz-Zygmunt]]), nowy pomocnik-meliniarz Kopeć Wacław (Czaje-Bagno, marzec 1952), werbunek "Brus Kazimierz" (Leśniki) jako informator przeciw rodzinie Parzonki — patrz [[Person-Brus-Kazimiera]], trzeci wariant roku urodzenia Parzonki (1920, str. 97).
 
 ## Osoby
 

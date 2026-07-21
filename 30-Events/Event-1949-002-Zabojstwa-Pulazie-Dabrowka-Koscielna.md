@@ -16,6 +16,7 @@ people_involved:
 category: "homicide"
 sources:
   - "SRC-092#p124-129,355,360"
+  - "SRC-086#p171"
 certainty: "high"
 tags:
   - timeline
@@ -55,7 +56,7 @@ Pułazie i Dąbrówka-Kościelna, pow. Wysokie Mazowieckie — brak notatek miej
 
 ## Sprzeczne relacje
 
-Brak — spójne między własnym zeznaniem Parzonki a formalnym wyrokiem.
+Spójne między własnym zeznaniem Parzonki a formalnym wyrokiem. Jeden odrębny raport operacyjny UB ([[IPN-Bi-012-1230-t3-Rozbojnicy-sprawa-Huzara-1951-52]], SRC-086, str. 171, 30.04.1952) podaje datę "26.I.49" (26 stycznia) zamiast "26.10.1949" — prawdopodobny błąd maszynistki (I/X), niżej wiarygodny niż wyrok sądowy, nie zmienia przyjętej daty.
 
 ## Stopień pewności
 

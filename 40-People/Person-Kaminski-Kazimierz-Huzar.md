@@ -81,7 +81,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 
 - ~1947 — połączenie z resztkami bandy "Młota" po amnestii, przejęcie dowództwa po jej likwidacji
 - 1948-07 — [[Event-1948-005-Potyczka-Ciechanowiec-Dybowscy]] (śmierć dwóch podwładnych w potyczce z wojskiem)
-- 1949-01-26 — [[Event-1949-001-Morderstwo-4-osob-Szepietowo]] (nowe ustalenie, SRC-086)
+- 1949-10-26 — [[Event-1949-002-Zabojstwa-Pulazie-Dabrowka-Koscielna]] (poczwórne zabójstwo w Pułaziach/Dąbrówce-Kościelnej; SRC-086 podaje tę samą zbrodnię z błędną datą "26.01.1949" — scalone, patrz notatka wydarzenia)
 - 1950-01 — bawi się całą noc na weselu z narzeczoną, nauczycielką Gertrudą Ceraniewicz ([[Person-Ceraniewicz-Gertruda]]) — SRC-087
 - 1951-10 (początek) — przyjmuje osobisty meldunek Parzonki i Radziszewskiego o zabójstwie Jasińskiego w kolonii Puław, gm. Klukowo, awansuje Radziszewskiego (SRC-091)
 - 1951-10 (12.10) — spotyka się osobiście z podstawionym agentem MBP "Rygiel"/"Rytel" w Niemyjach Nowych — kluczowy krok operacji, która doprowadziła do rozbicia bandy (SRC-091, patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]])

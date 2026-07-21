@@ -24,6 +24,7 @@ related_persons:
   - "PERSON-001"
 key_sources:
   - "SRC-103"
+  - "SRC-086"
 certainty: "medium"
 tags:
   - type/person
@@ -49,3 +50,4 @@ Kazimiera Brus z domu Parzonko — wg charakterystyki rodzinnej UB (1950) siostr
 
 - Trzecia (obok Józefy Biszewskiej i Bronisławy Zdunek) udokumentowana siostra głównego bohatera — łączna liczba sióstr (co najmniej 3, licząc z nienazwaną żoną Bojara Kazimierza wspomnianą w tym samym dokumencie, może 4) nie ustalona ostatecznie.
 - Powiązanie z domysłem o krewnym w armii Andersa (SRC-076) prawdopodobne, ale nie potwierdzone wprost w źródle.
+- **Możliwa kolizja nazwiska (SRC-086, str. 139)**: plan operacyjny UB z kwietnia 1952 r. opisuje werbunek "Brus Kazimierz zam. we wsi Leśniki gm. Ciechanowiec" jako kandydata na informatora do rozpracowania rodziny Parzonki — utrzymuje "stosunki koleżeńskie z siostrą Kazimierza" (nie sprecyzowano którą). Sprzeczne z ustaleniem, że mąż Kazimiery (nazwiskiem Brus) przebywa w Anglii — albo to inna osoba o tym samym nazwisku mieszkająca w Leśnikach, albo mąż Kazimiery jednak przebywał wówczas w kraju (dane o Anglii mogą dotyczyć późniejszego okresu lub być błędne). Nie scalono, nie rozstrzygnięto.
