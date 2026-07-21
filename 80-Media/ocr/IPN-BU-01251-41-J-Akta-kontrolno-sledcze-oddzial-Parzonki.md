@@ -52,6 +52,22 @@ Podaje datę własnego wstąpienia do bandy jako "kwiecień 1952 r." — **TRZEC
 
 **Nowe meliny 1952** (Stare Siudy — Porowski, Niemiejski, Polak, Piliński; Radziszewo — Włostowski Witold, regularne wypłaty >1000 zł od Parzonki; Kobyla — Korycki, nienazwany sprzedawca kiełbasy; Kosiorki — dwóch gospodarzy "Rusiniak"). **Nowy, nienazwany krewny Parzonki**: "Michał", średniego wzrostu, ciemny blond, ok. 20-25 lat, przynosił jedzenie grupie ukrywającej się w lesie koło Leśnik (koniec VIII.1952) — wg Mościckiego krewny Parzonki (kolejny, obok Góral "Wilk", nieznany dotąd krewny w otoczeniu bandy).
 
+## Str. 33-35 — WŁASNE, PODPISANE ZEZNANIE RADZISZEWSKIEGO — pochodzenie pseudonimu "Marynarz", DEFINITYWNIE ZAMYKA kwestię "Modzelewskiego"
+
+Podpisane "Zeznał: Kazimierz Radziszewski" (str. 35). Radziszewski osobiście opisuje wstąpienie do bandy "Młota" 25.07.1948 r. za pośrednictwem "Otapa" (mieszkańca Czaje-Bagno, ojca Kazimierza i Henryka — prawdopodobnie rodzina Ostapskich znanych z klastra t17), i **sam wybrał pseudonim "Marynarz", którego używał aż do aresztowania**. Po śmierci "Młota" (postrzelony przez pijanego Dybowskiego Czesława ps. "Rejtan", czerwiec 1949) przyłączył się do grupy "Lamparta" (do maja 1951), potem do czteroosobowego oddziału Parzonki podległego "Huzarowi". **To, w połączeniu ze str. 18 (własne zeznanie Parzonki), definitywnie zamyka wątpliwość ze str. 11 — "Modzelewski" to błąd odczytu, nie odrębna osoba.**
+
+## Str. 36 — własne zeznanie Kostry, zabójstwo w Kostrach-Noskach
+
+Korroboruje już znane zabójstwo Bobrowskiego (ORMO) i jego szwagra (były milicjant) we wrześniu/październiku 1951 — zgodne z ustaleniami z SRC-095 (Niemyński "Krakus" zabił Bobrowskiego, Grodzki "Zubryt" szwagra).
+
+## Str. 37, 42 — zeznanie Mościckiego, wykaz melin bandy 1952
+
+Kilkanaście nowych melin z 1952 r. (Nowe Siudy, kolonia koło Sadów, Trzaski gm. Winna, Pełch gm. Korionki — u samego Kamińskiego Kazimierza, niezwiązanego z "Huzarem", bez jego wiedzy, Pobikry, Siudy Stare) — niska priorytetowa wartość (nazwiska gospodarzy w większości nieznane świadkowi), potwierdzają jedynie intensywność przemieszczania się grupy.
+
+## Str. 47, 50 — precyzyjny itinerarz ucieczki do Warszawy, 22-30.11.1952 (prawdopodobnie własne zeznanie Parzonki, niespójne podpisy "Paruszko"/"Doroszko" — OCR)
+
+Dzień po dniu: 22.11 Aleksin/Oleksin u Filipińskiego, wieczorem do Siemionczuka Antoniego (melina od jesieni 1951, zostawiona tam mapa i kompas) do 24.11; 24.11 spotkanie z sołtysem Muchą Kazimierzem; 27-28.11 melina w Niemojach-Starych (uzgodniono wyjazd ze stacji Lity w nocy 29/30.11 przez pośredniczkę "Tysmiczkę"); 28.11 wieczorem melina u znajomego "Rokity" w Niemojach-Starych; noc — melina we wsi Wojny do wieczora 29.11, po czym wyjazd. **Szczegółowa, dzień-po-dniu rekonstrukcja ostatniego tygodnia wolności przed aresztowaniem** — uzupełnia dotychczasową wiedzę z klastra t26 ("Przygotowanie wyjazdu ps. Zygmunt").
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.
