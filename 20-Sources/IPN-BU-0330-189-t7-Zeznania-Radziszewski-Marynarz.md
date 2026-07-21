@@ -11,12 +11,12 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 132
+pages: 66
 original_filename: "BU_0_330_189_t7 ZEZNIANIA KAZIMIERZ RADZISZEWSKI MARYNARZ.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t7 ZEZNIANIA KAZIMIERZ RADZISZEWSKI MARYNARZ.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t7-Zeznania-Radziszewski-Marynarz]]"
 reliability: "unusable"
-ocr_quality: "niemal całkowicie nieczytelna (formularze odręczne)"
+ocr_quality: "dobra — str. 1-52 przeczytane (2026-07-21, Claude/subagenty, częściowo maszynopis czytelny wprost). Str. 53-65 to omyłkowo wpięte, niepowiązane protokoły z innych spraw (Rajter, Zawadzki, Zawistowski) — pominięte jako nieistotne dla tego wątku."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
