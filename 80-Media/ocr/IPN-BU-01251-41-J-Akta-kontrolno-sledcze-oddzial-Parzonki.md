@@ -68,6 +68,10 @@ Kilkanaście nowych melin z 1952 r. (Nowe Siudy, kolonia koło Sadów, Trzaski g
 
 Dzień po dniu: 22.11 Aleksin/Oleksin u Filipińskiego, wieczorem do Siemionczuka Antoniego (melina od jesieni 1951, zostawiona tam mapa i kompas) do 24.11; 24.11 spotkanie z sołtysem Muchą Kazimierzem; 27-28.11 melina w Niemojach-Starych (uzgodniono wyjazd ze stacji Lity w nocy 29/30.11 przez pośredniczkę "Tysmiczkę"); 28.11 wieczorem melina u znajomego "Rokity" w Niemojach-Starych; noc — melina we wsi Wojny do wieczora 29.11, po czym wyjazd. **Szczegółowa, dzień-po-dniu rekonstrukcja ostatniego tygodnia wolności przed aresztowaniem** — uzupełnia dotychczasową wiedzę z klastra t26 ("Przygotowanie wyjazdu ps. Zygmunt").
 
+## Str. 52-70 — DUPLIKAT/korroboracja już znanych faktów (nie streszczano szczegółowo)
+
+Własne zeznania Mościckiego i Radziszewskiego o zabójstwach Burzyńskiego/Lejzerowicza (Zajęczniki, 30.04-1.05.1951) i Jasińskiego (30.07.1951, zameldowanie Huzarowi w Pułaziach, awans na plutonowego) — zgodne w każdym szczególe z już udokumentowanymi wersjami z SRC-091/SRC-095. Str. 61-70: obszerny wykaz melin Kostry/Mościckiego w regionie — powtarzalny wzorzec ("Zygmunt", "Marynarz", "Paweł"/"Tygrys"/"Antoś" razem), niska wartość dowodowa poza potwierdzeniem spójności składu patrolu.
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.
