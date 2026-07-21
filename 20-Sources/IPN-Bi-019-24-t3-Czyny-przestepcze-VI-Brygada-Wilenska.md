@@ -16,7 +16,7 @@ original_filename: "Bi 019_24 tom 3 CZYNY PRZESTEPCZE 1946-1948 PODODZIAŁ PARZO
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 019_24 tom 3 CZYNY PRZESTEPCZE 1946-1948 PODODZIAŁ PARZONKI PS. WICHURA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-24-t3-Czyny-przestepcze-VI-Brygada-Wilenska]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne, jeden fragment częściowo czytelny)"
+ocr_quality: "dobra — cały dokument (23/23 str.) przeczytany 2026-07-21 przez Claude/subagenta. Patrol Wichury/Młota 1946-48 — nowa kolizja pseudonimu (Oleksiak Józef ps. Wichura, zabity 1948, inna osoba), możliwy alias 'Węgorz'."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

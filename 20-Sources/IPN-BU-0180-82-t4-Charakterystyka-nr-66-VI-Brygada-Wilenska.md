@@ -16,7 +16,7 @@ original_filename: "BU_0_180_82_t4 KWESTIONARIUSZ OSOBOWY PARZONKO KAZIMIERZ.pdf
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_180_82_t4 KWESTIONARIUSZ OSOBOWY PARZONKO KAZIMIERZ.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0180-82-t4-Charakterystyka-nr-66-VI-Brygada-Wilenska]]"
 reliability: "confirmed"
-ocr_quality: "słaba — poza kartą informacyjną (str.1) i nagłówkami formularzy, treść odręczna nieczytelna"
+ocr_quality: "dobra — cały dokument (7/7 str.) przeczytany 2026-07-21 przez Claude/subagenta. Kwestionariusz Parzonki — epizod w Milicji Obywatelskiej przed bandą Młota, przydział do patrolu Lamparta 1951."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

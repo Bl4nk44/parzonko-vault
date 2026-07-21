@@ -16,7 +16,7 @@ original_filename: "Bi 019_25 tom 2 KWESTIONARIUSZ OSOBOWY 1977-79 PARZONKO KAZI
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 019_25 tom 2 KWESTIONARIUSZ OSOBOWY 1977-79 PARZONKO KAZIMIERZ.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-25-t2-Kwestionariusze-VI-Brygada-Wilenska-LZ]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (formularz czytelny, wypełnienie odręczne nieczytelne)"
+ocr_quality: "dobra — cały dokument (5/5 str.) przeczytany 2026-07-21 przez Claude/subagenta. Kwestionariusz Parzonki 1978 — data i miejsce wykonania wyroku (WSR Białystok, wariant sprzeczny z ustalonym)."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

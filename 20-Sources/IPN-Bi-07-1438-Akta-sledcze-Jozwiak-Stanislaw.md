@@ -16,7 +16,7 @@ original_filename: "Bi 07_1438 akta śledcze Jóżwiak Stanisław.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 07_1438 akta śledcze Jóżwiak Stanisław.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-1438-Akta-sledcze-Jozwiak-Stanislaw]]"
 reliability: "primary"
-ocr_quality: "słaba (str. 1-9, 14, 16-18: częściowo czytelna; str. 10-13, 15, 19: bardzo słaba do nieczytelnej)"
+ocr_quality: "dobra — cały dokument (19/19 str.) przeczytany 2026-07-21 przez Claude/subagenta. Jóźwiak Stanisław zaopatrywał JEDNOCZEŚNIE bandę Zygmunta i bandę Głuszca; był potajemnym informatorem MO."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

@@ -16,7 +16,7 @@ original_filename: "Bi 019_24 tom 2 CHARAKTERYSTYKI OSOBOWE 1946 PODODZIAŁ PARZ
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 019_24 tom 2 CHARAKTERYSTYKI OSOBOWE 1946 PODODZIAŁ PARZONKI 1979-80.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-24-t2-Kwestionariusze-VI-Brygada-Wilenska-AK]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne)"
+ocr_quality: "dobra — cały dokument (9/9 str.) przeczytany 2026-07-21 przez Claude/subagenta. Cztery niezależne kwestionariusze potwierdzają formalny 'patrol Wichury' w strukturze bandy Młota od 1946."
 main_person: "PERSON-001"
 people_mentioned: []
 places_mentioned: []

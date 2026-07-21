@@ -16,7 +16,7 @@ original_filename: "BU_0_203_2140_t6 AGENTURALNE ROZPRACOWANIE PS LAMPART.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t6 AGENTURALNE ROZPRACOWANIE PS LAMPART.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t6-Protokol-przesluchania-swiadka-Lampart]]"
 reliability: "primary"
-ocr_quality: "dobra dla 2 z 10 stron (odczyt handwritingocr.com API, 2026-07-20); reszta pusta/nieczytelna"
+ocr_quality: "dobra — cały dokument (10/10 str.) przeczytany 2026-07-21 przez Claude/subagenta. Białowąs: patrol Zygmunta oddzielił się od Lamparta VII.1951, rana Zygmunta w Kol. Pasieka."
 main_person: "PERSON-037"
 people_mentioned:
   - "PERSON-001"

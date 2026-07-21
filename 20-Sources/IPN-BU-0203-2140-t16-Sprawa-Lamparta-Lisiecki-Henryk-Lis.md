@@ -16,7 +16,7 @@ original_filename: "BU_0_203_2140_t16 SPRAWA LAMPARTA, LISIECKI HENRYK PS LIS.pd
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t16 SPRAWA LAMPARTA, LISIECKI HENRYK PS LIS.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t16-Sprawa-Lamparta-Lisiecki-Henryk-Lis]]"
 reliability: "requires-review"
-ocr_quality: "słaba — jedynie str.3, 8 (częściowo) i 22 czytelne, reszta pusta lub nieczytelna"
+ocr_quality: "dobra — cały dokument (22/22 str.) przeczytany 2026-07-21 przez Claude/subagenta. Lisiecki jako łącznik Lampart↔Zygmunt; aktywne działania UB (VIII.1952) w celu infiltracji bandy Zygmunta."
 main_person: "PERSON-049"
 people_mentioned:
   - "PERSON-049"

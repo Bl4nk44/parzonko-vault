@@ -16,7 +16,7 @@ original_filename: "Bi 012_1231 tom 1 AKTA HUZAR 45-61 ZEZNANIA RADZISZEWSKI MIE
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1231 tom 1 AKTA HUZAR 45-61 ZEZNANIA RADZISZEWSKI MIECZYSŁAW I DANILUK PS GRYF.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1231-t1-Zeznania-Radziszewski-Daniluk-Gryf]]"
 reliability: "primary"
-ocr_quality: "bardzo zróżnicowana (str. 5, 13-15, 16-26: dobra do bardzo dobrej; str. 7-12: praktycznie nieczytelna — silnie zniekształcony maszynopis/pismo; str. 1-4, 6, 27-32: sama numeracja archiwalna, brak treści)"
+ocr_quality: "dobra — cały dokument (32/32 str.) przeczytany 2026-07-21 przez Claude/subagenta. KLUCZOWE: dwa niezależne zeznania świadków potwierdzają pobyt Parzonki w Gdańsku i rejonie Dobre Miasto/Lidzbark Warmiński; szczegółowy rysopis; niepotwierdzony zarzut zabójstwa w Koce-Piekuty (hipoteza robocza)."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

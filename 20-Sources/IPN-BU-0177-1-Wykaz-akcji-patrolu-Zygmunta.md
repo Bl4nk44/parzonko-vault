@@ -16,7 +16,7 @@ original_filename: "BU 0177_1 WYKAZ AKCJI PATROLU ZYGMUNTA SPISANE PRZEZ UB.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/BU 0177_1 WYKAZ AKCJI PATROLU ZYGMUNTA SPISANE PRZEZ UB.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0177-1-Wykaz-akcji-patrolu-Zygmunta]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne)"
+ocr_quality: "dobra — cały dokument (20/20 str.) przeczytany 2026-07-21 przez Claude/subagenta. Karty czynów patrolu Zygmunta — pełna chronologia napadów/zabójstw, w tym egzekucja wewnątrz patrolu (Olejnik/Olejniuk 'Sokół')."
 main_person: "PERSON-001"
 people_mentioned: []
 places_mentioned: []

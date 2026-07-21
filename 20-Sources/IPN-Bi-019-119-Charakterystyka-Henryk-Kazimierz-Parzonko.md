@@ -16,7 +16,7 @@ original_filename: "Bi 019_119 CHARAKTERYSTYKA CZLONKOW NZW - HENRYK PARZONKO OR
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 019_119 CHARAKTERYSTYKA CZLONKOW NZW - HENRYK PARZONKO ORAZ KAZIMIERZ PARZONKO.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-119-Charakterystyka-Henryk-Kazimierz-Parzonko]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne)"
+ocr_quality: "dobra — cały dokument (7/7 str.) przeczytany 2026-07-21 przez Claude/subagenta. Henryk Parzonko (kuzyn, inni rodzice) i drugi, sprzeczny rekord 'Parzonko Kazimierz' (alias Kraus, NZW) — hipoteza robocza."
 main_person: "PERSON-001"
 people_mentioned: []
 places_mentioned: []

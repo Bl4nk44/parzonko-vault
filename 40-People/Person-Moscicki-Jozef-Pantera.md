@@ -12,8 +12,8 @@ gender: "M"
 birth_date: "1923-02-11"
 birth_date_accuracy: "day"
 birth_place: null
-death_date: null
-death_date_accuracy: "unknown"
+death_date: "1953-09-22"
+death_date_accuracy: "day"
 death_place: null
 nationality: "polska"
 occupation: []
@@ -64,6 +64,7 @@ Brak danych o rodzinie poza imionami rodziców (Kazimierz Mościcki i Anna z d. 
 - 1948 — kontakt z bandą "Głuszcza"/Krasowskiego ps. "Głuszec", udzielanie schronienia
 - 1950 (jesień) — wstąpienie do "patrolu Lamparta"
 - 1953-03-31 — [[Event-1953-03-31-Wyrok-kary-smierci]] (skazany, wyrok kary śmierci)
+- 1953-09-22 — egzekucja wykonana (SRC-028, kwestionariusz osobowy) — ta sama data co Parzonko i Radziszewski
 
 ## Najważniejsze źródła
 

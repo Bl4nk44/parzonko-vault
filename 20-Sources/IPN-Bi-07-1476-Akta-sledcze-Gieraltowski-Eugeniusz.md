@@ -16,7 +16,7 @@ original_filename: "Bi 07_1476 AKTA GIERAŁTOWSKI EUGENIUSZ Z KOSTRY, UKRYWAŁ H
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 07_1476 AKTA GIERAŁTOWSKI EUGENIUSZ Z KOSTRY, UKRYWAŁ HUZARA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-1476-Akta-sledcze-Gieraltowski-Eugeniusz]]"
 reliability: "confirmed"
-ocr_quality: "słaba (czytelna wyłącznie karta informacyjna, str. 1; pozostałe strony bez odczytanej treści merytorycznej)"
+ocr_quality: "dobra — cały dokument (12/12 str.) przeczytany 2026-07-21 przez Claude/subagenta. Gierałtowski żywił patrol Zygmunta XII.1951-X.1952, bunkier z bronią odkryty po aresztowaniu."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-031"

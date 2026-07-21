@@ -16,7 +16,7 @@ original_filename: "Bi 019_1 tom 3 CZYNY PRZESTĘPCZE ODDZIAŁ HUZARA 1977.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 019_1 tom 3 CZYNY PRZESTĘPCZE ODDZIAŁ HUZARA 1977.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-1-t3-Czyny-przestepcze-Huzar]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne niemal całkowicie nieczytelne)"
+ocr_quality: "dobra — cały dokument (23/23 str.) przeczytany 2026-07-21 przez Claude/subagenta. Karty czynów przestępczych bandy Huzara — szczegółowa chronologia napadów/zabójstw 1949-1952, kilka nowych ofiar i sprzeczności wobec innych źródeł (kto zabił Stefanię Koc)."
 main_person: "PERSON-001"
 people_mentioned: []
 places_mentioned: []

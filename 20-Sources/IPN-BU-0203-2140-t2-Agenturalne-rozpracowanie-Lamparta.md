@@ -16,7 +16,7 @@ original_filename: "BU_0_203_2140_t2 AGENTURALNE ROZPRACOWANIE LAMPARTA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t2 AGENTURALNE ROZPRACOWANIE LAMPARTA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t2-Agenturalne-rozpracowanie-Lamparta]]"
 reliability: "requires-review"
-ocr_quality: "słaba — jedynie str.4 i częściowo str.13 czytelne, reszta silnie zniekształcona lub pusta"
+ocr_quality: "dobra — cały dokument (25/25 str.) przeczytany 2026-07-21 przez Claude/subagenta. UWAGA: dotyczy odrębnej bandy 'Lamparta' pow. siedleckiego z WŁASNYMI, innymi osobami ps. 'Zygmunt'/'Pantera' — nie mylić z Parzonko/Mościckim."
 main_person: null
 people_mentioned: []
 places_mentioned: []

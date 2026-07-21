@@ -16,7 +16,7 @@ original_filename: "Bi 3_163 UNIEWINNIENIE WYROKU.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 3_163 UNIEWINNIENIE WYROKU.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-3-163-Wyrok-Filinska-Janina]]"
 reliability: "confirmed"
-ocr_quality: "słaba do średniej (fragmenty czytelne po rekonstrukcji z kontekstu, str. 3-5)"
+ocr_quality: "dobra — cały dokument (6/6 str.) przeczytany 2026-07-21 przez Claude/subagenta. Wyrok Filińskiej Janiny — Zygmunt przekazywał jej pieniądze na ubrania/lekarstwa dla oddziału (1952)."
 main_person: "PERSON-044"
 people_mentioned:
   - "PERSON-044"

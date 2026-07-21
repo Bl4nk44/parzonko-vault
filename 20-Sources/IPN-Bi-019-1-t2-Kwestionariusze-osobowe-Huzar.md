@@ -16,7 +16,7 @@ original_filename: "Bi 019_1 tom 2 KWESTIONARIUSZE OSOBOWE ODDZIAŁ HUZARA 1977.
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 019_1 tom 2 KWESTIONARIUSZE OSOBOWE ODDZIAŁ HUZARA 1977.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-019-1-t2-Kwestionariusze-osobowe-Huzar]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (formularze czytelne, wypełnienia odręczne kursywą niemal całkowicie nieczytelne)"
+ocr_quality: "dobra — cały dokument (19/19 str.) przeczytany 2026-07-21 przez Claude/subagenta. Kwestionariusze osobowe: Czarnowski, Kostro, Mościcki, Olejniuk Sokół, Parzonko (pełny życiorys, 10 czynów), Radziszewski, Parzonko Henryk."
 main_person: "PERSON-001"
 people_mentioned: []
 places_mentioned: []
