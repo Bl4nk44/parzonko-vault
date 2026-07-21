@@ -11,12 +11,12 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 66
+pages: 33
 original_filename: "BU_0_330_189_t4 ZEZNANIA TADEUSZ KRYŃSKI, MIECZYSŁAW GRODZKI, KS. BORYSEWICZ.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t4 ZEZNANIA TADEUSZ KRYŃSKI, MIECZYSŁAW GRODZKI, KS. BORYSEWICZ.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t4-Zeznania-Krynski-Grodzki-Borysewicz]]"
 reliability: "primary"
-ocr_quality: "dobra dla 10 z 66 stron (odczyt handwritingocr.com API, 2026-07-20); reszta nieczytelna"
+ocr_quality: "dobra — cały dokument (32/32 str., str. 33 nie istnieje) przeczytany 2026-07-21 przez Claude/subagenta (render PDF→obraz, odczyt bezpośredni)."
 main_person: "PERSON-042"
 people_mentioned:
   - "PERSON-042"
