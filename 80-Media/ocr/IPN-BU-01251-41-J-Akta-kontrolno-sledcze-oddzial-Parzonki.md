@@ -87,6 +87,10 @@ Najbardziej wyczerpująca dotąd, pierwszoosobowa lista przestępstw. W większo
 
 Także potwierdza pełny, ostateczny skład grupy "Lamparta" PO odejściu Parzonki (Ratyniec/"Lampart", "Kostek" — zabity 1951, "Wiesiek" — zabity, "Antoś" — więzienie, "Tygrys" — zabity, "Sokół" — zabity przez "Marynarza" pod zarzutem współpracy z UB, "Krakowiak" i "Panek" — aresztowani) oraz udział samego Parzonki jako strzelca do sołtysa Koca (str. 126-127, zintegrowane z [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]]).
 
+## Str. 133-155 — DUPLIKAT/korroboracja (nie streszczano szczegółowo)
+
+Radziszewski i Kostro w zeznaniach 11-15.12.1952 potwierdzają, z wielką precyzją i wewnętrzną spójnością, całą już ustaloną chronologię: 20 miesięcy samotnego ukrywania się w ziemiance (sierpień 1949 – 6.04.1951), skład bandy "Młota" (12 osób, dwa oddziały), werbunek do "Huzara" 6.04.1951 za pośrednictwem kuzyna Radzikowskiego Jana, przejściowy epizod w oddziale "Lamparta" (12.06-20.07.1951), ostateczne przegrupowanie 20.07.1951 do stałego składu (Parzonko/Radziszewski/Mościcki/Kostro). Zgodne w każdym szczególe z już opracowaną notatką [[Person-Radziszewski-Kazimierz-Marynarz]] — silna, wielokrotna walidacja istniejącej rekonstrukcji.
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.
