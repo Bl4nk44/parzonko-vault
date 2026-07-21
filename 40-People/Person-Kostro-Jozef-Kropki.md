@@ -9,6 +9,7 @@ surname: "Kostro"
 aliases:
   - "Kropki"
   - "Paweł"
+  - "Julek"
 gender: "M"
 birth_date: "1928-05-15"
 birth_date_accuracy: "day"
@@ -31,6 +32,7 @@ key_sources:
   - "SRC-012"
   - "SRC-015"
   - "SRC-022"
+  - "SRC-054"
   - "SRC-024"
   - "SRC-052"
   - "SRC-095"
@@ -79,6 +81,7 @@ Brak danych o rodzinie poza imionami rodziców (Józef Kostro i Maria).
 
 - **Tożsamość "Kropki"/"Paweł" — ROZSTRZYGNIĘTE.** Wcześniejsza hipoteza robocza (czy Józef Kostro ps. "Kropki" z SRC-012 to ta sama osoba co "współoskarżony Kostro" ułaskawiony w 1953 r.) potwierdzona przez pełny wyrok sądowy SRC-015, który podaje dane osobowe zgodne z osobą znaną z wykazu personalnego bandy "Huzara".
 - Ostatnia cyfra roku urodzenia niepewna w OCR ("15 maja 192[7/8] r.").
+- **Trzeci alias "Julek" (SRC-054, str. 102, zeznanie Zalewskiego Wacława ps. "Zbyszek")**: obok "Kropki" i "Paweł" — nierozstrzygnięte, czy to kolejny wariant zapisu, czy odrębny, dodatkowy pseudonim.
 - **Trzeci pseudonim**: [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] (SRC-095, zeznanie Radziszewskiego, str. 95) nazywa go "Kostry ps. 'Dąbek'" — obok już znanych "Paweł" i "Kropki". Jednorazowa wzmianka, nie dodano do pola `aliases` bez dalszego potwierdzenia.
 - **Nowy wariant nazwiska — nierozstrzygnięty**: [[IPN-BU-0330-189-t16-Akta-sledztwa-Kaminski]] (str. 11 dok.) zapisuje go jako "Wyszogrodzki vel Kostro Józef ps. \"Paweł\"" — możliwe fałszywe nazwisko używane w konspiracji, nie potwierdzone innym źródłem.
 - **Sprzeczna data wstąpienia do bandy — PRZEWAŻAJĄCE DOWODY za "październik 1950"**: w jednym przesłuchaniu (SRC-095, str. 168-169) podał "kwiecień 1951", w innym (SRC-095, str. 181-184, ze szczegółową, spójną historią spotkania z bandą u Werpechowskiego i Średnickiego) podał "pierwsze dni października 1950". [[IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]] (SRC-092, str. 177-178) dodaje TRZECIE, niezależne własne zeznanie ("Koszko Józef") — szczegółowa, pierwszoosobowa relacja z udziału w zabójstwie Koców w Piątkach-Żebrach, jednoznacznie umieszczająca jego wstąpienie do bandy na "pierwsze dni października 1950 r." Dwa z trzech zeznań (obie szczegółowe, spójne narracyjnie) wskazują teraz na październik 1950 — przeważa nad odosobnionym "kwiecień 1951", ale formalnie nie zmieniono pola bez jednoznacznej autokorekty.

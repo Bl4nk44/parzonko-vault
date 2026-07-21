@@ -58,6 +58,7 @@ Tadeusz Kryński, s. Franciszka, ur. 10.06.1927 r., ps. "Rokita" (w innym źród
 - 1950 (jesień) — wstąpił do bandy "Huzara" po ukrywaniu się we wsi Koce-Schaby gm. Ciechanowiec; uczestniczył w zabójstwie ORMO-wca Prószyńskiego (Chodynewo)
 - 1951 (kwiecień/maj) — przeżył zasadzkę wojskową we wsi Łocki gm. Piekuty, w której zginęli "Ryś", "Marek", "Marynarz" (Porowski Tadeusz) i "Rekin"
 - 1952-07 (koniec) — przekazany przez "Huzara" do grupy "Zygmunta" (Parzonki)
+- 1952-10-13/14 — wg zeznania Zalewskiego Wacława ps. "Zbyszek" (SRC-054, str. 98-104), wysłany samotnie przez "Huzara" do Żery Jana (kontakt stały z grupą "Zygmunta") we wsi Warele-Nowe, gm. Klukowo — ostatnia widziana przez Zalewskiego aktywność przed jego własną ucieczką do Warszawy z Huzarem
 - 1952-11-27/28 — bezpośrednio towarzyszył Parzonce w ostatnich dniach na wolności (Śliwiec, kol. Malec, las Rudzki), następnie wspólny wyjazd do Warszawy (Kity → dworzec Wileński) — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]]
 - 1952 (październik) — wizyta u Filińskiego Jana w Oleksinie razem z Parzonką
 - 1952-11-30 — aresztowany wraz z resztą bandy "Huzara"
