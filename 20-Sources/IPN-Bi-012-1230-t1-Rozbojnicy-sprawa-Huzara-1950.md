@@ -16,7 +16,7 @@ original_filename: "Bi 012_1230 tom 1 KRYPT ROZBÓJNICY SPRAWA HUZARA 50.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1230 tom 1 KRYPT ROZBÓJNICY SPRAWA HUZARA 50.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1230-t1-Rozbojnicy-sprawa-Huzara-1950]]"
 reliability: "confirmed"
-ocr_quality: "dobra na sprawdzonych stronach (17, 56, 63, 68); dokument obszerny (303 str.), sprawdzono próbkę"
+ocr_quality: "dobra, systematycznie przeczytane str. 1-40 (Gemini 2.5 Pro vision-OCR + tesseract); pozostałe str. 41-303 jeszcze nieprzeczytane systematycznie"
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
@@ -26,7 +26,8 @@ people_mentioned:
 places_mentioned:
   - "PLACE-004"
 organizations_mentioned: []
-related_events: []
+related_events:
+  - "EVENT-1950-002"
 tags:
   - type/source
   - source/ipn
@@ -46,6 +47,8 @@ Teczka operacyjna WUBP Białystok, kryptonim "Rozbójnicy" (poprzedni tom serii 
 - **Potwierdzenie statusu Natyńca Adama** ("Ratyniec" w OCR): w 1950 r. figuruje jako zwykły członek bandy "Huzara" (poz. 7 z 10) — zgodne z ustaleniem z SRC-066, że objął dowództwo własnego patrolu "Lamparta" dopiero później.
 - **Kolejna wewnętrzna sprzeczność pseudonimu Gontarczuka Stanisława**: w TYM SAMYM dokumencie str. 56 podaje "Skorzec", a str. 68 (inne, późniejsze zeznanie) podaje "Rekin" — trzeci i czwarty wariant pseudonimu tej samej osoby (obok "Rekin" z SRC-074 i "Łukasiuk Józef" jako alias z SRC-076).
 - Historia likwidacji pododdziałów pokrewnych band z lat 1949-1950 (Czarnecki "Huragan", Kosiński "Lis", Malczuk "Brzask", Oksięta "Pomidor").
+- **Niezależne potwierdzenie [[Event-1950-002-Zabojstwo-Niedziolko-Jozefa-i-zony]]**: str. 21 (meldunek specjalny PUBP Bielsk-Podlaski, 21.07.1950) — świadek Niedziołko Mieczysław (syn ofiar) rozpoznał wśród sprawców "Parzonko Kazimierz ps. 'Kawka' ze wsi Bujenka" (nowy alias, patrz uwaga niżej); str. 22 (raport agencyjny 22.08.1950) potwierdza podejrzenie niezależnie, "prawdopodobnie rozpoznany został /w/g rysopisu/ czł. tej bandy Parzonko Kazimierz ps. 'WICHURA' zam. wieś Leśniki" — dwa niezależne opisy tego samego podejrzenia w obrębie jednego dokumentu.
+- **Rozwinięcie wątku Józefy Mazur**: str. 31 i 38 (meldunki specjalne, październik 1950) — UB planowało werbunek Józefy Mazur (córki meliniarki Aleksandry Mazur) jako informatorki wykorzystując zainteresowanie Parzonki nią, z upozorowanym przyjazdem do Ciechanowca w celu "wzbudzenia zainteresowania". Brak potwierdzenia w dalszych stronach, czy operacja doszła do skutku.
 
 ## Osoby
 
@@ -68,4 +71,5 @@ Pełny tekst OCR (fragmenty istotne): [[80-Media/ocr/IPN-Bi-012-1230-t1-Rozbojni
 ## Uwagi o jakości i niepewności
 
 - Kolejna wewnętrzna sprzeczność pseudonimu Gontarczuka Stanisława w obrębie tego samego dokumentu — nierozstrzygnięta.
-- Dokument obszerny (303 str.) — sprawdzono próbkę stron wg dopasowań słów kluczowych.
+- Dokument obszerny (303 str.) — str. 1-40 przeczytane systematycznie, reszta jeszcze nie.
+- **Nowy alias "Kawka"** (str. 21) — uwaga: w tym samym dokumencie (str. 38) występuje inna osoba, Kosiński Henryk ps. "LIS-KAWKA" — nie mylić.
