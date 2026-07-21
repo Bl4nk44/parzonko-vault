@@ -91,6 +91,10 @@ Także potwierdza pełny, ostateczny skład grupy "Lamparta" PO odejściu Parzon
 
 Radziszewski i Kostro w zeznaniach 11-15.12.1952 potwierdzają, z wielką precyzją i wewnętrzną spójnością, całą już ustaloną chronologię: 20 miesięcy samotnego ukrywania się w ziemiance (sierpień 1949 – 6.04.1951), skład bandy "Młota" (12 osób, dwa oddziały), werbunek do "Huzara" 6.04.1951 za pośrednictwem kuzyna Radzikowskiego Jana, przejściowy epizod w oddziale "Lamparta" (12.06-20.07.1951), ostateczne przegrupowanie 20.07.1951 do stałego składu (Parzonko/Radziszewski/Mościcki/Kostro). Zgodne w każdym szczególe z już opracowaną notatką [[Person-Radziszewski-Kazimierz-Marynarz]] — silna, wielokrotna walidacja istniejącej rekonstrukcji.
 
+## Str. 181-199 — DUPLIKAT/korroboracja (nie streszczano szczegółowo)
+
+Kolejne zeznania Mościckiego/Kostry: rozbudowany wykaz melin w regionie Radziszewo-Sieńczuch/Niemirye/Lipki (dziesiątki nazwisk, niska wartość poza potwierdzeniem sieci), potwierdzenie roli ks. Borysiewicza (sakramenty dla rannego Dybowskiego Leopolda, udział świadków pogrzebu "Młota" — zgodne z już ustaloną wersją), oraz DRUGA niezależna wzmianka o zabójstwie "Sokoła" (Olemiuka) — tu przypisana wspólnie Parzonce i Radziszewskiemu, zgodnie z już udokumentowaną wersją w [[Event-1952-004-Zabojstwo-Olemiuka-Sokol]] (Parzonko obecny/zgoda, Radziszewski wykonawca).
+
 ## Str. 179-180 — własne zeznanie Mościckiego o śmierci "Młota"
 
 Korroboruje już znaną wersję: jesień 1948, wieś Wólka gm. Ciechanowiec, sprzeczka z braćmi Dybowskimi (jeden postrzelony przez "Młota", drugi zastrzelił "Młota"), pogrzeb z udziałem księdza z Pobikier i "Huzara" jako gościa.
