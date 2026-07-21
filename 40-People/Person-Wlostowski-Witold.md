@@ -27,6 +27,7 @@ related_persons:
   - "PERSON-027"
 key_sources:
   - "SRC-022"
+  - "SRC-055"
 certainty: "high"
 tags:
   - type/person
@@ -56,6 +57,7 @@ Brak dalszych danych o rodzinie poza imionami rodziców.
 
 - 1951 (jesień) — uzgodnienie roli pośrednika korespondencyjnego między "Huzarem" i "Zygmuntem"
 - 1951-05 do 1952-12 — wielokrotne przekazywanie korespondencji i pieniędzy między bandami
+- 1953-01 — mimo przebywania w areszcie śledczym (od 30.12.1952), zeznaje jako świadek w odrębnej sprawie (Sr 216/53) 2.02.1953: dwa listy i 1200 zł, przechowywane od 1951 r., odebrał od niego Kryński Tadeusz ps. "Dzięcioł"/"Rokita" z polecenia "Zygmunta" — patrz [[Person-Krynski-Tadeusz-Rokita]] (SRC-055, str. 38)
 - 1952-12-30 — zatrzymany
 - 1953-07-13 — skazany wyrokiem WSR Białystok (sprawa Nr 303/53)
 
