@@ -27,6 +27,7 @@ key_sources:
   - "SRC-096"
   - "SRC-113"
   - "SRC-115"
+  - "SRC-068"
 certainty: "medium"
 tags:
   - type/person
@@ -58,5 +59,6 @@ Aleksander Góral, s. Kazimierza i Marianny z d. Parzonko, ur. 11.12.1911 r. w L
 ## Niepewności i sprzeczności
 
 - Stopień pokrewieństwa (kuzyn) wywnioskowany z zapisu "Marianna z d. Parzonko" jako matki — nie ustalono formalnie, czy Marianna była siostrą ojca głównego bohatera (Stanisława) czy inną krewną.
+- **Prawdopodobna dodatkowa wzmianka (nie scalona formalnie)**: [[IPN-BU-0203-2140-t17cz3-Opracowanie-band-Lampart-1960-fotografie]] (SRC-068, str. 367) opisuje agenta ps. "Wilk", kuzyna dowódcy patrolu "Zygmunta", zwerbowanego przymusowo — zgodny pseudonim i rola, ale bez podania nazwiska wprost w tym fragmencie. Prawdopodobnie ta sama osoba, nie potwierdzone formalnie.
 - Nazwisko w części fragmentów dokumentu silnie zniekształcone przez OCR ("GPMGŁO", "GeZAL") — odczyt "Góral" oparty na jednym czytelnym wystąpieniu (str. 5), wymaga potwierdzenia.
 - Nie ustalono, czy faktycznie utrzymywał kontakt z ukrywającym się Parzonką — sam zaprzeczył temu przy werbunku.
