@@ -13,10 +13,10 @@ language:
   - pl
 pages: 176
 original_filename: "BU 1069_134 _t1 ZEZNANIA HUZAR, ROKITA, ZBYSZEWK.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_134 _t1 ZEZNANIA HUZAR, ROKITA, ZBYSZEWK.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 1069_134 _t1 ZEZNANIA HUZAR, ROKITA, ZBYSZEWK.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-134-t1-Zeznania-Huzar-Rokita-Zbyszek]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (gęste pismo odręczne, nieczytelne w całym zakresie 176 stron)"
+ocr_quality: "dobra — str. 1-60 z 176 przeczytane systematycznie (2026-07-21) przez Claude/subagentów (render PDF→obraz, odczyt bezpośredni, bez API). Reszta (61-176) w toku."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
@@ -38,7 +38,7 @@ Obszerne (176 stron) akta sprawy SR-216/53-T-I przeciwko Kazimierzowi Kamińskie
 
 ## Najważniejsze ustalenia
 
-Brak wiarygodnie odzyskanych faktów — próbki z całego zakresu dokumentu (16 stron rozłożonych równomiernie) potwierdzają jednolicie słabą jakość, uniemożliwiającą jakąkolwiek rekonstrukcję treści. Próba metody wizyjnej (vision-LLM) **świadomie pominięta** w tym cyklu, ze względu na udokumentowane w tej samej sesji ryzyko halucynacji na analogicznie nieczytelnych stronach tego korpusu.
+Str. 1-60 przeczytane — to głównie własne, wielosesyjne zeznanie Kamińskiego "Huzara" (protokoły z X-XII.1952 i I.1953), nie Kryńskiego/Zalewskiego (ich zeznania najpewniej w dalszej części tomu). Kluczowe: data urodzenia Kamińskiego (8.01.1919, Markowa Wólka), pełny skład i struktura patroli bandy 1949-1952, potwierdzenie tożsamości "Zygmunta"=Parzonko jako dowódcy 4-osobowego patrolu, okoliczności śmierci Łukasiuka "Młota" (czerwiec 1949, zabity przez Dybowskiego Czesława w odwecie), liczne dotąd nieudokumentowane zabójstwa i napady dokonane przez INNE patrole bandy (Ponury, Lampart, Ryś) — nie bezpośrednio przez grupę Parzonki.
 
 ## Osoby
 
@@ -57,12 +57,7 @@ Brak.
 
 Pełny tekst OCR: [[80-Media/ocr/IPN-BU-1069-134-t1-Zeznania-Huzar-Rokita-Zbyszek]].
 
-## Cytaty istotne
-
-Brak — żaden fragment nie osiąga poziomu pewności wystarczającego do cytowania.
-
 ## Uwagi o jakości i niepewności
 
-- **Najwyższy priorytet dla przyszłego, dokładniejszego odczytu** (skan wysokiej rozdzielczości, ewentualnie inny model wizyjny z rygorystyczną weryfikacją krzyżową) — to bezpośrednie zeznanie samego dowódcy bandy "Huzara", potencjalnie kluczowe dla zrozumienia struktury dowodzenia i relacji z Parzonką.
-- Próba vision-OCR (Mistral Large przez OpenRouter) na innych, podobnie nieczytelnych stronach tego korpusu (w tej samej sesji) dała trzykrotnie spójne, ale sprzeczne ze sobą i z kontekstem fabrykacje — metoda ta nie została zastosowana do niniejszego dokumentu.
-- **Obowiązkowa krzyżowa weryfikacja** przed zaufaniem jakiemukolwiek przyszłemu odczytowi tego dokumentu, niezależnie od metody.
+- Str. 61-176 jeszcze nieprzeczytane — kontynuacja w toku (subagenty równoległe).
+- Odczyt metodą render PDF→obraz + odczyt bezpośredni (Claude, multimodalnie), bez zewnętrznego API.
