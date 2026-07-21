@@ -16,7 +16,7 @@ original_filename: "BU 01251_41_J akta kontrolno sledcze w sprawie oddziału Par
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 01251_41_J akta kontrolno sledcze w sprawie oddziału Parzonki.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-01251-41-J-Akta-kontrolno-sledcze-oddzial-Parzonki]]"
 reliability: "primary"
-ocr_quality: "dobra dla 240 z 241 stron dostępnych w puli rękopisów (232 handwritingocr.com API + 9 dodatkowych stron wyroku via API + 2 str. via Gemini 2.5 Pro/OpenRouter, 2026-07-21) — wcześniejsza próbka tesseract była niereprezentatywna; PEŁNY WYROK Sr.251/53 zlokalizowany (str. 353-366) i w większości odczytany; praca w toku, ok. 135/241 stron dokładnie przejrzanych"
+ocr_quality: "dobra dla 240 z 241 stron dostępnych w puli rękopisów (232 handwritingocr.com API + 9 dodatkowych stron wyroku via API + 2 str. via Gemini 2.5 Pro/OpenRouter, 2026-07-21) — wcześniejsza próbka tesseract była niereprezentatywna; PEŁNY WYROK Sr.251/53 (str. 353-366) i AKT OSKARŻENIA (str. 336-352) zlokalizowane i odczytane; wszystkie 147 stron zawierających wzmianki o głównych postaciach przejrzane — dokument w pełni przetworzony na potrzeby tego wątku badawczego"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

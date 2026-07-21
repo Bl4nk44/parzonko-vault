@@ -107,6 +107,10 @@ Str. 252-255 i 262-264 to dwa odpisy tej samej, obszernej odpowiedzi Parzonki na
 
 Jasińska Zofia (wdowa po Jasińskim Franciszku) zeznaje o zwrocie legitymacji partyjnej męża sekretarzowi Partii podczas pogrzebu — zgodne z już znaną wersją [[Event-1951-002-Zabojstwo-Jasinskiego]]. Pozostałe strony (288, 319) to same karty rejestracyjne świadków bez treściowej wartości.
 
+## Str. 336-352 — AKT OSKARŻENIA (13.06.1953... właściwie wcześniejsza wersja, sprawa Sr.251/53) — duplikat treściowy wyroku z drobnymi różnicami
+
+Osobny formalny dokument (poprzedzający wyrok), zawiera niemal identyczną treść merytoryczną co uzasadnienie wyroku (str. 354-358), z tymi samymi datami i faktami. **Rozstrzyga na korzyść "Lejzerowicz Michał"** (nie "Mikołaj" jak w samym wyroku, str. 342-343, 346, 350) — patrz zaktualizowane [[Event-1951-001-Zabojstwa-PZPR-Zajeczniki]] i [[Person-Lejzerowicz-Michal]]. Drobny nowy wariant pseudonimu Kostry — "Baza" (str. 344), najpewniej błąd zapisu "Paweł". Zawiera też formalne zestawienie dowodowe (numery kart akt "k. XX" dla każdego faktu) — przydatne do przyszłej weryfikacji krzyżowej, nieprzeanalizowane szczegółowo.
+
 ## Str. 353-366 — PEŁNY TEKST WYROKU WSR WARSZAWA Sr.251/53 (31.03.1953) — ZLOKALIZOWANY
 
 **Numeracja pliku NIE odpowiada spisowi treści** (teczka wskazuje str. 284-297, faktyczne pliki to strona_353 do strona_366+). Str. 353-364 odczytane (9 stron via handwritingocr.com, 2 str. — 365, 366 — via Google Gemini 2.5 Pro przez OpenRouter, po tym jak Mistral Large i inne testowane modele zawiodły — patrz niżej). Str. 359, 361, 367-371 (koniec wyroku, dot. formalności/pouczenia o apelacji) już wcześniej w puli, nieprzeczytane szczegółowo w tej sesji.
