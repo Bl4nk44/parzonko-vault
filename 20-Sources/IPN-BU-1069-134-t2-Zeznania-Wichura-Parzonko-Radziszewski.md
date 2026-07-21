@@ -16,7 +16,7 @@ original_filename: "BU 1069_134 _t2 ZEZNANIA W SPRAWIE WICHURY MIN. PARZONKO, RA
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 1069_134 _t2 ZEZNANIA W SPRAWIE WICHURY MIN. PARZONKO, RADZISZEWSKI.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-134-t2-Zeznania-Wichura-Parzonko-Radziszewski]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (gęste pismo odręczne, nieczytelne w całym zakresie 74 stron)"
+ocr_quality: "dobra przez vision-OCR (Gemini 2.5 Pro) — str. 1-2,4-6,8-10,12-22 przeczytane systematycznie (2026-07-21), reszta (23-74) wstrzymana z powodu wyczerpania kredytów OpenRouter (błąd 402), do dokończenia po doładowaniu konta"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
