@@ -32,6 +32,7 @@ key_sources:
   - "SRC-010"
   - "SRC-011"
   - "SRC-023"
+  - "SRC-023"
 certainty: "high"
 tags:
   - type/person
@@ -88,6 +89,9 @@ Brak potwierdzonych relacji rodzinnych poza rodzicami. Siostra: Jarzębska Leono
 
 - **Tożsamość "Kwiat"="Zagłoba" — ROZSTRZYGNIĘTA.** [[IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]] wprost podaje oba pseudonimy razem ("ps. 'Kwiat', 'Zagłoba'") dla tej samej osoby o danych osobowych identycznych z już znanymi (Aleksander i Stanisława z Kozłowskich, Radziszewo-Króle, ur. 1926). Wcześniejsza hipoteza dotycząca ewentualnej identyczności z Radziszewskim Mieczysławem, "wcześniejszym dowódcą bandy" z [[IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]], pozostaje jednak **odrębną, wciąż nie w pełni potwierdzoną kwestią** (patrz niżej) — to inne pytanie niż tożsamość "Kwiat"/"Zagłoba" między sobą.
 - Sprzeczność bezpośredniego sprawcy zabójstwa Sidorczuka (Radziszewski vs Moczulski) — patrz [[Event-1946-001-Zabojstwo-Sidorczuka-Ciechanowiec]].
+- **Sprzeczne relacje o miejscu rany z 1948 r.**: donos agenturalny z marca 1948 podaje ranę w lewe kolano, inny z lutego 1948 — ranę ręki/przedramienia. Oba dotyczą prawdopodobnie tego samego incydentu (zasadzka Skórzec, 24.06.1948) — nierozstrzygnięte.
+- **Nowe skrytki broni Parzonki**: Wicenciak Michał (Leśniki) i Ratyniak Franciszek (2 KBK) przechowywali broń dla Parzonki — dotąd nieudokumentowane meliny na broń.
+- **Korupcja urzędnika**: blankiety dokumentów na fałszywą tożsamość "Koc Władysław" dostarczył skorumpowany wójt gminy Ciechanowiec, Kanabrocki Stanisław.
 - Data i dokładne okoliczności zranienia 24.06.1948 r. (zasadzka koło wsi Skorzec) — częściowo niespójne między różnymi fragmentami zeznań co do dokładnego przebiegu.
 
 > Hipoteza robocza (dotąd nierozstrzygnięta — odrębna od kwestii "Kwiat"="Zagłoba"):

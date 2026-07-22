@@ -14,6 +14,7 @@ key_sources:
   - "SRC-126"
   - "SRC-079"
   - "SRC-095"
+  - "SRC-023"
 certainty: "high"
 tags:
   - timeline
@@ -46,5 +47,6 @@ Kazimierz Parzonko ps. "Wichura" został zatrzymany w Ciechanowcu (z bronią prz
   2. Str. 53-54 (11.12.1952): "jesienią 1946" (sprzeczne z własną wersją sprzed 9 dni!), automat "Pepecha" [wariant zapisu tej samej broni].
   3. Str. 57 (30.12.1952): "jesienią 1946" (zgodne z wersją 2), ale **pistolet PM** (sprzeczne z wersjami 1-2, które mówią o automacie), zatrzymany w mieszkaniu znajomej w Ciechanowcu, wieś postoju konwoju: **Bojenka gm. Ciechanowiec**.
   4. Karty MSW (SRC-126, SRC-079): 17-19.10.1946 (jesień, zgodne z wersjami 2-3), automat (zgodne z wersjami 1-2).
+  5. **NOWA, PIĄTA wersja (Bi 07/951, kartoteka WUBP, akta Radziszewski Mieczysław)**: "aresztowany przez PUBP Bielsk Podlaski 17.5.1946, zbiegł z operacji 19.5.1946 zabijając kaprala WP i zabierając mu automat" — data zdecydowanie WCZEŚNIEJSZA (maj, nie lato/jesień) niż wszystkie 4 poprzednie warianty. Miejsce ucieczki: postój w **Bujence gm. Ciechanowiec** — zgodne z wersją 3 ("Bojenka"/"Bujenka", ten sam wariant zapisu nazwy wsi). Ranga ofiary sprecyzowana jako **kapral** (nie ogólnie "żołnierz"/"konwojent"). Piąte źródło, jeszcze inna data — coraz silniejsza poszlaka za wariantem (c) z poniższej analizy: mogło dojść do więcej niż jednego podobnego zdarzenia.
   - Że sam Parzonko, zeznający wielokrotnie w odstępie tygodni w RAMACH TEGO SAMEGO śledztwa, podaje różne pory roku i różną broń dla tego samego zdarzenia, sugeruje albo: (a) naturalne zamazanie pamięci po 6 latach i wielu przesłuchaniach, (b) że różni oficerowie śledczy zapisywali jego słowa z różną dokładnością/interpretacją, lub (c) że doszło rzeczywiście do więcej niż jednego podobnego zdarzenia w tym okresie, błędnie utożsamianych. Większość poszlak (3 z 4 wersji) wskazuje na jesień/październik i automat — to obecnie najbardziej prawdopodobny wariant, ale nie potwierdzony jednoznacznie.
 - Obie karty katalogowe (SRC-126, SRC-079) opisują to zdarzenie jako bezpośrednio prowadzące do wstąpienia do bandy "Huzara" — anachronizm/uproszczenie wobec ustalonej chronologii (Parzonko działał w bandzie "Młota"/oddziale "Luty" do 1948-49 r., dopiero potem dołączył do "Huzara" w sierpniu 1949 wg własnego zeznania SRC-095).
