@@ -16,7 +16,7 @@ original_filename: "Bi 07_951 akta śledcze Radziszewski Mieczysław.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 07_951 akta śledcze Radziszewski Mieczysław.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-951-Akta-sledcze-Radziszewski-Mieczyslaw]]"
 reliability: "primary"
-ocr_quality: "zróżnicowana (str. 1, 12, 16, 19-23, 26-29, 48-54: dobra do bardzo dobrej; pozostałe: słaba do nieczytelnej)"
+ocr_quality: "dobra — cały dokument (54/54 str.) przeczytany 2026-07-21 przez Claude/subagenta. KLUCZOWE: Parzonko dowódcą własnego patrolu WiN od IX.1946 z Radziszewskim Mieczysławem jako zastępcą; sfałszowany dokument 'Koc Władysław'; piąty wariant daty zabójstwa konwojenta 1946."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

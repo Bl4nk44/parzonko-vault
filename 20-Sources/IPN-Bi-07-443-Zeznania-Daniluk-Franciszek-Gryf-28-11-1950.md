@@ -16,7 +16,7 @@ original_filename: "Bi 07_443 zeznania Franciszek Daniluk ps Gryf.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 07_443 zeznania Franciszek Daniluk ps Gryf.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-443-Zeznania-Daniluk-Franciszek-Gryf-28-11-1950]]"
 reliability: "primary"
-ocr_quality: "bardzo słaba na większości stron (str. 3-41: niemal nieczytelna, silnie zniekształcony maszynopis); str. 42-45: dobra"
+ocr_quality: "dobra — cały dokument (45/45 str.) przeczytany 2026-07-21 przez Claude/subagenta. Rysopis Parzonki, podział bandy na dwie komórki (koniec 1950), morderstwo w Koce-Piskuły z bezpośrednim udziałem Parzonki."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

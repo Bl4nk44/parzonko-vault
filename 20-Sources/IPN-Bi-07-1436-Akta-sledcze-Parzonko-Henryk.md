@@ -16,7 +16,7 @@ original_filename: "Bi 07_1436 akta śledcze Parzonko Hneryk.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 07_1436 akta śledcze Parzonko Hneryk.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-1436-Akta-sledcze-Parzonko-Henryk]]"
 reliability: "primary"
-ocr_quality: "zróżnicowana (str. 1, 4-8, 13-14, 22, 28-30, 32-35: dobra do bardzo dobrej; str. 9-12, 15-21, 25-26, 31: bardzo słaba do nieczytelnej)"
+ocr_quality: "dobra — cały dokument (35/35 str.) przeczytany 2026-07-21 przez Claude/subagenta. Bunkier Pełchowianka, melina Stadniki (dzielona z Głuszcem), pełny skład patrolu Zygmunta z imionami ojców."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"

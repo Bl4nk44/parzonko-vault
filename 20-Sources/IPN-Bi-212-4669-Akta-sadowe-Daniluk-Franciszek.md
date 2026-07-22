@@ -16,7 +16,7 @@ original_filename: "Bi 212_4669 AKTA DANILUK FRANCISZEK.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_4669 AKTA DANILUK FRANCISZEK.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-4669-Akta-sadowe-Daniluk-Franciszek]]"
 reliability: "uncertain"
-ocr_quality: "bardzo słaba (skan niskiej jakości, silne zniekształcenia rozpoznawania znaków w całym dokumencie)"
+ocr_quality: "dobra — cały dokument (45/45 str.) przeczytany 2026-07-21 przez Claude/subagenta. Głównie sprawa Danieluka, Parzonko wzmiankowany pobocznie (skład bandy, uzbrojenie)."
 main_person: "PERSON-022"
 people_mentioned:
   - "PERSON-022"

@@ -16,7 +16,7 @@ original_filename: "Bi 212_5331 tom 1 AKTA W SPRAWIE SEJBUK JAN PS. WIEWIÓRKA.p
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_5331 tom 1 AKTA W SPRAWIE SEJBUK JAN PS. WIEWIÓRKA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5331-t1-Konfrontacje-Sabin-Jan-Wiewiorka]]"
 reliability: "uncertain"
-ocr_quality: "mieszana (protokoły konfrontacji str. 41-44 częściowo czytelne; większość formularzy przesłuchań, str. 2-40, nieczytelna)"
+ocr_quality: "dobra — cały dokument (44/44 str.) przeczytany 2026-07-21 przez Claude/subagenta. Własne zeznania Parzonki, Mościckiego, Radziszewskiego — potwierdzone dane osobowe, nazwisko ofiary Zajęczników (Bunyński Aleksander), dezambiguacja Sejbuk/Sabin."
 main_person: "PERSON-023"
 people_mentioned:
   - "PERSON-023"
