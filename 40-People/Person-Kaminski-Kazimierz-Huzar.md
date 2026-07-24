@@ -47,6 +47,7 @@ key_sources:
   - "SRC-091"
   - "SRC-093"
   - "SRC-098"
+  - "SRC-136"
   - "SRC-131"
 certainty: "high"
 tags:
@@ -110,6 +111,7 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - [[IPN-Bi-0-19-1-1-Opracowanie-1970-dzialalnosc-oddzialu-Huzara]] — str. 47-48 (**operacja "Rytel", data aresztowania, pełna historia bandy**)
 - [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] — str. 6-7, 140-143, 146-148, 151-152 (**osobny proces Sr.216/53, znacznie rozszerzona chronologia zbrodni od 1944-45, data zatrzymania 29.10.1952, Parzonko jako świadek oskarżenia**)
 - [[IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 324-333 (najprawdopodobniej własne zeznanie, mimo niejasnego podpisu wcześniejszego fragmentu — patrz [[Person-Zalewski]]; NAJBARDZIEJ BEZPOŚREDNIE potwierdzenie z ust dowódcy bandy składu czterech "patroli", w tym patrolu "Wichury"/"Zygmunta")
+- [[IPN-BU-0330-189-t23-Nieczytelny]] — str.8-13 (donosy agenturalne WiN, łączność przez "Zyndrama", finansowanie, struktura podgrup, próba przewerbowania Parzonki przez "Jacka"/Piaseckiego)
 
 ## Niepewności i sprzeczności
 
@@ -118,3 +120,4 @@ Kazimierz Kamiński, ps. "Huzar", dowodził grupą zbrojnego podziemia niepodleg
 - **Zakres dowodzenia i odpowiedzialności — częściowo WYJAŚNIONE (SRC-063).** Niezależne zeznania z maja 1952 r. (dwóch aresztowanych członków patrolu "Lamparta") potwierdzają, że struktura dowodzenia była formalna i hierarchiczna: "Huzar" jako ogólny dowódca "1-szej Brygady Podlaskiej", z Parzonką dowodzącym jednym z pięciu podległych mu patroli (patrol III). To wspiera zeznanie Parzonki na procesie z 1953 r., że działał z polecenia "Huzara" — zgodne z rzeczywistą strukturą dowodzenia, nie tylko taktyką obronną. Nie wyjaśnia to jednak w pełni sporu z rozprawy sądowej dot. obrony Łapińskiego przez "Huzara" — wymaga dalszego zestawienia.
 - **Relacja między dwoma procesami (Sr.216/53 z listopada 1952 i Sr.251/53 z marca 1953)**: dokumenty korpusu wskazują na dwa odrębne procesy — w pierwszym (SRC-069, zakończonym ok. 22.11.1952) Kamiński był głównym oskarżonym wraz z innymi (Krynski, księża, Grodzki, Zalewski, Łapiński) a Parzonko zeznawał jako świadek oskarżenia; w drugim (marzec 1953, Sr.251/53) Parzonko był już współoskarżonym wraz z Kamińskim, Radziszewskim, Kostro i Mościckim. Dokładny powód dwóch osobnych procesów dla tej samej sieci band (możliwe: pierwszy proces dot. wcześniejszych czynów 1944-1951 ustalonych do chwili aresztowania Kamińskiego w październiku 1952, drugi obejmował późniejsze/dodatkowe czyny i innych oskarżonych) nie jest w pełni wyjaśniony w obecnie przetworzonej części korpusu.
 - Świadek Białowąs zeznawał obszernie o przestępstwach "Huzara" i innego członka bandy, Kryńskiego — szczegóły tych zeznań (konkretne czyny) nie są w pełni odtworzone w tym źródle (relacja jest streszczeniem meldunku agenturalnego, nie protokołem sądowym).
+- **Bieżąca (1952) łączność operacyjna z WiN przez łącznika "Zyndrama" (SRC-136, dwa donosy agenturalne, 5.02. i 17.05.1952)** — odrębna od genezy bandy jako bojówki "Samoobrona" (SRC-098, 1945-46): potwierdza aktywną, bieżącą podległość "Huzara" komendzie obszaru WiN pod ppłk. "Bartłomiejem" jeszcze w 1952 r. — finansowanie (łącznie ok. 80 000 zł + 600 USD historycznie, 20 000 zł w lutym 1952), własny budżet Huzara przedstawiony WiN (ok. 200 000 zł), rozkazy pisemne zatwierdzające stopnie, prośby o mapy taktyczne, awanse dla "Krakusa" i "Lamparta", dowody osobiste i cywilne ubranie dla siebie. Potwierdza też formalny podział na podgrupy "Adam", "Ponury", "Krakus", "Arab", "Zygmunt", "Czuma" plus podporządkowaną grupę "Głuszca" i ok. 100 ludzi na melinach. Pośrednie kontakty z innymi bandami: "Ordon", "Ponury"→"Orzeł"→"Sokół" (grupa "Tur", lasy augustowskie/Olsztyńskie), "Brzoza" (pow. Sokółka).
