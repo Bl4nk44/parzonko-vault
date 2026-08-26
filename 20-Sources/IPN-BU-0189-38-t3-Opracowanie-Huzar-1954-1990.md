@@ -16,7 +16,7 @@ original_filename: "BU_0_189_38_t3 oprqcowanie o Huzarze 1954-1990.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_189_38_t3 oprqcowanie o Huzarze 1954-1990.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0189-38-t3-Opracowanie-Huzar-1954-1990]]"
 reliability: "confirmed"
-ocr_quality: "bardzo dobra na sprawdzonych stronach (32, 45, 62, 66, 88, 90, 124, 140, 149, 156)"
+ocr_quality: "bardzo dobra na sprawdzonych stronach; 2026-08-26 przeszukano tesseract po słowach kluczowych 'Parzonk/Zygmunt/Wichur' w całym tomie — trafienia na str. 32,34,44,45,59,62-66,88,90,100,124,140,142-143,146,149,156,163,189,211,212, wszystkie odczytane. Reszta 218-stronicowego tomu (bez trafień słów kluczowych) nieprzejrzana."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-001"
@@ -54,6 +54,9 @@ Jeden z najbogatszych dokumentów korpusu — obszerne (218 str.), bardzo szczeg
 - Potwierdzenie struktury 5 grup podległych Huzarowi (str. 156), zgodnie z SRC-063.
 - Śmierć Buczaka Witolda "Ponury" (20.05.1952, Płonka Strumianka) — szczegółowy opis operacji wojskowej.
 - Potwierdzenie udziału Parzonki w napadzie na Roczyny (18.04.1951) i zabójstw w Zajęcznikach (trójka: Parzonko, Mościcki, Białowąs — zgodnie z SRC-077).
+- **Ucieczka Grodzkiego "Żubryta" do NRD i aresztowanie (str. 211)**: po umieszczeniu głównej grupy w Warszawie Grodzki wyjechał do Szczecina i przekroczył granicę do NRD z zamiarem dotarcia do Niemiec Zachodnich, gdzie został aresztowany (był pod obserwacją) — patrz [[Person-Grodzki-Mieczyslaw-Zubryd]].
+- **Finansowanie i logistyka operacji "Rytel" w Warszawie (str. 100, 142-143)**: szczegóły przekazywania pieniędzy grupie "Zygmunta" przez fikcyjną "organizację" i stopniowego oswajania ich z poruszaniem się po mieście — patrz [[Event-1952-001-Gra-operacyjna-aresztowanie-bandy-Huzara]].
+- **Formalne zakończenie działalności bandy (str. 146)**: "po likwidacji ostatniego patrolu pod dowództwem Kazimierza Parzonki ps. 'Zygmunt' banda 'Huzara' przestała istnieć."
 
 ## Osoby
 

@@ -47,6 +47,8 @@ Na początku października 1951 r. Departament III MBP w Warszawie polecił leka
 
 Wg dokładnej listy aresztowań: Kamiński Kazimierz ps. "Huzar" ujęty 29.11.1952 r.; Grodzki Mieczysław, Kryński Tadeusz ps. "Rokita", Zalewski Wacław, Radziszewski [Kazimierz] ps. "Marynarz", Mościcki Józef, Kostro Józef ps. "Paweł" i inni ujęci 30.11.1952 r. Wszyscy skazani wyrokiem WSR w Warszawie na sesji wyjazdowej w Ciechanowcu z dnia 31.03.1953 r. — w większości na karę śmierci. Kazimierz Parzonko wg oddzielnej charakterystyki (patrz [[Person-Parzonko-Kazimierz-Zygmunt]]) "w dniu 30.11.1952 r. wyjechał do Warszawy z zamiarem ucieczki za granicę, gdzie w dniu tym został aresztowany przez organa SB."
 
+**Szczegóły finansowania i przemieszczania grupy w Warszawie (SRC-091, str. 100, 142-143, odczyt tesseract 2026-08-26)**: fikcyjna "organizacja" przekazywała członkom grupy "Zygmunta" pieniądze za pośrednictwem łączniczki (3 tys. zł na listopad-grudzień, 2 tys. zł na umundurowanie) i instruowała ich, by "Zygmunt skontaktował się z Głuszczem" — zgodne z już ustalonym trzecim celem operacji. Pierwsza trójka bandytów umieszczona w Warszawie na jednym mieszkaniu (ta sama "gospodyni" co wcześniej obsługiwała Huzara), stopniowo oswajana z bezpiecznym poruszaniem się po mieście (m.in. wizyta u fotografa) — kolejnych członków grupy przywożono i umieszczano podobnie. Po ok. dwóch tygodniach do Warszawy przyjechał sam Huzar z zastępcą "Rokitą".
+
 ## Osoby
 
 - [[Person-Parzonko-Kazimierz-Zygmunt]] — nieświadomy/świadomy pomost do infiltracji, sam również aresztowany 30.11.1952

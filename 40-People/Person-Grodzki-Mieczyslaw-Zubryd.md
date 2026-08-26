@@ -33,6 +33,7 @@ key_sources:
   - "SRC-046"
   - "SRC-086"
   - "SRC-069"
+  - "SRC-091"
   - "SRC-097"
 certainty: "high"
 tags:
@@ -82,6 +83,7 @@ Mieczysław Grodzki, s. Bronisława, ur. 23.11.1914 r., ps. "Żubryt"/"Zubryd", 
 
 - **Sprzeczność co do zabójcy Koca Bartłomieja**: SRC-046 (str. 23, zarzuty wobec Grodzkiego) przypisuje zabójstwo bezpośrednio Grodzkiemu ("wystrzałem z pistoletu automatycznego pozbawił życia sołtysa Koca Bartłomieja"), podczas gdy ten sam dokument (str. 21, odpis zarzutów wobec Radziszewskiego) oraz wcześniej ustalone [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (na podstawie SRC-015) przypisują to zabójstwo Parzonce (żonę Stefanię — Kostrze). **Sprzeczność wewnątrz jednego zestawu dokumentów sądowych, nierozstrzygnięta** — możliwe, że obaj byli obecni i któryś opis uproszczono, lub błąd redakcyjny w jednym z odpisów.
 - **Wariant imienia ofiary**: SRC-046 podaje "Lejzerowicza **Mikołaja**", podczas gdy korpus dotąd konsekwentnie ustalił imię "Michał" ([[Person-Lejzerowicz-Michal]]) — odnotowane jako otwarte pytanie w notatce ofiary.
+- **Próba ucieczki na Zachód (SRC-091, str. 211, odczyt tesseract 2026-08-26)**: po zatrzymaniu głównej grupy "Zygmunta"/"Huzara" w Warszawie (operacja "Rytel") Grodzki "wyjechał do Szczecina, gdzie przekroczył granicę do NRD, z zamiarem przedostania się do Niemiec Zachodnich" — został aresztowany w NRD, gdyż "pozostawał pod obserwacją naszych organów". Wypełnia dotychczasową lukę "dalsze losy nieznane" — data zdarzenia nieprecyzyjna (dokument obejmuje okres do 1955 r., prawdopodobnie schyłek 1952 r., zbieżny z falą aresztowań reszty bandy). Dalszy los po aresztowaniu w NRD (ekstradycja, wyrok) nieustalony.
 - Dalsze losy Grodzkiego (wyrok, data śmierci) nieznane w obecnie przetworzonej części korpusu — akta obejmują lata 1946-1967, sugerując możliwy dłuższy proces sądowy/rewizyjny nieprzetworzony w tym cyklu.
 - **Kolejny wariant pseudonimu "Ukryty"/"Ubryty" (SRC-030, akt oskarżenia Gierałtowskiego)** — obok już odnotowanych "Marian"/"Marjan" i ustalonego "Żubryd"/"Żubryt" — pseudonim tej osoby wyjątkowo niespójny w źródłach, nierozstrzygnięte.
 - **Nowy wariant pseudonimu "Marian"/"Marjan" (zeznanie Kryńskiego, dokument BU 0330/189 t.4, str. 20-23)**: sprzeczny z ustalonym "Żubryt"/"Żubryd" — nierozstrzygnięte, czy to kolejny pseudonim równoległy, czy pomyłka.
