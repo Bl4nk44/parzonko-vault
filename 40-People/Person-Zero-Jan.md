@@ -24,6 +24,7 @@ related_persons:
   - "PERSON-001"
   - "PERSON-002"
   - "PERSON-005"
+  - "PERSON-011"
 key_sources:
   - "SRC-052"
 certainty: "high"

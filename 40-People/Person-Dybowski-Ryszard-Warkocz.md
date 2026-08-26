@@ -23,6 +23,7 @@ related_to_main_person: "associate"
 related_persons:
   - "PERSON-002"
   - "PERSON-022"
+  - "PERSON-092"
 key_sources:
   - "SRC-020"
   - "SRC-032"

@@ -22,6 +22,8 @@ roles:
 related_to_main_person: "peripheral"
 related_persons:
   - "PERSON-001"
+  - "PERSON-003"
+  - "PERSON-011"
 key_sources:
   - "SRC-108"
   - "SRC-110"

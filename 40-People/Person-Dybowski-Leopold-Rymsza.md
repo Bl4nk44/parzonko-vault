@@ -24,6 +24,8 @@ related_to_main_person: "associate"
 related_persons:
   - "PERSON-021"
   - "PERSON-022"
+  - "PERSON-035"
+  - "PERSON-056"
 key_sources:
   - "SRC-054"
   - "SRC-055"

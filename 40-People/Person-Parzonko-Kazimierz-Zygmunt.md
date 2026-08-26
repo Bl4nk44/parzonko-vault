@@ -42,6 +42,9 @@ related_persons:
   - "PERSON-011"
   - "PERSON-019"
   - "PERSON-077"
+  - "PERSON-062"
+  - "PERSON-080"
+  - "PERSON-081"
 key_sources:
   - "SRC-001"
   - "SRC-004"

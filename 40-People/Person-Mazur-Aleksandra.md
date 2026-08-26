@@ -21,6 +21,8 @@ roles:
 related_to_main_person: "associate"
 related_persons:
   - "PERSON-001"
+  - "PERSON-003"
+  - "PERSON-019"
 key_sources:
   - "SRC-075"
   - "SRC-103"

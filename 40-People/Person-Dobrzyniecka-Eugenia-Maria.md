@@ -19,6 +19,12 @@ death_place: null
 nationality: "polska"
 occupation:
   - "agentka MBP (łączniczka)"
+related_to_main_person: "associate"
+related_persons:
+  - "PERSON-001"
+  - "PERSON-030"
+key_sources:
+  - "SRC-116"
 certainty: "high"
 tags:
   - type/person
