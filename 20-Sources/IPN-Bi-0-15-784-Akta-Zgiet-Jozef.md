@@ -13,7 +13,7 @@ language:
   - pl
 pages: 77
 original_filename: "Bi_0_15_784 AKTA W SPRAWIE ZGIET JÓZEF.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi_0_15_784 AKTA W SPRAWIE ZGIET JÓZEF.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/Bi_0_15_784 AKTA W SPRAWIE ZGIET JÓZEF.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-0-15-784-Akta-Zgiet-Jozef]]"
 reliability: "not-applicable"
 ocr_quality: "dobra na str.19, reszta niezwiązana z głównym wątkiem"

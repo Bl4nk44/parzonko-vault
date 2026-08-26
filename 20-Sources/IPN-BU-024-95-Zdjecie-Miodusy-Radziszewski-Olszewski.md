@@ -13,7 +13,7 @@ language:
   - pl
 pages: 7
 original_filename: "BU 024_95 ZDJECIE W MIODUSACH Z RADZISZEWSKIM I OLSZEWSKIM.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 024_95 ZDJECIE W MIODUSACH Z RADZISZEWSKIM I OLSZEWSKIM.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 024_95 ZDJECIE W MIODUSACH Z RADZISZEWSKIM I OLSZEWSKIM.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-024-95-Zdjecie-Miodusy-Radziszewski-Olszewski]]"
 reliability: "primary"
 ocr_quality: "poor"

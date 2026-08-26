@@ -13,7 +13,7 @@ language:
   - pl
 pages: 23
 original_filename: "Bi 07_1422 SPRAWA ŻERO JAN.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 07_1422 SPRAWA ŻERO JAN.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 07_1422 SPRAWA ŻERO JAN.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-1422-Akta-sledcze-Zero-Jan]]"
 reliability: "confirmed"
 ocr_quality: "mieszana (karta informacyjna i protokół konfrontacji str. 13-14 czytelne, fragment wyroku str. 20-23 silnie zniekształcony)"

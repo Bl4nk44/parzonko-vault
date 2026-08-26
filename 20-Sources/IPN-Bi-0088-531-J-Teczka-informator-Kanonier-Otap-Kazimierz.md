@@ -13,7 +13,7 @@ language:
   - pl
 pages: 20
 original_filename: "Bi 0088_531_J TECZKA INFORMATOR OTAP KAZIMIERZ 52-57.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/Bi 0088_531_J TECZKA INFORMATOR OTAP KAZIMIERZ 52-57.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 0088_531_J TECZKA INFORMATOR OTAP KAZIMIERZ 52-57.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-0088-531-J-Teczka-informator-Kanonier-Otap-Kazimierz]]"
 reliability: "primary"
 ocr_quality: "poor"

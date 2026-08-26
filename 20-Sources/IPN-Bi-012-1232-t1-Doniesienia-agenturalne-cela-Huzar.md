@@ -13,7 +13,7 @@ language:
   - pl
 pages: 362
 original_filename: "Bi 012_1232 tom 1 DONIESIENIA AGENTURALNE CELA HUZAR AGENT 41.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1232 tom 1 DONIESIENIA AGENTURALNE CELA HUZAR AGENT 41.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 012_1232 tom 1 DONIESIENIA AGENTURALNE CELA HUZAR AGENT 41.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1232-t1-Doniesienia-agenturalne-cela-Huzar]]"
 reliability: "confirmed"
 ocr_quality: "dobra na sprawdzonych stronach (4, 8)"

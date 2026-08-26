@@ -13,7 +13,7 @@ language:
   - pl
 pages: 14
 original_filename: "BU 01006_501 DONOSY Z PROCESU W ŁAPACH I CIECHANOWCU.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 01006_501 DONOSY Z PROCESU W ŁAPACH I CIECHANOWCU.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 01006_501 DONOSY Z PROCESU W ŁAPACH I CIECHANOWCU.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-01006-501-Donosy-z-procesu-Lapy-Ciechanowiec]]"
 reliability: "primary"
 ocr_quality: "mixed"

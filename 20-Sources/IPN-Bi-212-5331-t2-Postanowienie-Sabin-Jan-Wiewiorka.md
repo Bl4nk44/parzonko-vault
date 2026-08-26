@@ -13,7 +13,7 @@ language:
   - pl
 pages: 16
 original_filename: "Bi 212_5331 tom 2 AKTA W SPRAWIE SEJBUK JAN PS. WIEWIÓRKA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_5331 tom 2 AKTA W SPRAWIE SEJBUK JAN PS. WIEWIÓRKA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_5331 tom 2 AKTA W SPRAWIE SEJBUK JAN PS. WIEWIÓRKA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5331-t2-Postanowienie-Sabin-Jan-Wiewiorka]]"
 reliability: "confirmed"
 ocr_quality: "dobra (zeznanie Krasowskiego str. 5-9 i postanowienie str. 12-15 w pełni czytelne, dobrej jakości maszynopis)"

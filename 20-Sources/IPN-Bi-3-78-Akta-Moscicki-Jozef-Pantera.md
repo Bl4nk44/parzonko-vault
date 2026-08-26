@@ -13,7 +13,7 @@ language:
   - pl
 pages: 30
 original_filename: "Bi 3_78 AKTA MOŚCICKI JÓZEF PS. PANTERA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 3_78 AKTA MOŚCICKI JÓZEF PS. PANTERA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 3_78 AKTA MOŚCICKI JÓZEF PS. PANTERA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-3-78-Akta-Moscicki-Jozef-Pantera]]"
 reliability: "confirmed"
 ocr_quality: "dobra (odpis wyroku str. 24-30 czytelny, dobrej jakości maszynopis)"

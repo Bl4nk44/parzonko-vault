@@ -13,7 +13,7 @@ language:
   - pl
 pages: 89
 original_filename: "Bi 212_5111 AKTA W SPRAWIE JÓŹWIAK STANISŁAW.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_5111 AKTA W SPRAWIE JÓŹWIAK STANISŁAW.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_5111 AKTA W SPRAWIE JÓŹWIAK STANISŁAW.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5111-Wyrok-Jozwiak-Stanislaw-Sr120-53]]"
 reliability: "confirmed"
 ocr_quality: "dobra dla wyroku (str. 80-84, w pełni czytelny), mieszana dla pozostałych formularzy przesłuchań"

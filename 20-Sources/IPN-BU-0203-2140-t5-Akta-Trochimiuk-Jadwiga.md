@@ -13,7 +13,7 @@ language:
   - pl
 pages: 10
 original_filename: "BU_0_203_2140_t5 TROCHIMIUK JADWIGA AKTA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t5 TROCHIMIUK JADWIGA AKTA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t5 TROCHIMIUK JADWIGA AKTA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t5-Akta-Trochimiuk-Jadwiga]]"
 reliability: "confirmed"
 ocr_quality: "mieszana (str.3-6 dossier silnie zniekształcone, str.8 notatka służbowa czytelna dobrze)"

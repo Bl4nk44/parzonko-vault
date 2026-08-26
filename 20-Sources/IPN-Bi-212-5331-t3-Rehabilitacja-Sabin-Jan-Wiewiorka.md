@@ -13,7 +13,7 @@ language:
   - pl
 pages: 101
 original_filename: "Bi 212_5331 tom 3 AKTA W SPRAWIE SEJBUK JAN PS. WIEWIÓRKA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_5331 tom 3 AKTA W SPRAWIE SEJBUK JAN PS. WIEWIÓRKA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_5331 tom 3 AKTA W SPRAWIE SEJBUK JAN PS. WIEWIÓRKA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5331-t3-Rehabilitacja-Sabin-Jan-Wiewiorka]]"
 reliability: "confirmed"
 ocr_quality: "mieszana (postanowienie rehabilitacyjne str. 97-101 dobrej jakości, częściowo zniekształcone nazwy własne; pozostałe strony mieszane)"

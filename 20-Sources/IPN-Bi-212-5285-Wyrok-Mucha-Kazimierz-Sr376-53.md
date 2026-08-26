@@ -13,7 +13,7 @@ language:
   - pl
 pages: 52
 original_filename: "Bi 212_5285 AKTA W SPRAWIE KAZIMIERZ MUCHA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_5285 AKTA W SPRAWIE KAZIMIERZ MUCHA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_5285 AKTA W SPRAWIE KAZIMIERZ MUCHA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5285-Wyrok-Mucha-Kazimierz-Sr376-53]]"
 reliability: "confirmed"
 ocr_quality: "dobra dla wyroku (str. 49-51, w pełni czytelny), mieszana dla pozostałych stron"

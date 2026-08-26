@@ -13,7 +13,7 @@ language:
   - pl
 pages: 96
 original_filename: "BU_0_203_2140_t11 ZEZNANIA LITWIN, PANEK, KRAKOWIAK.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t11 ZEZNANIA LITWIN, PANEK, KRAKOWIAK.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t11 ZEZNANIA LITWIN, PANEK, KRAKOWIAK.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t11-Zeznania-Litwin-Panek-Krakowiak]]"
 reliability: "confirmed"
 ocr_quality: "dobra na czytelnych stronach (50-51, 69, 72, 75, 77-79), reszta niesprawdzona szczegółowo"

@@ -13,7 +13,7 @@ language:
   - pl
 pages: 63
 original_filename: "BU_0_203_2140_t4 ROZPRACOWANIE GRUPY PS LAMPART.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t4 ROZPRACOWANIE GRUPY PS LAMPART.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t4 ROZPRACOWANIE GRUPY PS LAMPART.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t4-Rozpracowanie-grupy-Lampart]]"
 reliability: "confirmed"
 ocr_quality: "mieszana — kilkanaście stron dobrze czytelnych (18, 29-30, 33-36, 56, 60-61), reszta zniekształcona lub pusta"

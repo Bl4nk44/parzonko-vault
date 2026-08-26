@@ -13,7 +13,7 @@ language:
   - pl
 pages: 109
 original_filename: "BU_0_180_82_t1 1979-1985 GRZYBOWSKI VI RYG WILENSKA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_180_82_t1 1979-1985 GRZYBOWSKI VI RYG WILENSKA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_180_82_t1 1979-1985 GRZYBOWSKI VI RYG WILENSKA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0180-82-t1-Charakterystyka-66-VI-Brygada-Wilenska]]"
 reliability: "confirmed"
 ocr_quality: "KOREKTA 2026-08-26: dokument ma faktycznie 109 stron (potwierdzone pdfinfo), nie 218 jak wcześniej błędnie zapisano. Dobra jakość tesseract w całym tomie. 2026-08-26: grep-sweep (wąski + szeroki) i odczyt bezpośredni tesseract stron 1, 22-27, 30-43, 104 — bogata, ciągła narracja instytucjonalna (historia band 'Bartosz', 'Lech', 'Brzask', 'Huzar', 'Lampart' 1945-1952) w pełni odczytana. Pozostałe strony bez trafień słów kluczowych (większość dokumentu dot. pobocznych band spoza bezpośredniego zainteresowania — 'Bartosz', 'Lech') nieprzejrzane, niski priorytet."

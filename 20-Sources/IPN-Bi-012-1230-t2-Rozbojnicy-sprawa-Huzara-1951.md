@@ -13,7 +13,7 @@ language:
   - pl
 pages: 39
 original_filename: "Bi 012_1230 tom 2 KRYPT ROZBÓJNICY SPRAWA HUZARA 51.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/Bi 012_1230 tom 2 KRYPT ROZBÓJNICY SPRAWA HUZARA 51.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1230 tom 2 KRYPT ROZBÓJNICY SPRAWA HUZARA 51.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]]"
 reliability: "primary"
 ocr_quality: "mieszana — str. 21, 23-25, 27-29, 35-39 (tesseract, jakość średnia-dobra); str. 1, 2, 4, 5, 6, 30, 31, 32, 34 odczytane w pełni przez Claude vision 2026-08-26 (dobra jakość, maszynopis); str. 3, 7-20, 22, 26, 33 (nieudany odczyt vision, API error) pozostają nieprzeczytane — rękopis/silne zniekształcenia lub figuranci poboczni bez bezpośredniego związku z głównym bohaterem"

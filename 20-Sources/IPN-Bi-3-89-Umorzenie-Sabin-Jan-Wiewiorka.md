@@ -13,7 +13,7 @@ language:
   - pl
 pages: 46
 original_filename: "Bi 3_89 AKTA SAIN JAN PS. WIEWIÓRKA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 3_89 AKTA SAIN JAN PS. WIEWIÓRKA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 3_89 AKTA SAIN JAN PS. WIEWIÓRKA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-3-89-Umorzenie-Sabin-Jan-Wiewiorka]]"
 reliability: "confirmed"
 ocr_quality: "mieszana (str. 2-3 czytelne, pozostałe strony częściowo czytelne)"

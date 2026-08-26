@@ -13,7 +13,7 @@ language:
   - pl
 pages: 142
 original_filename: "Bi 212_4961 AKTA W SPRAWIE BACHOREK CZESŁĄW.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_4961 AKTA W SPRAWIE BACHOREK CZESŁĄW.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_4961 AKTA W SPRAWIE BACHOREK CZESŁĄW.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-4961-Akta-sledcze-Bachorek-Czeslaw]]"
 reliability: "confirmed"
 ocr_quality: "dobra na str.9, 20, 23; reszta niesprawdzona szczegółowo"

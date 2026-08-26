@@ -13,7 +13,7 @@ language:
   - pl
 pages: 43
 original_filename: "Bi 015_426 AKTA SKŁODOWSKI KAZIMIERZ PS. BIAŁY.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 015_426 AKTA SKŁODOWSKI KAZIMIERZ PS. BIAŁY.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 015_426 AKTA SKŁODOWSKI KAZIMIERZ PS. BIAŁY.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-015-426-Akta-sledcze-Sklodowski-Kazimierz-Bialy]]"
 reliability: "confirmed"
 ocr_quality: "mieszana (karta informacyjna, charakterystyka sprawy i wyrok — str. 1, 23-26 — dobrej jakości maszynopis w pełni czytelny; formularze dossier i fragment odrębnej sprawy z 1952-53 r. silnie zniekształcone)"

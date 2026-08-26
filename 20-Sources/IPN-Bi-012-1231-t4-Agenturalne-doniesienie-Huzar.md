@@ -14,7 +14,7 @@ language:
 pages: 5
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1231-t4-Agenturalne-doniesienie-Huzar]]"
 original_filename: "Bi 012_1231 tom 4 AKTA HUZARA 47-51 AGENTURALNE DONIESIENIE.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/Bi 012_1231 tom 4 AKTA HUZARA 47-51 AGENTURALNE DONIESIENIE.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1231 tom 4 AKTA HUZARA 47-51 AGENTURALNE DONIESIENIE.pdf"
 reliability: "primary"
 ocr_quality: "mixed"
 main_person: "PERSON-001"

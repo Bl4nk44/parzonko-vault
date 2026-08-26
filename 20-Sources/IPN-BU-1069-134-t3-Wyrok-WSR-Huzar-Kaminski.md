@@ -13,7 +13,7 @@ language:
   - pl
 pages: 190
 original_filename: "BU 1069_134 _t3 PRZEBIEG ROZPRAWY HUZAR ZYGMUNT.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_134 _t3 PRZEBIEG ROZPRAWY HUZAR ZYGMUNT.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 1069_134 _t3 PRZEBIEG ROZPRAWY HUZAR ZYGMUNT.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]]"
 reliability: "confirmed"
 ocr_quality: "mieszana — str.6-7, 140-143, 146-148, 151-152 dobrze czytelne, znaczna część pozostałych stron silnie zniekształcona"

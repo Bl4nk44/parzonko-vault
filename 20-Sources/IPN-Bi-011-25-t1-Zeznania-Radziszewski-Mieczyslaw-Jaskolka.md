@@ -13,7 +13,7 @@ language:
   - pl
 pages: 5
 original_filename: "Bi 011_25 tom 1 zeznania Radziszewski Mieczysław do sprawy ps. Jaskółka.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/Bi 011_25 tom 1 zeznania Radziszewski Mieczysław do sprawy ps. Jaskółka.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 011_25 tom 1 zeznania Radziszewski Mieczysław do sprawy ps. Jaskółka.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-011-25-t1-Zeznania-Radziszewski-Mieczyslaw-Jaskolka]]"
 reliability: "primary"
 ocr_quality: "poor"

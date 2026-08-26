@@ -14,7 +14,7 @@ language:
 pages: 157
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t1-fragment-str114-122-wyrok-ulaskawienie]]"
 original_filename: "BU 1069_60 tom 1 AKTA W SPRAWIE KAZIMIERZA PARZONKO.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 1069_60 tom 1 AKTA W SPRAWIE KAZIMIERZA PARZONKO.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 1 AKTA W SPRAWIE KAZIMIERZA PARZONKO.pdf"
 reliability: "primary"
 ocr_quality: "mixed"
 main_person: "PERSON-001"

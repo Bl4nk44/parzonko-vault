@@ -13,7 +13,7 @@ language:
   - pl
 pages: 53
 original_filename: "Bi 212_4921 AKTA W SPRAWIE SAMOJLUK LUCYNA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_4921 AKTA W SPRAWIE SAMOJLUK LUCYNA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_4921 AKTA W SPRAWIE SAMOJLUK LUCYNA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-4921-Akta-sledcze-Samojluk-Lucyna]]"
 reliability: "confirmed"
 ocr_quality: "mieszana — karta informacyjna, postanowienie o pociągnięciu do odpowiedzialności (str. 27-32) i str. 30 czytelne w tesseract; wyrok (str. 43-48) nieczytelny w tesseract, odczytany w pełni przez Claude vision 2026-08-26 (pismo maszynowe, dobra jakość skanu — poprzednia ocena \"silnie zniekształcony\" dotyczyła tylko tesseract). Protokoły przesłuchań (str. 5-26, 33-41) pozostają nieczytelne — rękopis, nieprzeczytane w tym cyklu."

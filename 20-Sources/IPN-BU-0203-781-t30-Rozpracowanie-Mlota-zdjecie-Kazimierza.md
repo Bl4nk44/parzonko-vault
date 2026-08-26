@@ -13,7 +13,7 @@ language:
   - pl
 pages: 16
 original_filename: "BU 0203_781 tom 30 ZDJECIE KAZIMIERZA W KRAWACIE, ROZPRACOWANIE MŁOTA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 0203_781 tom 30 ZDJECIE KAZIMIERZA W KRAWACIE, ROZPRACOWANIE MŁOTA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 0203_781 tom 30 ZDJECIE KAZIMIERZA W KRAWACIE, ROZPRACOWANIE MŁOTA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-781-t30-Rozpracowanie-Mlota-zdjecie-Kazimierza]]"
 reliability: "primary"
 ocr_quality: "mixed"

@@ -13,7 +13,7 @@ language:
   - pl
 pages: 5
 original_filename: "BU 0326_496.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 0326_496.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 0326_496.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0326-496-Protokol-brakowania-MSW-1973]]"
 reliability: "primary"
 ocr_quality: "mixed"

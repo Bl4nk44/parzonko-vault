@@ -13,7 +13,7 @@ language:
   - pl
 pages: 94
 original_filename: "BU_0_203_2140_t7 ZEZNANIA AGENTURALNE ROZPRACOWANIE PS LAMPART.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_203_2140_t7 ZEZNANIA AGENTURALNE ROZPRACOWANIE PS LAMPART.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_203_2140_t7 ZEZNANIA AGENTURALNE ROZPRACOWANIE PS LAMPART.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t7-Zeznania-agenturalne-Lampart-struktura-Huzara]]"
 reliability: "confirmed"
 ocr_quality: "dobra na wielu kluczowych stronach (18, 29-30, 35-37, 40, 42, 44-46, 66, 76-78), reszta zniekształcona lub o niskiej wartości"

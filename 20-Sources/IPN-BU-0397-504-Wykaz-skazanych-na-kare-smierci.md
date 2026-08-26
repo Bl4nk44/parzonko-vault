@@ -13,7 +13,7 @@ language:
   - pl
 pages: 24
 original_filename: "BU_0_397_504 WYKAZ OSÓB SKAZANYCH NA KARĘ ŚMIERCI.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_397_504 WYKAZ OSÓB SKAZANYCH NA KARĘ ŚMIERCI.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/BU_0_397_504 WYKAZ OSÓB SKAZANYCH NA KARĘ ŚMIERCI.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0397-504-Wykaz-skazanych-na-kare-smierci]]"
 reliability: "primary"
 ocr_quality: "dobra (dokument maszynowy, alfabetyczny rejestr, czytelny)"

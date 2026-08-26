@@ -13,7 +13,7 @@ language:
   - pl
 pages: 9
 original_filename: "Bi 047_1079 ODDZIAŁ MŁOTA LISTA 1947.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 047_1079 ODDZIAŁ MŁOTA LISTA 1947.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 047_1079 ODDZIAŁ MŁOTA LISTA 1947.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-047-1079-Teczka-bandy-Mlota-1947]]"
 reliability: "confirmed"
 ocr_quality: "dobra dla charakterystyki (str. 3), mieszana dla wykazu imiennego (str. 4-9 — większość czytelna, liczne pojedyncze fragmenty zniekształcone)"

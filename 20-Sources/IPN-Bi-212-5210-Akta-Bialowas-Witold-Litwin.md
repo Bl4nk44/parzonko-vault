@@ -13,7 +13,7 @@ language:
   - pl
 pages: 188
 original_filename: "Bi 212_5210 AKTA W SPRAWIE WITOLD BIAŁOWĄS LITWIN.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_5210 AKTA W SPRAWIE WITOLD BIAŁOWĄS LITWIN.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_5210 AKTA W SPRAWIE WITOLD BIAŁOWĄS LITWIN.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5210-Akta-Bialowas-Witold-Litwin]]"
 reliability: "confirmed"
 ocr_quality: "mieszana (karta informacyjna i str. 170 dobrej jakości, w pełni czytelne; większość pozostałych 188 stron silnie zniekształcona)"

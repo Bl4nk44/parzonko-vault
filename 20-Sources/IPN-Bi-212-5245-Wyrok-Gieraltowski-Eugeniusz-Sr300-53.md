@@ -13,7 +13,7 @@ language:
   - pl
 pages: 55
 original_filename: "Bi 212_5245 AKTA W SPRAWIE GIERAŁTOWSKI EUGENIUSZ.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 212_5245 AKTA W SPRAWIE GIERAŁTOWSKI EUGENIUSZ.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 212_5245 AKTA W SPRAWIE GIERAŁTOWSKI EUGENIUSZ.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5245-Wyrok-Gieraltowski-Eugeniusz-Sr300-53]]"
 reliability: "confirmed"
 ocr_quality: "dobra (karta informacyjna i wyrok — str. 47-50 — w pełni czytelne, dobrej jakości maszynopis)"

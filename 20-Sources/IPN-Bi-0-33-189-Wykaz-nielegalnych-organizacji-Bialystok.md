@@ -13,7 +13,7 @@ language:
   - pl
 pages: 175
 original_filename: "Bi_0_33_189 NIELEGALNE ORGANIZACJE BIAŁYSTOK WYKAZ 1970-1980.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi_0_33_189 NIELEGALNE ORGANIZACJE BIAŁYSTOK WYKAZ 1970-1980.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi_0_33_189 NIELEGALNE ORGANIZACJE BIAŁYSTOK WYKAZ 1970-1980.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-0-33-189-Wykaz-nielegalnych-organizacji-Bialystok]]"
 reliability: "not-applicable"
 ocr_quality: "dobra, ale treść niezwiązana z głównym wątkiem"

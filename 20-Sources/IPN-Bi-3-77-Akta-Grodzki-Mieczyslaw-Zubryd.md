@@ -13,7 +13,7 @@ language:
   - pl
 pages: 30
 original_filename: "Bi 3_77 AKTA MIECZYSŁAW GRODZKI PSZ ZUBRYD.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 3_77 AKTA MIECZYSŁAW GRODZKI PSZ ZUBRYD.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/Bi 3_77 AKTA MIECZYSŁAW GRODZKI PSZ ZUBRYD.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-3-77-Akta-Grodzki-Mieczyslaw-Zubryd]]"
 reliability: "uncertain"
 ocr_quality: "mieszana (odpis wyroku str. 20-28 dobrej jakości, czytelny; formularze przesłuchań str. 3-18 mieszane)"

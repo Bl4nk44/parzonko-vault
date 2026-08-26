@@ -13,7 +13,7 @@ language:
   - pl
 pages: 5
 original_filename: "BU 0189_38 tom 1 KWESTIONARIUSZ OSOOWY WŁOSTOWSKI WITOLD I JANINA KONORODZKA.pdf"
-original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU 0189_38 tom 1 KWESTIONARIUSZ OSOOWY WŁOSTOWSKI WITOLD I JANINA KONORODZKA.pdf"
+original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 0189_38 tom 1 KWESTIONARIUSZ OSOOWY WŁOSTOWSKI WITOLD I JANINA KONORODZKA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0189-38-t1-Kwestionariusze-osobowe-Wlostowski-Konorodzka]]"
 reliability: "primary"
 ocr_quality: "poor"
