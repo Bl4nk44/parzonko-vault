@@ -11,12 +11,12 @@ date_accuracy: "range"
 place_document: "Białystok"
 language:
   - pl
-pages: 268
+pages: 143
 original_filename: "Bi 012_1230 tom 4 KRYPT ROZBÓJNICY SPRAWA HUZARA 52-55.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 012_1230 tom 4 KRYPT ROZBÓJNICY SPRAWA HUZARA 52-55.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1230-t4-Rozbojnicy-sprawa-Huzara-1952-55]]"
 reliability: "confirmed"
-ocr_quality: "dobra na sprawdzonych stronach (7, 16, 30, 89, 116, 133); dokument obszerny (268 str. wg pdfinfo, 286 stron w puli OCR). 2026-08-26: przeszukano tesseract pod kątem wzmianek 'Parzonk/Zygmunt/Wichur' — 35 stron z trafieniami, z czego 29 dotąd nieprzejrzanych (31, 47, 52, 62-63, 65-67, 69-71, 73-75, 79, 85-86, 90, 94, 110, 112-113, 115, 126-129, 137, 139) odczytane wprost z tesseract (jakość zróżnicowana, w większości odtwarzalna). Drugi przebieg (grep-sweep szerszymi słowami kluczowymi 'huzar/kaminski/radzisz/kostro/moscick/krynsk/grodzk/lampart' — 81 stron z trafieniami, 48 spoza wąskiego zestawu Parzonko/Zygmunt/Wichura): przejrzano próbkę pod kątem Kamińskiego 'Huzara', Grodzkiego i Krynskiego (str. 38-39,46,49,51,53-54,58-60,68,83,102,117,130-131,138) — bez istotnych nowych faktów o głównym bohaterze poza jedną wzmianką o Grodzkim (patrz notatka osoby); reszta to sieć meliniarzy pobocznych figurantów, zgodnie z przyjętą zasadą bez osobnych notatek. Reszta dokumentu (bez trafień żadnych słów kluczowych) nadal nieprzejrzana."
+ocr_quality: "KOREKTA 2026-08-26: dokument ma faktycznie 143 strony (potwierdzone pdfinfo), nie 268 jak wcześniej błędnie zapisano (143 plików tesseract w ocr_drafts, po jednym .txt+.png na stronę = 286 plików, co najwyraźniej pomylono z liczbą stron). Dobra jakość na sprawdzonych stronach (7, 16, 30, 89, 116, 133). 2026-08-26: przeszukano CAŁY tom (143/143 str.) tesseract po słowach kluczowych — wąski zestaw 'Parzonk/Zygmunt/Wichur' (35 trafień) i szeroki 'huzar/kaminski/radzisz/kostro/moscick/krynsk/grodzk/lampart' (81 trafień, 48 spoza wąskiego zestawu) — wszystkie trafienia przejrzane. Strony bez żadnych trafień (dot. wyłącznie pobocznych meliniarzy bez własnych notatek, zgodnie z przyjętą zasadą) pozostają nieprzejrzane, ale **dokument uznać za wyczerpany** pod kątem głównego bohatera i śledzonych postaci."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -69,4 +69,4 @@ Pełny tekst OCR (fragmenty istotne): [[80-Media/ocr/IPN-Bi-012-1230-t4-Rozbojni
 ## Uwagi o jakości i niepewności
 
 - Nowa agentka "Lida" wspomina wcześniejszy związek z "Niemyjskim Tadeuszem ps. Rokita" — **wariant imienia** wobec już ustalonego "Niemyjski Lucjan ps. Krakus" (SRC-086) — możliwe, że to inna osoba lub błąd zapisu, nie rozstrzygnięte.
-- Dokument obszerny (268 str.) — sprawdzono próbkę stron wg dopasowań słów kluczowych.
+- Dokument ma 143 str. (skorygowano z błędnego "268") — grep-sweep (wąski + szeroki) wyczerpany, patrz `ocr_quality`.
