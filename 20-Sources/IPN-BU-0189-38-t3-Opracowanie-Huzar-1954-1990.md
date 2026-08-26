@@ -16,7 +16,7 @@ original_filename: "BU_0_189_38_t3 oprqcowanie o Huzarze 1954-1990.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU_0_189_38_t3 oprqcowanie o Huzarze 1954-1990.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0189-38-t3-Opracowanie-Huzar-1954-1990]]"
 reliability: "confirmed"
-ocr_quality: "bardzo dobra na sprawdzonych stronach; 2026-08-26 przeszukano tesseract po słowach kluczowych 'Parzonk/Zygmunt/Wichur' w całym tomie — trafienia na str. 32,34,44,45,59,62-66,88,90,100,124,140,142-143,146,149,156,163,189,211,212, wszystkie odczytane. Reszta 218-stronicowego tomu (bez trafień słów kluczowych) nieprzejrzana."
+ocr_quality: "bardzo dobra na sprawdzonych stronach; 2026-08-26 przeszukano tesseract po słowach kluczowych 'Parzonk/Zygmunt/Wichur' w całym tomie — trafienia na str. 32,34,44,45,59,62-66,88,90,100,124,140,142-143,146,149,156,163,189,211,212, wszystkie odczytane. Drugi przebieg (grep-sweep szerszymi słowami — huzar/kaminski/radzisz/kostro/moscick/krynsk/grodzk/lampart/zalewski/bialowas, 129 stron z trafieniami) — przejrzano dodatkowo str. 31,37,46,53,57,60,67,70,77,130,131,136,139,148,154,159,161,162,165,199,207,208 (nowe fakty: dane biograficzne Kamińskiego, Grodzkiego, ujęcie Białowąsa). Reszta 218-stronicowego tomu (bez trafień żadnych słów kluczowych) nieprzejrzana."
 main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-001"
