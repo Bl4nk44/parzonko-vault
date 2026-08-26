@@ -5,7 +5,7 @@ event_id: "EVENT-1948-004"
 title: "Zabójstwo Stanisława Jankowskiego (posądzonego o donosicielstwo) przez bandę \"Huzara\""
 date: "1948-02"
 date_accuracy: "month"
-place: null
+place: "PLACE-039"
 main_person: "PERSON-002"
 people_involved:
   - "PERSON-002"
@@ -39,7 +39,7 @@ Dwaj wyznaczeni członkowie bandy udali się do domu kochanki, po ok. 10-15 minu
 
 ## Miejsce
 
-Wieś Pruszanka-Baranki, gm. Brańsk (miejsce wydania rozkazu i postoju bandy — samo zabójstwo miało miejsce u nieustalonej kochanki, prawdopodobnie w tej samej okolicy).
+Wieś [[Place-Pruszanka-Baranki]], gm. Brańsk (miejsce wydania rozkazu i postoju bandy — samo zabójstwo miało miejsce u nieustalonej kochanki, prawdopodobnie w tej samej okolicy).
 
 ## Źródła
 

@@ -27,6 +27,7 @@ people_mentioned:
   - "PERSON-015"
 places_mentioned:
   - "PLACE-001"
+  - "PLACE-039"
 organizations_mentioned:
   - "WUBP Białystok"
   - "banda \"Huzara\""
