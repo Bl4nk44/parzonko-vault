@@ -22,6 +22,7 @@ related_to_main_person: "sibling"
 related_persons:
   - "PERSON-001"
 key_sources:
+  - "SRC-008"
   - "SRC-076"
   - "SRC-096"
 certainty: "high"
@@ -51,6 +52,7 @@ Józefa Biszewska z domu Parzonko, c. Stanisława i Marianny z d. Lewczuk, ur. 8
 ## Najważniejsze źródła
 
 - [[IPN-Bi-07-433-t2-Akta-sledcze-Parzonko-Kazimierz]] — str. 41, 44
+- [[IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]] — str. 30 (plan operacyjny czerwiec 1951: PUBP Sokołów miał wziąć jej rodzinę w rozpracowanie — najwcześniejszy dotąd znany ślad, zapis nazwiska "Biczewska")
 
 ## Niepewności i sprzeczności
 

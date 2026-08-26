@@ -16,7 +16,7 @@ original_filename: "Bi 012_1230 tom 2 KRYPT ROZBÓJNICY SPRAWA HUZARA 51.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/Bi 012_1230 tom 2 KRYPT ROZBÓJNICY SPRAWA HUZARA 51.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-012-1230-t2-Rozbojnicy-sprawa-Huzara-1951]]"
 reliability: "primary"
-ocr_quality: "poor"
+ocr_quality: "mieszana — str. 21, 23-25, 27-29, 35-39 (tesseract, jakość średnia-dobra); str. 1, 2, 4, 5, 6, 30, 31, 32, 34 odczytane w pełni przez Claude vision 2026-08-26 (dobra jakość, maszynopis); str. 3, 7-20, 22, 26, 33 (nieudany odczyt vision, API error) pozostają nieprzeczytane — rękopis/silne zniekształcenia lub figuranci poboczni bez bezpośredniego związku z głównym bohaterem"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -46,6 +46,8 @@ To najważniejsze dotąd źródło dla ustalenia chronologii: potwierdza, że w 
 
 ## Najważniejsze ustalenia
 
+- **Plan operacyjny z czerwca 1951 (str. 30, odczyt vision 2026-08-26), pkt 4 "Odnośnie czł. bandy 'Huzara' Parzonko Kazimierza ps. 'Wichura'"**: PUBP Sokołów miał wziąć w rozpracowanie rodzinę "Wichury" — Biczewską (= [[Person-Biszewska-Jozefa]], siostra, potwierdzenie krzyżowe: wieś zapisana tu jako "Wiszma"/"Wisznia" gm. Jabłonna pow. Sokołów, zgodna z ustalonym "Wieska" gm. Jabłonna z innych źródeł — wariant OCR nazwy wsi). Osobno: wytypować kandydata na werbunek do rozpracowania ojca Stanisława w Leśnikach. **To najwcześniejsza dotąd udokumentowana data (czerwiec 1951) rozpracowywania rodziny Parzonki przez UB** — wcześniej najwcześniejszym znanym śladem było SRC-096 z marca 1952.
+- Ten sam plan (str. 30-32) rozpracowuje analogicznie rodziny innych członków bandy "Huzara" (Buczak Witold ps. "Ponury", Niemyjski Lucjan ps. "Krakus", Grodzki Mieczysław ps. "Kazimierz", Butkiewicz Roman, Kryński Tadeusz ps. "Dzięcioł", bracia Dybowscy, Łapiński Stanisław ps. "Orzełek", Brzozowski Józef ps. "Hanka", Wyszyński Józef ps. "Kumek", Porowski Stanisław, Perkowski Heronim ps. "Dziadek") — metoda systematyczna: werbunek informatorów z otoczenia rodzinnego każdego bandyty.
 - **Punkt IV (str. 36): Kazimierz Parzonko ps. "Wichura" jako członek bandy "Huzara"** — poprzez informatora ps. "Kon" ustalono, że rodzina Parzonki (wieś Leśniki, gm. Ciechanowiec) jest **negatywnie ustosunkowana** do niego: od młodych lat unikał rodziny, prowadząc "tryb życia łobuzerski" i zajmując się kradzieżą. Nie ustalono, by utrzymywał kontakt z rodziną → istotna nowa nuansa biograficzna dla [[Person-Parzonko-Kazimierz-Zygmunt]]
 - **Historia powstania bandy "Huzara"**: silnie zorganizowana struktura WiN działała na tym terenie do 1947 r. Po amnestii "Huzar" połączył się z resztkami bandy "Młota" (po jej likwidacji, przez braci Dybowskich, przejął nad nią dowództwo), a także podporządkował sobie bandę "Hanki" (Brzozowski Józef ps. "Hanka" i Porowski Tadeusz ps. "Bobrek")
 - Band działała w podziale na patrole: patrol "Huzara", patrol **"Lamparta"** (potwierdzenie tej nazwy jednostki, niezależnie od garbled fragmentu z wcześniejszych stron tego samego dokumentu), oraz zlikwidowany patrol "Rysia"
