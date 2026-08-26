@@ -8,6 +8,8 @@ given_names:
 surname: "Terlikowski"
 aliases:
   - "Rytel"
+  - "Rygiel"
+  - "Zyndram"
 gender: "M"
 birth_date: null
 birth_date_accuracy: "unknown"
@@ -26,6 +28,7 @@ related_persons:
   - "PERSON-002"
 key_sources:
   - "SRC-024"
+  - "SRC-091"
   - "SRC-038"
   - "SRC-097"
 certainty: "high"
@@ -67,5 +70,6 @@ Janusz Terlikowski, lekarz, mieszkaniec pow. Bielsk Podlaski, dawny znajomy Kazi
 ## Niepewności i sprzeczności
 
 - Prawdziwe imię/tożsamość poza pseudonimem organizacyjnym "Rytel" nieustalone poza wskazaniem "Terlikowski Janusz" — czy to jego prawdziwe nazwisko, czy kolejny pseudonim/kryptonim, nie jest jasne z kontekstu dokumentu.
+- **Dodatkowy kryptonim funkcyjny "Zyndram" (SRC-091, str. 99, odczyt bezpośredni Claude 2026-08-26)**: w wewnętrznym opisie fikcyjnej struktury "delegatury WiN" wykorzystanej w operacji figuruje jako "szef wywiadu — por. 'Zyndram' (tw. ps. 'Rygiel')" — zgodne z już znanym wariantem "Rygiel"/"Rytel"; "Zyndram" to najpewniej kryptonim stanowiska/funkcji w fikcyjnej strukturze, a "Rygiel" pseudonim agenturalny tej samej osoby co "Rytel".
 - **ROZSZERZONY ZAKRES OPERACJI (SRC-038)**: zeznanie Białowąsa Witolda ps. "Litwin" ujawnia, że Terlikowski prowadził tę samą fikcyjną operację "WiN" **równolegle wobec co najmniej jednego innego, odrębnego oddziału leśnego** — nie tylko wobec Parzonki/Huzara. Ujawniona pełna struktura fikcyjnych kryptonimów: Komenda Główna "WiN" = "Uniwersytet", obszar = "Akademia", okręg białostocki = "Bursa". Sieć łączności: "Znak" (szef łączności "Akademii"), Bobrzyniecka Eugenia ps. "Maria" (pierwsza łączniczka), następnie "Grek" (przejął łączność wiosną 1952 r.). Sugeruje to systemową, wielocelową operację MBP w regionie białostockim, nie tylko spersonalizowaną grę wykorzystującą przyjaźń z Parzonką.
 - Pochodzi z Ciechanowca, pow. Bielsk Podlaski (wg zeznania Białowąsa) — nowa informacja biograficzna, zgodna z regionem działania.
