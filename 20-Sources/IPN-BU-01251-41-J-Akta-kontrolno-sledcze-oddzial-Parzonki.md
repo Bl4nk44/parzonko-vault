@@ -35,6 +35,9 @@ people_mentioned:
   - "PERSON-092"
 places_mentioned:
   - "PLACE-034"
+  - "PLACE-035"
+  - "PLACE-036"
+  - "PLACE-037"
 organizations_mentioned: []
 related_events:
   - "EVENT-1951-002"

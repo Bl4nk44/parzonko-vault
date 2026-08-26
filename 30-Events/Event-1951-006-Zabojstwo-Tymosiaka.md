@@ -5,7 +5,7 @@ event_id: "EVENT-1951-006"
 title: "Uprowadzenie i powieszenie Tymosiaka Franciszka koło majątku Józefin (ROZSTRZYGNIĘTE: lipiec/sierpień 1948, nie 1951)"
 date: "1948-07-29"
 date_accuracy: "day"
-place: null
+place: "PLACE-035"
 main_person: "PERSON-001"
 people_involved:
   - "PERSON-086"
@@ -45,7 +45,7 @@ Podczas odwrotu do lasu Rudzkiego po potyczce z wojskiem (29.07.1948, w której 
 
 ## Miejsce
 
-Las w okolicach majątku Józefin, gm. Brańsk, pow. Bielsk-Podlaski — brak notatki miejsca, nie tworzono linku bez dalszej weryfikacji dokładnej lokalizacji.
+Las w okolicach majątku [[Place-Jozefin]], pow. Bielsk-Podlaski (patrz notatka miejsca ws. niepewności dokładnej gminy).
 
 ## Źródła
 

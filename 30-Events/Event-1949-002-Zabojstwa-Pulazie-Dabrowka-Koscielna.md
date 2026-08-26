@@ -5,7 +5,7 @@ event_id: "EVENT-1949-002"
 title: "Poczwórne zabójstwo w Pułaziach i Dąbrówce-Kościelnej (Kozłowski, bracia Wyszyńscy, Piszczatowski)"
 date: "1949-10-26"
 date_accuracy: "day"
-place: null
+place: "PLACE-036"
 main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"
@@ -48,7 +48,7 @@ Wg wyroku WSR Warszawa (Sr.251/53, 31.03.1953, uzasadnienie): "w październiku 1
 
 ## Miejsce
 
-Pułazie i Dąbrówka-Kościelna, pow. Wysokie Mazowieckie — brak notatek miejsc.
+[[Place-Pulazie-Swierze]] (trzy pierwsze zabójstwa) i [[Place-Dabrowka-Koscielna]] (czwarte zabójstwo, tego samego wieczoru), obie gm. Szepietowo, pow. Wysokie Mazowieckie.
 
 ## Źródła
 
