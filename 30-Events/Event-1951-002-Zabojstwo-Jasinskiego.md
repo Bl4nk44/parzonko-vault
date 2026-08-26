@@ -5,7 +5,7 @@ event_id: "EVENT-1951-002"
 title: "Zabójstwo działacza PZPR Jasińskiego (syna Stanisława) przez bandę \"Zygmunta\""
 date: "1951-07-30"
 date_accuracy: "day"
-place: null
+place: "PLACE-013"
 main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"

@@ -33,7 +33,8 @@ people_mentioned:
   - "PERSON-024"
   - "PERSON-068"
   - "PERSON-092"
-places_mentioned: []
+places_mentioned:
+  - "PLACE-034"
 organizations_mentioned: []
 related_events:
   - "EVENT-1951-002"

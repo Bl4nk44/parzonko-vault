@@ -5,7 +5,7 @@ event_id: "EVENT-1951-003"
 title: "Zabójstwo działacza PZPR/ORMO Mariana Fiszera przez bandę \"Huzara\""
 date: "1951-06-20"
 date_accuracy: "day"
-place: null
+place: "PLACE-033"
 main_person: "PERSON-002"
 people_involved:
   - "PERSON-002"
@@ -36,6 +36,10 @@ Wg opracowania retrospektywnego MSW (SRC-091): zabójstwa na polecenie "Ponurego
 
 - [[Person-Fiszer-Marian]] (ofiara)
 - [[Person-Kaminski-Kazimierz-Huzar]] (dowódca bandy, w ramach której działał "Ponury")
+
+## Miejsce
+
+[[Place-Topczewo]], gm. Wyszki, pow. Bielsk Podlaski.
 
 ## Źródła
 

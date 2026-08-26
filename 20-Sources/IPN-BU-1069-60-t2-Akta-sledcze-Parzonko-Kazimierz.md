@@ -28,7 +28,8 @@ people_mentioned:
   - "PERSON-058"
   - "PERSON-086"
   - "PERSON-092"
-places_mentioned: []
+places_mentioned:
+  - "PLACE-034"
 organizations_mentioned: []
 related_events:
   - "EVENT-1946-002"

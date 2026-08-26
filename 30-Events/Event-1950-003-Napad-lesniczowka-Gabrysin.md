@@ -5,7 +5,7 @@ event_id: "EVENT-1950-003"
 title: "Napad rabunkowy na leśniczówkę w Gabrysinie"
 date: "1950-03-11"
 date_accuracy: "day"
-place: null
+place: "PLACE-034"
 main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"
@@ -42,7 +42,7 @@ Zgodne z wcześniej udokumentowaną (mniej precyzyjną) wzmianką w [[IPN-BU-106
 
 ## Miejsce
 
-Leśniczówka w Gabrysinie, pow. Wysokie Mazowieckie — brak notatki miejsca.
+Leśniczówka w [[Place-Gabrysin]], pow. Wysokie Mazowieckie.
 
 ## Źródła
 
