@@ -33,6 +33,7 @@ key_sources:
   - "SRC-046"
   - "SRC-086"
   - "SRC-069"
+  - "SRC-088"
   - "SRC-091"
   - "SRC-097"
 certainty: "high"
@@ -87,6 +88,7 @@ Mieczysław Grodzki, s. Bronisława, ur. 23.11.1914 r., ps. "Żubryt"/"Zubryd", 
 - Dalsze losy Grodzkiego (wyrok, data śmierci) nieznane w obecnie przetworzonej części korpusu — akta obejmują lata 1946-1967, sugerując możliwy dłuższy proces sądowy/rewizyjny nieprzetworzony w tym cyklu.
 - **Kolejny wariant pseudonimu "Ukryty"/"Ubryty" (SRC-030, akt oskarżenia Gierałtowskiego)** — obok już odnotowanych "Marian"/"Marjan" i ustalonego "Żubryd"/"Żubryt" — pseudonim tej osoby wyjątkowo niespójny w źródłach, nierozstrzygnięte.
 - **Nowy wariant pseudonimu "Marian"/"Marjan" (zeznanie Kryńskiego, dokument BU 0330/189 t.4, str. 20-23)**: sprzeczny z ustalonym "Żubryt"/"Żubryd" — nierozstrzygnięte, czy to kolejny pseudonim równoległy, czy pomyłka.
+- **Wzmianka w wewnętrznej notatce taktycznej UB (SRC-088, str. 130)**: sprawozdanie z przesłuchań meliniarzy opisuje, że ujawnienie im "roli jaką w okresie okupacji odgrywał Grodzki Mieczysław ps. 'Żubryt', który był na usługach gestapo" miało pozytywny wpływ psychologiczny na skłonienie ich do przyznania się — to nie akt oskarżenia ani relacja propagandowa, lecz wewnętrzna notatka operacyjna UB traktująca ten fakt jako już przyjęty w śledztwie, ale wciąż ten sam aparat śledczy, nie niezależne potwierdzenie.
 - **Poważny zarzut z aktu oskarżenia — traktować OSTROŻNIE (SRC-097, str. 122, akt oskarżenia MBP z 13.03.1953)**: dokument opisuje Grodzkiego jako "byłego płatnego agenta gestapo ps. 'Renald'", odpowiedzialnego w czasie okupacji za wydanie w ręce gestapo m.in. rodziny Karola Franciszka, Żyneli Władysława, Ignatowskiego Zenona, rodziny Dąbrowskich oraz oficera Armii Radzieckiej Wołkosza Juliana. **Ten sam typ zarzutu ("kolaboracja z gestapo") pojawił się już wcześniej wobec Parzonki w innym dokumencie i po weryfikacji okazał się częściowo propagandowym przeinaczeniem prawdziwego faktu biograficznego** (przynależność do "Miecz i Pług" bez rzeczywistej kolaboracji) — ten wzorzec nakazuje ostrożność również tutaj: akt oskarżenia z okresu stalinowskiego to dokument prokuratorski o silnie propagandowym charakterze, gdzie oskarżanie o kolaborację z Niemcami było częstą techniką delegitymizacji. Nie potwierdzone niezależnie — traktować jako niepotwierdzony zarzut, nie ustalony fakt.
 - [[IPN-Bi-012-1230-t3-Rozbojnicy-sprawa-Huzara-1951-52]] (SRC-086, str. 32) podaje jego pseudonim jako **"Kazimierz"**, nie "Żubryt"/"Zubryd" — kolejny wariant pseudonimu tej samej osoby (możliwe, że miał kilka pseudonimów używanych w różnych okresach).
 - [[IPN-BU-1069-134-t3-Wyrok-WSR-Huzar-Kaminski]] (SRC-069) potwierdza tę samą sygnaturę Sr.216/53 jako zbiorczy proces Kamińskiego, w którym Grodzki był współoskarżonym wraz z Kryńskim, dwoma księżmi (Rakowski, Borysiewicz) i Zalewskim — dodatkowo ustala, że Grodzki był agentem Gestapo od listopada 1943 do lipca 1944, zanim wstąpił do bandy "Huzara" jesienią 1949 r.
