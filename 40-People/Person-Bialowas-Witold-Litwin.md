@@ -26,6 +26,7 @@ related_persons:
 key_sources:
   - "SRC-038"
   - "SRC-039"
+  - "SRC-056"
   - "SRC-070"
   - "SRC-077"
   - "SRC-087"
@@ -69,6 +70,7 @@ Terlikowski przedstawił Białowąsowi tę samą fikcyjną strukturę organizacy
 
 - [[IPN-Bi-012-1231-t2-Zeznania-Bialowas-Witold-Litwin]] — str. 78-79 (własne zeznanie o kontaktach z Terlikowskim)
 - [[IPN-BU-0203-2140-t6-Protokol-przesluchania-swiadka-Lampart]] — str. 5-6 (zeznanie o melinach patrolu "Zygmunta")
+- [[IPN-Bi-212-4921-Akta-sledcze-Samojluk-Lucyna]] — świadek na rozprawie WSR Białystok 6.10.1952 (Sr.669/52), zeznał że Lucyna Samojłuk była "pozytywnie ustosunkowana" do bandy
 
 ## Niepewności i sprzeczności
 
