@@ -75,6 +75,8 @@ tags:
 - **NOWE, wcześniej niedokumentowane zabójstwo**: Tymosiak Franciszek, uprowadzony i znaleziony powieszonym w lesie koło majątku "Józefin" — jednoźródłowa, fragmentaryczna wzmianka (str. 269), niska pewność — nowa notatka [[Event-1951-006-Zabojstwo-Tymosiaka]].
 - **Formalny akt oskarżenia z 13.06.1953 r.** (str. 377-395) przeciwko czterem oskarżonym — niezależne, oficjalne podsumowanie całej sprawy, zbieżne (nie sprzeczne) z materiałem własnych zeznań już przetworzonym.
 - **Odczyt tej puli rękopisów (244/244 stron) ZAKOŃCZONY.** Reszta 792-stronicowego tomu poza tą pulą pozostaje nieodczytana.
+- **2026-08-26, przeszukanie tesseract po słowach kluczowych poza pulą rękopisów**: str. 359-367, 373 — kolejna, systematyczna narracja całej kariery przestępczej Parzonki (chronologiczne streszczenie zbieżne z już przetworzonym materiałem, prawdopodobnie fragment innej kopii/wersji aktu oskarżenia lub uzasadnienia w tym samym tomie). **Trzecia już wewnątrz-korpusowa wzmianka zarzutu "Miecz i Pług" zorganizowanego przez gestapo** (str. 359) — obok SRC-133 (relacja prasowa) i SRC-092 (uzasadnienie wyroku) — ale to wciąż ten sam aparat prokuratorsko-sądowy PRL, nie niezależne źródło; nie zmienia statusu "zarzut, nie fakt" (patrz [[Person-Parzonko-Kazimierz-Zygmunt]]). Str. 373 — wykaz osób wzywanych na rozprawę, zgodny z już znanymi danymi współoskarżonych.
+- Str. 1, 335 (tesseract) — karty tytułowe/adresowe bez nowej treści merytorycznej.
 
 ## Osoby
 
