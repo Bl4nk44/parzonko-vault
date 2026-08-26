@@ -30,6 +30,7 @@ related_persons:
   - "PERSON-002"
   - "PERSON-003"
 key_sources:
+  - "SRC-008"
   - "SRC-040"
   - "SRC-046"
   - "SRC-086"
@@ -53,7 +54,7 @@ Mieczysław Grodzki, s. Bronisława, ur. 23.11.1914 r., ps. "Żubryt"/"Zubryd", 
 ## Dane podstawowe
 
 - Data urodzenia: 1914-11-23
-- Rodzice: Bronisław Grodzki (ojciec)
+- Rodzice: Bronisław Grodzki i Leokadia z d. Tepaczewska (SRC-008, str. 17/[3], odczyt vision Claude 2026-08-26) — matka po wojnie zamieszkała w Olsztynie; siostry Halina, Irena i Krystyna zamieszkałe we Wrocławiu (adresy nieznane)
 - Role: dowódca "patrolu" bandy "Huzara"
 
 ## Relacje
@@ -85,6 +86,7 @@ Mieczysław Grodzki, s. Bronisława, ur. 23.11.1914 r., ps. "Żubryt"/"Zubryd", 
 
 - **Sprzeczność co do zabójcy Koca Bartłomieja**: SRC-046 (str. 23, zarzuty wobec Grodzkiego) przypisuje zabójstwo bezpośrednio Grodzkiemu ("wystrzałem z pistoletu automatycznego pozbawił życia sołtysa Koca Bartłomieja"), podczas gdy ten sam dokument (str. 21, odpis zarzutów wobec Radziszewskiego) oraz wcześniej ustalone [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (na podstawie SRC-015) przypisują to zabójstwo Parzonce (żonę Stefanię — Kostrze). **Sprzeczność wewnątrz jednego zestawu dokumentów sądowych, nierozstrzygnięta** — możliwe, że obaj byli obecni i któryś opis uproszczono, lub błąd redakcyjny w jednym z odpisów.
 - **Wariant imienia ofiary**: SRC-046 podaje "Lejzerowicza **Mikołaja**", podczas gdy korpus dotąd konsekwentnie ustalił imię "Michał" ([[Person-Lejzerowicz-Michal]]) — odnotowane jako otwarte pytanie w notatce ofiary.
+- **Chronologia ucieczki z Łap, 1948-1949 (SRC-008, str. 17/[3], odczyt vision Claude bezpośrednio z obrazu — nie API — 2026-08-26)**: do 1939 r. w Białymstoku, zatrudniony w rzeźni miejskiej, bez działalności politycznej; w okresie okupacji zajmował się nielegalnym handlem. Po wyzwoleniu wyjechał na Ziemie Odzyskane (woj. wrocławskie, olsztyńskie), w 1948 r. wrócił w okolice Łap. **8.04.1948 r. zatrzymany przez Komisariat MO w Łapach jako podejrzany o współpracę z bandytami oraz o dokonanie rabunków** (data z tej strony niepewna — możliwa pomyłka odczytu cyfry miesiąca, gdyż inne miejsce tego samego tomu, str. 53, datuje zabójstwo funkcjonariuszy MO Dziarnowskiego i Heliasza na czerwiec 1948 r. — prawdopodobnie ten sam incydent, dokładny miesiąc nierozstrzygnięty) — podczas przesłuchania (przy użyciu nielegalnie posiadanego pistoletu) zastrzelił funkcjonariuszy MO, zabierając dodatkowo pistolety służbowe, i zbiegł z żoną w kierunku woj. wrocławskiego, gdzie ukrywał się pod fałszywymi personaliami "Zdanowicz Mieczysław" vel "Jankowski" vel "Pawłowski Józef" (zgodne z już znanymi aliasami). W 1949 r., po aresztowaniu kilku wspólników we Wrocławiu, w obawie przed aresztowaniem wrócił w okolice Wysokiego Mazowieckiego, ukrywał się indywidualnie, po czym nawiązał kontakt z bandą "Huzara", przystępując pod ps. "Kazimierz" (zgodne z już rozstrzygniętym podwójnym pseudonimem "Kazimierz"/"Żubryd" — patrz niżej).
 - **Dane osobowe i skazanie w procesie Sr.216/53 (SRC-091, str. 159, 162, grep-sweep tesseract 2026-08-26)**: pełne dane z aktu oskarżenia pierwszego procesu — "Grodzki Mieczysław ps. 'Kazimierz'/'Żubryd', s. Bronisława, ur. 23.11.1914 r. we wsi **Wyszonki-Wypychy**" (dotąd nieznane miejsce urodzenia), pochodzenie chłopskie, wykształcenie podstawowe, z zawodu **rzeźnik** — do 1929 r. mieszkał w Białymstoku, pracując w rzeźni miejskiej, bez działalności politycznej. **Rozstrzyga wariant pseudonimu "Kazimierz"** (SRC-086) — to nie sprzeczność, oba pseudonimy ("Kazimierz" i "Żubryd") figurują razem w tym samym oficjalnym zapisie. Wyrokiem tego procesu skazany **na karę śmierci, utratę praw na zawsze i przepadek mienia** (str. 162, razem z Zalewskim Wacławem) — wypełnia częściowo lukę "dalsze losy nieznane", choć nieznane pozostaje, czy wyrok wykonano (por. poniższa ucieczka do NRD, chronologicznie **wcześniejsza** niż ten proces, co sugeruje że został złapany/ekstradowany przed wyrokiem lub osądzony zaocznie).
 - **Próba ucieczki na Zachód (SRC-091, str. 211, odczyt tesseract 2026-08-26)**: po zatrzymaniu głównej grupy "Zygmunta"/"Huzara" w Warszawie (operacja "Rytel") Grodzki "wyjechał do Szczecina, gdzie przekroczył granicę do NRD, z zamiarem przedostania się do Niemiec Zachodnich" — został aresztowany w NRD, gdyż "pozostawał pod obserwacją naszych organów". Wypełnia dotychczasową lukę "dalsze losy nieznane" — data zdarzenia nieprecyzyjna (dokument obejmuje okres do 1955 r., prawdopodobnie schyłek 1952 r., zbieżny z falą aresztowań reszty bandy). Dalszy los po aresztowaniu w NRD (ekstradycja, wyrok) nieustalony.
 - Dalsze losy Grodzkiego (wyrok, data śmierci) nieznane w obecnie przetworzonej części korpusu — akta obejmują lata 1946-1967, sugerując możliwy dłuższy proces sądowy/rewizyjny nieprzetworzony w tym cyklu.
