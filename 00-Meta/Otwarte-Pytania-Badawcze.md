@@ -28,7 +28,7 @@ SRC-010 (doniesienie z maja 1950 r., chronologicznie wcześniejsze) wskazuje na 
 ## Otwarte
 
 ### Miejsce wykonania wyroku śmierci (22.09.1953)
-Data pewna (SRC-025), miejsce nieustalone precyzyjnie. Co może rozstrzygnąć: dokumentacja więzienna, protokół wykonania kary (jeśli w korpusie), księgi cmentarne.
+Data pewna (SRC-025), miejsce nieustalone precyzyjnie. **Poszlaka (2026-08-26, SRC-073)**: skorowidz więźniów Aresztu Śledczego Warszawa-Mokotów (ul. Rakowiecka) pokazuje, że Parzonko opuścił Mokotów 12.03.1953 z adnotacją "transp. więz. Białystok" — a więc **prawie na pewno NIE przebywał w Mokotowie** w chwili egzekucji (22.09.1953, czyli pół roku później), co czyni Mokotów mało prawdopodobnym miejscem wykonania wyroku, wbrew domyślnemu skojarzeniu z tym słynnym miejscem straceń więźniów politycznych PRL. Bardziej prawdopodobne więzienie w Białymstoku, ale niepotwierdzone wprost. Sprawdzono też SRC-124 (Zwolski, "Ślady historyczne po miejscach pochówku ofiar... Białostocczyzny") — nie wymienia Parzonki z imienia, tylko ogólny kontekst metodologiczny. Co może rozstrzygnąć: dokumentacja więzienna Białegostoku, protokół wykonania kary (jeśli w korpusie), księgi cmentarne.
 
 ### Dwaj „Zygmunci" — nawiązanie czy zbieżność?
 Szwadron „Zygmunt" 5. Brygady Wileńskiej (1945-46, dowódca „Wiktor"/Wołoniej) vs pseudonim Parzonki „Zygmunt" (od lipca 1949). Świadome nawiązanie czy przypadek? (SRC-016, SRC-024). Co może rozstrzygnąć: zeznania członków oddziału o genezie pseudonimu.

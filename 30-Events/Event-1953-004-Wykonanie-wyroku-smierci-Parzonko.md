@@ -30,7 +30,7 @@ tags:
 
 ## Przebieg
 
-Rejestr podaje dla obu skazanych identyczną datę wykonania wyroku (22.09.1953), co wskazuje na zbiorczą egzekucję nieułaskawionych współskazanych z procesu Sr.251/53. Miejsce wykonania wyroku nie jest podane w tym źródle — zgodnie z ówczesną praktyką sądownictwa wojskowego PRL, najprawdopodobniej było to więzienie w Białymstoku lub Warszawie, do których to placówek akta sprawy odesłano po decyzji Rady Państwa (patrz [[Event-1953-Odmowa-ulaskawienia-nakaz-wykonania]]).
+Rejestr podaje dla obu skazanych identyczną datę wykonania wyroku (22.09.1953), co wskazuje na zbiorczą egzekucję nieułaskawionych współskazanych z procesu Sr.251/53. Miejsce wykonania wyroku nie jest podane w tym źródle. **Poszlaka zawężająca (SRC-073, skorowidz więźniów Aresztu Śledczego Warszawa-Mokotów)**: Parzonko opuścił Mokotów już 12.03.1953 r. z adnotacją "transp. więz. Białystok" — pół roku przed egzekucją — co czyni więzienie w **Białymstoku** znacznie bardziej prawdopodobnym miejscem wykonania wyroku niż Mokotów w Warszawie, choć wprost niepotwierdzone.
 
 Czwarty skazany z tego samego procesu, Józef Mościcki, prawdopodobnie podzielił ten sam los (brak jednak jego wpisu w przetworzonej części tego rejestru — do zweryfikowania). Wacław Zalewski, inny członek bandy "Huzara" wymieniony w tym samym rejestrze, został stracony miesiąc później (24.10.1953) — w ramach odrębnego postępowania.
 

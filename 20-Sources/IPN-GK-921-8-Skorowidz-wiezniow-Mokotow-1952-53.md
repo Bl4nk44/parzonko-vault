@@ -16,7 +16,7 @@ original_filename: "GK 921_8 spis wiezniow na P wiezienie moktowo 52-53.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/GK 921_8 spis wiezniow na P wiezienie moktowo 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-GK-921-8-Skorowidz-wiezniow-Mokotow-1952-53]]"
 reliability: "primary"
-ocr_quality: "dobra dla 1 z 3 stron (odczyt handwritingocr.com API, 2026-07-20); pozostałe 2 strony nieodczytane"
+ocr_quality: "dokument w pełni odczytany (3/3 str., dokończone bezpośrednim odczytem Claude 2026-08-26) — str.1 okładka teczki, str.2 karta informacyjna (aktotwórca: Areszt Śledczy Warszawa-Mokotów, ul. Rakowiecka 37), str.3 właściwy wpis (odczytany wcześniej przez API)"
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -59,5 +59,5 @@ Skorowidz alfabetyczny więźniów Aresztu Śledczego Warszawa-Mokotów z lat 19
 
 ## Uwagi o jakości i niepewności
 
-- 2 z 3 stron dokumentu wciąż nieodczytane (nie znalazły się w puli rękopisów DO_TLUMACZENIA_strony) — mogą zawierać dalsze istotne wpisy.
+- Pozostałe 2 strony (okładka + karta informacyjna) nie zawierały dalszych wpisów — tylko metadane teczki. Dokument wyczerpany.
 - **Zobacz Hipoteza robocza w [[IPN-Kartoteka-skazanych]]** — data transportu do Białegostoku tutaj (12.03.1953) różni się od daty przeniesienia podanej w karcie skazanych (23.03.1953, GR 16514/53). Nierozstrzygnięte.
