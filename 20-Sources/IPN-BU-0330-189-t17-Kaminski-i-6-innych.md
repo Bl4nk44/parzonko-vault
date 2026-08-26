@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 160
+pages: 80
 original_filename: "BU_0_330_189_t17.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t17.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t17-Kaminski-i-6-innych]]"

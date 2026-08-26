@@ -11,7 +11,7 @@ date_accuracy: "year"
 place_document: "Siedlce"
 language:
   - pl
-pages: 14
+pages: 7
 original_filename: "BU_0_330_189_t8 ZEZNANIA JAKUBIAK MARIA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t8 ZEZNANIA JAKUBIAK MARIA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t8-Zeznania-Jakubiak-Maria]]"

@@ -11,7 +11,7 @@ date_accuracy: "unknown"
 place_document: "Białystok"
 language:
   - pl
-pages: 1
+pages: 15
 original_filename: "Slady_historyczne_po_miejscach_pochowku_o___ar_powojennych_zbrodni_komunistycznych_na_przykladzie_Bialostocczyzny.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/Sharing from US###D/Slady_historyczne_po_miejscach_pochowku_o___ar_powojennych_zbrodni_komunistycznych_na_przykladzie_Bialostocczyzny.pdf"
 ocr_file: "[[80-Media/ocr/Slady-historyczne-miejsca-pochowku-ofiar-Zwolski]]"

@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 146
+pages: 73
 original_filename: "BU_0_330_189_t2 NOTATKI SŁUŻBOWE SPRAWA HUZARA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t2 NOTATKI SŁUŻBOWE SPRAWA HUZARA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t2-Notatki-sluzbowe-sprawa-Huzara]]"

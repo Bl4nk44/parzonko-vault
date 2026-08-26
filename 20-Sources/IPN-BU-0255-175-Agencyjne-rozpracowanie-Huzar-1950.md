@@ -11,7 +11,7 @@ date_accuracy: "year"
 place_document: "Węgrów"
 language:
   - pl
-pages: 10
+pages: 5
 original_filename: "BU_0_255_175 AGENCYJNE ROZPRACOWANIE DOT HUZAR 1950.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_255_175 AGENCYJNE ROZPRACOWANIE DOT HUZAR 1950.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0255-175-Agencyjne-rozpracowanie-Huzar-1950]]"

@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 122
+pages: 61
 original_filename: "BU_0_330_189_t5 ZEZNANIA ŁAPIŃSKI KAZIMIERZ, WACŁAW ZALEWSKI, KS. RAKOWSKI.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t5 ZEZNANIA ŁAPIŃSKI KAZIMIERZ, WACŁAW ZALEWSKI, KS. RAKOWSKI.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t5-Zeznania-Lapinski-Zalewski-Rakowski]]"

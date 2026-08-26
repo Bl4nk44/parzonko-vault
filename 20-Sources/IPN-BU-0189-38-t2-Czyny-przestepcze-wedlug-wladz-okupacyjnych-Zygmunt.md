@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 1
+pages: 4
 original_filename: "BU 0189_38 tom 2  CZYNY PRZESTEPCZE WEDLUG WŁADZ OKUPACYJNYCH, PS. ZYGMUNT.PDF"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 2/BU 0189_38 tom 2  CZYNY PRZESTEPCZE WEDLUG WŁADZ OKUPACYJNYCH, PS. ZYGMUNT.PDF"
 ocr_file: "[[80-Media/ocr/IPN-BU-0189-38-t2-Czyny-przestepcze-wedlug-wladz-okupacyjnych-Zygmunt]]"

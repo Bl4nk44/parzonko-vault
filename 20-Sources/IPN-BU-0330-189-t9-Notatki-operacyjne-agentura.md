@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa/Ostrów Mazowiecka"
 language:
   - pl
-pages: 154
+pages: 77
 original_filename: "BU_0_330_189_t9 NOTATKI OPERACYJNE, AGENTURA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t9 NOTATKI OPERACYJNE, AGENTURA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t9-Notatki-operacyjne-agentura]]"

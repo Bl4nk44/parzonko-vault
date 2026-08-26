@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 8
+pages: 4
 original_filename: "BU_1568_148 DEPOZYT HUZARA, 1 ZDJECIE ODDZIAŁU.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_1568_148 DEPOZYT HUZARA, 1 ZDJECIE ODDZIAŁU.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1568-148-Depozyt-Huzara-zdjecia-oddzialu]]"

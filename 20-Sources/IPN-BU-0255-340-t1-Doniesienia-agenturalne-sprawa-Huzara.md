@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa/Olsztyn"
 language:
   - pl
-pages: 218
+pages: 109
 original_filename: "BU_0_255_340_t1 DONIESIENIA AGENTURALNE SPRAWA HUZARA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_255_340_t1 DONIESIENIA AGENTURALNE SPRAWA HUZARA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0255-340-t1-Doniesienia-agenturalne-sprawa-Huzara]]"

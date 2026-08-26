@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Olsztyn"
 language:
   - pl
-pages: 4
+pages: 2
 original_filename: "Kartoteka tematyczna WUSW Olsztyn.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Kartoteka tematyczna WUSW Olsztyn.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Kartoteka-tematyczna-WUSW-Olsztyn]]"

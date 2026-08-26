@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa/Białystok"
 language:
   - pl
-pages: 652
+pages: 326
 original_filename: "Bi 07_433 tom 1 akta w sprawie ps Huzar.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Bi 07_433 tom 1 akta w sprawie ps Huzar.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-07-433-t1-Akta-Kaminski-Kazimierz-Huzar]]"

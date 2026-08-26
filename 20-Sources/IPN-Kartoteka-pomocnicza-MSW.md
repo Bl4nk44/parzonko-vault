@@ -11,7 +11,7 @@ date_accuracy: "day"
 place_document: "Warszawa"
 language:
   - pl
-pages: 4
+pages: 2
 original_filename: "Kartoteka pomocnicza MSW.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Kartoteka pomocnicza MSW.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Kartoteka-pomocnicza-MSW]]"

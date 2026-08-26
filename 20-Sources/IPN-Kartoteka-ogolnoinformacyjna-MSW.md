@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Białystok / Warszawa"
 language:
   - pl
-pages: 24
+pages: 12
 original_filename: "Kartoteka ogólnoinformacyjna MSW.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Kartoteka ogólnoinformacyjna MSW.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Kartoteka-ogolnoinformacyjna-MSW]]"

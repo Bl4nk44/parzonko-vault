@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Białystok"
 language:
   - pl
-pages: 130
+pages: 65
 original_filename: "Bi_212_5190 AKTA W SPRAWIE KUTYŁOWSKI FRANCISZEK.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/Bi_212_5190 AKTA W SPRAWIE KUTYŁOWSKI FRANCISZEK.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Bi-212-5190-Akta-sledcze-Kutylowski-Franciszek]]"

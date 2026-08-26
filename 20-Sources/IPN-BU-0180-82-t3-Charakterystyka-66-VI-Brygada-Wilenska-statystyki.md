@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Warszawa"
 language:
   - pl
-pages: 212
+pages: 106
 original_filename: "BU_0_180_82_t3 1979-1985 GRZYBOWSKI VI RYG WILENSKA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_180_82_t3 1979-1985 GRZYBOWSKI VI RYG WILENSKA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0180-82-t3-Charakterystyka-66-VI-Brygada-Wilenska-statystyki]]"

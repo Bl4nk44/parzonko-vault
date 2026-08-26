@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Siedlce"
 language:
   - pl
-pages: 224
+pages: 112
 original_filename: "BU_0_255_340_t2 NOTATKI OPERACYJNE, SPRAWOZDANIA, AGENTURA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_255_340_t2 NOTATKI OPERACYJNE, SPRAWOZDANIA, AGENTURA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0255-340-t2-Notatki-operacyjne-sprawozdania-agentura]]"

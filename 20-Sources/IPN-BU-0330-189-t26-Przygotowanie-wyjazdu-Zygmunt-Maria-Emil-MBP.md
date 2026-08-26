@@ -11,7 +11,7 @@ date_accuracy: "day"
 place_document: "Warszawa"
 language:
   - pl
-pages: 110
+pages: 55
 original_filename: "BU_0_330_189_t26 PRZYGOTOWANIE WYJAZDU PS ZYGMUNT PRZEZ MARIE I EMILA Z MBP.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t26 PRZYGOTOWANIE WYJAZDU PS ZYGMUNT PRZEZ MARIE I EMILA Z MBP.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t26-Przygotowanie-wyjazdu-Zygmunt-Maria-Emil-MBP]]"

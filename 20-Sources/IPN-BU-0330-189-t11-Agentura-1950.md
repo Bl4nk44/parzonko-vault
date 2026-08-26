@@ -11,7 +11,7 @@ date_accuracy: "year"
 place_document: "Bielsk Podlaski"
 language:
   - pl
-pages: 162
+pages: 81
 original_filename: "BU_0_330_189_t11 AGENTURA 1950.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t11 AGENTURA 1950.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t11-Agentura-1950]]"

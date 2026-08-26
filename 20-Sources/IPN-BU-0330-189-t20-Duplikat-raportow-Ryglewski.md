@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Białystok/Warszawa"
 language:
   - pl
-pages: 94
+pages: 47
 original_filename: "BU_0_330_189_t20.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t20.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t20-Duplikat-raportow-Ryglewski]]"

@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Ciechanowiec"
 language:
   - pl
-pages: 104
+pages: 52
 original_filename: "BU_0_330_189_t24.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t24.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t24-Notatka-agent-Kamien-pazdziernik-1952]]"

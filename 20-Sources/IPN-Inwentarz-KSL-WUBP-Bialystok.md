@@ -11,7 +11,7 @@ date_accuracy: "day"
 place_document: "Białystok"
 language:
   - pl
-pages: 2
+pages: 1
 original_filename: "Inwentarz materiałów KSL WUBP Białystok.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/Inwentarz materiałów KSL WUBP Białystok.pdf"
 ocr_file: "[[80-Media/ocr/IPN-Inwentarz-KSL-WUBP-Bialystok]]"

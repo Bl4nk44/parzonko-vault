@@ -11,7 +11,7 @@ date_accuracy: "range"
 place_document: "Wysokie Mazowieckie/Ciechanowiec"
 language:
   - pl
-pages: 208
+pages: 104
 original_filename: "BU_0_330_189_t14.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t14.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t14-Plany-raporty-meldunki-telefonogramy-wykazy]]"

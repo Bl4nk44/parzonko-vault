@@ -11,7 +11,7 @@ date_accuracy: "year"
 place_document: "Warszawa"
 language:
   - pl
-pages: 158
+pages: 79
 original_filename: "BU_0_297_24_t2 OPRACOWANIE PIOTROWSKI KAZIMIERZ 1972.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_297_24_t2 OPRACOWANIE PIOTROWSKI KAZIMIERZ 1972.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0297-24-t2-Opracowanie-Piotrowski-Kazimierz-1972]]"

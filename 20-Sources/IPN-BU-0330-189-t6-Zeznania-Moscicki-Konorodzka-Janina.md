@@ -11,7 +11,7 @@ date_accuracy: "year"
 place_document: "Warszawa/Siedlce"
 language:
   - pl
-pages: 468
+pages: 234
 original_filename: "BU_0_330_189_t6 ZEZNANIA MOŚCICKI, KONORODZKA JANINA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA PARZONKO 3/BU_0_330_189_t6 ZEZNANIA MOŚCICKI, KONORODZKA JANINA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0330-189-t6-Zeznania-Moscicki-Konorodzka-Janina]]"

@@ -11,7 +11,7 @@ date_accuracy: "year"
 place_document: "Białystok/Ciechanowiec"
 language:
   - pl
-pages: 134
+pages: 67
 original_filename: "BU_0_255_340_t3 RAPORTY NT AGENCYJNEGO ROZPRACOWANIA.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO 4/BU_0_255_340_t3 RAPORTY NT AGENCYJNEGO ROZPRACOWANIA.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-0255-340-t3-Raporty-nt-agencyjnego-rozpracowania]]"
