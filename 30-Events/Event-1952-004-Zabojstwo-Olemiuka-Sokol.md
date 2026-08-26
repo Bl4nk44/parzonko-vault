@@ -6,7 +6,7 @@ title: "Zabójstwo Olemiuka Henryka ps. \"Sokół\" przez własną bandę pod po
 event_type: "zabójstwo"
 date: "1952-08-22"
 date_accuracy: "day"
-place: null
+place: "PLACE-038"
 main_person: "PERSON-003"
 people_involved:
   - "PERSON-001"
@@ -16,7 +16,7 @@ people_involved:
 category: "homicide"
 sources:
   - "SRC-095#p155-162"
-  - "IPN-BU-0330-189-t4#p44-46"
+  - "SRC-118#p44-46"
 certainty: "high"
 tags:
   - timeline
@@ -45,6 +45,10 @@ We wrześniu 1952 wojsko odkryło i rozbito bunkier w lesie Obryczyzna, konfisku
 - [[Person-Radziszewski-Kazimierz-Marynarz]] — wykonawca
 - [[Person-Parzonko-Kazimierz-Zygmunt]] — zgoda na wykonanie, obecny
 - [[Person-Kostro-Jozef-Kropki]], [[Person-Moscicki-Jozef-Pantera]] — współuczestnicy decyzji, nieobecni przy samym strzale
+
+## Miejsce
+
+Las Obryczyzna koło wsi [[Place-Kobyla]] i Pełch, gm. Ciechanowiec/Perlejewo.
 
 ## Źródła
 

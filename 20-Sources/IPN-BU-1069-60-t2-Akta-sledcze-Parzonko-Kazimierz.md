@@ -30,6 +30,7 @@ people_mentioned:
   - "PERSON-092"
 places_mentioned:
   - "PLACE-034"
+  - "PLACE-038"
 organizations_mentioned: []
 related_events:
   - "EVENT-1946-002"
