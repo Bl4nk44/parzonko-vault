@@ -3,14 +3,14 @@ type: event
 uid: "EVENT-1951-005"
 event_id: "EVENT-1951-005"
 title: "Zamach na Sejbuka Jana"
-event_type: "napad/zamach"
 date: "1951-08-11"
 date_accuracy: "day"
 place: "PLACE-027"
+main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"
-main_person_role: "sprawca"
-key_sources:
+category: "other"
+sources:
   - "SRC-096"
 certainty: "medium"
 tags:

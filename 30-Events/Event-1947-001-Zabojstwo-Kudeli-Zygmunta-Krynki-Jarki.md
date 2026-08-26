@@ -3,14 +3,14 @@ type: event
 uid: "EVENT-1947-001"
 event_id: "EVENT-1947-001"
 title: "Zabójstwo kpr. MO Zygmunta Kudeli"
-event_type: "zabójstwo"
 date: "1947-10-28"
 date_accuracy: "day"
 place: "PLACE-030"
+main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"
-main_person_role: "sprawca"
-key_sources:
+category: "homicide"
+sources:
   - "SRC-104"
 certainty: "medium"
 tags:

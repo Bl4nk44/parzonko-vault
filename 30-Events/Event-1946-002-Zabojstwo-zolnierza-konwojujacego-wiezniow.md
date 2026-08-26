@@ -3,14 +3,14 @@ type: event
 uid: "EVENT-1946-002"
 event_id: "EVENT-1946-002"
 title: "Zabójstwo żołnierza WP podczas ucieczki z konwoju"
-event_type: "zabójstwo"
 date: "1946"
 date_accuracy: "year"
 place: null
+main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"
-main_person_role: "sprawca"
-key_sources:
+category: "homicide"
+sources:
   - "SRC-126"
   - "SRC-079"
   - "SRC-095"

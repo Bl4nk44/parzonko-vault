@@ -3,14 +3,14 @@ type: event
 uid: "EVENT-1950-002"
 event_id: "EVENT-1950-002"
 title: "Zabójstwo Niedziołko Józefa i jego żony"
-event_type: "zabójstwo"
 date: "1950-07-19"
 date_accuracy: "day"
 place: "PLACE-029"
+main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"
-main_person_role: "podejrzany sprawca"
-key_sources:
+category: "homicide"
+sources:
   - "SRC-103"
   - "SRC-087"
 certainty: "medium"

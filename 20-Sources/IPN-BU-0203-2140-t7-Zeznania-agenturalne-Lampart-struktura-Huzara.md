@@ -30,6 +30,7 @@ people_mentioned:
   - "PERSON-054"
   - "PERSON-046"
   - "PERSON-047"
+places_mentioned: []
 organizations_mentioned:
   - "1-sza Brygada Podlaska"
 related_events: []
