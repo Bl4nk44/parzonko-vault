@@ -10,7 +10,7 @@ Lista kilkunastu osób (Zawadzki Czesław, Kadłubowski Zygmunt, Kuryś Aleksand
 
 > "Do w/w Czarnowski w m-cu lipcu 1952 r. dwukrotnie dostarczał listy od 'Huzara' celem dołączenia ich Parzonce Kazimierzowi ps. 'Zygmunt'."
 
-Łańcuch łączności: Huzar → Olędzki Bronisław → Czarnowski Czesław ps. "Grek" ([[Person-Czarnowski-Czeslaw-Grek]]) → Włastowski Witold (lub jego ojciec) → Parzonko. Wymienia też Dominika Jerzego jako odbiorcę pośredniego.
+Łańcuch łączności: Huzar → Olędzki Bronisław → Czarnowski Czesław ps. "Grek" ([[Person-Czarnowski-Czeslaw]]) → Włastowski Witold (lub jego ojciec) → Parzonko. Wymienia też Dominika Jerzego jako odbiorcę pośredniego.
 
 > "Ogółem w okresie od 1.IV.52 r. do dnia 15.IX.52 r. aresztowano po bandzie 'Huzara' i 'Zygmunta' [...] 118 osób, z tego zwolniono 22 osoby, oddano pod sąd 96 osób."
 

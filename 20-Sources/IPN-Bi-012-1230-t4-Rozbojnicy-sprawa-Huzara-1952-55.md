@@ -23,7 +23,7 @@ people_mentioned:
   - "PERSON-002"
   - "PERSON-003"
   - "PERSON-019"
-  - "PERSON-073"
+  - "PERSON-026"
   - "PERSON-040"
 places_mentioned: []
 organizations_mentioned: []
@@ -43,7 +43,7 @@ Ostatni tom serii "Rozbójnicy" (obok już przetworzonych t1 — SRC-087, t3 —
 ## Najważniejsze ustalenia
 
 - **Fala aresztowań**: od 1.04.1952 do 15.09.1952 aresztowano 118 osób związanych ze sprawą "Huzara"/"Zygmunta", z czego 22 zwolniono, 96 oddano pod sąd.
-- **Łańcuch kurierski Huzar→Parzonko** (lipiec 1952): Huzar → łączniczka "Maria" / Olędzki Bronisław → Czarnowski Czesław ps. "Grek" ([[Person-Czarnowski-Czeslaw-Grek]]) → Włastowski Witold → Parzonko.
+- **Łańcuch kurierski Huzar→Parzonko** (lipiec 1952): Huzar → łączniczka "Maria" / Olędzki Bronisław → Czarnowski Czesław ps. "Grek" ([[Person-Czarnowski-Czeslaw]]) → Włastowski Witold → Parzonko.
 - **Potwierdzenie ustalonej daty urodzenia Parzonki**: karta agenturalna (str. 30) podaje "ur. 28.II.1922 r." — zgodne z głównym, dobrze ugruntowanym ustaleniem korpusu, wbrew wielu prowincjonalnym kartom administracyjnym podającym rok 1920.
 - **Nowy szczegół chronologii Mościckiego**: od 1949 do 1950 ukrywał się, od 1951 r. członek bandy "Zygmunta".
 - Liczni nowi, drobni meliniarze w rejonach Wilkowo (gm. Poświętne) i Niemyje Stare (gm. Rudka) — udokumentowani w OCR, bez osobnych notatek ze względu na ich liczbę.
@@ -57,7 +57,7 @@ Ostatni tom serii "Rozbójnicy" (obok już przetworzonych t1 — SRC-087, t3 —
 
 - [[Person-Parzonko-Kazimierz-Zygmunt]] — data urodzenia potwierdzona
 - [[Person-Moscicki-Jozef-Pantera]] — nowy szczegół chronologii
-- [[Person-Czarnowski-Czeslaw-Grek]] — łącznik
+- [[Person-Czarnowski-Czeslaw]] — łącznik
 
 ## Tekst źródłowy
 
