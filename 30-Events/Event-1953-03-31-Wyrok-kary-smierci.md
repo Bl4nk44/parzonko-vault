@@ -10,6 +10,8 @@ main_person: "PERSON-001"
 people_involved:
   - "PERSON-001"
   - "PERSON-003"
+  - "PERSON-011"
+  - "PERSON-019"
 category: "sentencing"
 sources:
   - "SRC-001#p11"

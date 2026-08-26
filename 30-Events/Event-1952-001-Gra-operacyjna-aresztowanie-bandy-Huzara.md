@@ -14,6 +14,8 @@ people_involved:
   - "PERSON-003"
   - "PERSON-019"
   - "PERSON-011"
+  - "PERSON-037"
+  - "PERSON-085"
 category: "arrest"
 sources:
   - "SRC-024#p47-48"
