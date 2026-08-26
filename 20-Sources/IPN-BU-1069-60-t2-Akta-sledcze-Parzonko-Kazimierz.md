@@ -11,12 +11,12 @@ date_accuracy: "day"
 place_document: "Warszawa"
 language:
   - pl
-pages: 792
+pages: 396
 original_filename: "BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 original_path: "/home/ubuntu/projekty/Parzonko/KWERENDA IPN PARZONKO/BU 1069_60 tom 2  AKTA W SPRAWIE KAZIMIERZA PARZONKO 52-53.pdf"
 ocr_file: "[[80-Media/ocr/IPN-BU-1069-60-t2-Akta-sledcze-Parzonko-Kazimierz]]"
 reliability: "primary"
-ocr_quality: "dobra dla 244 z 244 stron dostępnych w puli rękopisów (odczyt handwritingocr.com API, 2026-07-20/21, ZAKOŃCZONY); reszta 792-stronicowego tomu poza tą pulą nieodczytana"
+ocr_quality: "KOREKTA 2026-08-26: dokument ma faktycznie 396 stron (potwierdzone pdfinfo), nie 792 jak wcześniej błędnie zapisano — pomyłka, prawdopodobnie ze stemplem archiwalnym innej, połączonej jednostki (str.1 dokumentu nosi stempel '1 z 476', czyli inny, trzeci błędny licznik — żaden z tych numerów nie odpowiada rzeczywistej liczbie stron tego pliku PDF). Wszystkie 396 stron mają już OCR: 244 przez handwritingocr.com API (dobra jakość, ZAKOŃCZONE), pozostałe 152 przez tesseract, w pełni przeszukane grep-sweep (wąski + szeroki, 2026-08-26) — dokument uznać za wyczerpany pod kątem wzmianek o głównym bohaterze i śledzonych postaciach; dalszy postęp wymagałby wybiórczego vision OCR pojedynczych stron bez trafień słów kluczowych."
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
@@ -46,7 +46,7 @@ tags:
 
 ## Opis dokumentu
 
-792-stronicowy tom śledczy (sygn. SR-251/53-T-II). **PRZEŁOM 2026-07-20**: 20 z 244 stron dostępnych w puli rękopisów odczytane przez API handwritingocr.com — **własne zeznania Kazimierza Parzonki z grudnia 1952 r., najważniejsze pierwszoosobowe źródło biograficzne w całym korpusie**. Praca w toku — 224 strony z tej puli i reszta z 792-stronicowego tomu wciąż priorytet dalszej transkrypcji.
+396-stronicowy tom śledczy (sygn. SR-251/53-T-II; wcześniej błędnie zapisywano "792 str." — skorygowane 2026-08-26, patrz `ocr_quality`). **PRZEŁOM 2026-07-20**: 244 z 244 stron dostępnych w puli rękopisów odczytane przez API handwritingocr.com — **własne zeznania Kazimierza Parzonki z grudnia 1952 r., najważniejsze pierwszoosobowe źródło biograficzne w całym korpusie**. Pozostałe 152 strony poza pulą przeszukane grep-sweep (2026-08-26) — dokument uznać za wyczerpany.
 
 ## Najważniejsze ustalenia
 
@@ -74,8 +74,8 @@ tags:
 - **Piąte kluczowe własne zeznanie — Zalewski Wacław ps. "Zbyszek"/"Zbynek" oraz (str. 324-333) najprawdopodobniej samego Kamieńskiego Kazimierza ps. "Huzar"**: NAJBARDZIEJ BEZPOŚREDNIE potwierdzenie składu "patrolu Zygmunta" (Parzonko, Radziszewski "Marynarz", Kostro "Paweł", Mościcki "Pantera") z ust samego dowódcy bandy. Dziesiątki nowych pseudonimów i kilkanaście dotąd nieudokumentowanych ofiar/napadów z lat 1945-1952 — patrz OCR str. 310-333.
 - **NOWE, wcześniej niedokumentowane zabójstwo**: Tymosiak Franciszek, uprowadzony i znaleziony powieszonym w lesie koło majątku "Józefin" — jednoźródłowa, fragmentaryczna wzmianka (str. 269), niska pewność — nowa notatka [[Event-1951-006-Zabojstwo-Tymosiaka]].
 - **Formalny akt oskarżenia z 13.06.1953 r.** (str. 377-395) przeciwko czterem oskarżonym — niezależne, oficjalne podsumowanie całej sprawy, zbieżne (nie sprzeczne) z materiałem własnych zeznań już przetworzonym.
-- **Odczyt tej puli rękopisów (244/244 stron) ZAKOŃCZONY.** Reszta 792-stronicowego tomu poza tą pulą pozostaje nieodczytana.
-- **2026-08-26, przeszukanie tesseract po słowach kluczowych poza pulą rękopisów**: str. 359-367, 373 — kolejna, systematyczna narracja całej kariery przestępczej Parzonki (chronologiczne streszczenie zbieżne z już przetworzonym materiałem, prawdopodobnie fragment innej kopii/wersji aktu oskarżenia lub uzasadnienia w tym samym tomie). **Trzecia już wewnątrz-korpusowa wzmianka zarzutu "Miecz i Pług" zorganizowanego przez gestapo** (str. 359) — obok SRC-133 (relacja prasowa) i SRC-092 (uzasadnienie wyroku) — ale to wciąż ten sam aparat prokuratorsko-sądowy PRL, nie niezależne źródło; nie zmienia statusu "zarzut, nie fakt" (patrz [[Person-Parzonko-Kazimierz-Zygmunt]]). Str. 373 — wykaz osób wzywanych na rozprawę, zgodny z już znanymi danymi współoskarżonych. Drugi przebieg (grep-sweep szerszymi słowami kluczowymi — huzar/kaminski/radzisz/kostro/moscick/krynsk/grodzk/lampart/zalewski/bialowas, 152 nieprzeczytane strony poza pulą rękopisów): 16 dodatkowych trafień, w większości spis dokumentów (str. 5-7) i dalszy ciąg tej samej narracji aktu oskarżenia (str. 368-372, dane osobowe współoskarżonych — zgodne z już ustalonymi). Reszta 792-stronicowego tomu (bez trafień żadnych słów kluczowych, ok. 620 stron) nieprzejrzana — brak tesseract dla większości, wymagałoby vision OCR.
+- **Odczyt tej puli rękopisów (244/244 stron) ZAKOŃCZONY.** Pozostałe 152 strony tomu (poza tą pulą) mają tesseract, w pełni przeszukany grep-sweep — patrz niżej.
+- **2026-08-26, przeszukanie tesseract po słowach kluczowych poza pulą rękopisów**: str. 359-367, 373 — kolejna, systematyczna narracja całej kariery przestępczej Parzonki (chronologiczne streszczenie zbieżne z już przetworzonym materiałem, prawdopodobnie fragment innej kopii/wersji aktu oskarżenia lub uzasadnienia w tym samym tomie). **Trzecia już wewnątrz-korpusowa wzmianka zarzutu "Miecz i Pług" zorganizowanego przez gestapo** (str. 359) — obok SRC-133 (relacja prasowa) i SRC-092 (uzasadnienie wyroku) — ale to wciąż ten sam aparat prokuratorsko-sądowy PRL, nie niezależne źródło; nie zmienia statusu "zarzut, nie fakt" (patrz [[Person-Parzonko-Kazimierz-Zygmunt]]). Str. 373 — wykaz osób wzywanych na rozprawę, zgodny z już znanymi danymi współoskarżonych. Drugi przebieg (grep-sweep szerszymi słowami kluczowymi — huzar/kaminski/radzisz/kostro/moscick/krynsk/grodzk/lampart/zalewski/bialowas, 152 nieprzeczytane strony poza pulą rękopisów): 16 dodatkowych trafień, w większości spis dokumentów (str. 5-7) i dalszy ciąg tej samej narracji aktu oskarżenia (str. 368-372, dane osobowe współoskarżonych — zgodne z już ustalonymi). Cały tom (396/396 str.) ma już tesseract i został przeszukany oboma przebiegami grep — **dokument wyczerpany** pod kątem wzmianek o głównym bohaterze i śledzonych postaciach drugoplanowych.
 - Str. 1, 335 (tesseract) — karty tytułowe/adresowe bez nowej treści merytorycznej.
 
 ## Osoby
@@ -107,5 +107,5 @@ tags:
 
 ## Uwagi o jakości i niepewności
 
-- **Praca w toku**: 224 z 244 stron dostępnych w puli rękopisów jeszcze nieodczytane, plus reszta z 792-stronicowego tomu poza tą pulą. Najwyższy priorytet dla kontynuacji.
+- **Dokument w pełni przetworzony** (244/244 stron przez API + 152/152 pozostałych stron przez grep-sweep tesseract, 2026-08-26) — patrz skorygowana liczba stron (396, nie 792) w `ocr_quality`.
 - Nazwisko przesłuchiwanego zapisywane w API w licznych zniekształconych wariantach (Pomouko, Parocha, Poruczko, Paronko, Panowko, Piorunko, Pawronko, Pomianko, Pomocko, Parosiko) — jednoznacznie ta sama osoba (Kazimierz Parzonko) dzięki spójnym danym osobowym i treści zeznania.
