@@ -32,7 +32,9 @@ people_mentioned:
   - "PERSON-093"
 places_mentioned: []
 organizations_mentioned: []
-related_events: []
+related_events:
+  - "EVENT-1949-003"
+
 tags:
   - type/source
   - source/ipn

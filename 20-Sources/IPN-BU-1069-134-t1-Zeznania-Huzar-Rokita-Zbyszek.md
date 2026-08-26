@@ -27,7 +27,9 @@ people_mentioned:
   - "PERSON-092"
 places_mentioned: []
 organizations_mentioned: []
-related_events: []
+related_events:
+  - "EVENT-1950-001"
+
 tags:
   - type/source
   - source/ipn

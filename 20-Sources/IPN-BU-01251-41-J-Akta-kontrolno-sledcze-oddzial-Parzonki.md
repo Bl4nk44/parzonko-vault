@@ -46,6 +46,7 @@ related_events:
   - "EVENT-1951-006"
   - "EVENT-1950-001"
   - "EVENT-1951-001"
+  - "EVENT-1952-001"
 tags:
   - type/source
   - source/ipn

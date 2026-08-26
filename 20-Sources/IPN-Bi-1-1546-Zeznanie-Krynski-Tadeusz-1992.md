@@ -23,7 +23,9 @@ people_mentioned:
 places_mentioned: []
 organizations_mentioned:
   - "Główna Komisja Badania Zbrodni przeciwko Narodowi Polskiemu"
-related_events: []
+related_events:
+  - "EVENT-1952-001"
+
 tags:
   - type/source
   - source/ipn

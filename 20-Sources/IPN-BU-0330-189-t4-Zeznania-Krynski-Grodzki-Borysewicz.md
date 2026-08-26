@@ -30,6 +30,7 @@ places_mentioned:
 organizations_mentioned: []
 related_events:
   - "EVENT-1952-001"
+  - "EVENT-1952-004"
 tags:
   - type/source
   - source/ipn

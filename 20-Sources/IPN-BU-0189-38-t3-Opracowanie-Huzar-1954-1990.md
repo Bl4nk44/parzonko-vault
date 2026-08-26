@@ -34,6 +34,10 @@ organizations_mentioned: []
 related_events:
   - "EVENT-1951-002"
   - "EVENT-1951-001"
+  - "EVENT-1950-001"
+  - "EVENT-1951-003"
+  - "EVENT-1951-004"
+  - "EVENT-1952-001"
 tags:
   - type/source
   - source/ipn

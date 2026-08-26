@@ -28,7 +28,9 @@ people_mentioned:
 places_mentioned: []
 organizations_mentioned:
   - "Prokuratura Wojewódzka w Białymstoku"
-related_events: []
+related_events:
+  - "EVENT-1951-001"
+
 tags:
   - type/source
   - source/ipn
