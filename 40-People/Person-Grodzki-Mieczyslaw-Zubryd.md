@@ -15,12 +15,13 @@ aliases:
 gender: "M"
 birth_date: "1914-11-23"
 birth_date_accuracy: "day"
-birth_place: null
+birth_place: "Wyszonki-Wypychy"
 death_date: null
 death_date_accuracy: "unknown"
 death_place: null
 nationality: "polska"
-occupation: []
+occupation:
+  - "rzeźnik"
 roles:
   - "członek bandy \"Huzara\", dowódca jednego z \"patroli\", ps. \"Żubryt\"/\"Zubryd\""
 related_to_main_person: "associate"
@@ -47,7 +48,7 @@ tags:
 
 ## Podsumowanie
 
-Mieczysław Grodzki, s. Bronisława, ur. 23.11.1914 r., ps. "Żubryt"/"Zubryd", posługujący się też fałszywymi personaliami (Zdanowicz Mieczysław, Pawłowski Józef) oraz fałszywym świadectwem tożsamości na nazwisko Wojtkowski Henryk (1945-1949). Członek bandy "Huzara", dowódca jednego z jej "patroli". Wielokrotnie wzmiankowany w korpusie jako uczestnik wspólnych akcji z Parzonką (m.in. kwaterowanie u Gierałtowskiego Eugeniusza w Kostry-Noski, marzec 1952 — patrz [[Person-Gieraltowski-Eugeniusz]]), ale dotąd nie miał własnej notatki. Akta jego własnej sprawy (Sr.216/53) ujawniają samodzielną, obszerną listę zarzutów: zastrzelenie konwojującego go żołnierza WP (lato 1946), udział w zabójstwie działacza PZPR Kogłowskiego Eugeniusza (26.10.1949), napad na leśniczego Moczulskiego Bronisława (11.03.1950, 44 000 zł), zabójstwo sołtysa Koca Bartłomieja (4.10.1950 — **sprzeczne z ustaloną wersją, patrz niepewności**), udział w napadzie w Zajęcznikach (30.04.1951) z zabójstwem Burzyńskiego Aleksandra, zabójstwo Jasińskiego Franciszka w Przybyszynie (30.07.1952), udział w ataku na żołnierzy WP pod Skórcem (koniec stycznia 1951, trzej zabici), oraz podżeganie Radziszewskiego do zabójstwa "niepewnego" członka bandy Olendziuka Henryka (sierpień 1952).
+Mieczysław Grodzki, s. Bronisława, ur. 23.11.1914 r., ps. "Żubryt"/"Zubryd", posługujący się też fałszywymi personaliami (Zdanowicz Mieczysław, Pawłowski Józef) oraz fałszywym świadectwem tożsamości na nazwisko Wojtkowski Henryk (1945-1949). Członek bandy "Huzara", dowódca jednego z jej "patroli". Wielokrotnie wzmiankowany w korpusie jako uczestnik wspólnych akcji z Parzonką (m.in. kwaterowanie u Gierałtowskiego Eugeniusza w Kostry-Noski, marzec 1952 — patrz [[Person-Gieraltowski-Eugeniusz]]), ale dotąd nie miał własnej notatki. Akta jego własnej sprawy (Sr.216/53) ujawniają samodzielną, obszerną listę zarzutów: zastrzelenie konwojującego go żołnierza WP (lato 1946), udział w zabójstwie działacza PZPR Kogłowskiego Eugeniusza (26.10.1949), napad na leśniczego Moczulskiego Bronisława (11.03.1950, 44 000 zł), zabójstwo sołtysa Koca Bartłomieja (4.10.1950 — **sprzeczne z ustaloną wersją, patrz niepewności**), udział w napadzie w Zajęcznikach (30.04.1951) z zabójstwem Burzyńskiego Aleksandra, zabójstwo Jasińskiego Franciszka w Przybyszynie (30.07.1952), udział w ataku na żołnierzy WP pod Skórcem (koniec stycznia 1951, trzej zabici), uduszenie sznurem komendanta posterunku MO Piotra Sawickiego (zwłoki zakopane w lesie koło Nowych Zoch, na polecenie "Huzara", razem z zastrzeleniem ob. Bobrowskiego przez Niemyjskiego "Krakusa" — SRC-091), oraz podżeganie Radziszewskiego do zabójstwa "niepewnego" członka bandy Olendziuka Henryka (sierpień 1952). Skazany na karę śmierci w procesie Sr.216/53 (listopad 1952) — patrz niepewności.
 
 ## Dane podstawowe
 
@@ -84,6 +85,7 @@ Mieczysław Grodzki, s. Bronisława, ur. 23.11.1914 r., ps. "Żubryt"/"Zubryd", 
 
 - **Sprzeczność co do zabójcy Koca Bartłomieja**: SRC-046 (str. 23, zarzuty wobec Grodzkiego) przypisuje zabójstwo bezpośrednio Grodzkiemu ("wystrzałem z pistoletu automatycznego pozbawił życia sołtysa Koca Bartłomieja"), podczas gdy ten sam dokument (str. 21, odpis zarzutów wobec Radziszewskiego) oraz wcześniej ustalone [[Event-1950-001-Zabojstwo-Koca-Piatki-Zebry]] (na podstawie SRC-015) przypisują to zabójstwo Parzonce (żonę Stefanię — Kostrze). **Sprzeczność wewnątrz jednego zestawu dokumentów sądowych, nierozstrzygnięta** — możliwe, że obaj byli obecni i któryś opis uproszczono, lub błąd redakcyjny w jednym z odpisów.
 - **Wariant imienia ofiary**: SRC-046 podaje "Lejzerowicza **Mikołaja**", podczas gdy korpus dotąd konsekwentnie ustalił imię "Michał" ([[Person-Lejzerowicz-Michal]]) — odnotowane jako otwarte pytanie w notatce ofiary.
+- **Dane osobowe i skazanie w procesie Sr.216/53 (SRC-091, str. 159, 162, grep-sweep tesseract 2026-08-26)**: pełne dane z aktu oskarżenia pierwszego procesu — "Grodzki Mieczysław ps. 'Kazimierz'/'Żubryd', s. Bronisława, ur. 23.11.1914 r. we wsi **Wyszonki-Wypychy**" (dotąd nieznane miejsce urodzenia), pochodzenie chłopskie, wykształcenie podstawowe, z zawodu **rzeźnik** — do 1929 r. mieszkał w Białymstoku, pracując w rzeźni miejskiej, bez działalności politycznej. **Rozstrzyga wariant pseudonimu "Kazimierz"** (SRC-086) — to nie sprzeczność, oba pseudonimy ("Kazimierz" i "Żubryd") figurują razem w tym samym oficjalnym zapisie. Wyrokiem tego procesu skazany **na karę śmierci, utratę praw na zawsze i przepadek mienia** (str. 162, razem z Zalewskim Wacławem) — wypełnia częściowo lukę "dalsze losy nieznane", choć nieznane pozostaje, czy wyrok wykonano (por. poniższa ucieczka do NRD, chronologicznie **wcześniejsza** niż ten proces, co sugeruje że został złapany/ekstradowany przed wyrokiem lub osądzony zaocznie).
 - **Próba ucieczki na Zachód (SRC-091, str. 211, odczyt tesseract 2026-08-26)**: po zatrzymaniu głównej grupy "Zygmunta"/"Huzara" w Warszawie (operacja "Rytel") Grodzki "wyjechał do Szczecina, gdzie przekroczył granicę do NRD, z zamiarem przedostania się do Niemiec Zachodnich" — został aresztowany w NRD, gdyż "pozostawał pod obserwacją naszych organów". Wypełnia dotychczasową lukę "dalsze losy nieznane" — data zdarzenia nieprecyzyjna (dokument obejmuje okres do 1955 r., prawdopodobnie schyłek 1952 r., zbieżny z falą aresztowań reszty bandy). Dalszy los po aresztowaniu w NRD (ekstradycja, wyrok) nieustalony.
 - Dalsze losy Grodzkiego (wyrok, data śmierci) nieznane w obecnie przetworzonej części korpusu — akta obejmują lata 1946-1967, sugerując możliwy dłuższy proces sądowy/rewizyjny nieprzetworzony w tym cyklu.
 - **Kolejny wariant pseudonimu "Ukryty"/"Ubryty" (SRC-030, akt oskarżenia Gierałtowskiego)** — obok już odnotowanych "Marian"/"Marjan" i ustalonego "Żubryd"/"Żubryt" — pseudonim tej osoby wyjątkowo niespójny w źródłach, nierozstrzygnięte.
