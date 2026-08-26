@@ -8,6 +8,8 @@ date_accuracy: "month"
 place: null
 main_person: "PERSON-001"
 people_involved:
+  - "PERSON-001"
+  - "PERSON-051"
   - "PERSON-093"
 category: "homicide"
 sources:

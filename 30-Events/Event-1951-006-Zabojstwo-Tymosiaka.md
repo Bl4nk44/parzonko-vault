@@ -8,6 +8,9 @@ date_accuracy: "day"
 place: "PLACE-035"
 main_person: "PERSON-001"
 people_involved:
+  - "PERSON-001"
+  - "PERSON-003"
+  - "PERSON-059"
   - "PERSON-086"
 category: "homicide"
 sources:
