@@ -22,7 +22,7 @@ people_mentioned:
   - "PERSON-001"
   - "PERSON-035"
 places_mentioned:
-  - "PLACE-018"
+  - "PLACE-003"
 organizations_mentioned:
   - "Wojewódzki Urząd Spraw Wewnętrznych w Białymstoku"
   - "5. Brygada Wileńska AK"
