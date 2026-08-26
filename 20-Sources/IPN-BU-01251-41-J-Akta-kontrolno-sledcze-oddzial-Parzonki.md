@@ -30,6 +30,9 @@ people_mentioned:
   - "PERSON-089"
   - "PERSON-090"
   - "PERSON-091"
+  - "PERSON-024"
+  - "PERSON-068"
+  - "PERSON-092"
 places_mentioned: []
 organizations_mentioned: []
 related_events:

@@ -18,7 +18,8 @@ ocr_file: "[[80-Media/ocr/IPN-Bi-07-1522-t2-Materialy-dot-Lupaszki-Bialystok]]"
 reliability: "primary"
 ocr_quality: "zróżnicowana (str. 6-8, 21-26: dobra; pozostałe: średnia do słabej, liczne luki)"
 main_person: "PERSON-001"
-people_mentioned: []
+people_mentioned:
+  - "PERSON-001"
 places_mentioned:
   - "PLACE-001"
 organizations_mentioned:

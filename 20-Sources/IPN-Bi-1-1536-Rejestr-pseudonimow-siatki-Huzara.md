@@ -25,6 +25,8 @@ people_mentioned:
   - "PERSON-019"
   - "PERSON-051"
   - "PERSON-058"
+  - "PERSON-024"
+  - "PERSON-037"
 places_mentioned: []
 organizations_mentioned: []
 related_events: []

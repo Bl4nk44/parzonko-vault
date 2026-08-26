@@ -27,3 +27,4 @@ Wieś w rejonie Lidzbarka Warmińskiego lub Braniewa (woj. olsztyńskie) — u n
 ## Niepewności i sprzeczności
 
 - Dokładny powiat (Lidzbark czy Braniewo) niejednoznaczny w źródle ("we wsi Migoń, pow. Lidzbark, albo Braniewo").
+- **Współrzędne nieustalone (2026-08-26)**: wieś o nazwie "Migoń" nie została odnaleziona w żadnym sprawdzonym źródle geograficznym (Wikipedia, Encyklopedia Warmii i Mazur) dla woj. warmińsko-mazurskiego ani dla całej Polski. Możliwa pomyłka odczytu/transkrypcji zeznania świadka — najbliższa fonetycznie i geograficznie pasująca, potwierdzona istniejąca miejscowość to **Mingajny** (wieś w Warmii, encyklopedia.warmia.mazury.pl), ale to niepotwierdzona hipoteza, nie ustalenie — nie nadawać współrzędnych bez dalszej weryfikacji (np. mapa administracyjna pow. lidzbarskiego/braniewskiego sprzed 1975 r.).

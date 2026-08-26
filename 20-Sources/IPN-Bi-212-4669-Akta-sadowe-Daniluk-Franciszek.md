@@ -20,6 +20,7 @@ ocr_quality: "dobra — cały dokument (45/45 str.) przeczytany 2026-07-21 przez
 main_person: "PERSON-022"
 people_mentioned:
   - "PERSON-022"
+  - "PERSON-012"
 places_mentioned: []
 organizations_mentioned:
   - "Wojskowy Sąd Rejonowy w Białymstoku"

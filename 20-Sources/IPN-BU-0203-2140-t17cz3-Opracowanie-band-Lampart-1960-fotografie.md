@@ -22,6 +22,7 @@ people_mentioned:
   - "PERSON-001"
   - "PERSON-003"
   - "PERSON-037"
+  - "PERSON-077"
 places_mentioned: []
 organizations_mentioned: []
 related_events: []

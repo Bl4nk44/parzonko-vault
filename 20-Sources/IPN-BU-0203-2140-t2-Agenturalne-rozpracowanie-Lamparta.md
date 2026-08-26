@@ -18,7 +18,9 @@ ocr_file: "[[80-Media/ocr/IPN-BU-0203-2140-t2-Agenturalne-rozpracowanie-Lamparta
 reliability: "requires-review"
 ocr_quality: "dobra — cały dokument (25/25 str.) przeczytany 2026-07-21 przez Claude/subagenta. UWAGA: dotyczy odrębnej bandy 'Lamparta' pow. siedleckiego z WŁASNYMI, innymi osobami ps. 'Zygmunt'/'Pantera' — nie mylić z Parzonko/Mościckim."
 main_person: null
-people_mentioned: []
+people_mentioned:
+  - "PERSON-001"
+  - "PERSON-051"
 places_mentioned: []
 organizations_mentioned: []
 related_events: []

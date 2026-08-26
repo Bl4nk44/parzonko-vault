@@ -21,6 +21,8 @@ main_person: "PERSON-002"
 people_mentioned:
   - "PERSON-002"
   - "PERSON-001"
+  - "PERSON-094"
+  - "PERSON-095"
 places_mentioned:
   - "PLACE-017"
 organizations_mentioned: []

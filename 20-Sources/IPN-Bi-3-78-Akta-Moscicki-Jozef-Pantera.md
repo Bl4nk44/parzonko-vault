@@ -24,6 +24,7 @@ people_mentioned:
   - "PERSON-003"
   - "PERSON-008"
   - "PERSON-009"
+  - "PERSON-019"
 places_mentioned: []
 organizations_mentioned:
   - "Prokuratura Wojewódzka w Białymstoku"

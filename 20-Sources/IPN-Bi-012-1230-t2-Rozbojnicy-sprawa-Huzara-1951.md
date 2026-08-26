@@ -21,6 +21,8 @@ main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
   - "PERSON-002"
+  - "PERSON-040"
+  - "PERSON-062"
 places_mentioned:
   - "PLACE-001"
   - "PLACE-003"

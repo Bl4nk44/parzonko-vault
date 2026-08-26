@@ -23,6 +23,7 @@ people_mentioned:
   - "PERSON-001"
   - "PERSON-035"
   - "PERSON-074"
+  - "PERSON-037"
 places_mentioned: []
 organizations_mentioned:
   - "VI Brygada Wileńska AK/WiN"

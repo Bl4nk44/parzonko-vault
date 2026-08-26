@@ -24,6 +24,9 @@ people_mentioned:
   - "PERSON-068"
   - "PERSON-069"
   - "PERSON-070"
+  - "PERSON-040"
+  - "PERSON-058"
+  - "PERSON-080"
 places_mentioned:
   - "PLACE-004"
 organizations_mentioned: []

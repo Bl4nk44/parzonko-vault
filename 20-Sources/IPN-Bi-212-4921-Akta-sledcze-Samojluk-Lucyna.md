@@ -23,6 +23,7 @@ people_mentioned:
   - "PERSON-001"
   - "PERSON-008"
   - "PERSON-009"
+  - "PERSON-037"
 places_mentioned:
   - "PLACE-021"
 organizations_mentioned:

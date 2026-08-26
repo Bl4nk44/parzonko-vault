@@ -20,6 +20,7 @@ ocr_quality: "dobra — cały dokument (23/23 str.) przeczytany 2026-07-21 przez
 main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
+  - "PERSON-015"
 places_mentioned: []
 organizations_mentioned:
   - "Komenda Wojewódzka MO w Białymstoku, Wydział \"C\""

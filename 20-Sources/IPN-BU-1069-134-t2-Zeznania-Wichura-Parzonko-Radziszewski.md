@@ -21,6 +21,15 @@ main_person: "PERSON-001"
 people_mentioned:
   - "PERSON-001"
   - "PERSON-003"
+  - "PERSON-022"
+  - "PERSON-025"
+  - "PERSON-027"
+  - "PERSON-035"
+  - "PERSON-039"
+  - "PERSON-041"
+  - "PERSON-042"
+  - "PERSON-092"
+  - "PERSON-093"
 places_mentioned: []
 organizations_mentioned: []
 related_events: []

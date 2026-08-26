@@ -24,6 +24,7 @@ people_mentioned:
   - "PERSON-001"
   - "PERSON-036"
   - "PERSON-038"
+  - "PERSON-009"
 places_mentioned: []
 organizations_mentioned:
   - "Wojskowy Sąd Rejonowy w Białymstoku"
