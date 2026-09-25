@@ -5,6 +5,10 @@ argument-hint: opcjonalnie zakres (osoba, rok, folder) — bez argumentu skan ca
 
 Przeskanuj vault pod kątem niespójności. Zakres: **$ARGUMENTS** (pusty = cały vault). Raportuj, nie poprawiaj — poprawki dopiero po decyzji użytkownika.
 
+Najpierw uruchom `cd /home/ubuntu/projekty/Parzonko && python3 -m scripts.vault_lint` — mechaniczne części klas 4–5
+(martwe linki, nieznane UID-y, `certainty: high` przy jednym źródle, brak `ocr_file`, eventy bez `timeline`) są
+policzone deterministycznie; wklej jego podsumowanie i skup analizę na klasach semantycznych.
+
 Klasy niespójności do sprawdzenia (dla każdej podaj: gdzie, co się nie zgadza, sygnatury, proponowane działanie):
 
 1. **Daty biograficzne** — ta sama osoba z różnymi `birth_date`/`death_date` między notatką w `40-People` a treścią źródeł/wydarzeń; daty z `_accuracy` niezgodną z formatem (dzień przy `accuracy: year`).
