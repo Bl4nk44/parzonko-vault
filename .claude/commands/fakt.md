@@ -21,6 +21,4 @@ Reguły twarde:
 - Vault milczy → „vault tego nie potwierdza" + gdzie szukałeś. Nie uzupełniaj wiedzą ogólną; kontekst historyczny spoza vaulta wolno dodać tylko wyraźnie oznaczony „poza vaultem, do weryfikacji".
 - Sprzeczne źródła → pokaż wszystkie wersje, nie wybieraj po cichu.
 - Fakt znaleziony tylko w OCR (niewydobyty do notatek) → zaznacz to; zaproponuj dopisanie do właściwej notatki (bez samodzielnego tworzenia notatek źródłowych — UID-y alokuje pipeline).
-- Odpowiedź będąca nową syntezą (zebranie rozproszonych faktów, porównanie źródeł, rozstrzygnięcie) → zaproponuj
-  zapis jako notatkę w `60-Topics/` (frontmatter wg `00-Meta/Schema-and-Conventions.md`, `#status/unreviewed`,
-  każdy fakt z `SRC-XXX, str. N`). Zapis dopiero po akceptacji użytkownika.
+- Odpowiedź będąca nową syntezą (zebranie rozproszonych faktów, porównanie źródeł, rozstrzygnięcie) → najpierw sprawdź, czy pasująca notatka w `60-Topics/` już istnieje (grep po temacie i UID-ach); jeśli tak, zaproponuj jej rozszerzenie zamiast nowej notatki. W przeciwnym razie zaproponuj nową notatkę w `60-Topics/` (frontmatter wg `00-Meta/Schema-and-Conventions.md`, `#status/unreviewed`, każdy fakt z `SRC-XXX, str. N`). Zapis dopiero po akceptacji użytkownika.
